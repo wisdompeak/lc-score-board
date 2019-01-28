@@ -72,15 +72,16 @@ sheet.title = 'LeetCode Score Book'
 print(colors)
 colorChoice = ['ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
-sheet.column_dimensions['A'].width = 20.0
+sheet.column_dimensions['A'].width = 25.0
+SIZE = 15
 
 
 sheet.cell(row=1, column=1, value='Contest')   
 sheet['A1'].alignment = Alignment(horizontal='center')
-sheet['A1'].font = Font(bold=True)
+sheet['A1'].font = Font(bold=True, size=SIZE)
 sheet.cell(row=2, column=1, value='Participants')   
 sheet['A2'].alignment = Alignment(horizontal='center')
-sheet['A2'].font = Font(bold=True)
+sheet['A2'].font = Font(bold=True, size=SIZE)
 
 for k in range(endContest-startContest+1):
   sheet.cell(row=1, column=1+1+k*2, value=startContest+k)   
@@ -88,13 +89,16 @@ for k in range(endContest-startContest+1):
   idx2 = convertToTitle(1+1+k*2+1)+str(1)  
   sheet.merge_cells(idx1+':'+idx2)   
   sheet[idx1].alignment = Alignment(horizontal='center') 
-  sheet[idx1].font = Font(bold=True)
+  sheet[idx1].font = Font(bold=True, size=SIZE)
+  sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
   
   sheet.cell(row=2, column=1+1+k*2, value=contests[str(startContest+k)]) 
   idx1 = convertToTitle(1+1+k*2)+str(2)
   idx2 = convertToTitle(1+1+k*2+1)+str(2)  
   sheet.merge_cells(idx1+':'+idx2)   
+  sheet[idx1].font = Font(size=SIZE)
   sheet[idx1].alignment = Alignment(horizontal='center') 
+  sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
 
   
 
@@ -109,27 +113,30 @@ for i in range(len(id_list)):
       sheet.cell(row=RowOffset+i, column=1+j, value=table[i][j]) 
       idx = convertToTitle(1+j)+str(RowOffset+i) 
       sheet[idx].alignment = Alignment(horizontal='center') 
-      sheet[idx].font = Font(bold=True) 
+      sheet[idx].font = Font(bold=True, size=SIZE) 
   
     elif j>0 and j<len(table[i])-1:
     
       sheet.cell(row=RowOffset+i, column=1+1+(j-1)*2, value=table[i][j][0])
       idx = convertToTitle(1+1+(j-1)*2)+str(RowOffset+i) 
+      for k in range(1,5):
+        if table[i][j][2]==k:  
+          sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k-1])      
       sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].font = Font(size=SIZE)
       
       sheet.cell(row=RowOffset+i, column=1+1+(j-1)*2+1, value=table[i][j][1])      
       idx = convertToTitle(1+1+(j-1)*2+1)+str(RowOffset+i)            
-      for k in range(1,5):
-        if table[i][j][2]==k:  
-          sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k-1])
       sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].font = Font(size=SIZE)
     
     elif j==len(table[i])-1:
       sheet.cell(row=RowOffset+i, column=1+1+(j-1)*2+1, value=table[i][j])
       idx = convertToTitle(1+1+(j-1)*2+1)+str(RowOffset+i) 
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[4])
       sheet[idx].alignment = Alignment(horizontal='center')
+      sheet[idx].font = Font(size=SIZE)
       
       
-wb.save('test.xlsx')    	
+wb.save('index.xlsx')    	
 

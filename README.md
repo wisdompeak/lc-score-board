@@ -1,1 +1,6 @@
-This is a test
+Fetch LeetCode weekly contest ranks for group members.
+Compute everyone's weekly score and final score ruled by our algorithms.
+Sort the final ranking based on the final score.
+Organize the results and export an xlsx file.
+Generate HTML file and push to the web end.
+
