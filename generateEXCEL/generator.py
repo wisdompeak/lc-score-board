@@ -70,7 +70,7 @@ wb = openpyxl.Workbook()
 sheet = wb.active
 sheet.title = 'LeetCode Score Book'
 print(colors)
-colorChoice = ['ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
+colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
 sheet.column_dimensions['A'].width = 25.0
 SIZE = 15
@@ -118,21 +118,25 @@ for i in range(len(id_list)):
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(bold=True, size=SIZE)       
       sheet[idx].hyperlink = 'http://leetcode.com/'+table[i][j]
+      if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
   
     elif j>0 and j<len(table[i])-1:     # output rank and score
     
       row, column = RowOffset+i, 1+1+(j-1)*2      
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][j][0]
-      for k in range(1,5):
-        if table[i][j][2]==k:  
-          sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k-1])      
+      for k in range(0,5):
+        if k>0 and table[i][j][2]==k or k==0 and i%2==0:  
+          sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k])      
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
       
       row, column = RowOffset+i, 1+1+(j-1)*2+1
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][j][1]
+      if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
     
