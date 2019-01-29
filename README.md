@@ -1,3 +1,6 @@
+Please visit https://wisdompeak.github.io/lc-score-board/ 
+
+
 Functions include:
 
 * Fetch LeetCode weekly contest ranks for group members.
