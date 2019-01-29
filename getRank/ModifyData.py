@@ -19,6 +19,11 @@ for contest in range(118,119+1):
 	
 for contest in range(118,120+1):
 	data["yexiaoxiao2102"][str(contest)]=[-2,0]		
+	
+data["Ansonluo1"]['118']=[1799,1]			
+data["Ansonluo1"]['119']=[556,3]			
+data["Ansonluo1"]['120']=[1622,2]			
+data["Ansonluo1"]['121']=[769,2]			
    
 pprint(data)    
 
