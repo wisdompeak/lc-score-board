@@ -161,12 +161,12 @@ for i in range(len(id_list)):
       sheet[idx].font = Font(size=SIZE)
       
 
-row, column = RowOffset+len(id_list)+2, 1
+row, column = RowOffset+len(id_list)+2, 2
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = '-2:     Not joined group yet'
 sheet[idx].font = Font(size=15)
 
-row, column = RowOffset+len(id_list)+3, 1
+row, column = RowOffset+len(id_list)+3, 2
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = '-1:     Absent or zero score'
 sheet[idx].font = Font(size=15)
