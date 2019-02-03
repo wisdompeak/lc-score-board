@@ -23,7 +23,10 @@ for contest in range(118,120+1):
 data["Ansonluo1"]['118']=[1799,1]			
 data["Ansonluo1"]['119']=[556,3]			
 data["Ansonluo1"]['120']=[1622,2]			
-data["Ansonluo1"]['121']=[769,2]			
+data["Ansonluo1"]['121']=[769,2]		
+
+for contest in range(118,121+1):
+	data["XRS"][str(contest)]=[-2,0]		
    
 pprint(data)    
 
@@ -35,10 +38,11 @@ with open('data.json', 'w') as f:
 ########################
 
 contests = {}
-contests["121"] = 3924
-contests["120"] = 3876
-contests["119"] = 3847
 contests["118"] = 3587
+contests["119"] = 3847
+contests["120"] = 3876
+contests["121"] = 3924
+contests["122"] = 3482
 
 json_str = json.dumps(contests)
 
