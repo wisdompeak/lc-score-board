@@ -26,7 +26,14 @@ data["Ansonluo1"]['120']=[1622,2]
 data["Ansonluo1"]['121']=[769,2]		
 
 for contest in range(118,121+1):
-	data["XRS"][str(contest)]=[-2,0]		
+	data["XRS"][str(contest)]=[-2,0]	
+	
+data["kaizer87"]['118']=[641,3]
+data["kaizer87"]['119']=[-1,0]
+data["kaizer87"]['120']=[-1,0]
+data["kaizer87"]['121']=[-1,0]
+data["kaizer87"]['122']=[-1,0]		
+		
    
 pprint(data)    
 
