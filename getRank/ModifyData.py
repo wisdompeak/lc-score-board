@@ -32,9 +32,13 @@ data["kaizer87"]['118']=[641,3]
 data["kaizer87"]['119']=[-1,0]
 data["kaizer87"]['120']=[-1,0]
 data["kaizer87"]['121']=[-1,0]
-data["kaizer87"]['122']=[-1,0]		
-		
-   
+data["kaizer87"]['122']=[-1,0]			
+
+for contest in range(118,121+1):
+	data["user760"][str(contest)]=[-2,0]	
+data["user760"]['122']=[352,4]
+
+ 
 pprint(data)    
 
 json_str = json.dumps(data)
