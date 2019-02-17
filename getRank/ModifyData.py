@@ -47,11 +47,13 @@ for contest in range(118,123+1):
 for contest in range(118,123+1):
 	data["Yizhao_Han"][str(contest)]=[-2,0]		
 	
+"""
 for contest in range(118,122+1):
 	data["zhounaiding"][str(contest)]=[-2,0]				
-data["zhounaiding"][123]=[1800,1]
-data["zhounaiding"][124]=[321,4]
- 
+data["zhounaiding"]['123']=[1800,1]
+data["zhounaiding"]['124']=[321,4]
+"""
+
 pprint(data)    
 
 json_str = json.dumps(data)
