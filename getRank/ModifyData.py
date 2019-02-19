@@ -54,6 +54,13 @@ data["zhounaiding"]['123']=[1800,1]
 data["zhounaiding"]['124']=[321,4]
 """
 
+"""
+for contest in range(118,122+1):
+	data["fish444556"][str(contest)]=[-2,0]				
+data["fish444556"]['123']=[2215,1]
+data["fish444556"]['124']=[1896,2]
+"""
+
 pprint(data)    
 
 json_str = json.dumps(data)
