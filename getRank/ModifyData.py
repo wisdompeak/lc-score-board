@@ -47,19 +47,18 @@ for contest in range(118,123+1):
 for contest in range(118,123+1):
 	data["Yizhao_Han"][str(contest)]=[-2,0]		
 	
-"""
 for contest in range(118,122+1):
 	data["zhounaiding"][str(contest)]=[-2,0]				
 data["zhounaiding"]['123']=[1800,1]
 data["zhounaiding"]['124']=[321,4]
-"""
 
-"""
 for contest in range(118,122+1):
 	data["fish444556"][str(contest)]=[-2,0]				
 data["fish444556"]['123']=[2215,1]
 data["fish444556"]['124']=[1896,2]
-"""
+
+for contest in range(118,124+1):
+	data["huyouhyw"][str(contest)]=[-2,0]				
 
 pprint(data)    
 
@@ -78,6 +77,7 @@ contests["121"] = 3924
 contests["122"] = 3482
 contests["123"] = 3468
 contests["124"] = 4174
+contests["125"] = 4288
 
 json_str = json.dumps(contests)
 
