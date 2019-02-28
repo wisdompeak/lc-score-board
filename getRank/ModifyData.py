@@ -60,6 +60,18 @@ data["fish444556"]['124']=[1896,2]
 for contest in range(118,124+1):
 	data["huyouhyw"][str(contest)]=[-2,0]				
 
+for contest in range(118,125+1):
+	data["huyouhyw"][str(contest)]=[-2,0]
+	data["JackTheBest"][str(contest)]=[-2,0]
+	data["MaggieZhao95"][str(contest)]=[-2,0]
+	data["huange"][str(contest)]=[-2,0]
+	data["crossbowman"][str(contest)]=[-2,0]
+
+for contest in range(118,125+1):
+	data["please_AC"]['123']=[2215,1]
+data["please_AC"]['123']=[742,3]	
+data["please_AC"]['124']=[336,4]		
+	
 pprint(data)    
 
 json_str = json.dumps(data)
