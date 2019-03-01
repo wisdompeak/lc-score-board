@@ -67,10 +67,17 @@ for contest in range(118,125+1):
 	data["huange"][str(contest)]=[-2,0]
 	data["crossbowman"][str(contest)]=[-2,0]
 
-for contest in range(118,125+1):
-	data["please_AC"]['123']=[2215,1]
-data["please_AC"]['123']=[742,3]	
-data["please_AC"]['124']=[336,4]		
+for contest in range(118,123+1):
+	data["please_AC"][str(contest)]=[-2,0]
+data["please_AC"]['124']=[742,3]	
+data["please_AC"]['125']=[336,4]		
+
+for contest in range(118,123+1):
+	data["venico19"][str(contest)]=[-2,0]
+data["venico19"]['124']=[637,3]	
+data["venico19"]['125']=[229,4]		
+
+
 	
 pprint(data)    
 
