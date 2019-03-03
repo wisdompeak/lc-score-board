@@ -59,7 +59,6 @@ data["fish444556"]['124']=[1896,2]
 
 for contest in range(118,124+1):
 	data["huyouhyw"][str(contest)]=[-2,0]				
-data["huyouhyw"]['125']=[2068,2]
 
 for contest in range(118,125+1):
 	data["JackTheBest"][str(contest)]=[-2,0]
@@ -78,7 +77,14 @@ for contest in range(118,123+1):
 data["venico19"]['124']=[637,3]	
 data["venico19"]['125']=[229,4]		
 
+for contest in range(118,124+1):
+	data["jiancheng2"][str(contest)]=[-2,0]
+data["jiancheng2"]['125']=[514,4]	
+data["jiancheng2"]['126']=[819,3]		
 
+for contest in range(118,126+1):
+	data["Golden_Fish"][str(contest)]=[-2,0]
+	
 	
 pprint(data)    
 
