@@ -77,13 +77,20 @@ for contest in range(118,123+1):
 data["venico19"]['124']=[637,3]	
 data["venico19"]['125']=[229,4]		
 
+for contest in range(118,126+1):
+	data["Golden_Fish"][str(contest)]=[-2,0]
+	
 for contest in range(118,124+1):
 	data["jiancheng2"][str(contest)]=[-2,0]
 data["jiancheng2"]['125']=[514,4]	
 data["jiancheng2"]['126']=[819,3]		
 
 for contest in range(118,126+1):
-	data["Golden_Fish"][str(contest)]=[-2,0]
+	data["Uneed"][str(contest)]=[-2,0]
+	
+for contest in range(118,125+1):
+	data["Dengxj"][str(contest)]=[-2,0]	
+data["Dengxj"]['126']=[498,3]	
 	
 	
 pprint(data)    
