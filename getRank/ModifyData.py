@@ -91,6 +91,10 @@ for contest in range(118,126+1):
 for contest in range(118,125+1):
 	data["Dengxj"][str(contest)]=[-2,0]	
 data["Dengxj"]['126']=[498,3]	
+
+for contest in range(118,125+1):
+	data["vonxq"][str(contest)]=[-2,0]	
+data["vonxq"]['126']=[1131,3]	
 	
 	
 pprint(data)    
