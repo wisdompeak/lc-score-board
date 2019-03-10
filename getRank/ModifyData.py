@@ -96,6 +96,12 @@ for contest in range(118,125+1):
 	data["vonxq"][str(contest)]=[-2,0]	
 data["vonxq"]['126']=[1131,3]	
 	
+for contest in range(118,126+1):
+	data["1373757850"][str(contest)]=[-2,0]
+	data["FrankYao"][str(contest)]=[-2,0]	
+	data["cookiecookie"][str(contest)]=[-2,0]		
+	
+
 	
 pprint(data)    
 
@@ -116,6 +122,7 @@ contests["123"] = 3468
 contests["124"] = 4174
 contests["125"] = 4288
 contests["126"] = 4564
+contests["127"] = 4071
 
 json_str = json.dumps(contests)
 
