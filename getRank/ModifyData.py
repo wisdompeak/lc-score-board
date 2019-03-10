@@ -59,6 +59,7 @@ data["fish444556"]['124']=[1896,2]
 
 for contest in range(118,124+1):
 	data["huyouhyw"][str(contest)]=[-2,0]				
+data["huyouhyw"]['125']=[2068,2]	
 
 for contest in range(118,125+1):
 	data["JackTheBest"][str(contest)]=[-2,0]
