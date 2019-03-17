@@ -87,20 +87,20 @@ sheet['B2'].font = Font(bold=True, size=SIZE)
 
 # output contest ID / number of players
 for k in range(endContest-startContest+1):
-  row, column = 1, 3+k*2
+  row, column = 1, 4+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
-  sheet[idx1].value = startContest+k
+  sheet[idx1].value = endContest-k #startContest+k
   sheet[idx1].alignment = Alignment(horizontal='center') 
   sheet[idx1].font = Font(bold=True, size=SIZE)
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
   
-  row, column = 2, 3+k*2
+  row, column = 2, 4+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
-  sheet[idx1].value = contests[str(startContest+k)]
+  sheet[idx1].value = contests[str(endContest-k)] #contests[str(startContest+k)]
   sheet[idx1].font = Font(size=SIZE)
   sheet[idx1].alignment = Alignment(horizontal='center') 
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
@@ -119,8 +119,8 @@ for i in range(len(id_list)):
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
   
-  for j in range(len(table[i])):
-  
+  for j in range(len(table[i])):  # column index
+     
     # 2nd Column: LC ID
     if j==0:   
       row, column = RowOffset+i, 2+j
@@ -130,35 +130,38 @@ for i in range(len(id_list)):
       sheet[idx].font = Font(bold=True, size=SIZE)       
       sheet[idx].hyperlink = 'http://leetcode.com/'+table[i][j]
       if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
-  
-    elif j>0 and j<len(table[i])-1:     # output rank and score
-    
-      row, column = RowOffset+i, 3+(j-1)*2      
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
+        
+    # 3rd column :  avg score
+    elif j==1:            
+      row, column = RowOffset+i, 2+j
       idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][j][0]
+      sheet[idx].value = table[i][-1]
+      sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
+      sheet[idx].alignment = Alignment(horizontal='center')
+      sheet[idx].font = Font(size=SIZE)
+      
+    else:     # output rank and score      
+      contest_idx = len(table[i])-2-(j-2);
+              
+      row, column = RowOffset+i, 4+(j-2)*2      
+      idx = convertToTitle(column)+str(row) 
+      sheet[idx].value = table[i][contest_idx][0]
       for k in range(0,5):
-        if k>0 and table[i][j][2]==k or k==0 and i%2==0:  
+        if k>0 and table[i][contest_idx][2]==k or k==0 and i%2==0:  
           sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k])      
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
       
-      row, column = RowOffset+i, 3+(j-1)*2+1
+      row, column = RowOffset+i, 4+(j-2)*2+1
       idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][j][1]
+      sheet[idx].value = table[i][contest_idx][1]
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
     
-    # the last column :  avg score
-    elif j==len(table[i])-1:            
-      row, column = RowOffset+i, 3+(j-1)*2+1     
-      idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][j]
-      sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
-      sheet[idx].alignment = Alignment(horizontal='center')
-      sheet[idx].font = Font(size=SIZE)
+
       
 
 row, column = RowOffset+len(id_list)+2, 2
