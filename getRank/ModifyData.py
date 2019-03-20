@@ -108,6 +108,17 @@ for contest in range(118,127+1):
 	data["wangyxwyx"][str(contest)]=[-2,0]
 	data["zexingfa"][str(contest)]=[-2,0]						
 	
+for contest in range(118,128+1):
+	data["qz267"][str(contest)]=[-2,0]
+	data["Shanshan_Zhang"][str(contest)]=[-2,0]
+	data["Arco"][str(contest)]=[-2,0]
+data["qz267"]['128']=[2441,2]
+data["Arco"]['127']=[653,4]
+data["Arco"]['128']=[78,4]
+
+data["gzh47"]['127']=[-2,0]
+data["gzh47"]['128']=[-2,0]
+	
 	
 pprint(data)    
 
