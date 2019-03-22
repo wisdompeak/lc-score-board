@@ -130,6 +130,7 @@ for contest in range(118,128+1):
 	data["bingyy"][str(contest)]=[-2,0]
 	data["wolf940509"][str(contest)]=[-2,0]
 	data["thu_winfield"][str(contest)]=[-2,0]
+	data["gyf6434"][str(contest)]=[-2,0]
 data["qz267"]['128']=[2441,2]
 data["Arco"]['127']=[653,4]
 data["Arco"]['128']=[78,4]
