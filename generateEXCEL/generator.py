@@ -36,7 +36,7 @@ fi.close()
 table = []
 for personID in id_list:
   row = [personID] 
-  for contestID in range(startContest,endContest+1):
+  for contestID in range(endContest,startContest-1,-1):
     contestID = str(contestID)
     TotalPlayers = contests[contestID]
     if contestID not in data[personID]:
@@ -49,16 +49,21 @@ for personID in id_list:
       else:
         score = 0
       row.append([rank,score,solved])
-  
-  pool = []
-  for x in row[::-1][0:3]:
+   
+  pool = [] # A pool for computing rolling score
+  for x in row[1:4]:
     if x[0]!=-2: pool.append(x[1])
-  if len(pool)<=2: row.append(round(sum(pool)/len(pool),1))
-  else: row.append(round((sum(pool)-min(pool))/2,1))
+  if len(pool)<=2: 
+    RollingScore = round(sum(pool)/len(pool),1)
+  else: 
+    RollingScore = round((sum(pool)-min(pool))/2,1)
+        
+  newRow = [row[0],RollingScore]   # Reorder into [ID,RollingScore,contestInfo]
+  for x in row[1:]: newRow.append(x)
       
-  table.append(row)
-  
-table = sorted(table, key = lambda x:x[-1], reverse = True)  
+  table.append(newRow)  
+
+table = sorted(table, key = lambda x:x[1], reverse = True)  
 
 for row in table:
   print(row)
@@ -73,6 +78,7 @@ print(colors)
 colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
 sheet.column_dimensions['B'].width = 25.0
+sheet.column_dimensions['D'].width = 5.0
 SIZE = 15
 
 # output header "contest" 
@@ -87,20 +93,20 @@ sheet['B2'].font = Font(bold=True, size=SIZE)
 
 # output contest ID / number of players
 for k in range(endContest-startContest+1):
-  row, column = 1, 4+k*2
+  row, column = 1, 5+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
-  sheet[idx1].value = endContest-k #startContest+k
+  sheet[idx1].value = endContest-k 
   sheet[idx1].alignment = Alignment(horizontal='center') 
   sheet[idx1].font = Font(bold=True, size=SIZE)
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
   
-  row, column = 2, 4+k*2
+  row, column = 2, 5+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
-  sheet[idx1].value = contests[str(endContest-k)] #contests[str(startContest+k)]
+  sheet[idx1].value = contests[str(endContest-k)] 
   sheet[idx1].font = Font(size=SIZE)
   sheet[idx1].alignment = Alignment(horizontal='center') 
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
@@ -136,26 +142,25 @@ for i in range(len(id_list)):
     elif j==1:            
       row, column = RowOffset+i, 2+j
       idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][-1]
+      sheet[idx].value = table[i][1]
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
       sheet[idx].alignment = Alignment(horizontal='center')
       sheet[idx].font = Font(size=SIZE)
       
-    else:     # output rank and score      
-      contest_idx = len(table[i])-2-(j-2);
-              
-      row, column = RowOffset+i, 4+(j-2)*2      
+    else:     # output rank and score                    
+      row, column = RowOffset+i, 5+(j-2)*2      
       idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][contest_idx][0]
+      
+      sheet[idx].value = table[i][j][0]
       for k in range(0,5):
-        if k>0 and table[i][contest_idx][2]==k or k==0 and i%2==0:  
+        if k>0 and table[i][j][2]==k or k==0 and i%2==0:  
           sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k])      
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
       
-      row, column = RowOffset+i, 4+(j-2)*2+1
+      row, column = RowOffset+i, 5+(j-2)*2+1
       idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][contest_idx][1]
+      sheet[idx].value = table[i][j][1]
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
       sheet[idx].alignment = Alignment(horizontal='center') 

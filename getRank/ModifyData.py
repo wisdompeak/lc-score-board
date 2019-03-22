@@ -4,20 +4,14 @@ from pprint import pprint
 with open('data.json', 'r') as f:
     json_str = json.load(f)
     data = json.loads(json_str)
-
-for contest in range(118,120+1):
-	data["user4286"][str(contest)]=[-2,0]
-
-for contest in range(118,120+1):
-	data["Brooky"][str(contest)]=[-2,0]
 	
 for contest in range(118,119+1):
 	data["zihao"][str(contest)]=[-2,0]	
-	
-for contest in range(118,119+1):
 	data["DorisGe"][str(contest)]=[-2,0]		
 	
 for contest in range(118,120+1):
+	data["user4286"][str(contest)]=[-2,0]
+	data["Brooky"][str(contest)]=[-2,0]
 	data["yexiaoxiao2102"][str(contest)]=[-2,0]		
 	
 data["Ansonluo1"]['118']=[1799,1]			
@@ -34,73 +28,51 @@ data["kaizer87"]['120']=[-1,0]
 data["kaizer87"]['121']=[-1,0]
 data["kaizer87"]['122']=[-1,0]			
 
-for contest in range(118,121+1):
+for contest in range(118,122+1):
 	data["user760"][str(contest)]=[-2,0]	
 data["user760"]['122']=[352,4]
 
 for contest in range(118,123+1):
 	data["banrenmasanxing"][str(contest)]=[-2,0]	
-	
-for contest in range(118,123+1):
 	data["hgzry812"][str(contest)]=[-2,0]	
-
-for contest in range(118,123+1):
 	data["Yizhao_Han"][str(contest)]=[-2,0]		
 	
-for contest in range(118,122+1):
+for contest in range(118,124+1):
 	data["zhounaiding"][str(contest)]=[-2,0]				
+	data["fish444556"][str(contest)]=[-2,0]				
 data["zhounaiding"]['123']=[1800,1]
 data["zhounaiding"]['124']=[321,4]
-
-for contest in range(118,122+1):
-	data["fish444556"][str(contest)]=[-2,0]				
 data["fish444556"]['123']=[2215,1]
 data["fish444556"]['124']=[1896,2]
 
-for contest in range(118,124+1):
-	data["huyouhyw"][str(contest)]=[-2,0]				
-data["huyouhyw"]['125']=[2068,2]	
-
 for contest in range(118,125+1):
+	data["huyouhyw"][str(contest)]=[-2,0]				
 	data["JackTheBest"][str(contest)]=[-2,0]
 	data["MaggieZhao95"][str(contest)]=[-2,0]
 	data["huange"][str(contest)]=[-2,0]
 	data["crossbowman"][str(contest)]=[-2,0]
 	data["Mengqian"][str(contest)]=[-2,0]
-
-for contest in range(118,123+1):
 	data["please_AC"][str(contest)]=[-2,0]
-data["please_AC"]['124']=[742,3]	
-data["please_AC"]['125']=[336,4]		
-
-for contest in range(118,123+1):
 	data["venico19"][str(contest)]=[-2,0]
+	data["please_AC"]['124']=[742,3]	
+data["huyouhyw"]['125']=[2068,2]		
+data["please_AC"]['125']=[336,4]		
 data["venico19"]['124']=[637,3]	
 data["venico19"]['125']=[229,4]		
 
 for contest in range(118,126+1):
 	data["Golden_Fish"][str(contest)]=[-2,0]
-	
-for contest in range(118,124+1):
 	data["jiancheng2"][str(contest)]=[-2,0]
-data["jiancheng2"]['125']=[514,4]	
-data["jiancheng2"]['126']=[819,3]		
-
-for contest in range(118,126+1):
 	data["Uneed"][str(contest)]=[-2,0]
-	
-for contest in range(118,125+1):
 	data["Dengxj"][str(contest)]=[-2,0]	
-data["Dengxj"]['126']=[498,3]	
-
-for contest in range(118,125+1):
 	data["vonxq"][str(contest)]=[-2,0]	
-data["vonxq"]['126']=[1131,3]	
-	
-for contest in range(118,126+1):
 	data["1373757850"][str(contest)]=[-2,0]
 	data["FrankYao"][str(contest)]=[-2,0]	
-	data["cookiecookie"][str(contest)]=[-2,0]	
+	data["cookiecookie"][str(contest)]=[-2,0]		
+data["jiancheng2"]['125']=[514,4]	
+data["jiancheng2"]['126']=[819,3]		
+data["Dengxj"]['126']=[498,3]	
+data["vonxq"]['126']=[1131,3]	
 	
 for contest in range(118,127+1):
 	data["sukeyzhou"][str(contest)]=[-2,0]
@@ -108,6 +80,7 @@ for contest in range(118,127+1):
 	data["wangyxwyx"][str(contest)]=[-2,0]
 	data["zexingfa"][str(contest)]=[-2,0]						
 	
+'''	
 for contest in range(118,128+1):
 	data["qz267"][str(contest)]=[-2,0]
 	data["Shanshan_Zhang"][str(contest)]=[-2,0]
@@ -140,7 +113,7 @@ data["thu_winfield"]['128']=[2257,2]
 
 data["gzh47"]['127']=[-2,0]
 data["gzh47"]['128']=[-2,0]
-	
+'''	
 	
 pprint(data)    
 
@@ -169,3 +142,4 @@ json_str = json.dumps(contests)
 with open('contests.json', 'w') as f:
     json.dump(json_str, f)
     
+
