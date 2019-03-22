@@ -133,7 +133,7 @@ for k in range(endContest-startContest+1):
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
   sheet[idx1].value = endContest-k 
-  sheet[idx1].alignment = Alignment(horizontal='center') 
+  sheet[idx1].alignment = Alignment(horizontal='center',vertical='center')
   sheet[idx1].font = Font(bold=True, size=SIZE)
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
   
@@ -143,7 +143,7 @@ for k in range(endContest-startContest+1):
   sheet.merge_cells(idx1+':'+idx2)   
   sheet[idx1].value = contests[str(endContest-k)] 
   sheet[idx1].font = Font(size=SIZE)
-  sheet[idx1].alignment = Alignment(horizontal='center') 
+  sheet[idx1].alignment = Alignment(horizontal='center',vertical='center')
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
 
 
@@ -155,7 +155,7 @@ for i in range(len(id_list)):
   row, column = RowOffset+i, 1
   idx = convertToTitle(column)+str(row) 
   sheet[idx].value = i+1
-  sheet[idx].alignment = Alignment(horizontal='center') 
+  sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
   sheet[idx].font = Font(bold=True, size=SIZE)       
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
@@ -167,7 +167,7 @@ for i in range(len(id_list)):
       row, column = RowOffset+i, 2+j
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][j]
-      sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(bold=True, size=SIZE)       
       sheet[idx].hyperlink = 'http://leetcode.com/'+table[i][j]
       if (i%2==0):
@@ -179,7 +179,7 @@ for i in range(len(id_list)):
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][1]
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
-      sheet[idx].alignment = Alignment(horizontal='center')
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
       
     else:     # output rank and score                    
@@ -190,7 +190,7 @@ for i in range(len(id_list)):
       for k in range(0,5):
         if k>0 and table[i][j][2]==k or k==0 and i%2==0:  
           sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k])      
-      sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
       
       row, column = RowOffset+i, 5+(j-2)*2+1
@@ -198,7 +198,7 @@ for i in range(len(id_list)):
       sheet[idx].value = table[i][j][1]
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
-      sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
       
       if table[i][0]=="SeymourLee" and j==len(table[i])-1:
@@ -206,6 +206,7 @@ for i in range(len(id_list)):
         idx = convertToTitle(column)+str(row) 
         sheet[idx].value = "单身！"  
         sheet[idx].font = Font(bold=True, color='FF00FF',size=12)
+        sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
     
 
 ############################
