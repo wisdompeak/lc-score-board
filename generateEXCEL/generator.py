@@ -201,10 +201,10 @@ for i in range(len(id_list)):
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
       
-      if table[i][0]=="SeymourLee" and j==len(table[i])-1:
+      if (table[i][0]=="SeymourLee" or table[i][0]=="IrisGuo") and j==len(table[i])-1:
         row, column = RowOffset+i, 5+(j-2)*2+2
         idx = convertToTitle(column)+str(row) 
-        sheet[idx].value = "单身！"  
+        sheet[idx].value = "单身"  
         sheet[idx].font = Font(bold=True, color='FF00FF',size=12)
         sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
     
