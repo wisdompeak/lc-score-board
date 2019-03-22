@@ -68,6 +68,41 @@ table = sorted(table, key = lambda x:x[1], reverse = True)
 for row in table:
   print(row)
   
+############################ Graduated or laidoff members
+
+table2 = []
+for personID in data:
+
+  if personID in id_list: continue
+  if personID=="Ansonluo": continue
+  
+  row = [personID] 
+  for contestID in range(endContest,startContest-1,-1):
+    contestID = str(contestID)
+    TotalPlayers = contests[contestID]
+    if contestID not in data[personID]:
+      row.append([-3,0,0])
+    else:
+      rank = data[personID][contestID][0]
+      solved = data[personID][contestID][1]   
+      if rank>0:   
+      	score = round((1-rank/TotalPlayers)*80 + solved*5,1)
+      else:
+        score = 0
+      row.append([rank,score,solved])
+   
+  RollingScore = 0       
+  newRow = [row[0],RollingScore]   # Reorder into [ID,RollingScore,contestInfo]
+  for x in row[1:]: newRow.append(x)
+      
+  table2.append(newRow)  
+
+table2 = sorted(table2, key = lambda x:x[0])  
+
+print("**********************************************************")
+for row in table2:
+  print(row)
+
 	
 ############################
 
@@ -167,17 +202,114 @@ for i in range(len(id_list)):
       sheet[idx].font = Font(size=SIZE)
     
 
+############################
       
+RowOffset += len(id_list)+2
 
-row, column = RowOffset+len(id_list)+2, 2
+row, column = RowOffset+1, 2
 idx = convertToTitle(column)+str(row) 
-sheet[idx].value = '-2:     Not joined group yet'
+sheet[idx].value = '-1:     absent/zero'
 sheet[idx].font = Font(size=15)
 
-row, column = RowOffset+len(id_list)+3, 2
+row, column = RowOffset+2, 2
 idx = convertToTitle(column)+str(row) 
-sheet[idx].value = '-1:     Absent or zero score'
+sheet[idx].value = '-2:     not joined'
 sheet[idx].font = Font(size=15)
+
+row, column = RowOffset+3, 2
+idx = convertToTitle(column)+str(row) 
+sheet[idx].value = '-3:     left/quited'
+sheet[idx].font = Font(size=15)
+
+row, column = RowOffset+5, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+5)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'More about the Rules'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
+
+row, column = RowOffset+6, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+5)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'See the full list of daily problems'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://bit.ly/2X0NW4e'
+
+############################
+
+RowOffset += 10
+row, column = RowOffset, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+8)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'Graduated or laidoff members in 2019'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+
+
+RowOffset += 2
+
+for i in range(len(table2)):
+
+  # 1st column: Rank
+  row, column = RowOffset+i, 1
+  idx = convertToTitle(column)+str(row) 
+  sheet[idx].value = "-"
+  sheet[idx].alignment = Alignment(horizontal='center') 
+  sheet[idx].font = Font(bold=True, size=SIZE)       
+  if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
+  
+  for j in range(len(table[i])):  # column index
+     
+    # 2nd Column: LC ID
+    if j==0:   
+      row, column = RowOffset+i, 2+j
+      idx = convertToTitle(column)+str(row) 
+      sheet[idx].value = table2[i][0]
+      sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].font = Font(bold=True, size=SIZE)       
+      sheet[idx].hyperlink = 'http://leetcode.com/'+table[i][j]
+      if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
+        
+    # 3rd column :  avg score
+    elif j==1:            
+      row, column = RowOffset+i, 2+j
+      idx = convertToTitle(column)+str(row) 
+      sheet[idx].value = "-"
+      sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
+      sheet[idx].alignment = Alignment(horizontal='center')
+      sheet[idx].font = Font(size=SIZE)
+      
+    else:     # output rank and score                    
+      row, column = RowOffset+i, 5+(j-2)*2      
+      idx = convertToTitle(column)+str(row) 
+      
+      sheet[idx].value = table2[i][j][0]
+      for k in range(0,5):
+        if k>0 and table2[i][j][2]==k or k==0 and i%2==0:  
+          sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[k])      
+      sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].font = Font(size=SIZE)
+      
+      row, column = RowOffset+i, 5+(j-2)*2+1
+      idx = convertToTitle(column)+str(row) 
+      sheet[idx].value = table2[i][j][1]
+      if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
+      sheet[idx].alignment = Alignment(horizontal='center') 
+      sheet[idx].font = Font(size=SIZE)
+
+
+############################
+
+
+
       
 wb.save('index.xlsx')    	
 
