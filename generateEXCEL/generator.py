@@ -270,7 +270,7 @@ for i in range(len(table2)):
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
   
-  for j in range(len(table[i])):  # column index
+  for j in range(len(table2[i])):  # column index
      
     # 2nd Column: LC ID
     if j==0:   
@@ -279,7 +279,7 @@ for i in range(len(table2)):
       sheet[idx].value = table2[i][0]
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(bold=True, size=SIZE)       
-      sheet[idx].hyperlink = 'http://leetcode.com/'+table[i][j]
+      sheet[idx].hyperlink = 'http://leetcode.com/'+table2[i][j]
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
         
