@@ -95,7 +95,7 @@ for contest in range(118,128+1):
 	data["zhengfu23"][str(contest)]=[-2,0]
 	data["abyebye"][str(contest)]=[-2,0]
 	data["sijin"][str(contest)]=[-2,0]
-	data["zifengmolan"][str(contest)]=[-2,0]
+	data["Zifengmolan"][str(contest)]=[-2,0]
 	data["phoenixpan"][str(contest)]=[-2,0]
 	data["WhateverYouSay"][str(contest)]=[-2,0]
 	data["OnodaHiro"][str(contest)]=[-2,0]
@@ -117,7 +117,7 @@ data["suzyzhang"]['128']=[102,4]
 data["gzh47"]['127']=[-2,0]
 data["gzh47"]['128']=[-2,0]
 
-	
+
 pprint(data)    
 
 json_str = json.dumps(data)
