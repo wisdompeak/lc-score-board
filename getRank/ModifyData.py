@@ -89,7 +89,7 @@ for contest in range(118,128+1):
 	data["Kaiyu-Wang"][str(contest)]=[-2,0]
 	data["LindaLyu"][str(contest)]=[-2,0]
 	data["liuguanhuaLouie"][str(contest)]=[-2,0]
-	data["summeryang19"][str(contest)]=[-2,0]
+	data["SummerYang19"][str(contest)]=[-2,0]
 	data["whyer"][str(contest)]=[-2,0]
 	data["user6745"][str(contest)]=[-2,0]
 	data["zhengfu23"][str(contest)]=[-2,0]
