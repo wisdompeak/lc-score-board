@@ -80,13 +80,13 @@ for contest in range(118,127+1):
 	data["wangyxwyx"][str(contest)]=[-2,0]
 	data["zexingfa"][str(contest)]=[-2,0]						
 	
-'''	
+
 for contest in range(118,128+1):
 	data["qz267"][str(contest)]=[-2,0]
 	data["Shanshan_Zhang"][str(contest)]=[-2,0]
 	data["Arco"][str(contest)]=[-2,0]
 	data["user504"][str(contest)]=[-2,0]
-	data["Kaiyu-Wang "][str(contest)]=[-2,0]
+	data["Kaiyu-Wang"][str(contest)]=[-2,0]
 	data["LindaLyu"][str(contest)]=[-2,0]
 	data["liuguanhuaLouie"][str(contest)]=[-2,0]
 	data["summeryang19"][str(contest)]=[-2,0]
@@ -96,9 +96,9 @@ for contest in range(118,128+1):
 	data["abyebye"][str(contest)]=[-2,0]
 	data["sijin"][str(contest)]=[-2,0]
 	data["zifengmolan"][str(contest)]=[-2,0]
-	data["phoenixPan"][str(contest)]=[-2,0]
+	data["phoenixpan"][str(contest)]=[-2,0]
 	data["WhateverYouSay"][str(contest)]=[-2,0]
-	data["onodahiro"][str(contest)]=[-2,0]
+	data["OnodaHiro"][str(contest)]=[-2,0]
 	data["weiyang95"][str(contest)]=[-2,0]
 	data["bingyy"][str(contest)]=[-2,0]
 	data["wolf940509"][str(contest)]=[-2,0]
@@ -108,15 +108,15 @@ for contest in range(118,128+1):
 data["qz267"]['128']=[2441,2]
 data["Arco"]['127']=[653,4]
 data["Arco"]['128']=[78,4]
-data["onodahiro"]['127']=[392,4]
-data["onodahiro"]['128']=[445,3]
+data["OnodaHiro"]['127']=[392,4]
+data["OnodaHiro"]['128']=[445,3]
 data["thu_winfield"]['128']=[2257,2]
 data["suzyzhang"]['127']=[283,4]
 data["suzyzhang"]['128']=[102,4]
 
 data["gzh47"]['127']=[-2,0]
 data["gzh47"]['128']=[-2,0]
-'''	
+
 	
 pprint(data)    
 
