@@ -118,7 +118,7 @@ data["suzyzhang"]['128']=[102,4]
 data["gzh47"]['127']=[-2,0]
 data["gzh47"]['128']=[-2,0]
 
-
+'''
 for contest in range(118,129+1):
 	data["ellaliu"][str(contest)]=[-2,0]
 	data["leetcodeyu1990"][str(contest)]=[-2,0]
@@ -131,7 +131,7 @@ data["wanyoyo"]['128']=[417,3]
 data["wanyoyo"]['129']=[942,2]
 data["xguo-Will"]['128']=[593,3]
 data["xguo-Will"]['129']=[529,3]
-
+'''
 
 pprint(data)    
 
@@ -154,7 +154,7 @@ contests["125"] = 4288
 contests["126"] = 4564
 contests["127"] = 4071
 contests["128"] = 5164
-contests["129"] = 4325
+contests["129"] = 4456
 
 json_str = json.dumps(contests)
 
