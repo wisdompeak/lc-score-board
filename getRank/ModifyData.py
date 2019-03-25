@@ -110,6 +110,7 @@ data["Arco"]['127']=[653,4]
 data["Arco"]['128']=[78,4]
 data["OnodaHiro"]['127']=[392,4]
 data["OnodaHiro"]['128']=[445,3]
+data["weiyang95"]['128']=[809,3]
 data["thu_winfield"]['128']=[2257,2]
 data["suzyzhang"]['127']=[283,4]
 data["suzyzhang"]['128']=[102,4]
@@ -117,6 +118,15 @@ data["suzyzhang"]['128']=[102,4]
 data["gzh47"]['127']=[-2,0]
 data["gzh47"]['128']=[-2,0]
 
+
+for contest in range(118,129+1):
+	data["ellaliu"][str(contest)]=[-2,0]
+	data["leetcodeyu1990"][str(contest)]=[-2,0]
+	data["wanyoyo"][str(contest)]=[-2,0]
+	data["xguo-Will"][str(contest)]=[-2,0]
+	data["zhengkaiwei"][str(contest)]=[-2,0]
+data["xguo-Will"]['128']=[593,3]
+data["xguo-Will"]['129']=[529,3]
 
 pprint(data)    
 
