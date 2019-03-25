@@ -125,6 +125,8 @@ for contest in range(118,129+1):
 	data["wanyoyo"][str(contest)]=[-2,0]
 	data["xguo-Will"][str(contest)]=[-2,0]
 	data["zhengkaiwei"][str(contest)]=[-2,0]
+	data["richarddia"][str(contest)]=[-2,0]
+	data["cc189"][str(contest)]=[-2,0]
 data["xguo-Will"]['128']=[593,3]
 data["xguo-Will"]['129']=[529,3]
 
