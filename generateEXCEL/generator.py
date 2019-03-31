@@ -15,7 +15,7 @@ def convertToTitle(n):
   return result
         
 startContest = 118
-endContest = 129
+endContest = 130
 
 # import data
 with open('../getRank/data.json', 'r') as f:
