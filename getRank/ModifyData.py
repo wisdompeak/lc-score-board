@@ -100,7 +100,7 @@ for contest in range(118,128+1):
 	data["WhateverYouSay"][str(contest)]=[-2,0]
 	data["OnodaHiro"][str(contest)]=[-2,0]
 	data["weiyang95"][str(contest)]=[-2,0]
-	data["bingyy"][str(contest)]=[-2,0]
+	data["Bingyy"][str(contest)]=[-2,0]
 	data["wolf940509"][str(contest)]=[-2,0]
 	data["thu_winfield"][str(contest)]=[-2,0]
 	data["gyf6434"][str(contest)]=[-2,0]
@@ -124,7 +124,7 @@ for contest in range(118,129+1):
 	data["leetcodeyu1990"][str(contest)]=[-2,0]
 	data["wanyoyo"][str(contest)]=[-2,0]
 	data["xguo-Will"][str(contest)]=[-2,0]
-	data["zhengkaiwei"][str(contest)]=[-2,0]
+	data["ZhengkaiWei"][str(contest)]=[-2,0]
 	data["richarddia"][str(contest)]=[-2,0]
 	data["cc189"][str(contest)]=[-2,0]
 	data["FrankZC"][str(contest)]=[-2,0]
@@ -132,7 +132,6 @@ data["wanyoyo"]['128']=[417,3]
 data["wanyoyo"]['129']=[942,2]
 data["xguo-Will"]['128']=[593,3]
 data["xguo-Will"]['129']=[529,3]
-
 
 pprint(data)    
 
