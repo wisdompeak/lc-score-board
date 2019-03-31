@@ -134,6 +134,8 @@ data["wanyoyo"]['129']=[942,2]
 data["xguo-Will"]['128']=[593,3]
 data["xguo-Will"]['129']=[529,3]
 
+data.pop("zhengkaiwei")
+
 pprint(data)    
 
 json_str = json.dumps(data)
