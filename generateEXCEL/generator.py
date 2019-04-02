@@ -226,6 +226,7 @@ for i in range(len(id_list)):
       if table[i][0] in Company and j==len(table[i])-1:
         row, column = RowOffset+i, 5+(j-2)*2+2
         idx = convertToTitle(column)+str(row)
+        sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
         sheet[idx].value = Company[table[i][0]]+"-Logo"
 
         
@@ -348,6 +349,7 @@ for i in range(len(table2)):
     if table2[i][0] in Company and j==len(table2[i])-1:
       row, column = RowOffset+i, 5+(j-2)*2+2
       idx = convertToTitle(column)+str(row)
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
       sheet[idx].value = Company[table2[i][0]]+"-Logo"  
 
 
