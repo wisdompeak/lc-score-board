@@ -2,7 +2,7 @@ import json
 import openpyxl
 from openpyxl.styles import colors
 from openpyxl.styles import Font, Color, PatternFill, Alignment
-
+from openpyxl.drawing.image import Image
 
 def convertToTitle(n):
   result = ''
@@ -151,6 +151,8 @@ RowOffset = 4;
 
 for i in range(len(id_list)):
 
+  row = RowOffset+i
+
   # 1st column: Rank
   row, column = RowOffset+i, 1
   idx = convertToTitle(column)+str(row) 
@@ -201,13 +203,34 @@ for i in range(len(id_list)):
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
       
-      if (table[i][0]=="SeymourLee" or table[i][0]=="IrisGuo") and j==len(table[i])-1:
+      #### Company Logo
+      
+      if (table[i][0]=="cuiaoxiang" or table[i][0]=="wisdompeak" or table[i][0]=="qz267") and j==len(table[i])-1:
         row, column = RowOffset+i, 5+(j-2)*2+2
-        idx = convertToTitle(column)+str(row) 
-        sheet[idx].value = "单身"  
-        sheet[idx].font = Font(bold=True, color='FF00FF',size=12)
+        idx = convertToTitle(column)+str(row)
         sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-    
+        img = Image('Img/Google.jpeg')
+        img.width, img.height = (15, 15)
+        sheet.add_image(img, idx)
+        
+      if (table[i][0]=="supersam331" or table[i][0]=="jmzhang18" or table[i][0]=="SeymourLee" or table[i][0]=="Charles000" or table[i][0]=="yueb95" or table[i][0]=="icodingg" ) and j==len(table[i])-1:
+        row, column = RowOffset+i, 5+(j-2)*2+2        
+        idx = convertToTitle(column)+str(row)
+        sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+        img = Image('Img/Amazon.png')
+        img.width, img.height = (16, 16)
+        sheet.add_image(img, idx)   
+        
+        
+      if (table[i][0]=="kaizer87" or table[i][0]=="sshang" or table[i][0]=="huyouhyw") and j==len(table[i])-1:
+        row, column = RowOffset+i, 5+(j-2)*2+2        
+        idx = convertToTitle(column)+str(row)
+        sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+        img = Image('Img/Microsoft.png')
+        img.width, img.height = (16, 16)
+        sheet.add_image(img, idx)      
+        
+        
 
 ############################
       
@@ -324,8 +347,6 @@ for i in range(len(table2)):
 
 ############################
 
-
-
-      
+    
 wb.save('index.xlsx')    	
 
