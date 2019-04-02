@@ -241,10 +241,19 @@ row, column = RowOffset+6, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+5)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
-sheet[idx].value = 'See the full list of daily problems'
+sheet[idx].value = 'Full list of daily problems'
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://bit.ly/2X0NW4e'
+
+row, column = RowOffset+7, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+5)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'Recommended resources'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/resources.html'
 
 ############################
 
