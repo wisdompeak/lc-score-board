@@ -13,6 +13,7 @@ content = content.replace("Apple-Logo","<img src='Img/Apple.png' width=16 height
 content = content.replace("Grab-Logo","<img src='Img/Grab.png' width=16 height=16>")
 content = content.replace("PureStorage-Logo","<img src='Img/PureStorage.png' width=16 height=16>")
 content = content.replace("Walmart-Logo","<img src='Img/Walmart.jpeg' width=16 height=16>")
+content = content.replace("Twilio-Logo","<img src='Img/Twilio.png' width=16 height=16>")
 
 
 
