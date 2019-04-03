@@ -17,7 +17,7 @@ content = content.replace("Twilio-Logo","<img src='Img/Twilio.png' width=16 heig
 content = content.replace("Arista-Logo","<img src='Img/Arista.jpeg' width=24 height=16>")
 content = content.replace("ByteDance-Logo","<img src='Img/ByteDance.jpeg' width=28 height=16>")
 content = content.replace("SnowFlake-Logo","<img src='Img/SnowFlake.png' width=20 height=16>")
-
+content = content.replace("RedBook-Logo","<img src='Img/RedBook.png' width=16 height=16>")
 
 
 
