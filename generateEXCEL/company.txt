@@ -15,6 +15,7 @@ icodingg Amazon
 QAMichaelPeng Amazon
 Spencial Amazon
 SeymourLee Amazon
+Vicky_Owen Amazon
 
 kaizer87 Microsoft
 sshang Microsoft
@@ -42,3 +43,7 @@ kaihaohust Walmart
 wangyxwyx Twilio
 
 user504 Arista
+
+fuxuemingzhu ByteDance
+
+jianzhun SnowFlake
