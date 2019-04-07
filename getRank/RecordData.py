@@ -26,7 +26,7 @@ for key in results:
   else:
     data[key][str(contest)] = results[key]
    
-pprint(data)    
+# pprint(data)    
 
 json_str = json.dumps(data)
 
