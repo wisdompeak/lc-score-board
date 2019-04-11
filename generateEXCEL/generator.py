@@ -279,7 +279,18 @@ sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/resources.ht
 
 ############################
 
-RowOffset += 10
+RowOffset += 9
+
+row, column = RowOffset, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+60)+str(row)
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'curve-figure'
+
+
+############################
+
+RowOffset += 3
 row, column = RowOffset, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+8)+str(row) 
