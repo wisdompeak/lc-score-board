@@ -88,7 +88,7 @@ for contest in range(118,128+1):
 	data["user504"][str(contest)]=[-2,0]
 	data["Kaiyu-Wang"][str(contest)]=[-2,0]
 	data["LindaLyu"][str(contest)]=[-2,0]
-	data["liuguanhuaLouie"][str(contest)]=[-2,0]
+	data["liuguanhualouie"][str(contest)]=[-2,0]
 	data["SummerYang19"][str(contest)]=[-2,0]
 	data["whyer"][str(contest)]=[-2,0]
 	data["user6745"][str(contest)]=[-2,0]
@@ -133,7 +133,8 @@ data["wanyoyo"]['128']=[417,3]
 data["wanyoyo"]['129']=[942,2]
 data["xguo-Will"]['128']=[593,3]
 data["xguo-Will"]['129']=[529,3]
-
+data["liuguanhualouie"]['129']=[-1,0]
+data["liuguanhualouie"]['130']=[-1,0]
 
 for contest in range(118,130+1):
     data["ShangqiYang"][str(contest)]=[-2,0]
@@ -141,9 +142,15 @@ for contest in range(118,130+1):
     data["Rui_Huang"][str(contest)]=[-2,0]
     data["fu_blue_turkey"][str(contest)]=[-2,0]
 
+"""
+for contest in range(118,131+1):
+    data["xuyequan"][str(contest)]=[-2,0]    
+    
+for contest in range(128,131+1):    
+    data["LittleBaldHead"][str(contest)]=[-2,0]
+"""
 
-
-pprint(data)    
+# pprint(data)    
 
 json_str = json.dumps(data)
 
