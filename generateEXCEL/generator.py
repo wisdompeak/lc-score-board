@@ -139,7 +139,6 @@ colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
 sheet.column_dimensions['B'].width = 25.0
 sheet.column_dimensions['D'].width = 10.0
-sheet.column_dimensions['D'].width = 10.0
 SIZE = 15
 
 # output header "contest" 
@@ -153,12 +152,12 @@ sheet['B2'].alignment = Alignment(horizontal='center')
 sheet['B2'].font = Font(bold=True, size=SIZE)
 
 # output header "Score"
-sheet['C2'].value = 'Score'
+sheet['C2'].value = 'Days'
 sheet['C2'].alignment = Alignment(horizontal='center')
 sheet['C2'].font = Font(bold=True, size=SIZE)
 
 # output header "Membership"
-sheet['D2'].value = 'Days'
+sheet['D2'].value = 'Score'
 sheet['D2'].alignment = Alignment(horizontal='center')
 sheet['D2'].font = Font(bold=True, size=SIZE)
 
@@ -204,7 +203,7 @@ for i in range(len(id_list)):
      
     # 2nd Column: LC ID
     if j==0:   
-      row, column = RowOffset+i, 2+j
+      row, column = RowOffset+i, 2
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][j]
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
@@ -215,7 +214,7 @@ for i in range(len(id_list)):
         
     # 3rd column :  avg score
     elif j==1:            
-      row, column = RowOffset+i, 2+j
+      row, column = RowOffset+i, 4
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][1]
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
@@ -243,13 +242,13 @@ for i in range(len(id_list)):
   
   #### Membership
       
-  row, column = RowOffset+i, 4
+  row, column = RowOffset+i, 3
   idx = convertToTitle(column)+str(row)
   sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
   sheet[idx].value = Membership[name]
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
-  sheet[idx].font = Font(size=13)
+  sheet[idx].font = Font(size=12)
             
   #### Company Logo    
   if name in Company:          
@@ -347,7 +346,7 @@ for i in range(len(table2)):
      
     # 2nd Column: LC ID
     if j==0:   
-      row, column = RowOffset+i, 2+j
+      row, column = RowOffset+i, 2
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table2[i][0]
       sheet[idx].alignment = Alignment(horizontal='center') 
@@ -358,7 +357,7 @@ for i in range(len(table2)):
         
     # 3rd column :  avg score
     elif j==1:            
-      row, column = RowOffset+i, 2+j
+      row, column = RowOffset+i, 4
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = "-"
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
@@ -387,13 +386,13 @@ for i in range(len(table2)):
       
   #### Membership
       
-  row, column = RowOffset+i, 4
+  row, column = RowOffset+i, 3
   idx = convertToTitle(column)+str(row)
   sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
   sheet[idx].value = Membership[name]
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
-  sheet[idx].font = Font(size=13)
+  sheet[idx].font = Font(size=12)
             
   #### Company Logo    
   if name in Company:          
