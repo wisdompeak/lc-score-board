@@ -20,18 +20,25 @@ def convertToTitle(n):
         
 startContest = 118
 endContest = 131
+ContestNumbers = endContest-startContest+1
 
 ###############################################
 
-# import company
+# Load company
 
-file = open("company.txt", "r") 
-Company = {}
-for line in file:
-    info = line.split()
-    if len(info)<2: continue
-    Company[info[0]] = info[1]
-file.close()
+from Data.Load_Company import LoadCompany
+
+Company = LoadCompany()
+
+
+###############################################
+
+# Load Membership
+
+from Data.Load_Membership import CalculateMembership
+
+Membership = CalculateMembership()
+
 
 ###############################################
 
@@ -131,7 +138,8 @@ print(colors)
 colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
 sheet.column_dimensions['B'].width = 25.0
-sheet.column_dimensions['D'].width = 5.0
+sheet.column_dimensions['D'].width = 10.0
+sheet.column_dimensions['D'].width = 10.0
 SIZE = 15
 
 # output header "contest" 
@@ -143,6 +151,17 @@ sheet['B1'].font = Font(bold=True, size=SIZE)
 sheet['B2'].value = 'Participants'
 sheet['B2'].alignment = Alignment(horizontal='center')
 sheet['B2'].font = Font(bold=True, size=SIZE)
+
+# output header "Score"
+sheet['C2'].value = 'Score'
+sheet['C2'].alignment = Alignment(horizontal='center')
+sheet['C2'].font = Font(bold=True, size=SIZE)
+
+# output header "Membership"
+sheet['D2'].value = 'Days'
+sheet['D2'].alignment = Alignment(horizontal='center')
+sheet['D2'].font = Font(bold=True, size=SIZE)
+
 
 # output contest ID / number of players
 for k in range(endContest-startContest+1):
@@ -178,7 +197,8 @@ for i in range(len(id_list)):
   sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
   sheet[idx].font = Font(bold=True, size=SIZE)       
   if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
+  name = table[i][0] 
   
   for j in range(len(table[i])):  # column index
      
@@ -220,14 +240,23 @@ for i in range(len(id_list)):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
+  
+  #### Membership
       
-      #### Company Logo
+  row, column = RowOffset+i, 4
+  idx = convertToTitle(column)+str(row)
+  sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+  sheet[idx].value = Membership[name]
+  if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
+  sheet[idx].font = Font(size=13)
             
-      if table[i][0] in Company and j==len(table[i])-1:
-        row, column = RowOffset+i, 5+(j-2)*2+2
-        idx = convertToTitle(column)+str(row)
-        sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-        sheet[idx].value = Company[table[i][0]]+"-Logo"
+  #### Company Logo    
+  if name in Company:          
+    row, column = RowOffset+i, 5+ContestNumbers*2
+    idx = convertToTitle(column)+str(row)
+    sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+    sheet[idx].value = Company[name]+"-Logo"
 
         
 
@@ -312,6 +341,7 @@ for i in range(len(table2)):
   sheet[idx].font = Font(bold=True, size=SIZE)       
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
+  name = table2[i][0]
   
   for j in range(len(table2[i])):  # column index
      
@@ -355,13 +385,22 @@ for i in range(len(table2)):
       sheet[idx].font = Font(size=SIZE)
       
       
-    #### Company Logo
+  #### Membership
+      
+  row, column = RowOffset+i, 4
+  idx = convertToTitle(column)+str(row)
+  sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+  sheet[idx].value = Membership[name]
+  if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
+  sheet[idx].font = Font(size=13)
             
-    if table2[i][0] in Company and j==len(table2[i])-1:
-      row, column = RowOffset+i, 5+(j-2)*2+2
-      idx = convertToTitle(column)+str(row)
-      sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-      sheet[idx].value = Company[table2[i][0]]+"-Logo"  
+  #### Company Logo    
+  if name in Company:          
+    row, column = RowOffset+i, 5+ContestNumbers*2
+    idx = convertToTitle(column)+str(row)
+    sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+    sheet[idx].value = Company[name]+"-Logo"
 
 
 ############################

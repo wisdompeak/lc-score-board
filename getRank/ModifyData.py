@@ -152,6 +152,7 @@ for contest in range(128,131+1):
 
 # pprint(data)    
 
+
 json_str = json.dumps(data)
 
 with open('data.json', 'w') as f:
