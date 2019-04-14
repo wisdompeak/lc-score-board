@@ -11,7 +11,6 @@ siqiaochen	9/18/2018
 hfuwu5	9/19/2018
 TOYAMA_NAO	9/19/2018
 sdliuyuzhi	9/20/2018
-galiniunan	9/25/2018
 SeymourLee	10/1/2018
 yuliangjin	10/2/2018
 shshwdr	10/7/2018
@@ -46,7 +45,6 @@ user760	2/6/2019
 zhounaiding	2/16/2019
 fish444556	2/17/2019
 huyouhyw	2/21/2019
-JackTheBest	2/24/2019
 MaggieZhao95	2/25/2019
 huange	2/26/2019
 please_AC	2/27/2019
@@ -67,7 +65,6 @@ Shanshan_Zhang	3/17/2019
 Arco	3/19/2019
 user504	3/20/2019
 Kaiyu-Wang 	3/20/2019
-liuguanhualouie	3/20/2019
 SummerYang19	3/20/2019
 whyer	3/20/2019
 user6745	3/20/2019
@@ -94,4 +91,4 @@ Rui_Huang	4/1/2019
 fu_blue_turkey	4/3/2019
 LittleBaldHead	4/6/2019
 xuyequan	4/10/2019
-
+qw123	4/13/2019
