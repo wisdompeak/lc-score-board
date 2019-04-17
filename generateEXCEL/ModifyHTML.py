@@ -20,6 +20,7 @@ content = content.replace("SnowFlake-Logo","<img src='Img/SnowFlake.png' width=2
 content = content.replace("RedBook-Logo","<img src='Img/RedBook.png' width=18 height=18>")
 content = content.replace("PocketGems-Logo","<img src='Img/PocketGems.png' width=18 height=18>")
 content = content.replace("Schlumberger-Logo","<img src='Img/Schlumberger.jpg' width=40 height=16>")
+content = content.replace("MathWorks-Logo","<img src='Img/MathWorks.gif' width=17 height=17>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
