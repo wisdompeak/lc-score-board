@@ -18,6 +18,7 @@ SeymourLee Amazon
 Vicky_Owen Amazon
 lulinzhang1124 Amazon
 liuguanhualouie Amazon
+Aaron_S Amazon
 
 kaizer87 Microsoft
 sshang Microsoft
@@ -60,3 +61,5 @@ shshwdr PocketGems
 bifeitang Schlumberger
 
 richarddia MathWorks
+
+XingxingHuang LandingAI
