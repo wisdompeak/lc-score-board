@@ -305,9 +305,18 @@ sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/resources.html'
 
+row, column = RowOffset+9, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+15)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'If you are interested in joining this group, please contact: guan.huifeng@gmail.com'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+
+
 ############################
 
-RowOffset += 9
+RowOffset += 10
 
 row, column = RowOffset, 2
 idx = convertToTitle(column)+str(row) 

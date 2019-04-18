@@ -6,7 +6,7 @@ content = content.replace("Google-Logo","<img src='Img/Google.png' width=18 heig
 content = content.replace("Amazon-Logo","<img src='Img/Amazon.png' width=16 height=16>")
 content = content.replace("Microsoft-Logo","<img src='Img/Microsoft.jpeg' width=16 height=16>")
 content = content.replace("VMware-Logo","<img src='Img/VMware.jpeg' width=16 height=16>")
-content = content.replace("Indeed-Logo","<img src='Img/Indeed.png' width=18 height=18>")
+content = content.replace("Indeed-Logo","<img src='Img/Indeed.png' width=19 height=19>")
 content = content.replace("Facebook-Logo","<img src='Img/Facebook.png' width=16 height=16>")
 content = content.replace("AMD-Logo","<img src='Img/AMD.png' width=16 height=16>")
 content = content.replace("Apple-Logo","<img src='Img/Apple.png' width=16 height=16>")
@@ -22,6 +22,7 @@ content = content.replace("PocketGems-Logo","<img src='Img/PocketGems.png' width
 content = content.replace("Schlumberger-Logo","<img src='Img/Schlumberger.jpg' width=40 height=16>")
 content = content.replace("MathWorks-Logo","<img src='Img/MathWorks.gif' width=17 height=17>")
 content = content.replace("LandingAI-Logo","<img src='Img/LandingAI.png' width=17 height=17>")
+content = content.replace("UPenn-Logo","<img src='Img/UPenn.png' width=17 height=17>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 

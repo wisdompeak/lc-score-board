@@ -63,3 +63,5 @@ bifeitang Schlumberger
 richarddia MathWorks
 
 XingxingHuang LandingAI
+
+haitao7 UPenn
