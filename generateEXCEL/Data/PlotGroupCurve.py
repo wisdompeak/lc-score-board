@@ -41,16 +41,13 @@ for i in range(500):
   Days.append(day.strftime("%Y/%m/%d"))
   
   if day in addPeople:
-    count+=addPeople[day]
-    upper.append(count+addPeople[day])
-  else:
-    upper.append(count+0)
+    count+=addPeople[day]    
     
   if day in losePeople:
     count-=losePeople[day]  
-    lower.append(count-losePeople[day])
-  else:
-    lower.append(count-0)
+    
+  upper.append(count+addPeople[day] if day in addPeople else count)  
+  lower.append(count-losePeople[day] if day in losePeople else count)
   
   Nums.append(count)
 
@@ -61,7 +58,7 @@ for i in range(len(Days)):
     
 
 plt.plot(Nums, label = 'member growth curve')
-plt.fill_between(list(range(1,len(Days)+1)), lower, upper, color = '#539caf', alpha = 0.5, label = 'same day fluctuation')
+plt.fill_between(list(range(0,len(Days))), lower, upper, color = '#539caf', alpha = 0.5, label = 'same day fluctuation')
 plt.xticks( list(range(0, len(Days),14)), Days[:-1:14], rotation=20 )
 plt.grid(linestyle='-.')
 plt.title("Historical number of members growth curve (weekly updated) ")
