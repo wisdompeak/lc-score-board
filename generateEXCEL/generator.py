@@ -266,12 +266,17 @@ RowOffset += len(id_list)
 
 row, column = RowOffset+1, 2        
 idx = convertToTitle(column)+str(row) 
-sheet[idx].value = 'Lee215'
+sheet[idx].value = 'lee215'
 sheet[idx].font = Font(size=15)
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-sheet[idx].font = Font(bold=True, size=SIZE)       
-sheet[idx].hyperlink = 'http://leetcode.com/lee215'
 sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
+
+row, column = RowOffset+1, 3
+idx = convertToTitle(column)+str(row) 
+sheet[idx].value = Membership['lee215']
+sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].font = Font(size=12)
 
 row, column = RowOffset+1, 4        
 idx = convertToTitle(column)+str(row) 
