@@ -257,11 +257,42 @@ for i in range(len(id_list)):
     sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
     sheet[idx].value = Company[name]+"-Logo"
 
-        
+
+############################
+
+### Lee215
+
+RowOffset += len(id_list)
+
+row, column = RowOffset+1, 2        
+idx = convertToTitle(column)+str(row) 
+sheet[idx].value = 'Lee215'
+sheet[idx].font = Font(size=15)
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].font = Font(bold=True, size=SIZE)       
+sheet[idx].hyperlink = 'http://leetcode.com/lee215'
+sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
+
+row, column = RowOffset+1, 4        
+idx = convertToTitle(column)+str(row) 
+sheet[idx].value = 'YOUXIU'
+sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].font = Font(size=SIZE)
+
+row, column = RowOffset+1, 5
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+ContestNumbers*2-1)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].value = 'Why always so YOUXIU?'
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/youxiu.html'
+sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
 
 ############################
       
-RowOffset += len(id_list)+2
+RowOffset += 2
 
 row, column = RowOffset+1, 2
 idx = convertToTitle(column)+str(row) 
