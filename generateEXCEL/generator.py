@@ -267,6 +267,7 @@ RowOffset += len(id_list)
 row, column = RowOffset+1, 2        
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = 'lee215'
+sheet[idx].hyperlink = 'https://leetcode.com/lee215'
 sheet[idx].font = Font(size=15)
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
