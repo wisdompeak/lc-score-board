@@ -145,16 +145,18 @@ for contest in range(118,130+1):
 
 for contest in range(118,131+1):
     data["xuyequan"][str(contest)]=[-2,0]
-    data["qw123"][str(contest)]=[-2,0]        
-        
+    data["qw123"][str(contest)]=[-2,0]                
 for contest in range(128,131+1):    
-    data["LittleBaldHead"][str(contest)]=[-2,0]
+    data["LittleBaldHead"][str(contest)]=[-2,0] # rejoin
 
 """
 for contest in range(128,132+1):    
     data["mooncaketree"][str(contest)]=[-2,0]
     data["Charlesna"][str(contest)]=[-2,0]
+    data["WongBaba"][str(contest)]=[-2,0]
+    data["wangzemeng111222"][str(contest)]=[-2,0]
 data["Charlesna"]['131']=[953,4]	
+data["shuizhouwang"]['131']=[-2,0]  # rejoin
 """
 
 

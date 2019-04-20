@@ -268,7 +268,7 @@ row, column = RowOffset+1, 2
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = 'lee215'
 sheet[idx].hyperlink = 'https://leetcode.com/lee215'
-sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE) 
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
 
@@ -286,6 +286,11 @@ sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].font = Font(size=SIZE)
 
+row, column = RowOffset+1, 5+ContestNumbers*2
+idx = convertToTitle(column)+str(row) 
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+sheet[idx].value = Company["lee215"]+"-Logo"
+
 row, column = RowOffset+1, 5
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+ContestNumbers*2-1)+str(row) 
@@ -296,7 +301,10 @@ sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/youxiu.html'
 sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
 
+
 ############################
+      
+### legend
       
 RowOffset += 2
 
@@ -352,6 +360,8 @@ sheet[idx].font = Font(bold=True, size=SIZE)
 
 
 ############################
+
+### curve figure
 
 RowOffset += 10
 
