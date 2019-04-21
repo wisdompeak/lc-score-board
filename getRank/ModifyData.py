@@ -155,6 +155,7 @@ for contest in range(128,132+1):
     data["Charlesna"][str(contest)]=[-2,0]
     data["WongBaba"][str(contest)]=[-2,0]
     data["wangzemeng111222"][str(contest)]=[-2,0]
+    data["charleszhou327"][str(contest)]=[-2,0]
 data["Charlesna"]['131']=[953,4]	
 data["shuizhouwang"]['131']=[-2,0]  # rejoin
 """
