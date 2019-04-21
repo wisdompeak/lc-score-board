@@ -149,7 +149,7 @@ for contest in range(118,131+1):
 for contest in range(128,131+1):    
     data["LittleBaldHead"][str(contest)]=[-2,0] # rejoin
 
-"""
+
 for contest in range(128,132+1):    
     data["mooncaketree"][str(contest)]=[-2,0]
     data["Charlesna"][str(contest)]=[-2,0]
@@ -158,7 +158,6 @@ for contest in range(128,132+1):
     data["charleszhou327"][str(contest)]=[-2,0]
 data["Charlesna"]['131']=[953,4]	
 data["shuizhouwang"]['131']=[-2,0]  # rejoin
-"""
 
 
 pprint(data)    
@@ -187,6 +186,7 @@ contests["129"] = 4456
 contests["130"] = 5226
 contests["131"] = 4894
 contests["132"] = 4765
+contests["133"] = 3863
 
 json_str = json.dumps(contests)
 
