@@ -150,7 +150,7 @@ for contest in range(128,131+1):
     data["LittleBaldHead"][str(contest)]=[-2,0] # rejoin
 
 
-for contest in range(128,132+1):    
+for contest in range(118,132+1):    
     data["mooncaketree"][str(contest)]=[-2,0]
     data["Charlesna"][str(contest)]=[-2,0]
     data["WongBaba"][str(contest)]=[-2,0]
@@ -165,6 +165,15 @@ data["nagato1208"]['130']=[287,4]
 data["nagato1208"]['131']=[137,4]
 data["nagato1208"]['132']=[555,4]
 data["nagato1208"]['133']=[274,4]
+
+"""
+for contest in range(118,132+1):  
+    data["waitnote"][str(contest)]=[-2,0]
+    data["tankztc"][str(contest)]=[-2,0]
+
+for contest in range(132,133+1):    
+    data["galiniunan"][str(contest)]=[-2,0] # rejoin
+"""
 
 
 pprint(data)    
