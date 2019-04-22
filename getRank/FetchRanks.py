@@ -22,6 +22,7 @@ def fetchRanking(contest,page):
     # Read user ids
     fi = open('id.in', 'r')
     id_list = [line.strip() for line in fi.readlines()]
+    id_list.remove("lee215")
     id_set = set(id_list)
     fi.close()
 

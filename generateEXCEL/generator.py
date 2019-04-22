@@ -54,6 +54,7 @@ with open('../getRank/contests.json', 'r') as f:
 # import person   	
 fi = open('../getRank/id.in', 'r')
 id_list = [line.strip() for line in fi.readlines()]
+id_list.remove("lee215")
 fi.close()   	
 
 # compute scores

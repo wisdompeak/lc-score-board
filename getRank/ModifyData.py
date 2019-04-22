@@ -98,7 +98,7 @@ for contest in range(118,128+1):
 	data["Zifengmolan"][str(contest)]=[-2,0]
 	data["phoenixpan"][str(contest)]=[-2,0]
 	data["WhateverYouSay"][str(contest)]=[-2,0]
-	data["OnodaHiro"][str(contest)]=[-2,0]
+	data["nagato1208"][str(contest)]=[-2,0]
 	data["weiyang95"][str(contest)]=[-2,0]
 	data["Bingyy"][str(contest)]=[-2,0]
 	data["wolf940509"][str(contest)]=[-2,0]
@@ -108,8 +108,8 @@ for contest in range(118,128+1):
 data["qz267"]['128']=[2441,2]
 data["Arco"]['127']=[653,4]
 data["Arco"]['128']=[78,4]
-data["OnodaHiro"]['127']=[392,4]
-data["OnodaHiro"]['128']=[445,3]
+data["nagato1208"]['127']=[392,4]
+data["nagato1208"]['128']=[445,3]
 data["weiyang95"]['128']=[809,3]
 data["thu_winfield"]['128']=[2257,2]
 data["suzyzhang"]['127']=[283,4]
@@ -160,6 +160,11 @@ data["Charlesna"]['131']=[953,4]
 data["shuizhouwang"]['131']=[-2,0]  # rejoin
 
 data["MaggieZhao95"]['133']=[2200,1]	# modify, misuse of account
+data["nagato1208"]['129']=[84,3]    # chagne name from OnadaHiro
+data["nagato1208"]['130']=[287,4]
+data["nagato1208"]['131']=[137,4]
+data["nagato1208"]['132']=[555,4]
+data["nagato1208"]['133']=[274,4]
 
 
 pprint(data)    
