@@ -160,7 +160,7 @@ data["Charlesna"]['131']=[953,4]
 data["shuizhouwang"]['131']=[-2,0]  # rejoin
 
 data["MaggieZhao95"]['133']=[2200,1]	# modify, misuse of account
-data["nagato1208"]['129']=[84,3]    # chagne name from OnadaHiro
+data["nagato1208"]['129']=[84,4]    # chagne name from OnadaHiro
 data["nagato1208"]['130']=[287,4]
 data["nagato1208"]['131']=[137,4]
 data["nagato1208"]['132']=[555,4]
