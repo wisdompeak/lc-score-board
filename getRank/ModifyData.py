@@ -167,9 +167,16 @@ data["nagato1208"]['132']=[555,4]
 data["nagato1208"]['133']=[274,4]
 
 """
-for contest in range(118,132+1):  
+for contest in range(118,133+1):  
     data["waitnote"][str(contest)]=[-2,0]
     data["tankztc"][str(contest)]=[-2,0]
+    data["mzcj"][str(contest)]=[-2,0]
+    data["wxy9018"][str(contest)]=[-2,0]
+    data["Cique"][str(contest)]=[-2,0]
+    data["dfy8054"][str(contest)]=[-2,0]
+    data["FYQiang"][str(contest)]=[-2,0]
+    data["BradHuang1999"][str(contest)]=[-2,0]
+data["dfy8054"]['133']=[747,3]
 
 for contest in range(132,133+1):    
     data["galiniunan"][str(contest)]=[-2,0] # rejoin
