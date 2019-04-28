@@ -166,7 +166,7 @@ data["nagato1208"]['131']=[137,4]
 data["nagato1208"]['132']=[555,4]
 data["nagato1208"]['133']=[274,4]
 
-"""
+
 for contest in range(118,133+1):  
     data["waitnote"][str(contest)]=[-2,0]
     data["tankztc"][str(contest)]=[-2,0]
@@ -176,11 +176,12 @@ for contest in range(118,133+1):
     data["dfy8054"][str(contest)]=[-2,0]
     data["FYQiang"][str(contest)]=[-2,0]
     data["BradHuang1999"][str(contest)]=[-2,0]
+    data["fighting_for_flag"][str(contest)]=[-2,0]
 data["dfy8054"]['133']=[747,3]
 
 for contest in range(132,133+1):    
     data["galiniunan"][str(contest)]=[-2,0] # rejoin
-"""
+
 
 
 pprint(data)    
@@ -210,6 +211,7 @@ contests["130"] = 5226
 contests["131"] = 4894
 contests["132"] = 4765
 contests["133"] = 3863
+contests["134"] = 4136
 
 json_str = json.dumps(contests)
 
