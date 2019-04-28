@@ -175,13 +175,12 @@ for contest in range(118,133+1):
     data["Cique"][str(contest)]=[-2,0]
     data["dfy8054"][str(contest)]=[-2,0]
     data["FYQiang"][str(contest)]=[-2,0]
-    data["BradHuang1999"][str(contest)]=[-2,0]
+    data["bradhuang1999"][str(contest)]=[-2,0]
     data["fighting_for_flag"][str(contest)]=[-2,0]
 data["dfy8054"]['133']=[747,3]
 
 for contest in range(132,133+1):    
     data["galiniunan"][str(contest)]=[-2,0] # rejoin
-
 
 
 pprint(data)    
