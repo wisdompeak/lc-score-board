@@ -28,6 +28,10 @@ content = content.replace("Dataminr-Logo","<img src='Img/Dataminr.jpeg' width=17
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
+content = content.replace("<title></title>","<title>刷刷群</title>")
+
+content = content.replace('<head>','<head><link rel="shortcut icon" type="image/x-icon" href="Img/icon.ico" />')
+
 
 file = open("index.html","w")
 file.write(content)

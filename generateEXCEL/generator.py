@@ -328,21 +328,12 @@ row, column = RowOffset+5, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+5)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
-sheet[idx].value = 'More about the Rules'
-sheet[idx].font = Font(size=15)
-sheet[idx].font = Font(bold=True, size=SIZE)
-sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
-
-row, column = RowOffset+6, 2
-idx = convertToTitle(column)+str(row) 
-idx2 = convertToTitle(column+5)+str(row) 
-sheet.merge_cells(idx+':'+idx2)
 sheet[idx].value = 'Full list of daily problems'
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://bit.ly/2X0NW4e'
 
-row, column = RowOffset+7, 2
+row, column = RowOffset+6, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+5)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
@@ -351,7 +342,7 @@ sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/resources.html'
 
-row, column = RowOffset+9, 2
+row, column = RowOffset+8, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+15)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
@@ -359,6 +350,14 @@ sheet[idx].value = 'If you are interested in joining this group, please contact:
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 
+row, column = RowOffset+9, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+15)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'Make sure you agree with our terms and regulations'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
 
 ############################
 
