@@ -183,6 +183,9 @@ for contest in range(132,133+1):
     data["galiniunan"][str(contest)]=[-2,0] # rejoin
 
 
+for contest in range(118,134+1):  
+    data["hxin"][str(contest)]=[-2,0]
+
 pprint(data)    
 
 
