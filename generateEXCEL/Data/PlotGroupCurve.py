@@ -2,7 +2,7 @@ import time
 import datetime
 import collections
 import matplotlib.pyplot as plt
-
+import numpy as np
 
 start = datetime.date(2018,9,2)
 today = datetime.date.today()
@@ -13,6 +13,8 @@ file.close()
 
 addPeople = collections.defaultdict(int)
 losePeople = collections.defaultdict(int)
+PeopleStatIn = []
+PeopleStatOut = []
 
 for line in data:
   if len(line.split())!=2: continue
@@ -20,6 +22,8 @@ for line in data:
   d = readDate.split("/")  
   date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   addPeople[date]+=1
+  
+  PeopleStatIn.append((today-date).days)
 
 
 file = open("Members/Out.txt","r") 
@@ -40,6 +44,8 @@ for line in data:
   date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   losePeople[date]+=1
   
+  PeopleStatOut.append((today-date).days)
+  
   
 count = 0;
 Days = []
@@ -50,7 +56,7 @@ for i in range(500):
   day = start + datetime.timedelta(days=i)
   if day>today: break;
   
-  Days.append(day.strftime("%Y/%m/%d"))
+  Days.append(day.strftime("%Y/%m/%d")[2:])
   
   if day in addPeople:
     count+=addPeople[day]    
@@ -67,16 +73,34 @@ for i in range(500):
 for i in range(len(Days)):
     print(Days[i]," ",Nums[i])
 
-    
 
+fig,(ax0,ax1) = plt.subplots(nrows=2,figsize=(9,6))  
+
+    
+plt.figure(21,figsize=(10,10))
+
+plt.subplot(211)
 plt.plot(Nums, label = 'member growth curve')
 plt.fill_between(list(range(0,len(Days))), lower, upper, color = '#539caf', alpha = 0.5, label = 'same day fluctuation')
-plt.xticks( list(range(0, len(Days),14)), Days[:-1:14], rotation=20 )
+plt.xticks( list(range(0, len(Days),14)), Days[:-1:14], rotation=20 ) 
 plt.grid(linestyle='-.')
 plt.title("Historical number of members growth curve (weekly updated) ")
 plt.legend(loc = 'upper left')
-plt.show()
 # plt.xticks(fontsize=16, color="red", rotation=45)
 
+plt.subplot(212)
+maxDay = (today-start).days
+n, bins, patches = plt.hist(x=PeopleStatOut, bins='auto', label = 'Quited', color='steelblue', alpha=0.7, rwidth=0.65)
+plt.hist(x=PeopleStatIn, bins='auto', label = 'Current', color='#FF1B1B', alpha=0.6, rwidth=0.45)
+plt.grid(axis='y', alpha=0.75)
+plt.xticks( list(range(0,maxDay,25)), list(range(0,maxDay,25)))
+plt.xlabel('Survival Days')
+plt.ylabel('Number of People')
+plt.title('Membership length statistics')
+plt.legend(loc = 'upper right')
 
+plt.subplots_adjust(hspace=0.6)  
+
+
+plt.show()
 
