@@ -7,27 +7,39 @@ import matplotlib.pyplot as plt
 start = datetime.date(2018,9,2)
 today = datetime.date.today()
 
-file = open("GroupCurve/addPeople.txt","r") 
+file = open("Members/In.txt","r") 
 data = file.readlines()
 file.close()
 
 addPeople = collections.defaultdict(int)
+losePeople = collections.defaultdict(int)
+
 for line in data:
-  d = line.split("/")
-  if len(d)!=3: continue
+  if len(line.split())!=2: continue
+  readDate = line.split()[1]
+  d = readDate.split("/")  
   date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   addPeople[date]+=1
 
 
-file = open("GroupCurve/losePeople.txt","r") 
+file = open("Members/Out.txt","r") 
 data = file.readlines()
 file.close()
-losePeople = collections.defaultdict(int)
+
+
 for line in data:
-  d = line.split("/")
-  if len(d)!=3: continue
+  if len(line.split())!=3: continue
+  
+  readDate = line.split()[1]
+  d = readDate.split("/")  
+  date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
+  addPeople[date]+=1
+  
+  readDate = line.split()[2]
+  d = readDate.split("/")  
   date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   losePeople[date]+=1
+  
   
 count = 0;
 Days = []

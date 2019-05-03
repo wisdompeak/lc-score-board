@@ -5,7 +5,7 @@ def CalculateMembership():
     
     Membership = {}
     
-    file = open("Data/Membership/Membership_Out.txt", "r") 
+    file = open("Data/Members/Out.txt", "r") 
     for line in file:
         info = line.split()
         if len(info)<3: continue
@@ -19,7 +19,7 @@ def CalculateMembership():
     
     
     today = datetime.date.today()
-    file = open("Data/Membership/Membership_In.txt", "r") 
+    file = open("Data/Members/In.txt", "r") 
     for line in file:
         info = line.split()
         if len(info)<2: continue

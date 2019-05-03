@@ -1,5 +1,5 @@
 def LoadCompany():
-    file = open("Data/Company.txt", "r") 
+    file = open("Data/Members/Company.txt", "r") 
     Company = {}
     for line in file:
         info = line.split()
