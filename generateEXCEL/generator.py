@@ -321,7 +321,7 @@ sheet[idx].font = Font(size=15)
 
 row, column = RowOffset+3, 2
 idx = convertToTitle(column)+str(row) 
-sheet[idx].value = '-3:     left/quited'
+sheet[idx].value = '-3:     graduated/quited'
 sheet[idx].font = Font(size=15)
 
 row, column = RowOffset+5, 2
@@ -379,7 +379,7 @@ row, column = RowOffset, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+8)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
-sheet[idx].value = 'Graduated or laidoff members in 2019'
+sheet[idx].value = 'Graduated or quited members in 2019'
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 
