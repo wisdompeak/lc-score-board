@@ -2,7 +2,7 @@ wisdompeak	9/2/2018
 whe_bupt	9/2/2018
 OneDirection	9/2/2018
 KyleAC	9/2/2018
-Ansonluo1	9/2/2018
+Ansonluo	9/2/2018
 haitao7	9/3/2018
 lee215	9/8/2018
 jmzhang18	9/9/2018
@@ -55,7 +55,6 @@ Shanshan_Zhang	3/17/2019
 user504	3/20/2019
 SummerYang19	3/20/2019
 whyer	3/20/2019
-user6745	3/20/2019
 zhengfu23	3/20/2019
 sijin	3/20/2019
 phoenixpan	3/20/2019
@@ -73,13 +72,11 @@ richarddia	3/24/2019
 cc189	3/24/2019
 FrankZC	3/26/2019
 ShangqiYang	3/31/2019
-clchenliang	3/31/2019
 Rui_Huang	4/1/2019
 fu_blue_turkey	4/3/2019
 LittleBaldHead	4/6/2019
 xuyequan	4/10/2019
 qw123	4/13/2019
-mooncaketree	4/14/2019
 Charlesna	4/14/2019
 WongBaba	4/17/2019
 charleszhou327	4/20/2019
@@ -98,4 +95,3 @@ ddxig	4/29/2019
 Caloplaca	5/1/2019
 uwelena	5/2/2019
 dickbomb	5/2/2019
-

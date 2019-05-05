@@ -14,11 +14,6 @@ for contest in range(118,120+1):
 	data["Brooky"][str(contest)]=[-2,0]
 	data["yexiaoxiao2102"][str(contest)]=[-2,0]		
 	
-data["Ansonluo1"]['118']=[1799,1]			
-data["Ansonluo1"]['119']=[556,3]			
-data["Ansonluo1"]['120']=[1622,2]			
-data["Ansonluo1"]['121']=[769,2]		
-
 for contest in range(118,121+1):
 	data["XRS"][str(contest)]=[-2,0]	
 	
@@ -189,6 +184,28 @@ for contest in range(118,134+1):
     data["Caloplaca"][str(contest)]=[-2,0]
     data["uwelena"][str(contest)]=[-2,0]
     data["dickbomb"][str(contest)]=[-2,0]
+
+
+data["Ansonluo"]['118']=[1799,1]			
+data["Ansonluo"]['119']=[556,3]			
+data["Ansonluo"]['120']=[1622,2]			
+data["Ansonluo"]['121']=[769,2]
+data["Ansonluo"]['122']=[-1,0]
+data["Ansonluo"]['123']=[1353,1]
+data["Ansonluo"]['124']=[1133,2]
+data["Ansonluo"]['125']=[1778,2]
+data["Ansonluo"]['126']=[596,3]
+data["Ansonluo"]['127']=[1928,3]
+data["Ansonluo"]['128']=[858,3]
+data["Ansonluo"]['129']=[924,2]
+data["Ansonluo"]['130']=[2574,1]
+data["Ansonluo"]['131']=[-1,0]
+data["Ansonluo"]['132']=[-1,0]
+data["Ansonluo"]['133']=[1697,2]
+data["Ansonluo"]['134']=[1848,1]
+data["Ansonluo"]['135']=[1193,2]
+
+data.pop("Ansonluo1")
 
 
 pprint(data)    
