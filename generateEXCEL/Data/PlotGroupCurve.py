@@ -7,14 +7,34 @@ import numpy as np
 start = datetime.date(2018,9,2)
 today = datetime.date.today()
 
-file = open("Members/In.txt","r") 
-data = file.readlines()
-file.close()
-
 addPeople = collections.defaultdict(int)
 losePeople = collections.defaultdict(int)
 PeopleStatIn = []
 PeopleStatOut = []
+
+file = open("Members/Out.txt","r") 
+data = file.readlines()
+file.close()
+
+for line in data:
+  if len(line.split())!=3: continue
+  
+  readDate = line.split()[1]
+  d = readDate.split("/")  
+  date1 = datetime.date(int(d[2]),int(d[0]),int(d[1]))
+  addPeople[date1]+=1
+  
+  readDate = line.split()[2]
+  d = readDate.split("/")  
+  date2 = datetime.date(int(d[2]),int(d[0]),int(d[1]))
+  losePeople[date2]+=1
+  
+  PeopleStatOut.append((date2-date1).days)
+
+
+file = open("Members/In.txt","r") 
+data = file.readlines()
+file.close()
 
 for line in data:
   if len(line.split())!=2: continue
@@ -26,25 +46,6 @@ for line in data:
   PeopleStatIn.append((today-date).days)
 
 
-file = open("Members/Out.txt","r") 
-data = file.readlines()
-file.close()
-
-
-for line in data:
-  if len(line.split())!=3: continue
-  
-  readDate = line.split()[1]
-  d = readDate.split("/")  
-  date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
-  addPeople[date]+=1
-  
-  readDate = line.split()[2]
-  d = readDate.split("/")  
-  date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
-  losePeople[date]+=1
-  
-  PeopleStatOut.append((today-date).days)
   
   
 count = 0;
@@ -74,9 +75,6 @@ for i in range(len(Days)):
     print(Days[i]," ",Nums[i])
 
 
-fig,(ax0,ax1) = plt.subplots(nrows=2,figsize=(9,6))  
-
-    
 plt.figure(21,figsize=(10,10))
 
 plt.subplot(211)
