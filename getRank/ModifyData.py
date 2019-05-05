@@ -182,10 +182,14 @@ data["dfy8054"]['133']=[747,3]
 for contest in range(132,133+1):    
     data["galiniunan"][str(contest)]=[-2,0] # rejoin
 
-"""
+
 for contest in range(118,134+1):  
     data["hxin"][str(contest)]=[-2,0]
-"""
+    data["ddxig"][str(contest)]=[-2,0]
+    data["Caloplaca"][str(contest)]=[-2,0]
+    data["uwelena"][str(contest)]=[-2,0]
+    data["dickbomb"][str(contest)]=[-2,0]
+
 
 pprint(data)    
 
@@ -215,6 +219,7 @@ contests["131"] = 4894
 contests["132"] = 4765
 contests["133"] = 3863
 contests["134"] = 4136
+contests["135"] = 3634
 
 json_str = json.dumps(contests)
 
