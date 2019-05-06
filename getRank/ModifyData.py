@@ -205,7 +205,11 @@ data["Ansonluo"]['133']=[1697,2]
 data["Ansonluo"]['134']=[1848,1]
 data["Ansonluo"]['135']=[1193,2]
 
-data.pop("Ansonluo1")
+"""
+for contest in range(123,135+1):  
+    data["sissishiny"][str(contest)]=[-2,0]
+
+"""
 
 
 pprint(data)    
