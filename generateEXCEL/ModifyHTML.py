@@ -25,6 +25,8 @@ content = content.replace("LandingAI-Logo","<img src='Img/LandingAI.png' width=1
 content = content.replace("UPenn-Logo","<img src='Img/UPenn.png' width=17 height=17>")
 content = content.replace("Dataminr-Logo","<img src='Img/Dataminr.jpeg' width=17 height=17>")
 content = content.replace("Palo-alto-Logo","<img src='Img/Palo-alto.png' width=20 height=20>")
+content = content.replace("Pony-Logo","<img src='Img/Pony.png' width=30 height=18>")
+content = content.replace("KeepTruckin-Logo","<img src='Img/KeepTruckin.png' width=40 height=20>")
 
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
