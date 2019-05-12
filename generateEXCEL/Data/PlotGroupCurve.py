@@ -94,7 +94,7 @@ plt.grid(axis='y', alpha=0.75)
 plt.xticks( list(range(0,maxDay,25)), list(range(0,maxDay,25)))
 plt.xlabel('Survival Days')
 plt.ylabel('Number of People')
-plt.title('Membership length statistics')
+plt.title('Membership duration statistics')
 plt.legend(loc = 'upper right')
 
 plt.subplots_adjust(hspace=0.6)  

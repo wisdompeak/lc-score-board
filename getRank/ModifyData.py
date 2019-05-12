@@ -205,11 +205,19 @@ data["Ansonluo"]['133']=[1697,2]
 data["Ansonluo"]['134']=[1848,1]
 data["Ansonluo"]['135']=[1193,2]
 
-"""
+
 for contest in range(123,135+1):  
     data["sissishiny"][str(contest)]=[-2,0]
+    data["xinyue1597"][str(contest)]=[-2,0]
+    data["kuangwenyi"][str(contest)]=[-2,0]
+    data["Hines"][str(contest)]=[-2,0]
+    data["baihuajun"][str(contest)]=[-2,0]
+    data["yuchenliulyc"][str(contest)]=[-2,0]
+    data["winniex0412"][str(contest)]=[-2,0]
+    data["aruba1"][str(contest)]=[-2,0]
+    
 
-"""
+
 
 
 pprint(data)    
@@ -241,6 +249,7 @@ contests["132"] = 4765
 contests["133"] = 3863
 contests["134"] = 4136
 contests["135"] = 3634
+contests["136"] = 4109
 
 json_str = json.dumps(contests)
 
