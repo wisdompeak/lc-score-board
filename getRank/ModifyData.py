@@ -216,8 +216,11 @@ for contest in range(123,135+1):
     data["winniex0412"][str(contest)]=[-2,0]
     data["aruba1"][str(contest)]=[-2,0]
     
-
-
+"""    
+for contest in range(133,135+1):  
+	data["bifeitang"][str(contest)]=[-2,0]		# rejoin
+data["bifeitang"]['136']=[697,2]	
+"""
 
 
 pprint(data)    
