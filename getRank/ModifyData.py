@@ -185,27 +185,6 @@ for contest in range(118,134+1):
     data["uwelena"][str(contest)]=[-2,0]
     data["dickbomb"][str(contest)]=[-2,0]
 
-
-data["Ansonluo"]['118']=[1799,1]			
-data["Ansonluo"]['119']=[556,3]			
-data["Ansonluo"]['120']=[1622,2]			
-data["Ansonluo"]['121']=[769,2]
-data["Ansonluo"]['122']=[-1,0]
-data["Ansonluo"]['123']=[1353,1]
-data["Ansonluo"]['124']=[1133,2]
-data["Ansonluo"]['125']=[1778,2]
-data["Ansonluo"]['126']=[596,3]
-data["Ansonluo"]['127']=[1928,3]
-data["Ansonluo"]['128']=[858,3]
-data["Ansonluo"]['129']=[924,2]
-data["Ansonluo"]['130']=[2574,1]
-data["Ansonluo"]['131']=[-1,0]
-data["Ansonluo"]['132']=[-1,0]
-data["Ansonluo"]['133']=[1697,2]
-data["Ansonluo"]['134']=[1848,1]
-data["Ansonluo"]['135']=[1193,2]
-
-
 for contest in range(123,135+1):  
     data["sissishiny"][str(contest)]=[-2,0]
     data["xinyue1597"][str(contest)]=[-2,0]
@@ -216,11 +195,37 @@ for contest in range(123,135+1):
     data["winniex0412"][str(contest)]=[-2,0]
     data["aruba1"][str(contest)]=[-2,0]
     
-"""    
+
 for contest in range(133,135+1):  
 	data["bifeitang"][str(contest)]=[-2,0]		# rejoin
 data["bifeitang"]['136']=[697,2]	
-"""
+
+for contest in range(118,136+1):  
+	data["qianchanger"][str(contest)]=[-2,0]
+	data["Jc_Qu"][str(contest)]=[-2,0]
+	data["Henry_Jiang"][str(contest)]=[-2,0]
+
+data["Rui_Huang"]['136']=[0,-2]		# rejoin
+
+data["ansonluo"]['118']=[1799,1]			
+data["ansonluo"]['119']=[556,3]			
+data["ansonluo"]['120']=[1622,2]			
+data["ansonluo"]['121']=[769,2]
+data["ansonluo"]['122']=[-1,0]
+data["ansonluo"]['123']=[1353,1]
+data["ansonluo"]['124']=[1133,2]
+data["ansonluo"]['125']=[1778,2]
+data["ansonluo"]['126']=[596,3]
+data["ansonluo"]['127']=[1928,3]
+data["ansonluo"]['128']=[858,3]
+data["ansonluo"]['129']=[924,2]
+data["ansonluo"]['130']=[2574,1]
+data["ansonluo"]['131']=[-1,0]
+data["ansonluo"]['132']=[-1,0]
+data["ansonluo"]['133']=[1697,2]
+data["ansonluo"]['134']=[1848,1]
+data["ansonluo"]['135']=[1193,2]
+data["ansonluo"]['136']=[-1,0]
 
 
 pprint(data)    
@@ -253,6 +258,7 @@ contests["133"] = 3863
 contests["134"] = 4136
 contests["135"] = 3634
 contests["136"] = 4109
+contests["137"] = 4091
 
 json_str = json.dumps(contests)
 

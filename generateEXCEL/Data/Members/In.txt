@@ -2,7 +2,7 @@ wisdompeak	9/2/2018
 whe_bupt	9/2/2018
 OneDirection	9/2/2018
 KyleAC	9/2/2018
-Ansonluo	9/2/2018
+ansonluo	9/2/2018
 haitao7	9/3/2018
 lee215	9/8/2018
 jmzhang18	9/9/2018
@@ -93,4 +93,5 @@ aruba1	5/10/2019
 bifeitang	5/11/2019
 qianchanger	5/12/2019
 Jc_Qu	5/13/2019
-
+Rui_Huang	5/16/2019
+Henry_Jiang	5/17/2019
