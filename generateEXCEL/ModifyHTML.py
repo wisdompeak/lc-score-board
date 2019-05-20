@@ -27,11 +27,12 @@ content = content.replace("Dataminr-Logo","<img src='Img/Dataminr.jpeg' width=17
 content = content.replace("Palo-alto-Logo","<img src='Img/Palo-alto.png' width=20 height=20>")
 content = content.replace("Pony-Logo","<img src='Img/Pony.png' width=30 height=10>")
 content = content.replace("KeepTruckin-Logo","<img src='Img/KeepTruckin.png' width=40 height=20>")
+content = content.replace("Reflexis-Logo","<img src='Img/Reflexis.jpeg' width=20 height=20>")
 
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
-content = content.replace("<title></title>","<title>刷刷群</title>")
+content = content.replace("<title></title>","<title>残酷刷题群</title>")
 
 content = content.replace('<head>','<head><link rel="shortcut icon" type="image/x-icon" href="Img/icon.ico" />')
 
