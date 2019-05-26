@@ -139,7 +139,7 @@ print(colors)
 colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
 sheet.column_dimensions['B'].width = 25.0
-sheet.column_dimensions['D'].width = 10.0
+# sheet.column_dimensions['D'].width = 7.0
 SIZE = 15
 
 # output header "contest" 
