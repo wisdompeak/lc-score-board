@@ -227,6 +227,13 @@ data["ansonluo"]['134']=[1848,1]
 data["ansonluo"]['135']=[1193,2]
 data["ansonluo"]['136']=[-1,0]
 
+for contest in range(118,137+1):  
+    data["zzy1996"][str(contest)]=[-2,0]
+    data["thumbpixels"][str(contest)]=[-2,0]
+    
+for contest in range(125,137+1):  
+    data["jianzhun"][str(contest)]=[-2,0] # rejoin
+    
 
 pprint(data)    
 
@@ -259,6 +266,7 @@ contests["134"] = 4136
 contests["135"] = 3634
 contests["136"] = 4109
 contests["137"] = 4091
+contests["138"] = 4143
 
 json_str = json.dumps(contests)
 
