@@ -205,7 +205,7 @@ for contest in range(118,136+1):
 	data["Jc_Qu"][str(contest)]=[-2,0]
 	data["Henry_Jiang"][str(contest)]=[-2,0]
 
-data["Rui_Huang"]['136']=[0,-2]		# rejoin
+data["Rui_Huang"]['136']=[-2,0]		# rejoin
 
 data["ansonluo"]['118']=[1799,1]			
 data["ansonluo"]['119']=[556,3]			
