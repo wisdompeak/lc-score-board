@@ -42,7 +42,6 @@ FrankYao	3/3/2019
 sukeyzhou	3/10/2019
 wangyxwyx	3/13/2019
 zexingfa	3/15/2019
-gzh47	3/17/2019
 user504	3/20/2019
 SummerYang19	3/20/2019
 whyer	3/20/2019
@@ -52,7 +51,6 @@ nagato1208	3/20/2019
 weiyang95	3/20/2019
 thu_winfield	3/21/2019
 suzyzhang	3/22/2019
-ellaliu	3/24/2019
 leetcodeyu1990	3/24/2019
 wanyoyo	3/24/2019
 ZhengkaiWei	3/24/2019
@@ -78,11 +76,9 @@ Caloplaca	5/1/2019
 uwelena	5/2/2019
 sissishiny	5/5/2019
 xinyue1597	5/6/2019
-kuangwenyi	5/6/2019
 Hines	5/6/2019
 baihuajun	5/9/2019
 yuchenliulyc	5/9/2019
-winniex0412	5/9/2019
 aruba1	5/10/2019
 bifeitang	5/11/2019
 qianchanger	5/12/2019
@@ -94,4 +90,5 @@ jianzhun	5/21/2019
 thumbpixels	5/21/2019
 adayxiang	5/28/2019
 KatieeeeWang	5/28/2019
-
+tift	5/29/2019
+VectorX	6/1/2019
