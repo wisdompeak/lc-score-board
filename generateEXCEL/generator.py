@@ -342,7 +342,16 @@ sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/resources.html'
 
-row, column = RowOffset+8, 2
+row, column = RowOffset+7, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+5)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'See where we are from'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://drive.google.com/open?id=1c1t3qKsKxTTnDD_P2BsFsrL7p8l9Bou8&usp=sharing'
+
+row, column = RowOffset+9, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+15)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
@@ -350,7 +359,7 @@ sheet[idx].value = 'If you are interested in joining this group, please contact:
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 
-row, column = RowOffset+9, 2
+row, column = RowOffset+10, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+15)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
