@@ -372,7 +372,7 @@ sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
 
 ### curve figure
 
-RowOffset += 10
+RowOffset += 11
 
 row, column = RowOffset, 2
 idx = convertToTitle(column)+str(row) 
