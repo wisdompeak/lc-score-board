@@ -239,8 +239,39 @@ for contest in range(118,138+1):
 	data["KatieeeeWang"][str(contest)]=[-2,0]
 	data["tift"][str(contest)]=[-2,0]
 	data["VectorX"][str(contest)]=[-2,0]
+data["VectorX"]['137']=[154,4]	
+data["VectorX"]['138']=[158,4]	
 
 
+for contest in range(118,139+1): 
+	data["ixinqi"][str(contest)]=[-2,0]
+	data["KyleFu"][str(contest)]=[-2,0]
+	data["jasonzzzzz"][str(contest)]=[-2,0]
+	data["clue2gt"][str(contest)]=[-2,0]
+	data["sabakunoarashi"][str(contest)]=[-2,0]
+	data["liujiashun66"][str(contest)]=[-2,0]
+	data["cyn3966"][str(contest)]=[-2,0]
+	data["lumic"][str(contest)]=[-2,0]
+	data["LZ1994"][str(contest)]=[-2,0]
+	data["yuw119"][str(contest)]=[-2,0]
+	data["praenubilus"][str(contest)]=[-2,0]
+	data["fang2018"][str(contest)]=[-2,0]	
+	data["1373757850"][str(contest)]=[-2,0]
+	data["IrisGuo"][str(contest)]=[-2,0]
+	data["hui1202"][str(contest)]=[-2,0]
+	data["liuleo"][str(contest)]=[-2,0]
+		
+for contest in range(124,139+1):  
+    data["ZhuYamei"][str(contest)]=[-2,0] # rejoin
+    data["xxnzym"][str(contest)]=[-2,0] # rejoin
+    		
+for contest in range(136,139+1):  
+    data["1373757850"][str(contest)]=[-2,0] # rejoin
+
+data["yuw119"]['138']=[232,4]	    
+data["yuw119"]['139']=[624,2]
+   
+    
 pprint(data)    
 
 
