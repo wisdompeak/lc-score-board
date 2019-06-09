@@ -55,7 +55,6 @@ wanyoyo	3/24/2019
 ZhengkaiWei	3/24/2019
 richarddia	3/24/2019
 cc189	3/24/2019
-FrankZC	3/26/2019
 ShangqiYang	3/31/2019
 xuyequan	4/10/2019
 Charlesna	4/14/2019
@@ -64,7 +63,7 @@ waitnote	4/21/2019
 tankztc	4/21/2019
 galiniunan	4/21/2019
 wxy9018	4/22/2019
-dfy8054	4/23/2019
+stayfoolish2	4/23/2019
 FYQiang	4/23/2019
 bradhuang1999	4/24/2019
 fighting_for_flag	4/26/2019
@@ -105,4 +104,4 @@ fang2018	6/4/2019
 IrisGuo	6/5/2019
 hui1202	6/6/2019
 liuleo	6/6/2019
-
+yedi	6/8/2019
