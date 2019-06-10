@@ -282,7 +282,7 @@ sheet[idx].font = Font(size=12)
 
 row, column = RowOffset+1, 4        
 idx = convertToTitle(column)+str(row) 
-sheet[idx].value = 'YOUXIU'
+sheet[idx].value = 'YouXiu'
 sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].font = Font(size=SIZE)
