@@ -232,6 +232,8 @@ for contest in range(118,137+1):
     
 for contest in range(125,137+1):  
     data["jianzhun"][str(contest)]=[-2,0] # rejoin
+
+### before 139
     
 for contest in range(118,138+1): 
 	data["adayxiang"][str(contest)]=[-2,0]
@@ -241,6 +243,7 @@ for contest in range(118,138+1):
 data["VectorX"]['137']=[154,4]	
 data["VectorX"]['138']=[158,4]	
 
+### before 140
 
 for contest in range(118,139+1): 
 	data["ixinqi"][str(contest)]=[-2,0]
@@ -256,9 +259,25 @@ for contest in range(118,139+1):
 	data["praenubilus"][str(contest)]=[-2,0]
 	data["fang2018"][str(contest)]=[-2,0]	
 	data["1373757850"][str(contest)]=[-2,0]
-	data["IrisGuo"][str(contest)]=[-2,0]
 	data["hui1202"][str(contest)]=[-2,0]
 	data["liuleo"][str(contest)]=[-2,0]
+		
+data["IrisGuo"]['118']=[112,4]
+data["IrisGuo"]['119']=[164,4]
+data["IrisGuo"]['120']=[154,4]
+data["IrisGuo"]['121']=[637,3]
+data["IrisGuo"]['122']=[142,4]
+data["IrisGuo"]['123']=[161,3]
+data["IrisGuo"]['124']=[418,3]
+data["IrisGuo"]['125']=[269,4]
+data["IrisGuo"]['126']=[20,4]
+data["IrisGuo"]['127']=[758,4]		
+data["IrisGuo"]['128']=[613,3]  # rejoin
+data["IrisGuo"]['129']=[-1,0]
+data["IrisGuo"]['130']=[-1,0]
+for contest in range(131,139+1): 
+    data["IrisGuo"][str(contest)]=[-2,0]
+
 		
 for contest in range(124,139+1):  
     data["ZhuYamei"][str(contest)]=[-2,0] # rejoin
