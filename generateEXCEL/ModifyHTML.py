@@ -31,9 +31,8 @@ content = content.replace("Reflexis-Logo","<img src='Img/Reflexis.jpeg' width=20
 content = content.replace("Airbnb-Logo","<img src='Img/Airbnb.png' width=19 height=19>")
 content = content.replace("Alibaba-Logo","<img src='Img/Alibaba.png' width=19 height=19>")
 content = content.replace("DellEMC-Logo","<img src='Img/DellEMC.png' width=18 height=18>")
-content = content.replace("Visa-Logo","<img src='Img/Visa.png' width=22 height=14>")
 content = content.replace("Expedia-Logo","<img src='Img/Expedia.png' width=18 height=18>")
-
+content = content.replace("Citi-Logo","<img src='Img/Citi.jpeg' width=22 height=17>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
