@@ -258,7 +258,6 @@ for contest in range(118,139+1):
 	data["yuw119"][str(contest)]=[-2,0]
 	data["praenubilus"][str(contest)]=[-2,0]
 	data["fang2018"][str(contest)]=[-2,0]	
-	data["1373757850"][str(contest)]=[-2,0]
 	data["hui1202"][str(contest)]=[-2,0]
 	data["liuleo"][str(contest)]=[-2,0]
 		
@@ -272,12 +271,23 @@ data["IrisGuo"]['124']=[418,3]
 data["IrisGuo"]['125']=[269,4]
 data["IrisGuo"]['126']=[20,4]
 data["IrisGuo"]['127']=[758,4]		
-data["IrisGuo"]['128']=[613,3]  # rejoin
+data["IrisGuo"]['128']=[613,3] 
 data["IrisGuo"]['129']=[-1,0]
 data["IrisGuo"]['130']=[-1,0]
-for contest in range(131,139+1): 
+for contest in range(131,139+1): 	 # rejoin
     data["IrisGuo"][str(contest)]=[-2,0]
 
+data["1373757850"]['127']=[2017,2]
+data["1373757850"]['128']=[2522,2]
+data["1373757850"]['129']=[304,4]
+data["1373757850"]['130']=[1644,2]
+data["1373757850"]['131']=[1353,3]
+data["1373757850"]['132']=[3003,1]
+data["1373757850"]['133']=[-1,0]
+data["1373757850"]['134']=[1679,1]
+data["1373757850"]['135']=[2114,1]
+for contest in range(136,139+1): 	 # rejoin
+	data["1373757850"][str(contest)]=[-2,0]
 		
 for contest in range(124,139+1):  
     data["ZhuYamei"][str(contest)]=[-2,0] # rejoin
