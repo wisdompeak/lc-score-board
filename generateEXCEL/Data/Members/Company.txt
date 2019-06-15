@@ -35,6 +35,7 @@ sshang Microsoft
 huyouhyw Microsoft
 xxnzym Microsoft
 Kaiyu-Wang Microsoft
+wyzhang421 Microsoft
 
 ZOEGREEN Alibaba
 
@@ -90,3 +91,5 @@ Arco Airbnb
 jasonzzzzz DellEMC
 
 VectorX Visa
+
+venico19 Expedia
