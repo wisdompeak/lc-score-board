@@ -69,7 +69,6 @@ fighting_for_flag	4/26/2019
 hxin	4/27/2019
 Caloplaca	5/1/2019
 uwelena	5/2/2019
-baihuajun	5/9/2019
 yuchenliulyc	5/9/2019
 aruba1	5/10/2019
 bifeitang	5/11/2019
@@ -113,4 +112,3 @@ alex_woods	6/12/2019
 weidong6686	6/13/2019
 lanxi619	6/14/2019
 tocque	6/14/2019
-davidluoyes	6/15/2019
