@@ -26,7 +26,6 @@ sshang	1/5/2019
 leoknuth	1/6/2019
 XingxingHuang	1/8/2019
 Shaotong	1/12/2019
-keyupeter	1/23/2019
 user4286	1/23/2019
 user760	2/6/2019
 zhounaiding	2/16/2019
@@ -116,3 +115,4 @@ qingqi_lei	6/22/2019
 JackTheBest	6/22/2019
 timfan	6/24/2019
 wangru1994305	6/24/2019
+
