@@ -338,12 +338,12 @@ for contest in range(118,141+1):
 ### before 143		
 for contest in range(118,142+1): 
 	data["qingqi_lei"][str(contest)]=[-2,0]
-	data["timfan"][str(contest)]=[-2,0]
+	data["timFan"][str(contest)]=[-2,0]
 	data["wangru1994305"][str(contest)]=[-2,0]
 for contest in range(132,142+1):  
     data["JackTheBest"][str(contest)]=[-2,0] # rejoin    
     
-# data.pop("dfy8054")
+data.pop("timfan")
     
 pprint(data)    
 
