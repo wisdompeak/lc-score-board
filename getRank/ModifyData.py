@@ -311,7 +311,7 @@ data["stayfoolish2"]['138']=[956,3]
 data["stayfoolish2"]['139']=[948,2]
 
 
-### before 140
+### before 141
 
 for contest in range(118,140+1): 
 	data["yedi"][str(contest)]=[-2,0]
@@ -329,13 +329,19 @@ for contest in range(118,140+1):
 	data["tocque"][str(contest)]=[-2,0]
 	data["davidluoyes"][str(contest)]=[-2,0]
 	
-### before 141	
+### before 142	
 for contest in range(118,141+1): 
 	data["Lawrence_M"][str(contest)]=[-2,0]
 	data["zgcmx2011"][str(contest)]=[-2,0]
 	data["shuoyan"][str(contest)]=[-2,0]
-
-    
+	
+### before 143		
+for contest in range(118,142+1): 
+	data["qingqi_lei"][str(contest)]=[-2,0]
+	data["timfan"][str(contest)]=[-2,0]
+	data["wangru1994305"][str(contest)]=[-2,0]
+for contest in range(132,142+1):  
+    data["JackTheBest"][str(contest)]=[-2,0] # rejoin    
     
 # data.pop("dfy8054")
     
@@ -375,6 +381,7 @@ contests["139"] = 3985
 contests["140"] = 4046
 contests["141"] = 4126
 contests["142"] = 4504
+contests["143"] = 4271
 
 json_str = json.dumps(contests)
 
