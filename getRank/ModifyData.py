@@ -343,7 +343,18 @@ for contest in range(118,142+1):
 for contest in range(132,142+1):  
     data["JackTheBest"][str(contest)]=[-2,0] # rejoin    
     
-data.pop("timfan")
+### before 144		
+for contest in range(118,143+1): 
+	data["tesla_pp"][str(contest)]=[-2,0]
+	data["mangoman"][str(contest)]=[-2,0]
+	data["litian220"][str(contest)]=[-2,0]
+	data["yunfanyi"][str(contest)]=[-2,0]
+	data["superflb"][str(contest)]=[-2,0]
+	data["coder001"][str(contest)]=[-2,0]
+	data["wenting95"][str(contest)]=[-2,0]  
+for contest in range(135,143+1):  
+    data["yueb95"][str(contest)]=[-2,0] # rejoin 
+
     
 pprint(data)    
 
@@ -382,6 +393,8 @@ contests["140"] = 4046
 contests["141"] = 4126
 contests["142"] = 4504
 contests["143"] = 4271
+contests["144"] = 4358
+
 
 json_str = json.dumps(contests)
 
