@@ -142,30 +142,62 @@ sheet.column_dimensions['B'].width = 25.0
 # sheet.column_dimensions['D'].width = 7.0
 SIZE = 15
 
+# output header "Wisdompeak Cup"
+RowOffset = 1
+row, column = RowOffset+1, 2
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+8)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+sheet[idx1].value = 'Wanna more challenge? Try Wisdompeak Cup!'
+sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/cup.html'
+sheet[idx1].alignment = Alignment(horizontal='left')
+sheet[idx1].font = Font(bold=True, size=SIZE)
+
+# output header "Contest Score Board"
+RowOffset += 2
+row, column = RowOffset+1, 2
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+8)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+sheet.row_dimensions[row].height = 20.0
+sheet[idx1].value = 'LeetCode Weekly Contest Score Board'
+sheet[idx1].alignment = Alignment(horizontal='left')
+sheet[idx1].font = Font(bold=True, size=18)
+
+
+RowOffset += 2;
+
 # output header "contest" 
-sheet['B1'].value = 'Contest'
-sheet['B1'].alignment = Alignment(horizontal='center')
-sheet['B1'].font = Font(bold=True, size=SIZE)
+row, column = RowOffset+1, 2
+idx = convertToTitle(column)+str(row)
+sheet[idx].value = 'Contest'
+sheet[idx].alignment = Alignment(horizontal='center')
+sheet[idx].font = Font(bold=True, size=SIZE)
 
 # output header "contest" "Participants"
-sheet['B2'].value = 'Participants'
-sheet['B2'].alignment = Alignment(horizontal='center')
-sheet['B2'].font = Font(bold=True, size=SIZE)
+row, column = RowOffset+2, 2
+idx = convertToTitle(column)+str(row)
+sheet[idx].value = 'Participants'
+sheet[idx].alignment = Alignment(horizontal='center')
+sheet[idx].font = Font(bold=True, size=SIZE)
 
 # output header "Score"
-sheet['C2'].value = 'Days'
-sheet['C2'].alignment = Alignment(horizontal='center')
-sheet['C2'].font = Font(bold=True, size=SIZE)
+row, column = RowOffset+2, 3
+idx = convertToTitle(column)+str(row)
+sheet[idx].value = 'Days'
+sheet[idx].alignment = Alignment(horizontal='center')
+sheet[idx].font = Font(bold=True, size=SIZE)
 
 # output header "Membership"
-sheet['D2'].value = 'Score'
-sheet['D2'].alignment = Alignment(horizontal='center')
-sheet['D2'].font = Font(bold=True, size=SIZE)
-
+row, column = RowOffset+2, 4
+idx = convertToTitle(column)+str(row)
+sheet[idx].value = 'Score'
+sheet[idx].alignment = Alignment(horizontal='center')
+sheet[idx].font = Font(bold=True, size=SIZE)
 
 # output contest ID / number of players
 for k in range(endContest-startContest+1):
-  row, column = 1, 5+k*2
+  row, column = RowOffset+1, 5+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
@@ -174,7 +206,7 @@ for k in range(endContest-startContest+1):
   sheet[idx1].font = Font(bold=True, size=SIZE)
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
   
-  row, column = 2, 5+k*2
+  row, column = RowOffset+2, 5+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
@@ -184,7 +216,7 @@ for k in range(endContest-startContest+1):
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
 
 
-RowOffset = 4;
+RowOffset += 4;
 
 for i in range(len(id_list)):
 
