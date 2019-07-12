@@ -50,7 +50,6 @@ leetcodeyu1990	3/24/2019
 wanyoyo	3/24/2019
 ZhengkaiWei	3/24/2019
 richarddia	3/24/2019
-cc189	3/24/2019
 ShangqiYang	3/31/2019
 xuyequan	4/10/2019
 Charlesna	4/14/2019
@@ -121,4 +120,5 @@ wenting95	7/5/2019
 xhou0540	7/7/2019
 Dawnren123	7/7/2019
 song30	7/7/2019
+nezeit	7/12/2019
 
