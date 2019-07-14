@@ -32,6 +32,7 @@ whyer Amazon
 LittleBaldHead Amazon
 waitnote Amazon
 Tao Amazon
+shaun Amazon
 
 kaizer87 Microsoft
 sshang Microsoft
@@ -44,6 +45,7 @@ qw123 Microsoft
 ZOEGREEN Alibaba
 
 OneDirection Apple
+bradhuang1999 Apple
 
 Golden_Fish Facebook
 
@@ -51,6 +53,7 @@ ForGive AMD
 
 davidqing1991 PureStorage
 jiang718 PureStorage
+MIFI1415926 PureStorage
 
 dennanisny VMware
 xguo-Will VMware

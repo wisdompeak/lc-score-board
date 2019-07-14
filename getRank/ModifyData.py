@@ -355,7 +355,14 @@ for contest in range(118,143+1):
 for contest in range(135,143+1):  
     data["yueb95"][str(contest)]=[-2,0] # rejoin 
 
-    
+### before 145	
+for contest in range(118,144+1): 
+	data["xhou0540"][str(contest)]=[-2,0]
+	data["Dawnren123"][str(contest)]=[-2,0]
+	data["song30"][str(contest)]=[-2,0]
+	data["zac4"][str(contest)]=[-2,0]
+	
+	    
 pprint(data)    
 
 
@@ -394,6 +401,7 @@ contests["141"] = 4126
 contests["142"] = 4504
 contests["143"] = 4271
 contests["144"] = 4358
+contests["145"] = 4931
 
 
 json_str = json.dumps(contests)
