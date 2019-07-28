@@ -1,7 +1,6 @@
 wisdompeak	9/2/2018
 whe_bupt	9/2/2018
 OneDirection	9/2/2018
-KyleAC	9/2/2018
 ansonluo	9/2/2018
 haitao7	9/3/2018
 lee215	9/8/2018
@@ -34,7 +33,6 @@ Dengxj	3/3/2019
 FrankYao	3/3/2019
 sukeyzhou	3/10/2019
 wangyxwyx	3/13/2019
-zexingfa	3/15/2019
 user504	3/20/2019
 SummerYang19	3/20/2019
 whyer	3/20/2019
