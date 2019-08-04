@@ -380,6 +380,14 @@ for contest in range(118,146+1):
 	data["Sakamono"][str(contest)]=[-2,0]
 	data["zerotrac2"][str(contest)]=[-2,0]
 	data["ChenDanni"][str(contest)]=[-2,0]
+	
+### before 148
+for contest in range(118,147+1): 
+	data["KMAGYOYO"][str(contest)]=[-2,0]
+	data["clu9"][str(contest)]=[-2,0]
+	data["nanjers"][str(contest)]=[-2,0]
+	data["Jessi_zxy"][str(contest)]=[-2,0]
+	data["zhu_irse"][str(contest)]=[-2,0]	
 		    
 pprint(data)    
 
