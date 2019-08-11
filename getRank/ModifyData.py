@@ -396,9 +396,11 @@ for contest in range(118,148+1):
 	data["liuchanglouisa"][str(contest)]=[-2,0]
 	data["exquisitetaste"][str(contest)]=[-2,0]
 	data["wangzi6147"][str(contest)]=[-2,0]		
-	data["xiaojinghu"][str(contest)]=[-2,0]			
+	data["XiaojingHu"][str(contest)]=[-2,0]			
 		    
-pprint(data)    
+pprint(data)   
+
+# data.pop("xiaojinghu") 
 
 
 json_str = json.dumps(data)
