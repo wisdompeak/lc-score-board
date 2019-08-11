@@ -400,7 +400,10 @@ for contest in range(118,148+1):
 		    
 pprint(data)   
 
-# data.pop("xiaojinghu") 
+#data.push("Duuuuu")
+# data["Duuuuu"] = data["jianzhun"]
+
+#data.pop("jianzhun") 
 
 
 json_str = json.dumps(data)
