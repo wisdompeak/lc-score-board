@@ -38,6 +38,7 @@ content = content.replace("Ebay-Logo","<img src='Img/Ebay.png' width=23 height=1
 content = content.replace("DXC-Logo","<img src='Img/DXC.png' width=20 height=16>")
 content = content.replace("Cruise-Logo","<img src='Img/Cruise.png' width=22 height=16>")
 content = content.replace("Zhihu-Logo","<img src='Img/Zhihu.jpeg' width=18 height=18>")
+content = content.replace("Momenta-Logo","<img src='Img/Momenta.png' width=20 height=20>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
