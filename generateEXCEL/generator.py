@@ -19,7 +19,7 @@ def convertToTitle(n):
   return result
         
 startContest = 118
-endContest = 149
+endContest = 150
 ContestNumbers = endContest-startContest+1
 
 ###############################################
@@ -101,6 +101,7 @@ for personID in data:
 
   if personID in id_list: continue
   if personID=="Ansonluo": continue
+  if personID=="": continue
   
   row = [personID] 
   for contestID in range(endContest,startContest-1,-1):
@@ -135,7 +136,6 @@ for row in table2:
 wb = openpyxl.Workbook()
 sheet = wb.active
 sheet.title = 'LeetCode Score Book'
-print(colors)
 colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
 
 sheet.column_dimensions['B'].width = 25.0
@@ -383,7 +383,18 @@ sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://drive.google.com/open?id=1c1t3qKsKxTTnDD_P2BsFsrL7p8l9Bou8&usp=sharing'
 
-row, column = RowOffset+9, 2
+
+row, column = RowOffset+8, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+5)+str(row) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'Cruel System Design Group'
+sheet[idx].font = Font(size=15)
+sheet[idx].font = Font(bold=True, size=SIZE)
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/sd.html'
+
+
+row, column = RowOffset+10, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+15)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
@@ -391,7 +402,7 @@ sheet[idx].value = 'If you are interested in joining this group, please contact:
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 
-row, column = RowOffset+10, 2
+row, column = RowOffset+11, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+15)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
@@ -404,7 +415,7 @@ sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
 
 ### curve figure
 
-RowOffset += 11
+RowOffset += 12
 
 row, column = RowOffset, 2
 idx = convertToTitle(column)+str(row) 
@@ -438,6 +449,7 @@ for i in range(len(table2)):
   if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
   name = table2[i][0]
+
   
   for j in range(len(table2[i])):  # column index
      

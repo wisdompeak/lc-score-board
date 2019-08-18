@@ -231,7 +231,7 @@ for contest in range(118,137+1):
     data["thumbpixels"][str(contest)]=[-2,0]
     
 for contest in range(125,137+1):  
-    data["jianzhun"][str(contest)]=[-2,0] # rejoin
+    data["Duuuuu"][str(contest)]=[-2,0] # rejoin
 
 ### before 139
     
@@ -396,7 +396,28 @@ for contest in range(118,148+1):
 	data["liuchanglouisa"][str(contest)]=[-2,0]
 	data["exquisitetaste"][str(contest)]=[-2,0]
 	data["wangzi6147"][str(contest)]=[-2,0]		
-	data["XiaojingHu"][str(contest)]=[-2,0]			
+	data["XiaojingHu"][str(contest)]=[-2,0]		
+	
+### before 150
+for contest in range(118,149+1): 
+	data["ZhiWei_Shi"][str(contest)]=[-2,0]
+	data["FlashCorgi"][str(contest)]=[-2,0]
+	data["latioshuang"][str(contest)]=[-2,0]
+	data["Erwin_Ke"][str(contest)]=[-2,0]
+	data["gingerale"][str(contest)]=[-2,0]		
+	data["LijianChen"][str(contest)]=[-2,0]	
+for contest in range(143,149+1):  
+    data["thu_winfield"][str(contest)]=[-2,0] # rejoin 	
+
+
+
+
+
+
+
+
+
+				
 		    
 pprint(data)   
 
@@ -446,6 +467,7 @@ contests["146"] = 5074
 contests["147"] = 4906
 contests["148"] = 5319
 contests["149"] = 5091
+contests["150"] = 5338
 
 
 json_str = json.dumps(contests)
