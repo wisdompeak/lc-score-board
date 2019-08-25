@@ -19,7 +19,7 @@ def convertToTitle(n):
   return result
         
 startContest = 118
-endContest = 150
+endContest = 151
 ContestNumbers = endContest-startContest+1
 
 ###############################################
@@ -55,12 +55,13 @@ with open('../getRank/contests.json', 'r') as f:
 fi = open('../getRank/id.in', 'r')
 id_list = [line.strip() for line in fi.readlines()]
 id_list.remove("lee215")
+id_list.remove("")
 fi.close()   	
 
 # compute scores
 
 table = []
-for personID in id_list:
+for personID in id_list:  
   row = [personID] 
   for contestID in range(endContest,startContest-1,-1):
     contestID = str(contestID)    
