@@ -79,7 +79,7 @@ plt.figure(21,figsize=(10,10))
 
 plt.subplot(211)
 plt.plot(Nums, label = 'member growth curve')
-plt.fill_between(list(range(0,len(Days))), lower, upper, color = '#539caf', alpha = 0.5, label = 'same day fluctuation')
+plt.fill_between(list(range(0,len(Days))), lower, upper, color = '#539caf', alpha = 0.5, label = 'same-day fluctuation')
 plt.xticks( list(range(0, len(Days),14)), Days[:-1:14], rotation=20 ) 
 plt.grid(linestyle='-.')
 plt.title("Historical number of members growth curve (weekly updated) ")
