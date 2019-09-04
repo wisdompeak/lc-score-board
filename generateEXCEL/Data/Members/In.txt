@@ -26,7 +26,6 @@ user4286	1/23/2019
 fish444556	2/17/2019
 MaggieZhao95	2/25/2019
 please_AC	2/27/2019
-venico19	2/28/2019
 Dengxj	3/3/2019
 FrankYao	3/3/2019
 sukeyzhou	3/10/2019
@@ -54,7 +53,6 @@ Caloplaca	5/1/2019
 yuchenliulyc	5/9/2019
 aruba1	5/10/2019
 bifeitang	5/11/2019
-Jc_Qu	5/13/2019
 Rui_Huang	5/16/2019
 zzy1996	5/18/2019
 Duuuuu	5/21/2019
@@ -127,3 +125,6 @@ Journey_Long	8/28/2019
 TinyExplorer	8/29/2019
 angel30818	8/30/2019
 XiaoWanLINJU	9/1/2019
+sequenzf	9/2/2019
+coutPKprintf	9/3/2019
+
