@@ -14,6 +14,7 @@ aruba1 Google
 tankztc	Google
 weiyang95 Google
 wangzi6147 Google
+liuleo Google
 
 supersam331 Amazon
 jmzhang18 Amazon
@@ -35,6 +36,7 @@ waitnote Amazon
 Tao Amazon
 user760 Amazon
 leoknuth Amazon
+XiaoWanLINJU Amazon
 
 kaizer87 Microsoft
 sshang Microsoft
