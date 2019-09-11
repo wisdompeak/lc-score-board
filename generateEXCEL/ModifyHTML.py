@@ -40,7 +40,7 @@ content = content.replace("Cruise-Logo","<img src='Img/Cruise.png' width=22 heig
 content = content.replace("Zhihu-Logo","<img src='Img/Zhihu.jpeg' width=18 height=18>")
 content = content.replace("Momenta-Logo","<img src='Img/Momenta.png' width=20 height=20>")
 content = content.replace("Citadel-Logo","<img src='Img/Citadel.png' width=40 height=18>")
-content = content.replace("Bloomberg-Logo","<img src='Img/Bloomberg.png' width=40 height=18>")
+content = content.replace("Bloomberg-Logo","<img src='Img/Bloomberg.png' width=40 height=16>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
