@@ -120,3 +120,6 @@ gingerale Citadel
 
 fengw7 Bloomberg
 
+FlashCorgi Uber
+
+WhateverYouSay Yelp

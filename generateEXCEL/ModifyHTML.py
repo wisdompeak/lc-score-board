@@ -41,6 +41,8 @@ content = content.replace("Zhihu-Logo","<img src='Img/Zhihu.jpeg' width=18 heigh
 content = content.replace("Momenta-Logo","<img src='Img/Momenta.png' width=20 height=20>")
 content = content.replace("Citadel-Logo","<img src='Img/Citadel.png' width=40 height=18>")
 content = content.replace("Bloomberg-Logo","<img src='Img/Bloomberg.png' width=40 height=16>")
+content = content.replace("Uber-Logo","<img src='Img/Uber.png' width=20 height=14>")
+content = content.replace("Yelp-Logo","<img src='Img/Yelp.png' width=22 height=20>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
