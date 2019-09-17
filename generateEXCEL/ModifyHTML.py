@@ -43,6 +43,7 @@ content = content.replace("Citadel-Logo","<img src='Img/Citadel.png' width=40 he
 content = content.replace("Bloomberg-Logo","<img src='Img/Bloomberg.png' width=40 height=16>")
 content = content.replace("Uber-Logo","<img src='Img/Uber.png' width=18 height=18>")
 content = content.replace("Yelp-Logo","<img src='Img/Yelp.png' width=18 height=18>")
+content = content.replace("Salesforce-Logo","<img src='Img/Salesforce.png' width=20 height=16>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
