@@ -16,7 +16,7 @@ content = content.replace("Walmart-Logo","<img src='Img/Walmart.jpeg' width=16 h
 content = content.replace("Twilio-Logo","<img src='Img/Twilio.png' width=16 height=16>")
 content = content.replace("Arista-Logo","<img src='Img/Arista.jpeg' width=28 height=16>")
 content = content.replace("ByteDance-Logo","<img src='Img/ByteDance.jpeg' width=30 height=16>")
-content = content.replace("SnowFlake-Logo","<img src='Img/SnowFlake.png' width=22 height=16>")
+content = content.replace("SnowFlake-Logo","<img src='Img/SnowFlake.png' width=18 height=18>")
 content = content.replace("RedBook-Logo","<img src='Img/RedBook.png' width=18 height=18>")
 content = content.replace("PocketGems-Logo","<img src='Img/PocketGems.png' width=18 height=18>")
 content = content.replace("Schlumberger-Logo","<img src='Img/Schlumberger.jpg' width=40 height=16>")
@@ -44,6 +44,7 @@ content = content.replace("Bloomberg-Logo","<img src='Img/Bloomberg.png' width=4
 content = content.replace("Uber-Logo","<img src='Img/Uber.png' width=18 height=18>")
 content = content.replace("Yelp-Logo","<img src='Img/Yelp.png' width=18 height=18>")
 content = content.replace("Salesforce-Logo","<img src='Img/Salesforce.png' width=20 height=16>")
+content = content.replace("Cloudian-Logo","<img src='Img/Cloudian.png' width=18 height=18>")
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
