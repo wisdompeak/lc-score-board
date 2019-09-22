@@ -401,7 +401,7 @@ for contest in range(118,148+1):
 ### before 150
 for contest in range(118,149+1): 
 	data["ZhiWei_Shi"][str(contest)]=[-2,0]
-	data["FlashCorgi"][str(contest)]=[-2,0]
+	data["l90095z"][str(contest)]=[-2,0]
 	data["latioshuang"][str(contest)]=[-2,0]
 	data["Erwin_Ke"][str(contest)]=[-2,0]
 	data["gingerale"][str(contest)]=[-2,0]		
@@ -452,14 +452,23 @@ for contest in range(118,153+1):
 	data["Elsie_jiayou"][str(contest)]=[-2,0]
 	data["machaohcun"][str(contest)]=[-2,0]
 	data["ywxkxcy"][str(contest)]=[-2,0]
-
+	
+### before 155
+for contest in range(118,154+1): 	
+	data["disinuo"][str(contest)]=[-2,0]	
+	data["JansonLu"][str(contest)]=[-2,0]
+	data["wAgChen"][str(contest)]=[-2,0]
+	data["zlpmichelle"][str(contest)]=[-2,0]
+data["disinuo"]["153"]=[1925,2]
+data["disinuo"]["154"]=[947,3]
 		    
+
+
+
+# data["l90095z"] = data["FlashCorgi"]
+# data.pop("FlashCorgi") 
+
 pprint(data)   
-
-
-#data.push("Duuuuu")
-# data["Duuuuu"] = data["jianzhun"]
-#data.pop("Journey_long") 
 
 
 json_str = json.dumps(data)
@@ -507,6 +516,7 @@ contests["151"] = 5261
 contests["152"] = 5331
 contests["153"] = 6212
 contests["154"] = 6062
+contests["155"] = 6585
 
 
 json_str = json.dumps(contests)
