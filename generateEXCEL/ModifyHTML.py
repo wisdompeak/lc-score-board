@@ -46,6 +46,7 @@ content = content.replace("Yelp-Logo","<img src='Img/Yelp.png' width=18 height=1
 content = content.replace("Salesforce-Logo","<img src='Img/Salesforce.png' width=20 height=16>")
 content = content.replace("Cloudian-Logo","<img src='Img/Cloudian.png' width=18 height=18>")
 content = content.replace("Wayfair-Logo","<img src='Img/Wayfair.png' width=18 height=18>")
+content = content.replace("Tencent-Logo","<img src='Img/Tencent.png' width=18 height=18>")
 
 
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
