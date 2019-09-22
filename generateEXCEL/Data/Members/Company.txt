@@ -126,10 +126,10 @@ WhateverYouSay Yelp
 
 Sakamono Salesforce
 
-wAgChen Snowflake
+wAgChen SnowFlake
 
 JansonLu Cloudian
 
 Jc_Qu Wayfair
 
-thu_winfield	Tencent
+thu_winfield Tencent
