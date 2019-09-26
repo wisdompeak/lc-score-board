@@ -124,8 +124,6 @@ FlashCorgi Uber
 
 WhateverYouSay Yelp
 
-Sakamono Salesforce
-
 wAgChen SnowFlake
 
 JansonLu Cloudian
