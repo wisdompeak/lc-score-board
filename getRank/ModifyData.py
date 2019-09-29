@@ -463,6 +463,16 @@ data["disinuo"]["153"]=[1925,2]
 data["disinuo"]["154"]=[947,3]
 		    
 
+### before 156
+for contest in range(118,155+1): 	
+	data["zlpmichelle"][str(contest)]=[-2,0]	
+	data["xinyue1597"][str(contest)]=[-2,0]
+	data["Vendettathee"][str(contest)]=[-2,0]
+	data["wendy_sun"][str(contest)]=[-2,0]
+for contest in range(138,155+1):  
+    data["dickbomb"][str(contest)]=[-2,0] # rejoin 		
+
+
 
 
 # data["l90095z"] = data["FlashCorgi"]
@@ -517,7 +527,7 @@ contests["152"] = 5331
 contests["153"] = 6212
 contests["154"] = 6062
 contests["155"] = 6585
-
+contests["156"] = 6764
 
 json_str = json.dumps(contests)
 
