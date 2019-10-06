@@ -50,6 +50,7 @@ content = content.replace("Tencent-Logo","<img src='Img/Tencent.png' width=18 he
 content = content.replace("Qualcomm-Logo","<img src='Img/Qualcomm.png' width=18 height=18>")
 content = content.replace("Tripadvisor-Logo","<img src='Img/Tripadvisor.gif' width=18 height=18>")
 content = content.replace("BNYMellon-Logo","<img src='Img/BNYMellon.jpg' width=18 height=18>")
+content = content.replace("Verizon-Logo","<img src='Img/Verizon.png' width=18 height=12>")
 
 
 
