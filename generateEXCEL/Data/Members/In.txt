@@ -32,14 +32,12 @@ whyer	3/20/2019
 zhengfu23	3/20/2019
 phoenixpan	3/20/2019
 suzyzhang	3/22/2019
-leetcodeyu1990	3/24/2019
 wanyoyo	3/24/2019
 ZhengkaiWei	3/24/2019
 richarddia	3/24/2019
 ShangqiYang	3/31/2019
 xuyequan	4/10/2019
 Charlesna	4/14/2019
-waitnote	4/21/2019
 galiniunan	4/21/2019
 wxy9018	4/22/2019
 FYQiang	4/23/2019
@@ -135,3 +133,5 @@ dennanisny	9/30/2019
 fan_zh	10/1/2019
 superjosy	10/3/2019
 annaluciaa	10/5/2019
+yaochou1995	10/6/2019
+
