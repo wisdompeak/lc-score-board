@@ -73,7 +73,6 @@ timFan	6/24/2019
 tesla_pp	6/30/2019
 mangoman	6/30/2019
 litian220	6/30/2019
-yunfanyi	6/30/2019
 coder001	7/1/2019
 yueb95	7/3/2019
 wenting95	7/5/2019
@@ -116,7 +115,6 @@ onionpork	9/4/2019
 BingleLove	9/7/2019
 wenyou	9/8/2019
 ZaozaoNan	9/9/2019
-albertzhang86	9/9/2019
 jason_wong1	9/10/2019
 machaohcun	9/12/2019
 disinuo	9/14/2019
@@ -135,3 +133,7 @@ annaluciaa	10/5/2019
 yaochou1995	10/6/2019
 nicole_Song	10/8/2019
 fengzhixiao	10/11/2019
+tichen47	10/14/2019
+WarriorZWY	10/14/2019
+JamesCool	10/14/2019
+KyleFu	10/15/2019
