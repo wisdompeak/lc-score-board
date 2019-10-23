@@ -42,6 +42,7 @@ user760 Amazon
 leoknuth Amazon
 XiaoWanLINJU Amazon
 dickbomb Amazon	
+thumbpixels Amazon	
 
 kaizer87 Microsoft
 sshang Microsoft
@@ -50,7 +51,6 @@ xxnzym Microsoft
 Kaiyu-Wang Microsoft
 wyzhang421 Microsoft
 qw123 Microsoft
-wenyou Microsoft
 
 ZOEGREEN Alibaba
 
@@ -139,5 +139,7 @@ wxy9018 Qualcomm
 jwang89225 Tripadvisor
 
 liujiashun66 BNYMellon
+
+wenyou Comcast
 
 lucas0316 Verizon
