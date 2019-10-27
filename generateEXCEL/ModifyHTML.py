@@ -51,7 +51,7 @@ content = content.replace("Qualcomm-Logo","<img src='Img/Qualcomm.png' width=18 
 content = content.replace("Tripadvisor-Logo","<img src='Img/Tripadvisor.gif' width=18 height=18>")
 content = content.replace("BNYMellon-Logo","<img src='Img/BNYMellon.jpg' width=18 height=18>")
 content = content.replace("Verizon-Logo","<img src='Img/Verizon.png' width=18 height=12>")
-content = content.replace("Comcast-Logo","<img src='Img/Comcast.jpg' width=18 height=12>")
+content = content.replace("Comcast-Logo","<img src='Img/Comcast.jpg' width=18 height=18>")
 
 
 

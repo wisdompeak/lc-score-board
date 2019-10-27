@@ -4,7 +4,7 @@ from pprint import pprint
 with open('data.json', 'r') as f:
     json_str = json.load(f)
     data = json.loads(json_str)
-	
+
 for contest in range(118,119+1):
 	data["zihao"][str(contest)]=[-2,0]	
 	data["DorisGe"][str(contest)]=[-2,0]		
@@ -478,7 +478,7 @@ for contest in range(118,156+1):
 	data["qingdu_river"][str(contest)]=[-2,0]
 	data["WendiLiu"][str(contest)]=[-2,0]
 	data["fan_zh"][str(contest)]=[-2,0]
-	data["superjosy"][str(contest)]=[-2,0]
+	data["SUPERJOSY"][str(contest)]=[-2,0]
 	data["dennanisny"][str(contest)]=[-2,0]
 	
 ### before 158
@@ -498,15 +498,19 @@ for contest in range(134,158+1):
     data["KyleFu"][str(contest)]=[-2,0] # rejoin 	
 for contest in range(143,158+1):  
     data["zhifanhui"][str(contest)]=[-2,0] # rejoin 	
+data["SUPERJOSY"]["159"] = [3852, 1]
 
-
-
-
-	
+### before 160
+for contest in range(118,159+1): 	
+	data["Rayleigh0328"][str(contest)]=[-2,0]	
+	data["chuw"][str(contest)]=[-2,0]
+	data["FlagIsMine"][str(contest)]=[-2,0]
+	data["RedWolf"][str(contest)]=[-2,0]
+	data["endlesscheng"][str(contest)]=[-2,0]	
 
 pprint(data)   
 
-# data.pop("superjosy")
+# data.pop("SUPERJOSY")
 
 json_str = json.dumps(data)
 
@@ -558,6 +562,7 @@ contests["156"] = 6764
 contests["157"] = 6650
 contests["158"] = 6640
 contests["159"] = 6626
+contests["160"] = 6126
 
 json_str = json.dumps(contests)
 
