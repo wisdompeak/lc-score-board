@@ -52,6 +52,7 @@ content = content.replace("Tripadvisor-Logo","<img src='Img/Tripadvisor.gif' wid
 content = content.replace("BNYMellon-Logo","<img src='Img/BNYMellon.jpg' width=18 height=18>")
 content = content.replace("Verizon-Logo","<img src='Img/Verizon.png' width=18 height=12>")
 content = content.replace("Comcast-Logo","<img src='Img/Comcast.jpg' width=18 height=18>")
+content = content.replace("Yahoo-Logo","<img src='Img/Yahoo.jpeg' width=18 height=18>")
 
 
 

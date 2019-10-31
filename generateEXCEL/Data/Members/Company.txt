@@ -51,6 +51,7 @@ xxnzym Microsoft
 Kaiyu-Wang Microsoft
 wyzhang421 Microsoft
 qw123 Microsoft
+LijianChen Microsoft
 
 ZOEGREEN Alibaba
 
@@ -67,6 +68,7 @@ cyn3966 PureStorage
 
 dennanisny VMware
 xguo-Will VMware
+user504 VMware
 
 wobuxihuannile Indeed
 
@@ -76,8 +78,6 @@ kaihaohust Walmart
 gzh47 Walmart
 
 wangyxwyx Twilio
-
-user504 Arista
 
 zhengfu23 DXC
 
@@ -145,3 +145,6 @@ liujiashun66 BNYMellon
 wenyou Comcast
 
 lucas0316 Verizon
+
+jason_wong1 Yahoo
+
