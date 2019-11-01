@@ -180,7 +180,7 @@ for contest in range(132,133+1):
 for contest in range(118,134+1):  
     data["hxin"][str(contest)]=[-2,0]
     data["ddxig"][str(contest)]=[-2,0]
-    data["Caloplaca"][str(contest)]=[-2,0]
+    data["Cicindela"][str(contest)]=[-2,0]
     data["uwelena"][str(contest)]=[-2,0]
     data["dickbomb"][str(contest)]=[-2,0]
 
@@ -510,7 +510,9 @@ for contest in range(118,159+1):
 
 pprint(data)   
 
-# data.pop("SUPERJOSY")
+# data["Cicindela"]=data["Caloplaca"]
+# data.pop("Caloplaca")
+
 
 json_str = json.dumps(data)
 
