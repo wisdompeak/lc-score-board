@@ -508,6 +508,13 @@ for contest in range(118,159+1):
 	data["RedWolf"][str(contest)]=[-2,0]
 	data["endlesscheng"][str(contest)]=[-2,0]	
 
+### before 161
+for contest in range(118,160+1): 	
+	data["xxz-leetcode"][str(contest)]=[-2,0]	
+	data["hongrubb"][str(contest)]=[-2,0]
+for contest in range(156,160+1):  
+    data["leoknuth"][str(contest)]=[-2,0] # rejoin 
+
 pprint(data)   
 
 # data["Cicindela"]=data["Caloplaca"]
@@ -565,6 +572,7 @@ contests["157"] = 6650
 contests["158"] = 6640
 contests["159"] = 6626
 contests["160"] = 6126
+contests["161"] = 6255
 
 json_str = json.dumps(contests)
 
