@@ -22,6 +22,7 @@ ForGive Google
 SeymourLee Google
 ShoutingLyu Google
 VectorX Google
+yuchenliulyc Google
 
 supersam331 Amazon
 jmzhang18 Amazon
@@ -151,4 +152,6 @@ wenyou Comcast
 lucas0316 Verizon
 
 jason_wong1 Yahoo
+
+ChenDanni TwoSigma
 
