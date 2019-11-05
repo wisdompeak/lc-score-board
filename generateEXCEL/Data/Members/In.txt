@@ -20,7 +20,6 @@ ForGive	12/19/2018
 sshang	1/5/2019
 user4286	1/23/2019
 fish444556	2/17/2019
-MaggieZhao95	2/25/2019
 please_AC	2/27/2019
 Dengxj	3/3/2019
 FrankYao	3/3/2019
@@ -69,7 +68,6 @@ weidong6686	6/13/2019
 shuoyan	6/18/2019
 qingqi_lei	6/22/2019
 timFan	6/24/2019
-tesla_pp	6/30/2019
 mangoman	6/30/2019
 litian220	6/30/2019
 coder001	7/1/2019
@@ -135,9 +133,8 @@ KyleFu	10/15/2019
 zhifanhui	10/16/2019
 Rayleigh0328	10/19/2019
 chuw	10/20/2019
-FlagIsMine	10/20/2019
-RedWolf	10/23/2019
 endlesscheng	10/25/2019
 xxz-leetcode	10/28/2019
 hongrubb	10/29/2019
 leoknuth	11/1/2019
+
