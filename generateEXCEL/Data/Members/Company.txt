@@ -24,6 +24,7 @@ ShoutingLyu Google
 VectorX Google
 yuchenliulyc Google
 jpju Google
+ChenDanni Google
 
 supersam331 Amazon
 jmzhang18 Amazon
@@ -154,5 +155,4 @@ lucas0316 Verizon
 
 jason_wong1 Yahoo
 
-ChenDanni TwoSigma
 
