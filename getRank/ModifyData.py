@@ -514,6 +514,13 @@ for contest in range(118,160+1):
 	data["hongrubb"][str(contest)]=[-2,0]
 for contest in range(156,160+1):  
     data["leoknuth"][str(contest)]=[-2,0] # rejoin 
+    
+    
+### before 162
+for contest in range(145,161+1):  
+    data["cc189"][str(contest)]=[-2,0] # rejoin 
+    
+        
 
 pprint(data)   
 
@@ -573,6 +580,7 @@ contests["158"] = 6640
 contests["159"] = 6626
 contests["160"] = 6126
 contests["161"] = 6255
+contests["162"] = 5997
 
 json_str = json.dumps(contests)
 
