@@ -520,7 +520,19 @@ for contest in range(156,160+1):
 for contest in range(145,161+1):  
     data["cc189"][str(contest)]=[-2,0] # rejoin 
     
-        
+### before 163
+for contest in range(118,162+1):  
+    data["YuhanWu"][str(contest)]=[-2,0]    
+    data["zmz666"][str(contest)]=[-2,0]
+    data["wdyfy317138"][str(contest)]=[-2,0]
+    data["wkelvinson"][str(contest)]=[-2,0]
+    data["YutingLiu"][str(contest)]=[-2,0]
+    data["AestheticXJTU"][str(contest)]=[-2,0]
+for contest in range(138,162+1):  
+    data["got7amy"][str(contest)]=[-2,0] # rejoin 
+for contest in range(146,162+1):  
+    data["user760"][str(contest)]=[-2,0] # rejoin 
+data["OneDirection"]["163"]=[1457,2]  # manual record
 
 pprint(data)   
 
@@ -581,6 +593,7 @@ contests["159"] = 6626
 contests["160"] = 6126
 contests["161"] = 6255
 contests["162"] = 5997
+contests["163"] = 5873
 
 json_str = json.dumps(contests)
 
