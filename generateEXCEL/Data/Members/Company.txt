@@ -97,6 +97,7 @@ wangyxwyx Twilio
 zhengfu23 DXC
 
 fuxuemingzhu ByteDance
+gingerale ByteDance
 
 zhangsikai123 RedBook
 
@@ -131,8 +132,6 @@ cc189 Ebay
 sijin Zhihu
 
 tommyjiang Momenta
-
-gingerale Citadel
 
 fengw7 Bloomberg
 
