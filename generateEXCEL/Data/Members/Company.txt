@@ -16,7 +16,6 @@ weiyang95 Google
 wangzi6147 Google
 liuleo Google
 lumic Google
-gingerale Google
 wenting95 Google
 ForGive Google
 SeymourLee Google
@@ -52,6 +51,7 @@ dickbomb Amazon
 thumbpixels Amazon	
 FlagIsMine Amazon
 luorinz Amazon
+chuw Amazon
 
 kaizer87 Microsoft
 sshang Microsoft
@@ -77,6 +77,7 @@ shuchenc Facebook
 OTTFF Facebook
 Coder35 Facebook
 zzy1996 Facebook
+hhjkkl Facebook
 
 davidqing1991 PureStorage
 jiang718 PureStorage
@@ -160,4 +161,6 @@ wenyou Comcast
 lucas0316 Verizon
 
 jason_wong1 Yahoo
+
+ 
 

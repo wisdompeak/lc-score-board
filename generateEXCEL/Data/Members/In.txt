@@ -89,7 +89,6 @@ XiaojingHu	8/8/2019
 l90095z	8/11/2019
 thu_winfield	8/13/2019
 Erwin_Ke	8/13/2019
-gingerale	8/13/2019
 LijianChen	8/13/2019
 sunxiaohua	8/19/2019
 nagato1208	8/24/2019
@@ -125,7 +124,6 @@ WarriorZWY	10/14/2019
 JamesCool	10/14/2019
 KyleFu	10/15/2019
 Rayleigh0328	10/19/2019
-chuw	10/20/2019
 endlesscheng	10/25/2019
 xxz-leetcode	10/28/2019
 hongrubb	10/29/2019

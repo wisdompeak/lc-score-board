@@ -57,7 +57,7 @@ for i in range(500):
   day = start + datetime.timedelta(days=i)
   if day>today: break;
   
-  Days.append(day.strftime("%Y/%m/%d")[2:])
+  Days.append(day.strftime("%Y/%m/%d")[:])
   
   if day in addPeople:
     count+=addPeople[day]    
@@ -91,7 +91,7 @@ maxDay = (today-start).days
 n, bins, patches = plt.hist(x=PeopleStatOut, bins='auto', label = 'Quited', color='steelblue', alpha=0.7, rwidth=0.65)
 plt.hist(x=PeopleStatIn, bins='auto', label = 'Current', color='#FF1B1B', alpha=0.6, rwidth=0.45)
 plt.grid(axis='y', alpha=0.75)
-#plt.xticks( list(range(0,maxDay,25)), list(range(0,maxDay,25)))
+plt.xticks( list(range(0,maxDay,30)), list(range(0,maxDay,30)))
 plt.xlabel('Survival Days')
 plt.ylabel('Number of People')
 plt.title('Membership duration statistics')
