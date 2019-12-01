@@ -538,6 +538,11 @@ data["OneDirection"]["163"]=[1457,2]  # manual record
 for contest in range(118,163+1): 
 	data["greeneyes"][str(contest)]=[-2,0]    
 
+### before 165
+for contest in range(118,164+1): 
+	data["concussion"][str(contest)]=[-2,0]   
+for contest in range(157,164+1):  
+    data["sequenzf"][str(contest)]=[-2,0] # rejoin 	
 
 pprint(data)   
 
@@ -600,6 +605,7 @@ contests["161"] = 6255
 contests["162"] = 5997
 contests["163"] = 5873
 contests["164"] = 5907
+contests["165"] = 5495
 
 json_str = json.dumps(contests)
 
