@@ -66,7 +66,7 @@ wyzhang421 Microsoft
 qw123 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
-
+wangyxwyx Microsoft
 
 ZOEGREEN Alibaba
 
@@ -98,7 +98,7 @@ Lisanaaa Grab
 kaihaohust Walmart
 gzh47 Walmart
 
-wangyxwyx Twilio
+ 
 
 zhengfu23 DXC
 
