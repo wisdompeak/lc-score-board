@@ -5,7 +5,6 @@ ansonluo	9/2/2018
 haitao7	9/3/2018
 lee215	9/8/2018
 hfuwu5	9/19/2018
-TOYAMA_NAO	9/19/2018
 sdliuyuzhi	9/20/2018
 SeymourLee	10/1/2018
 yuliangjin	10/2/2018
@@ -53,8 +52,6 @@ praenubilus	6/4/2019
 fang2018	6/4/2019
 shuchenc	6/10/2019
 ljr1226	6/10/2019
-luorinz	6/10/2019
-deepda2k	6/10/2019
 Mengqian	6/11/2019
 alex_woods	6/12/2019
 weidong6686	6/13/2019
@@ -85,7 +82,6 @@ l90095z	8/11/2019
 thu_winfield	8/13/2019
 Erwin_Ke	8/13/2019
 LijianChen	8/13/2019
-sunxiaohua	8/19/2019
 nagato1208	8/24/2019
 UltraShieldRog	8/25/2019
 fengw7	8/25/2019
@@ -133,5 +129,5 @@ greeneyes	11/17/2019
 concussion	11/27/2019
 sequenzf	11/28/2019
 hongchenjack	12/2/2019
-yiyue15	12/2/2019
-
+Yiyue15	12/2/2019
+anhpp	12/5/2019

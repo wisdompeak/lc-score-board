@@ -544,10 +544,16 @@ for contest in range(118,164+1):
 for contest in range(157,164+1):  
     data["sequenzf"][str(contest)]=[-2,0] # rejoin 	
 
+### before 166
+for contest in range(118,164+1): 
+	data["hongchenjack"][str(contest)]=[-2,0]  
+	data["Yiyue15"][str(contest)]=[-2,0]  
+	data["anhpp"][str(contest)]=[-2,0]   
+
 pprint(data)   
 
 # data["Cicindela"]=data["Caloplaca"]
-# data.pop("Caloplaca")
+# data.pop("yiyue15")
 
 
 json_str = json.dumps(data)
@@ -606,6 +612,7 @@ contests["162"] = 5997
 contests["163"] = 5873
 contests["164"] = 5907
 contests["165"] = 5495
+contests["166"] = 5585
 
 json_str = json.dumps(contests)
 

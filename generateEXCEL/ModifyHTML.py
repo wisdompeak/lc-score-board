@@ -29,7 +29,7 @@ content = content.replace("Pony-Logo","<img src='Img/Pony.png' width=30 height=1
 content = content.replace("KeepTruckin-Logo","<img src='Img/KeepTruckin.png' width=40 height=20>")
 content = content.replace("Reflexis-Logo","<img src='Img/Reflexis.jpeg' width=20 height=20>")
 content = content.replace("Airbnb-Logo","<img src='Img/Airbnb.png' width=19 height=19>")
-content = content.replace("Alibaba-Logo","<img src='Img/Alibaba.png' width=19 height=19>")
+content = content.replace("Alibaba-Logo","<img src='Img/Alibaba.jpeg' width=22 height=19>")
 content = content.replace("DellEMC-Logo","<img src='Img/DellEMC.png' width=18 height=18>")
 content = content.replace("LinkedIn-Logo","<img src='Img/LinkedIn.png' width=18 height=18>")
 content = content.replace("Citi-Logo","<img src='Img/Citi.jpeg' width=22 height=16>")
