@@ -4,6 +4,10 @@ import collections
 import matplotlib.pyplot as plt
 import numpy as np
 
+from Read_Excel import read_excel
+read_excel()
+
+
 start = datetime.date(2018,9,2)
 today = datetime.date.today()
 
@@ -20,7 +24,7 @@ for line in data:
   if len(line.split())!=3: continue
   
   readDate = line.split()[1]
-  d = readDate.split("/")  
+  d = readDate.split("/")
   date1 = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   addPeople[date1]+=1
   
