@@ -19,7 +19,7 @@ def convertToTitle(n):
   return result
         
 startContest = 118
-endContest = 166
+endContest = 167
 ContestNumbers = endContest-startContest+1
 
 ###############################################
@@ -431,7 +431,7 @@ row, column = RowOffset, 2
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+8)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
-sheet[idx].value = 'Graduated or quited members in 2019'
+sheet[idx].value = 'Graduated or quited members since 2019'
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
 

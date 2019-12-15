@@ -30,7 +30,9 @@ def read_excel():
         date_value1 = xlrd.xldate_as_tuple(sheet2.cell_value(i,2),wb.datemode)
         date_value2 = xlrd.xldate_as_tuple(sheet2.cell_value(i,3),wb.datemode)
         # print(sheet2.cell_value(i,1),date(*date_value1[:3]).strftime('%Y/%m/%d'),date(*date_value2[:3]).strftime('%Y/%m/%d'))    
-        file_out.write(str(sheet2.cell_value(i,1))+" "+date(*date_value1[:3]).strftime('%m/%d/%Y')+" "+date(*date_value2[:3]).strftime('%m/%d/%Y')+"\n")
+        id = sheet2.cell_value(i,1)
+        if id==1373757850: id = int(id)
+        file_out.write(str(id)+" "+date(*date_value1[:3]).strftime('%m/%d/%Y')+" "+date(*date_value2[:3]).strftime('%m/%d/%Y')+"\n")
     
     file_in.close()
     file_out.close()
