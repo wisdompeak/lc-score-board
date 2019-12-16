@@ -75,6 +75,8 @@ deepda2k Alibaba
 OneDirection Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
+xiaozhi1 Apple
+
 
 Golden_Fish Facebook
 shuoyan Facebook
@@ -156,6 +158,7 @@ ZhengkaiWei Cloudian
 Jc_Qu Wayfair
 
 thu_winfield Tencent
+FrankYao Tencent
 
 wxy9018 Qualcomm
 
