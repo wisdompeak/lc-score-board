@@ -54,6 +54,7 @@ content = content.replace("Verizon-Logo","<img src='Img/Verizon.png' width=18 he
 content = content.replace("Comcast-Logo","<img src='Img/Comcast.jpg' width=18 height=18>")
 content = content.replace("Yahoo-Logo","<img src='Img/Yahoo.jpeg' width=18 height=18>")
 content = content.replace("TwoSigma-Logo","<img src='Img/TwoSigma.jpg' width=18 height=18>")
+content = content.replace("ICANN-Logo","<img src='Img/ICANN.png' width=18 height=18>")
 
 
 
