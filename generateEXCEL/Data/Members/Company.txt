@@ -5,7 +5,7 @@ Charles000 Amazon
 thumbpixels Amazon
 fang2018 Amazon
 yueb95 Amazon
-miracleyanyu Amazon
+Rayleigh0328 Amazon
 leoknuth Amazon
 user760 Amazon
 dickbomb Amazon
@@ -28,6 +28,8 @@ FlagIsMine Amazon
 chuw Amazon
 whyer Amazon
 luorinz Amazon
+fan_zh Amazon
+miracleyanyu Amazon
 OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
@@ -58,7 +60,6 @@ kaizer87 Google
 cuiaoxiang Google
 ForGive Google
 Cicindela Google
-yuchenliulyc Google
 aruba1 Google
 adayxiang Google
 softair Google
@@ -125,6 +126,7 @@ xuexiyi Walmart
 kaihaohust Walmart
 gzh47 Walmart
 Jc_Qu WayFair
+yuchenliulyc Wish
 jason_wong1 Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
