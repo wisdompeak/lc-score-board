@@ -118,9 +118,9 @@ jwang89225 Tripadvisor
 l90095z Uber
 albertzhang86 Uber
 haitao7 Upenn
-user504 VMWare
-dennanisny VMWare
-xguo-Will VMWare
+user504 VMware
+dennanisny VMware
+xguo-Will VMware
 lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
