@@ -568,6 +568,14 @@ for contest in range(118,167+1):
 for contest in range(124,167+1):  
     data["Lisanaaa"][str(contest)]=[-2,0] # rejoin 	
 
+### before 169
+for contest in range(118,168+1): 
+	data["christine_christine"][str(contest)]=[-2,0] 
+	data["xinchao0509"][str(contest)]=[-2,0] 
+	data["insomniacat"][str(contest)]=[-2,0] 
+	data["lilllllllll"][str(contest)]=[-2,0] 
+	data["chongtan111200"][str(contest)]=[-2,0] 
+	
 pprint(data)   
 
 # data["Cicindela"]=data["Caloplaca"]
@@ -633,6 +641,7 @@ contests["165"] = 5495
 contests["166"] = 5585
 contests["167"] = 5453
 contests["168"] = 5525
+contests["169"] = 5932
 
 json_str = json.dumps(contests)
 
