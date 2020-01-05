@@ -27,6 +27,7 @@ def CalculateMembership():
         d = info[1].split("/")
         date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
         Membership[name] = (today-date).days
+        print(name,Membership[name])
     file.close()
     
     return Membership

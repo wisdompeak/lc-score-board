@@ -1,5 +1,7 @@
 Arco Airbnb
+huanglanzhiguan Alibaba
 ZOEGREEN Alibaba
+song30 Alibaba
 deepda2k Alibaba
 Charles000 Amazon
 thumbpixels Amazon
@@ -7,6 +9,7 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 leoknuth Amazon
 user760 Amazon
+luozj14 Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
 ZhuYamei Amazon
@@ -16,7 +19,6 @@ Spencial Amazon
 shuizhouwang Amazon
 liuguanhualouie Amazon
 supersam331 Amazon
-icodingg Amazon
 lulinzhang1124 Amazon
 yueb95 Amazon
 Clary Amazon
@@ -71,6 +73,7 @@ discipline_ Google
 yexiaoxiao2102 Google
 IrisGuo Google
 qz267 Google
+icodingg Google
 zihao Google
 VectorX Google
 tankztc Google
@@ -92,7 +95,6 @@ keyupeter KeepTruckin
 venico19 LinkedIn
 richarddia MathWorks
 sshang Microsoft
-wangyxwyx Microsoft
 xxnzym Microsoft
 Kaiyu-Wang  Microsoft
 huyouhyw Microsoft
@@ -101,6 +103,7 @@ wyzhang421 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
 tommyjiang Momenta
+YuhanWu MorganStanley
 mzcj Palo-alto
 zgcmx2011 Petuum
 shshwdr PocketGems
@@ -108,6 +111,7 @@ shshwdr PocketGems
 jiang718 PureStorage
 davidqing1991 PureStorage
 cyn3966 PureStorage
+wxy9018 Qualcomm
 zhangsikai123 RedBook
 FYQiang Reflexis
 bifeitang Schlumberger
@@ -116,6 +120,7 @@ wAgChen SnowFlake
 FrankYao Tencent
 thu_winfield Tencent
 jwang89225 Tripadvisor
+wangyxwyx Twillo
 haitao7 UPenn
 l90095z Uber
 albertzhang86 Uber

@@ -576,6 +576,19 @@ for contest in range(118,168+1):
 	data["lilllllllll"][str(contest)]=[-2,0] 
 	data["chongtan111200"][str(contest)]=[-2,0] 
 	
+### before 170
+for contest in range(118,169+1): 
+	data["luozj14"][str(contest)]=[-2,0] 
+	data["overloading"][str(contest)]=[-2,0] 
+	data["huanglanzhiguan"][str(contest)]=[-2,0] 
+	data["0000alex1111"][str(contest)]=[-2,0] 
+	data["lihao199408"][str(contest)]=[-2,0]
+	data["LuckyHoungLeee"][str(contest)]=[-2,0]
+for contest in range(167,169+1):  
+    data["fengw7"][str(contest)]=[-2,0] # rejoin 	
+for contest in range(153,169+1):  
+    data["venico19"][str(contest)]=[-2,0] # rejoin 	
+	
 pprint(data)   
 
 # data["Cicindela"]=data["Caloplaca"]
@@ -642,6 +655,7 @@ contests["166"] = 5585
 contests["167"] = 5453
 contests["168"] = 5525
 contests["169"] = 5932
+contests["170"] = 5186
 
 json_str = json.dumps(contests)
 
