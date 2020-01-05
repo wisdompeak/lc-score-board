@@ -218,7 +218,6 @@ for k in range(endContest-startContest+1):
 
 RowOffset += 4;
 
-print(id_list)
 
 for i in range(len(id_list)):
 
