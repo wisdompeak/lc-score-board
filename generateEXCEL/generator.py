@@ -142,9 +142,17 @@ sheet.column_dimensions['B'].width = 25.0
 # sheet.column_dimensions['D'].width = 7.0
 SIZE = 15
 
-# output header "Wisdompeak Cup"
+# YouXiu Logo
 RowOffset = 1
 row, column = RowOffset+1, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column)+str(row+1) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].value = "YouXiu-Logo"
+
+# output header "Wisdompeak Cup"
+row, column = RowOffset+1, 3
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+8)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
@@ -153,8 +161,18 @@ sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/cup.html'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=SIZE)
 
+# output header "2019 Hero Board"
+row, column = RowOffset+2, 3
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+8)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+sheet[idx1].value = 'Happy New Year! See 2019 Hero Board!'
+sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/2019.html'
+sheet[idx1].alignment = Alignment(horizontal='left')
+sheet[idx1].font = Font(bold=True, size=SIZE)
+
 # output header "Contest Score Board"
-RowOffset += 2
+RowOffset += 3
 row, column = RowOffset+1, 2
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+8)+str(row)

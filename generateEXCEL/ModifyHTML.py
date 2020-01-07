@@ -57,6 +57,7 @@ content = content.replace("TwoSigma-Logo","<img src='Img/TwoSigma.jpg' width=18 
 content = content.replace("ICANN-Logo","<img src='Img/ICANN.png' width=18 height=18>")
 content = content.replace("Wish-Logo","<img src='Img/Wish.png' width=18 height=18>")
 content = content.replace("F5Networks-Logo","<img src='Img/F5Networks.png' width=18 height=18>")
+content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
 
 
 
