@@ -47,9 +47,9 @@ XingxingHuang Cruise
 zhengfu23 DXC
 jasonzzzzz DellEMC
 cc189 Ebay
+shuoyan F5Networks
 tift Facebook
 shuchenc Facebook
-shuoyan Facebook
 zac4 Facebook
 OTTFF Facebook
 Golden_Fish Facebook
@@ -120,7 +120,7 @@ wAgChen SnowFlake
 FrankYao Tencent
 thu_winfield Tencent
 jwang89225 Tripadvisor
-wangyxwyx Twillo
+wangyxwyx Twilio
 haitao7 UPenn
 l90095z Uber
 albertzhang86 Uber
