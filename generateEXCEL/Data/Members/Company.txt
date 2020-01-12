@@ -10,9 +10,9 @@ Rayleigh0328 Amazon
 leoknuth Amazon
 user760 Amazon
 luozj14 Amazon
+ZhuYamei Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
-ZhuYamei Amazon
 QAMichaelPeng Amazon
 LittleBaldHead Amazon
 Spencial Amazon
@@ -122,8 +122,8 @@ thu_winfield Tencent
 jwang89225 Tripadvisor
 wangyxwyx Twilio
 haitao7 UPenn
-l90095z Uber
 albertzhang86 Uber
+l90095z Uber
 user504 VMware
 dennanisny VMware
 xguo-Will VMware
