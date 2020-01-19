@@ -8,7 +8,6 @@ sdliuyuzhi 09/20/2018
 SeymourLee 10/01/2018
 yuliangjin 10/02/2018
 jliang 10/13/2018
-kaizer87 10/15/2018
 cuiaoxiang 10/22/2018
 Charles000 10/25/2018
 ws1255 11/24/2018
@@ -48,7 +47,6 @@ alex_woods 06/12/2019
 weidong6686 06/13/2019
 shuoyan 06/18/2019
 qingqi_lei 06/22/2019
-timFan 06/24/2019
 mangoman 06/30/2019
 litian220 06/30/2019
 xhou0540 07/07/2019
@@ -144,3 +142,7 @@ zzhong511 01/13/2020
 freemanzhang 01/13/2020
 Neo_Chen 01/13/2020
 user7194i 01/14/2020
+dickbomb 01/15/2020
+tichen47 01/15/2020
+sequenzf 01/16/2020
+lzl124631x 01/17/2020

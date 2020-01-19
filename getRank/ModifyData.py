@@ -612,6 +612,25 @@ for contest in range(166,170+1):
 for contest in range(142,170+1):  
     data["ZhuYamei"][str(contest)]=[-2,0] # rejoin  	
 
+### before 172
+for contest in range(118,171+1): 
+	data["kealyn"][str(contest)]=[-2,0] 
+	data["lichunzhu"][str(contest)]=[-2,0] 
+	data["bbbblues"][str(contest)]=[-2,0] 
+	data["G_lory"][str(contest)]=[-2,0] 
+	data["Isomorphic"][str(contest)]=[-2,0] 
+	data["infmount"][str(contest)]=[-2,0] 
+	data["zzhong511"][str(contest)]=[-2,0] 
+	data["freemanzhang"][str(contest)]=[-2,0] 
+	data["Neo_Chen"][str(contest)]=[-2,0] 	
+	data["user7194i"][str(contest)]=[-2,0]
+	data["lzl124631x"][str(contest)]=[-2,0] 
+for contest in range(169,171+1):  		
+	data["dickbomb"][str(contest)]=[-2,0] # rejoin 
+for contest in range(161,171+1):  		
+	data["tichen47"][str(contest)]=[-2,0] # rejoin 
+for contest in range(169,171+1):  		
+	data["sequenzf"][str(contest)]=[-2,0] # rejoin 			
 	
 pprint(data)   
 
@@ -681,6 +700,7 @@ contests["168"] = 5525
 contests["169"] = 5932
 contests["170"] = 6833
 contests["171"] = 7189
+contests["172"] = 6604
 
 json_str = json.dumps(contests)
 

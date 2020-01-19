@@ -11,6 +11,7 @@ leoknuth Amazon
 user760 Amazon
 luozj14 Amazon
 ZhuYamei Amazon
+dickbomb Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
 QAMichaelPeng Amazon
@@ -22,7 +23,6 @@ supersam331 Amazon
 lulinzhang1124 Amazon
 yueb95 Amazon
 Clary Amazon
-dickbomb Amazon
 jmzhang18 Amazon
 Aaron_S Amazon
 XiaoWanLINJU Amazon
@@ -59,7 +59,6 @@ Coder35 Facebook
 wisdompeak Google
 lee215 Google
 SeymourLee Google
-kaizer87 Google
 cuiaoxiang Google
 ForGive Google
 Cicindela Google
@@ -88,6 +87,7 @@ ShoutingLyu Google
 jpju Google
 TinyExplorer Google
 ChenDanni Google
+kaizer87 Google
 Lisanaaa Grab
 siqiaochen ICANN
 wobuxihuannile Indeed
@@ -97,6 +97,7 @@ ZaozaoNan LinkedIn
 richarddia MathWorks
 sshang Microsoft
 xxnzym Microsoft
+lzl124631x Microsoft
 Kaiyu-Wang  Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
