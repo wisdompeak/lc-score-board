@@ -57,7 +57,7 @@ Days = []
 Nums = []
 upper = []
 lower = []
-for i in range(500):
+for i in range(1000):
   day = start + datetime.timedelta(days=i)
   if day>today: break;
   

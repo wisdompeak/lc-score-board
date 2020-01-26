@@ -632,6 +632,16 @@ for contest in range(161,171+1):
 for contest in range(169,171+1):  		
 	data["sequenzf"][str(contest)]=[-2,0] # rejoin 			
 	
+	
+### before 173
+for contest in range(118,172+1): 
+	data["lzl124631x"][str(contest)]=[-2,0] 
+	data["sunhui"][str(contest)]=[-2,0] 
+	data["harttle"][str(contest)]=[-2,0] 
+	data["Jony_Cho"][str(contest)]=[-2,0] 
+	data["CrhnbP"][str(contest)]=[-2,0] 
+	data["JerryHaMa"][str(contest)]=[-2,0] 
+
 pprint(data)   
 
 # data["Cicindela"]=data["Caloplaca"]
@@ -701,6 +711,7 @@ contests["169"] = 5932
 contests["170"] = 6833
 contests["171"] = 7189
 contests["172"] = 6604
+contests["173"] = 6103
 
 json_str = json.dumps(contests)
 

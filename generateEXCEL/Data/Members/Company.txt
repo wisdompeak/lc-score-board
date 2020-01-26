@@ -8,6 +8,7 @@ thumbpixels Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 leoknuth Amazon
+wdyfy317138 Amazon
 user760 Amazon
 luozj14 Amazon
 ZhuYamei Amazon
@@ -37,6 +38,7 @@ xiaozhi1 Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
 liujiashun66 BNYMellon
+harttle Baidu
 fengw7 Bloomberg
 fuxuemingzhu ByteDance
 gingerale ByteDance
@@ -92,6 +94,7 @@ Lisanaaa Grab
 siqiaochen ICANN
 wobuxihuannile Indeed
 keyupeter KeepTruckin
+ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
