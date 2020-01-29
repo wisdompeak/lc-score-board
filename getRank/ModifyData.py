@@ -644,8 +644,8 @@ for contest in range(118,172+1):
 
 pprint(data)   
 
-# data["Cicindela"]=data["Caloplaca"]
-# data.pop("yiyue15")
+#data["xianglaniunan"]=data["galiniunan"]
+#data.pop("galiniunan")
 
 
 json_str = json.dumps(data)
