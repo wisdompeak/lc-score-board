@@ -77,7 +77,6 @@ SUPERJOSY 10/03/2019
 annaluciaa 10/05/2019
 fengzhixiao 10/11/2019
 WarriorZWY 10/14/2019
-KyleFu 10/15/2019
 Rayleigh0328 10/19/2019
 endlesscheng 10/25/2019
 xxz-leetcode 10/28/2019
@@ -87,14 +86,10 @@ YuhanWu 11/09/2019
 wdyfy317138 11/11/2018
 WKelvinson 11/11/2018
 AestheticXJTU 11/15/2019
-greeneyes 11/17/2019
-hongchenjack 12/02/2019
 Yiyue15 12/02/2019
 anhpp 12/05/2019
 iwfahalfbloodunicorn 12/07/2019
 LambertTao 12/08/2019
-xcao65 12/14/2019
-shangxy 12/14/2019
 hialvin 12/18/2019
 Lisanaaa 12/18/2019
 xinchao0509 12/25/2019
@@ -147,4 +142,13 @@ Kerathy 01/27/2020
 Kaiyu-Wang  01/27/2020
 wangchuqiao93 01/29/2020
 laikwunsing 02/01/2020
-obihai 02/01/2020
+biss 02/02/2020
+ZihaoXue1995 02/02/2020
+Zoe_Du 02/02/2020
+VanCN 02/04/2020
+aChris 02/04/2020
+Dawnren123 02/04/2020
+BlinkBamboo 02/04/2020
+machaohcun 02/05/2020
+YanJF 02/06/2020
+2valor 02/06/2020
