@@ -1,5 +1,6 @@
 Arco Airbnb
 huanglanzhiguan Alibaba
+kid1412z Alibaba
 ZOEGREEN Alibaba
 song30 Alibaba
 deepda2k Alibaba
@@ -28,12 +29,15 @@ jmzhang18 Amazon
 user760 Amazon
 Aaron_S Amazon
 XiaoWanLINJU Amazon
+redbeanlyx Amazon
 FlagIsMine Amazon
+zhengfu23 Amazon
 chuw Amazon
 whyer Amazon
 luorinz Amazon
 fan_zh Amazon
 miracleyanyu Amazon
+bugattiforsamsam Amazon
 OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
@@ -41,13 +45,13 @@ stayfoolish2 Apple
 liujiashun66 BNYMellon
 harttle Baidu
 fengw7 Bloomberg
+tommyjiang ByteDance
 fuxuemingzhu ByteDance
 gingerale ByteDance
 JansonLu Cloudian
 ZhengkaiWei Cloudian
 wenyou Comcast
 XingxingHuang Cruise
-zhengfu23 DXC
 jasonzzzzz DellEMC
 cc189 Ebay
 shuoyan F5Networks
@@ -109,7 +113,6 @@ qw123 Microsoft
 wyzhang421 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
-tommyjiang Momenta
 YuhanWu MorganStanley
 mzcj Palo-alto
 zgcmx2011 Petuum
