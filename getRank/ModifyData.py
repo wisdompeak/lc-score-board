@@ -677,7 +677,7 @@ data["LuckyHoungLeee"]['175']=[5045,2]
 
 ### before 176
 for contest in range(118,175+1): 
-	data["oooo0oooo0ooo"][str(contest)]=[-2,0]
+	data["oOoO0oOoO0oOo"][str(contest)]=[-2,0]
 	data["thewisp"][str(contest)]=[-2,0]
 	data["FighterNan"][str(contest)]=[-2,0]
 	data["allen980123"][str(contest)]=[-2,0]
@@ -697,8 +697,8 @@ for contest in range(174,175+1):
 
 pprint(data)   
 
-#data["xianglaniunan"]=data["galiniunan"]
-#data.pop("galiniunan")
+# data["oOoO0oOoO0oOo"]=data["oooo0oooo0ooo"]
+# data.pop("oooo0oooo0ooo")
 
 
 json_str = json.dumps(data)
