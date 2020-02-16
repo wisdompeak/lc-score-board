@@ -671,7 +671,8 @@ for contest in range(167,174+1):
 for contest in range(174,174+1):  		
 	data["machaohcun"][str(contest)]=[-2,0] # rejoin 
 
-data["Zoe_Du"]['175']=[5682,1] 
+data["Zoe_Du"]['175']=[5682,1]
+data["LuckyHoungLeee"]['175']=[5045,2] 
 
 
 ### before 176
