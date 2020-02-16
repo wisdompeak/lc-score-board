@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("contest", help="contest id")
 kwargs = parser.parse_args()
 contest = int(kwargs.contest)
-pageNum = 200
+pageNum = 300
 
 results = fetchRanking(contest,pageNum)
 
