@@ -4,7 +4,6 @@ kid1412z Alibaba
 ZOEGREEN Alibaba
 song30 Alibaba
 deepda2k Alibaba
-Charles000 Amazon
 thumbpixels Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
@@ -14,6 +13,7 @@ luozj14 Amazon
 KurosuHa Amazon
 ZhuYamei Amazon
 dickbomb Amazon
+Juny1He Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
 QAMichaelPeng Amazon
@@ -63,6 +63,8 @@ Golden_Fish Facebook
 hhjkkl Facebook
 zzy1996 Facebook
 Coder35 Facebook
+henghaaya Goldman
+christine_christine Goldman
 wisdompeak Google
 lee215 Google
 SeymourLee Google
@@ -71,8 +73,11 @@ ForGive Google
 fighting_for_flag Google
 Cicindela Google
 adayxiang Google
+wangchuqiao93 Google
 aruba1 Google
+ChenDanni Google
 softair Google
+peng_wang_cmu Google
 fbian Google
 deerstalker Google
 pjincz Google
@@ -94,8 +99,8 @@ qiuyu_93 Google
 ShoutingLyu Google
 jpju Google
 TinyExplorer Google
-ChenDanni Google
 kaizer87 Google
+sifangyou Google
 Lisanaaa Grab
 siqiaochen ICANN
 wobuxihuannile Indeed
@@ -113,6 +118,7 @@ qw123 Microsoft
 wyzhang421 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
+Charles000 Microsoft
 YuhanWu MorganStanley
 mzcj Palo-alto
 zgcmx2011 Petuum
