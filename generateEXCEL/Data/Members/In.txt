@@ -79,8 +79,8 @@ xxz-leetcode 10/28/2019
 hongrubb 10/29/2019
 leoknuth 11/01/2019
 YuhanWu 11/09/2019
-wdyfy317138 11/11/2018
-WKelvinson 11/11/2018
+wdyfy317138 11/11/2019
+WKelvinson 11/11/2019
 AestheticXJTU 11/15/2019
 anhpp 12/05/2019
 LambertTao 12/08/2019
