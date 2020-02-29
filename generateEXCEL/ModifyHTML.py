@@ -61,6 +61,7 @@ content = content.replace("Baidu-Logo","<img src='Img/Baidu.png' width=18 height
 content = content.replace("MorganStanley-Logo","<img src='Img/MorganStanley.png' width=48 height=18>")
 content = content.replace("Kuaishou-Logo","<img src='Img/Kuaishou.png' width=18 height=18>")
 content = content.replace("Goldman-Logo","<img src='Img/Goldman.png' width=48 height=18>")
+content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=48 height=18>")
 
 
 content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
