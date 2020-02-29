@@ -9,10 +9,12 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 leoknuth Amazon
 wdyfy317138 Amazon
+LambertTao Amazon
 luozj14 Amazon
 KurosuHa Amazon
 ZhuYamei Amazon
 dickbomb Amazon
+BlinkBamboo Amazon
 Juny1He Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
@@ -44,6 +46,7 @@ bradhuang1999 Apple
 stayfoolish2 Apple
 liujiashun66 BNYMellon
 harttle Baidu
+sukeyzhou Bloomberg
 fengw7 Bloomberg
 tommyjiang ByteDance
 fuxuemingzhu ByteDance
@@ -52,19 +55,18 @@ JansonLu Cloudian
 ZhengkaiWei Cloudian
 wenyou Comcast
 XingxingHuang Cruise
-jasonzzzzz DellEMC
 cc189 Ebay
 shuoyan F5Networks
 tift Facebook
 shuchenc Facebook
 zac4 Facebook
 OTTFF Facebook
+kealyn Facebook
 Golden_Fish Facebook
 hhjkkl Facebook
 zzy1996 Facebook
 Coder35 Facebook
 henghaaya Goldman
-christine_christine Goldman
 wisdompeak Google
 lee215 Google
 SeymourLee Google
@@ -110,6 +112,7 @@ venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
 sshang Microsoft
+jasonzzzzz Microsoft
 xxnzym Microsoft
 lzl124631x Microsoft
 Kaiyu-Wang  Microsoft
@@ -120,6 +123,7 @@ LijianChen Microsoft
 praenubilus Microsoft
 Charles000 Microsoft
 YuhanWu MorganStanley
+christine_christine Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
 shshwdr PocketGems
