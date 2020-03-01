@@ -15,7 +15,7 @@ content = content.replace("PureStorage-Logo","<img src='Img/PureStorage.png' wid
 content = content.replace("Walmart-Logo","<img src='Img/Walmart.jpeg' width=16 height=16>")
 content = content.replace("Twilio-Logo","<img src='Img/Twilio.png' width=16 height=16>")
 content = content.replace("Arista-Logo","<img src='Img/Arista.jpeg' width=28 height=16>")
-content = content.replace("ByteDance-Logo","<img src='Img/ByteDance.jpeg' width=30 height=16>")
+content = content.replace("ByteDance-Logo","<img src='Img/ByteDance.jpeg' width=36 height=20>")
 content = content.replace("SnowFlake-Logo","<img src='Img/SnowFlake.png' width=18 height=18>")
 content = content.replace("RedBook-Logo","<img src='Img/RedBook.png' width=18 height=18>")
 content = content.replace("PocketGems-Logo","<img src='Img/PocketGems.png' width=18 height=18>")
@@ -61,7 +61,7 @@ content = content.replace("Baidu-Logo","<img src='Img/Baidu.png' width=18 height
 content = content.replace("MorganStanley-Logo","<img src='Img/MorganStanley.png' width=48 height=18>")
 content = content.replace("Kuaishou-Logo","<img src='Img/Kuaishou.png' width=18 height=18>")
 content = content.replace("Goldman-Logo","<img src='Img/Goldman.png' width=48 height=18>")
-content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=48 height=18>")
+content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=36 height=14>")
 
 
 content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
