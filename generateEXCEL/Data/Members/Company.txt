@@ -11,11 +11,11 @@ leoknuth Amazon
 wdyfy317138 Amazon
 LambertTao Amazon
 luozj14 Amazon
-KurosuHa Amazon
 ZhuYamei Amazon
 dickbomb Amazon
 BlinkBamboo Amazon
 Juny1He Amazon
+supersam331 Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
 QAMichaelPeng Amazon
@@ -23,7 +23,6 @@ LittleBaldHead Amazon
 Spencial Amazon
 shuizhouwang Amazon
 liuguanhualouie Amazon
-supersam331 Amazon
 lulinzhang1124 Amazon
 yueb95 Amazon
 Clary Amazon
@@ -40,6 +39,7 @@ luorinz Amazon
 fan_zh Amazon
 miracleyanyu Amazon
 bugattiforsamsam Amazon
+KurosuHa Amazon
 OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
@@ -78,6 +78,7 @@ adayxiang Google
 wangchuqiao93 Google
 aruba1 Google
 ChenDanni Google
+halolong Google
 softair Google
 peng_wang_cmu Google
 fbian Google
@@ -123,6 +124,7 @@ LijianChen Microsoft
 praenubilus Microsoft
 Charles000 Microsoft
 YuhanWu MorganStanley
+BingleLove Oracle
 christine_christine Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
@@ -144,9 +146,9 @@ wangyxwyx Twilio
 haitao7 UPenn
 albertzhang86 Uber
 l90095z Uber
-user504 VMware
 dennanisny VMware
 xguo-Will VMware
+user504 VMware
 lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
