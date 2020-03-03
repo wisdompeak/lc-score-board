@@ -66,6 +66,8 @@ content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=36 heig
 
 content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
 
+content = content.replace("terms and regulations",'<a href="https://wisdompeak.github.io/lc-score-board/rules.html">terms and regulations</a>')
+
 content = content.replace("curve-figure","<img src='Img/curve.png'>")
 
 content = content.replace("<title></title>","<title>残酷刷题群</title>")
