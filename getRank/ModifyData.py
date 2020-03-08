@@ -723,7 +723,7 @@ for contest in range(118,178+1):
 pprint(data)   
 
 # data["oOoO0oOoO0oOo"]=data["oooo0oooo0ooo"]
-# data.pop("oooo0oooo0ooo")
+# data.pop("Alllllllll")
 
 
 json_str = json.dumps(data)
