@@ -74,7 +74,6 @@ fengzhixiao 10/11/2019
 WarriorZWY 10/14/2019
 Rayleigh0328 10/19/2019
 endlesscheng 10/25/2019
-xxz-leetcode 10/28/2019
 hongrubb 10/29/2019
 leoknuth 11/01/2019
 YuhanWu 11/09/2019
@@ -133,7 +132,6 @@ laikwunsing 02/01/2020
 VanCN 02/04/2020
 aChris 02/04/2020
 Dawnren123 02/04/2020
-BlinkBamboo 02/04/2020
 machaohcun 02/05/2020
 YanJF 02/06/2020
 2valor 02/06/2020
@@ -157,7 +155,7 @@ renjunyao 02/22/2020
 VivianVVang 02/22/2020
 greeneyes 02/23/2020
 Coup_De_Grace 02/23/2020
-tt198866 02/25/2020
 halolong 02/26/2020
 jxu349 02/28/2020
 supersam331 02/28/2020
+Alllllllll 03/06/2020

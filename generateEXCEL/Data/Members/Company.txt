@@ -13,7 +13,6 @@ LambertTao Amazon
 luozj14 Amazon
 ZhuYamei Amazon
 dickbomb Amazon
-BlinkBamboo Amazon
 Juny1He Amazon
 supersam331 Amazon
 jzcheng Amazon
@@ -40,6 +39,7 @@ fan_zh Amazon
 miracleyanyu Amazon
 bugattiforsamsam Amazon
 KurosuHa Amazon
+BlinkBamboo Amazon
 OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
@@ -77,6 +77,7 @@ Cicindela Google
 adayxiang Google
 wangchuqiao93 Google
 aruba1 Google
+YI-DING Google
 ChenDanni Google
 halolong Google
 softair Google
@@ -147,12 +148,12 @@ haitao7 UPenn
 albertzhang86 Uber
 l90095z Uber
 dennanisny VMware
+gzh47 VMware
 xguo-Will VMware
 user504 VMware
 lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
-gzh47 Walmart
 Jc_Qu Wayfair
 yuchenliulyc Wish
 jason_wong1 Yahoo
