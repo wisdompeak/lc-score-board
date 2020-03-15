@@ -719,6 +719,14 @@ for contest in range(133,177+1):
 for contest in range(118,178+1): 
 	data["Allllll"][str(contest)]=[-2,0]
 
+### before 180
+for contest in range(118,179+1): 
+	data["ziyezhu92"][str(contest)]=[-2,0]
+	data["jerryxyj289"][str(contest)]=[-2,0]
+	data["nliu_l"][str(contest)]=[-2,0]
+	data["meiyiyan"][str(contest)]=[-2,0]
+for contest in range(176,179+1):  		
+	data["Yiyue15"][str(contest)]=[-2,0] # rejoin 
 
 pprint(data)   
 
@@ -796,6 +804,7 @@ contests["176"] = 8105
 contests["177"] = 9091
 contests["178"] = 9210
 contests["179"] = 9847
+contests["180"] = 10047
 
 json_str = json.dumps(contests)
 
