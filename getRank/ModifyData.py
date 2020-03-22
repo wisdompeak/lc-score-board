@@ -732,7 +732,7 @@ for contest in range(176,179+1):
 for contest in range(118,180+1): 
 	data["hptcyhj"][str(contest)]=[-2,0]
 	data["hw2020"][str(contest)]=[-2,0]
-	data["yuchenyang1997"][str(contest)]=[-2,0]
+	data["YuchenYang1997"][str(contest)]=[-2,0]
 	data["ShidaLei"][str(contest)]=[-2,0]
 	data["Yao_Yin"][str(contest)]=[-2,0]
 	data["zyw_code"][str(contest)]=[-2,0]
@@ -748,7 +748,7 @@ for contest in range(177,180+1):
 pprint(data)   
 
 # data["oOoO0oOoO0oOo"]=data["oooo0oooo0ooo"]
-# data.pop("Alllllllll")
+# data.pop("yuchenyang1997")
 
 
 json_str = json.dumps(data)
