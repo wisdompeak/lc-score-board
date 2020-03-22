@@ -9,10 +9,8 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 leoknuth Amazon
 wdyfy317138 Amazon
-LambertTao Amazon
 luozj14 Amazon
 ZhuYamei Amazon
-dickbomb Amazon
 Juny1He Amazon
 supersam331 Amazon
 jzcheng Amazon
@@ -25,6 +23,7 @@ liuguanhualouie Amazon
 lulinzhang1124 Amazon
 yueb95 Amazon
 Clary Amazon
+dickbomb Amazon
 jmzhang18 Amazon
 user760 Amazon
 Aaron_S Amazon
@@ -40,6 +39,8 @@ miracleyanyu Amazon
 bugattiforsamsam Amazon
 KurosuHa Amazon
 BlinkBamboo Amazon
+Blue_Epoch Amazon
+LambertTao Amazon
 OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
@@ -51,6 +52,7 @@ fengw7 Bloomberg
 tommyjiang ByteDance
 fuxuemingzhu ByteDance
 gingerale ByteDance
+Isomorphic ByteDance
 JansonLu Cloudian
 ZhengkaiWei Cloudian
 wenyou Comcast
@@ -119,12 +121,12 @@ jasonzzzzz Microsoft
 xxnzym Microsoft
 lzl124631x Microsoft
 Kaiyu-Wang  Microsoft
+Charles000 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
 wyzhang421 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
-Charles000 Microsoft
 YuhanWu MorganStanley
 BingleLove Oracle
 christine_christine Oracle
