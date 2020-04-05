@@ -4,6 +4,7 @@ kid1412z Alibaba
 ZOEGREEN Alibaba
 song30 Alibaba
 deepda2k Alibaba
+user4286 Alibaba
 thumbpixels Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
@@ -82,6 +83,7 @@ aruba1 Google
 YI-DING Google
 ChenDanni Google
 halolong Google
+liuleo Google
 softair Google
 peng_wang_cmu Google
 fbian Google
@@ -98,7 +100,6 @@ tankztc Google
 weiyang95 Google
 wangzi6147 Google
 lumic Google
-liuleo Google
 waitnote Google
 wenting95 Google
 qiuyu_93 Google
@@ -108,7 +109,9 @@ TinyExplorer Google
 kaizer87 Google
 sifangyou Google
 SeymourLee Google
+chongtan111200 Google
 Lisanaaa Grab
+lihao199408 Huawei
 siqiaochen ICANN
 wobuxihuannile Indeed
 keyupeter KeepTruckin
@@ -116,6 +119,7 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
+please_AC Meituan
 sshang Microsoft
 jasonzzzzz Microsoft
 xxnzym Microsoft
@@ -131,6 +135,7 @@ praenubilus Microsoft
 YuhanWu MorganStanley
 BingleLove Oracle
 WarriorZWY Oracle
+Ethan_M Oracle
 christine_christine Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
