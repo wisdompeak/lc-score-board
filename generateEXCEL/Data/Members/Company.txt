@@ -10,10 +10,11 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 leoknuth Amazon
 wdyfy317138 Amazon
-luozj14 Amazon
 ZhuYamei Amazon
 Juny1He Amazon
 supersam331 Amazon
+KurosuHa Amazon
+zyzz1234 Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
 QAMichaelPeng Amazon
@@ -38,10 +39,10 @@ luorinz Amazon
 fan_zh Amazon
 miracleyanyu Amazon
 bugattiforsamsam Amazon
-KurosuHa Amazon
 BlinkBamboo Amazon
 Blue_Epoch Amazon
 LambertTao Amazon
+luozj14 Amazon
 OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
@@ -75,6 +76,7 @@ wisdompeak Google
 lee215 Google
 cuiaoxiang Google
 ForGive Google
+wxy9018 Google
 fighting_for_flag Google
 Cicindela Google
 adayxiang Google
@@ -125,13 +127,13 @@ jasonzzzzz Microsoft
 xxnzym Microsoft
 lzl124631x Microsoft
 Kaiyu-Wang  Microsoft
-zyw_code Microsoft
 Charles000 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
 wyzhang421 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
+zyw_code Microsoft
 YuhanWu MorganStanley
 BingleLove Oracle
 WarriorZWY Oracle
@@ -144,7 +146,6 @@ shshwdr PocketGems
 jiang718 PureStorage
 davidqing1991 PureStorage
 cyn3966 PureStorage
-wxy9018 Qualcomm
 zhangsikai123 RedBook
 FYQiang Reflexis
 bifeitang Schlumberger
