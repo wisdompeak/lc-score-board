@@ -10,13 +10,13 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 leoknuth Amazon
 wdyfy317138 Amazon
-ZhuYamei Amazon
 Juny1He Amazon
 supersam331 Amazon
 KurosuHa Amazon
 zyzz1234 Amazon
 jzcheng Amazon
 Vicky_Owen Amazon
+ZhuYamei Amazon
 QAMichaelPeng Amazon
 LittleBaldHead Amazon
 Spencial Amazon
@@ -107,6 +107,7 @@ wenting95 Google
 qiuyu_93 Google
 ShoutingLyu Google
 jpju Google
+sunxiaohua Google
 TinyExplorer Google
 kaizer87 Google
 sifangyou Google
@@ -133,6 +134,7 @@ qw123 Microsoft
 wyzhang421 Microsoft
 LijianChen Microsoft
 praenubilus Microsoft
+hongchenjack Microsoft
 zyw_code Microsoft
 YuhanWu MorganStanley
 BingleLove Oracle
