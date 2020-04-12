@@ -788,8 +788,8 @@ for contest in range(178,183+1):
 
 pprint(data)   
 
-# data["oOoO0oOoO0oOo"]=data["oooo0oooo0ooo"]
-# data.pop("youngforest")
+# data["chunjieshawn"]=data["ChunjieShawn"]
+# data.pop("ChunjieShawn")
 
 
 json_str = json.dumps(data)
