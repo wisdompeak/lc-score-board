@@ -36,6 +36,7 @@ zhengfu23 Amazon
 chuw Amazon
 whyer Amazon
 luorinz Amazon
+fengw7 Amazon
 fan_zh Amazon
 miracleyanyu Amazon
 bugattiforsamsam Amazon
@@ -47,10 +48,10 @@ OneDirection Apple
 xiaozhi1 Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
+mangoman Atlanssian
 liujiashun66 BNYMellon
 harttle Baidu
 sukeyzhou Bloomberg
-fengw7 Bloomberg
 tommyjiang ByteDance
 fuxuemingzhu ByteDance
 gingerale ByteDance
@@ -65,12 +66,12 @@ tift Facebook
 shuchenc Facebook
 zac4 Facebook
 OTTFF Facebook
-kealyn Facebook
 Golden_Fish Facebook
 hhjkkl Facebook
 zzy1996 Facebook
 tichen47 Facebook
 Coder35 Facebook
+kealyn Facebook
 henghaaya Goldman
 wisdompeak Google
 lee215 Google
@@ -124,8 +125,8 @@ ZaozaoNan LinkedIn
 richarddia MathWorks
 please_AC Meituan
 sshang Microsoft
-jasonzzzzz Microsoft
-xxnzym Microsoft
+jasonzzzz Microsoft
+zpzpzzp2020 Microsoft
 lzl124631x Microsoft
 Kaiyu-Wang  Microsoft
 Charles000 Microsoft
@@ -133,6 +134,7 @@ huyouhyw Microsoft
 qw123 Microsoft
 wyzhang421 Microsoft
 LijianChen Microsoft
+xxnzym Microsoft
 praenubilus Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
@@ -153,8 +155,8 @@ FYQiang Reflexis
 bifeitang Schlumberger
 Duuuuu SnowFlake
 wAgChen SnowFlake
-FrankYao Tencent
 thu_winfield Tencent
+FrankYao Tencent
 jwang89225 Tripadvisor
 wangyxwyx Twilio
 haitao7 UPenn
