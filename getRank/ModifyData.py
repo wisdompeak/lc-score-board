@@ -248,7 +248,7 @@ data["VectorX"]['138']=[158,4]
 for contest in range(118,139+1): 
 	data["ixinqi"][str(contest)]=[-2,0]
 	data["KyleFu"][str(contest)]=[-2,0]
-	data["jasonzzzzz"][str(contest)]=[-2,0]
+	data["jasonzzzz"][str(contest)]=[-2,0]
 	data["clue2gt"][str(contest)]=[-2,0]
 	data["sabakunoarashi"][str(contest)]=[-2,0]
 	data["liujiashun66"][str(contest)]=[-2,0]
@@ -291,7 +291,7 @@ for contest in range(136,139+1): 	 # rejoin
 		
 for contest in range(124,139+1):  
     data["ZhuYamei"][str(contest)]=[-2,0] # rejoin
-    data["xxnzym"][str(contest)]=[-2,0] # rejoin
+    data["zpzpzzp2020"][str(contest)]=[-2,0] # rejoin
     		
 for contest in range(136,139+1):  
     data["1373757850"][str(contest)]=[-2,0] # rejoin
@@ -370,7 +370,7 @@ for contest in range(118,145+1):
 	data["miracleyanyu"][str(contest)]=[-2,0]
 	data["myc9799"][str(contest)]=[-2,0]
 for contest in range(144,145+1):  
-    data["xxnzym"][str(contest)]=[-2,0] # rejoin 	
+    data["zpzpzzp2020"][str(contest)]=[-2,0] # rejoin 	
 
 
 ### before 147
@@ -604,7 +604,7 @@ for contest in range(118,170+1):
 	data["yuhengc2"][str(contest)]=[-2,0]
 	data["miguelmac"][str(contest)]=[-2,0]
 for contest in range(167,170+1):  
-    data["xxnzym"][str(contest)]=[-2,0] # rejoin 	
+    data["zpzpzzp2020"][str(contest)]=[-2,0] # rejoin 	
 for contest in range(164,170+1):  
     data["zhengfu23"][str(contest)]=[-2,0] # rejoin     
 for contest in range(166,170+1):  
@@ -794,6 +794,8 @@ for contest in range(118,184+1):
 	data["codingmushroom"][str(contest)]=[-2,0]	
 	data["Lyrics_W"][str(contest)]=[-2,0]	
 	data["sxd32550"][str(contest)]=[-2,0]	
+data["jasonzzzz"]["185"]=[2133,3]		
+data["zpzpzzp2020"]["185"]=[2705,3]		
 
 
 pprint(data)   
