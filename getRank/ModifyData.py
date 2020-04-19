@@ -786,10 +786,31 @@ for contest in range(118,183+1):
 for contest in range(178,183+1):  		
 	data["KurosuHa"][str(contest)]=[-2,0] # rejoin 		
 
+
+### before 185
+for contest in range(118,184+1): 
+	data["pku_erutan"][str(contest)]=[-2,0]	
+	data["skierlin"][str(contest)]=[-2,0]	
+	data["codingmushroom"][str(contest)]=[-2,0]	
+	data["Lyrics_W"][str(contest)]=[-2,0]	
+	data["sxd32550"][str(contest)]=[-2,0]	
+
+
 pprint(data)   
 
-# data["chunjieshawn"]=data["ChunjieShawn"]
-# data.pop("ChunjieShawn")
+# data["jasonzzzz"]=data["jasonzzzzz"]
+# data["zpzpzzp2020"]=data["xxnzym"]
+
+# data.pop("jasonzzzzz")
+# data.pop("xxnzym")
+
+
+
+
+
+
+
+
 
 
 json_str = json.dumps(data)
@@ -867,6 +888,7 @@ contests["181"] = 10930
 contests["182"] = 11694
 contests["183"] = 12539
 contests["184"] = 13661
+contests["185"] = 14207
 
 json_str = json.dumps(contests)
 
