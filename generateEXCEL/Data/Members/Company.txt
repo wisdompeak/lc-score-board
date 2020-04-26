@@ -64,7 +64,7 @@ cc189 Ebay
 shuoyan F5Networks
 tift Facebook
 shuchenc Facebook
-zac4 Facebook
+zac44 Facebook
 OTTFF Facebook
 Golden_Fish Facebook
 hhjkkl Facebook
@@ -81,11 +81,9 @@ wxy9018 Google
 fighting_for_flag Google
 Cicindela Google
 adayxiang Google
-wangchuqiao93 Google
 aruba1 Google
 YI-DING Google
 ChenDanni Google
-halolong Google
 liuleo Google
 softair Google
 peng_wang_cmu Google
@@ -114,6 +112,8 @@ kaizer87 Google
 sifangyou Google
 SeymourLee Google
 chongtan111200 Google
+wangchuqiao93 Google
+halolong Google
 Lisanaaa Grab
 lihao199408 Huawei
 siqiaochen ICANN

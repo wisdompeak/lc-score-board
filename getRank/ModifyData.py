@@ -360,7 +360,7 @@ for contest in range(118,144+1):
 	data["xhou0540"][str(contest)]=[-2,0]
 	data["Dawnren123"][str(contest)]=[-2,0]
 	data["song30"][str(contest)]=[-2,0]
-	data["zac4"][str(contest)]=[-2,0]
+	data["zac44"][str(contest)]=[-2,0]
 	
 ### before 146
 for contest in range(118,145+1): 
@@ -794,26 +794,20 @@ for contest in range(118,184+1):
 	data["codingmushroom"][str(contest)]=[-2,0]	
 	data["Lyrics_W"][str(contest)]=[-2,0]	
 	data["sxd32550"][str(contest)]=[-2,0]	
-data["jasonzzzz"]["185"]=[2133,3]		
-data["zpzpzzp2020"]["185"]=[2705,3]		
+data["jasonzzzz"]["185"]=[2133,3]		# rename
+data["zpzpzzp2020"]["185"]=[2705,3]		# rename
 
-
+### before 186
+for contest in range(118,185+1): 
+	data["Hangzhi"][str(contest)]=[-2,0]	
+	data["derekW"][str(contest)]=[-2,0]	
+	data["Jtx_"][str(contest)]=[-2,0]	
+	data["lwh14710"][str(contest)]=[-2,0]	
+	data["LyannaGoGoGo"][str(contest)]=[-2,0]	
 pprint(data)   
 
-# data["jasonzzzz"]=data["jasonzzzzz"]
-# data["zpzpzzp2020"]=data["xxnzym"]
-
-# data.pop("jasonzzzzz")
-# data.pop("xxnzym")
-
-
-
-
-
-
-
-
-
+# data["zac44"]=data["zac4"]
+# data.pop("zac4")
 
 json_str = json.dumps(data)
 
@@ -891,6 +885,8 @@ contests["182"] = 11694
 contests["183"] = 12539
 contests["184"] = 13661
 contests["185"] = 14207
+contests["186"] = 11684
+
 
 json_str = json.dumps(contests)
 
