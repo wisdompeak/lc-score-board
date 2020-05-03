@@ -140,11 +140,12 @@ hongchenjack Microsoft
 zyw_code Microsoft
 YuhanWu MorganStanley
 BingleLove Oracle
-WarriorZWY Oracle
+WarriorZ Oracle
 christine_christine Oracle
 Ethan_M Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
+biss PinDuoDuo
 shshwdr PocketGems
 1373757850 Pony
 jiang718 PureStorage
@@ -153,7 +154,6 @@ cyn3966 PureStorage
 zhangsikai123 RedBook
 FYQiang Reflexis
 bifeitang Schlumberger
-Duuuuu SnowFlake
 wAgChen SnowFlake
 thu_winfield Tencent
 FrankYao Tencent

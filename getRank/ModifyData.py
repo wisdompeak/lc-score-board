@@ -491,7 +491,7 @@ for contest in range(118,157+1):
 ### before 159
 for contest in range(118,158+1): 	
 	data["tichen47"][str(contest)]=[-2,0]	
-	data["WarriorZWY"][str(contest)]=[-2,0]
+	data["WarriorZ"][str(contest)]=[-2,0]
 	data["JamesCool"][str(contest)]=[-2,0]
 	data["Rayleigh0328"][str(contest)]=[-2,0]	
 for contest in range(134,158+1):  
@@ -598,7 +598,7 @@ for contest in range(118,170+1):
 	data["PHISSTOOD"][str(contest)]=[-2,0]
 	data["lostleaf"][str(contest)]=[-2,0]
 	data["emmm_"][str(contest)]=[-2,0]
-	data["xuzheng1994620"][str(contest)]=[-2,0]
+	data["chenhaomaiji"][str(contest)]=[-2,0]
 	data["KurosuHa"][str(contest)]=[-2,0]
 	data["Blue_Epoch"][str(contest)]=[-2,0]
 	data["yuhengc2"][str(contest)]=[-2,0]
@@ -682,7 +682,7 @@ for contest in range(118,175+1):
 	data["FighterNan"][str(contest)]=[-2,0]
 	data["allen980123"][str(contest)]=[-2,0]
 	data["BestQian"][str(contest)]=[-2,0]
-	data["yanrcheng2"][str(contest)]=[-2,0] 
+	data["yanrucheng"][str(contest)]=[-2,0] 
 	data["gabyXuan"][str(contest)]=[-2,0]
 	data["kid1412z"][str(contest)]=[-2,0]
 	data["aruhanliu2"][str(contest)]=[-2,0]
@@ -739,7 +739,7 @@ for contest in range(118,180+1):
 	data["deadstorm"][str(contest)]=[-2,0]
 	data["chenjianxu97"][str(contest)]=[-2,0]
 	data["michelle_sima"][str(contest)]=[-2,0]
-	data["ChunjieShawn"][str(contest)]=[-2,0]
+	data["CE_RE_WAyitiaolong"][str(contest)]=[-2,0]
 for contest in range(180,180+1):  		
 	data["Kerathy"][str(contest)]=[-2,0] # rejoin 	
 for contest in range(177,180+1):  		
@@ -792,7 +792,7 @@ for contest in range(118,184+1):
 	data["pku_erutan"][str(contest)]=[-2,0]	
 	data["skierlin"][str(contest)]=[-2,0]	
 	data["codingmushroom"][str(contest)]=[-2,0]	
-	data["Lyrics_W"][str(contest)]=[-2,0]	
+	data["keepswimming"][str(contest)]=[-2,0]	
 	data["sxd32550"][str(contest)]=[-2,0]	
 data["jasonzzzz"]["185"]=[2133,3]		# rename
 data["zpzpzzp2020"]["185"]=[2705,3]		# rename
@@ -804,10 +804,21 @@ for contest in range(118,185+1):
 	data["Jtx_"][str(contest)]=[-2,0]	
 	data["lwh14710"][str(contest)]=[-2,0]	
 	data["LyannaGoGoGo"][str(contest)]=[-2,0]	
-pprint(data)   
 
-# data["zac44"]=data["zac4"]
-# data.pop("zac4")
+### before 187
+for contest in range(118,186+1): 
+	data["leileimiao"][str(contest)]=[-2,0]	
+	data["pjequilibrium"][str(contest)]=[-2,0]	
+	data["izhongyuting"][str(contest)]=[-2,0]	
+	data["swift9"][str(contest)]=[-2,0]	
+for contest in range(185,186+1):  		
+	data["zerotrac2"][str(contest)]=[-2,0] # rejoin 	
+
+
+# data["chenhaomaiji"]=data["xuzheng1994620"]
+# data.pop("xuzheng1994620")
+
+pprint(data)  
 
 json_str = json.dumps(data)
 
@@ -886,6 +897,7 @@ contests["183"] = 12539
 contests["184"] = 13661
 contests["185"] = 14207
 contests["186"] = 11684
+contests["187"] = 12350
 
 
 json_str = json.dumps(contests)
