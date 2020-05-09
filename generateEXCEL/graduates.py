@@ -158,11 +158,12 @@ sheet[idx].value = 'Days'
 sheet[idx].alignment = Alignment(horizontal='center')
 sheet[idx].font = Font(bold=True, size=SIZE)
 
-# row, column = RowOffset+2, 4
-# idx = convertToTitle(column)+str(row)
-# sheet[idx].value = 'Score'
-# sheet[idx].alignment = Alignment(horizontal='center')
-# sheet[idx].font = Font(bold=True, size=SIZE)
+# output header "Blank"
+row, column = RowOffset+2, 4
+idx = convertToTitle(column)+str(row)
+sheet[idx].value = 'Score'
+sheet[idx].alignment = Alignment(horizontal='center')
+sheet[idx].font = Font(bold=True, size=SIZE)
 
 # output contest ID / number of players
 for k in range(endContest-startContest+1):
@@ -191,16 +192,23 @@ for k in range(endContest-startContest+1):
 RowOffset += 4
 
 for i in range(len(table2)):
-
-  # 1st column: Rank
-  row, column = RowOffset+i, 1
-  idx = convertToTitle(column)+str(row) 
-  sheet[idx].value = "-"
-  sheet[idx].alignment = Alignment(horizontal='center') 
-  sheet[idx].font = Font(bold=True, size=SIZE)       
-  if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
   name = table2[i][0]
+
+  # 1st column:  Company Logo    
+  if name in Company:          
+    row, column = RowOffset+i, 1
+    idx = convertToTitle(column)+str(row)
+    sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+    sheet[idx].value = Company[name]+"-Logo"
+
+  
+  # idx = convertToTitle(column)+str(row) 
+  # sheet[idx].value = "-"
+  # sheet[idx].alignment = Alignment(horizontal='center') 
+  # sheet[idx].font = Font(bold=True, size=SIZE)       
+  # if (i%2==0):
+  #       sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
+  
 
   
   for j in range(len(table2[i])):  # column index
@@ -216,7 +224,7 @@ for i in range(len(table2)):
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
         
-    # 3rd column :  days
+    # 4th column :  blanks
     elif j==1:            
       row, column = RowOffset+i, 4
       idx = convertToTitle(column)+str(row) 
@@ -255,12 +263,7 @@ for i in range(len(table2)):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
   sheet[idx].font = Font(size=12)
             
-  #### Company Logo    
-  if name in Company:          
-    row, column = RowOffset+i, 5+ContestNumbers*2
-    idx = convertToTitle(column)+str(row)
-    sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-    sheet[idx].value = Company[name]+"-Logo"
+
 
 
 ############################

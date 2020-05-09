@@ -47,7 +47,7 @@ def changeContents(content):
     content = content.replace("Qualcomm-Logo","<img src='Img/Qualcomm.png' width=18 height=18>")
     content = content.replace("Tripadvisor-Logo","<img src='Img/Tripadvisor.gif' width=18 height=18>")
     content = content.replace("BNYMellon-Logo","<img src='Img/BNYMellon.jpg' width=18 height=18>")
-    content = content.replace("Verizon-Logo","<img src='Img/Verizon.png' width=18 height=12>")
+    content = content.replace("Verizon-Logo","<img src='Img/Verizon.png' width=32 height=12>")
     content = content.replace("Comcast-Logo","<img src='Img/Comcast.jpg' width=18 height=18>")
     content = content.replace("Yahoo-Logo","<img src='Img/Yahoo.jpeg' width=18 height=18>")
     content = content.replace("TwoSigma-Logo","<img src='Img/TwoSigma.jpg' width=18 height=18>")
@@ -58,9 +58,11 @@ def changeContents(content):
     content = content.replace("MorganStanley-Logo","<img src='Img/MorganStanley.png' width=48 height=18>")
     content = content.replace("Kuaishou-Logo","<img src='Img/Kuaishou.png' width=18 height=18>")
     content = content.replace("Goldman-Logo","<img src='Img/Goldman.png' width=48 height=18>")
-    content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=32 height=12>")
+    content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=32 height=10>")
     content = content.replace("Meituan-Logo","<img src='Img/Meituan.jpeg' width=18 height=18>")
     content = content.replace("Huawei-Logo","<img src='Img/Huawei.png' width=18 height=18>")
+    content = content.replace("PinDuoDuo-Logo","<img src='Img/PinDuoDuo.png' width=18 height=18>")
+    content = content.replace("Atlassian-Logo","<img src='Img/Atlassian.jpeg' width=18 height=18>")
 
 
 

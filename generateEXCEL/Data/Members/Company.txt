@@ -48,7 +48,7 @@ xiaozhi1 Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
 OneDirection Apple
-mangoman Atlanssian
+mangoman Atlassian
 liujiashun66 BNYMellon
 harttle Baidu
 sukeyzhou Bloomberg
@@ -99,6 +99,7 @@ sunxiaohua Google
 TinyExplorer Google
 ChenDanni Google
 kaizer87 Google
+aruba1 Google
 sifangyou Google
 SeymourLee Google
 chongtan111200 Google
@@ -141,7 +142,6 @@ christine_christine Oracle
 Ethan_M Oracle
 BingleLove Oracle
 WarriorZ Oracle
-aruba1 P***Hub
 mzcj Palo-alto
 zgcmx2011 Petuum
 biss PinDuoDuo
