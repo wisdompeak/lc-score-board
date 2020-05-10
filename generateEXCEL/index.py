@@ -17,7 +17,7 @@ def convertToTitle(n):
   return result
         
 startContest = 118
-endContest = 187
+endContest = 188
 ContestNumbers = endContest-startContest+1
 
 ###############################################
@@ -73,7 +73,7 @@ for personID in id_list:
       else:
         score = 0
       row.append([rank,score,solved])
-   
+
   pool = [] # A pool for computing rolling score
   for x in row[1:4]:
     if x[0]!=-2: pool.append(x[1])

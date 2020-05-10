@@ -3,6 +3,7 @@ ZOEGREEN Alibaba
 song30 Alibaba
 deepda2k Alibaba
 user4286 Alibaba
+yuhengc2 Alibaba
 huanglanzhiguan Alibaba
 kid1412z Alibaba
 jzcheng Amazon
@@ -38,10 +39,10 @@ BlinkBamboo Amazon
 Blue_Epoch Amazon
 LambertTao Amazon
 luozj14 Amazon
+wdyfy317138 Amazon
 thumbpixels Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
-wdyfy317138 Amazon
 Juny1He Amazon
 zyzz1234 Amazon
 xiaozhi1 Apple
@@ -105,13 +106,13 @@ SeymourLee Google
 chongtan111200 Google
 wangchuqiao93 Google
 halolong Google
+Cicindela Google
 wisdompeak Google
 lee215 Google
 cuiaoxiang Google
 ForGive Google
 wxy9018 Google
 fighting_for_flag Google
-Cicindela Google
 adayxiang Google
 YI-DING Google
 Lisanaaa Grab
@@ -136,6 +137,7 @@ hongchenjack Microsoft
 zyw_code Microsoft
 sshang Microsoft
 jasonzzzz Microsoft
+Sakamono Microsoft
 lzl124631x Microsoft
 YuhanWu MorganStanley
 christine_christine Oracle
