@@ -814,14 +814,14 @@ for contest in range(118,186+1):
 for contest in range(185,186+1):  		
 	data["zerotrac2"][str(contest)]=[-2,0] # rejoin 	
 
-'''
+
 ### before 188
-# data["Chrisify"]=data["aChris"]
-# data.pop("aChris")
-# data["ddoudle"]=data["Xingdong_Cao"]
-# data.pop("Xingdong_Cao")
-# data["lance_skier"]=data["skierlin"]
-# data.pop("skierlin")
+data["Chrisify"]=data["aChris"]
+data.pop("aChris")
+data["ddoudle"]=data["Xingdong_Cao"]
+data.pop("Xingdong_Cao")
+data["lance_skier"]=data["skierlin"]
+data.pop("skierlin")
 for contest in range(118,187+1): 
 	data["wenjun_gael"][str(contest)]=[-2,0]	
 	data["edisonnie"][str(contest)]=[-2,0]	
@@ -829,6 +829,19 @@ for contest in range(118,187+1):
 	data["arignote"][str(contest)]=[-2,0]	
 for contest in range(184,187+1):  		
 	data["sequenzf"][str(contest)]=[-2,0] # rejoin 
+'''
+
+## before 189
+for contest in range(118,188+1): 
+	data["Googlehsieh"][str(contest)]=[-2,0]	
+for contest in range(162,188+1):  		
+	data["JamesCool"][str(contest)]=[-2,0] # rejoin 
+for contest in range(169,188+1):  		
+	data["MaggieZhao95"][str(contest)]=[-2,0] # rejoin 
+for contest in range(172,188+1):  		
+	data["Mengqian"][str(contest)]=[-2,0] # rejoin 
+
+# data.pop("Lance_skier")
 
 
 
@@ -914,6 +927,7 @@ contests["185"] = 14207
 contests["186"] = 11684
 contests["187"] = 12350
 contests["188"] = 12714
+contests["189"] = 13036
 
 
 json_str = json.dumps(contests)
