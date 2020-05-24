@@ -829,7 +829,6 @@ for contest in range(118,187+1):
 	data["arignote"][str(contest)]=[-2,0]	
 for contest in range(184,187+1):  		
 	data["sequenzf"][str(contest)]=[-2,0] # rejoin 
-'''
 
 ## before 189
 for contest in range(118,188+1): 
@@ -840,11 +839,21 @@ for contest in range(169,188+1):
 	data["MaggieZhao95"][str(contest)]=[-2,0] # rejoin 
 for contest in range(172,188+1):  		
 	data["Mengqian"][str(contest)]=[-2,0] # rejoin 
+'''
+## before 190
+for contest in range(118,189+1): 
+	data["cindy199707"][str(contest)]=[-2,0]	
+	data["haimingz112"][str(contest)]=[-2,0]
+	data["457368837"][str(contest)]=[-2,0]
+	data["zzh372024750"][str(contest)]=[-2,0]
+for contest in range(181,189+1):  		
+	data["dickbomb"][str(contest)]=[-2,0] # rejoin 
+for contest in range(183,189+1):  		
+	data["BestQian"][str(contest)]=[-2,0] # rejoin 
 
-# data.pop("Lance_skier")
 
-
-
+# data["zac4"]=data["zac44"]
+# data.pop("zac44")
 
 pprint(data)  
 
@@ -928,6 +937,7 @@ contests["186"] = 11684
 contests["187"] = 12350
 contests["188"] = 12714
 contests["189"] = 13036
+contests["190"] = 11873
 
 
 json_str = json.dumps(contests)

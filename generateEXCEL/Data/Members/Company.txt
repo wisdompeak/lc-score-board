@@ -4,7 +4,6 @@ song30 Alibaba
 deepda2k Alibaba
 user4286 Alibaba
 yuhengc2 Alibaba
-huanglanzhiguan Alibaba
 kid1412z Alibaba
 jzcheng Amazon
 Vicky_Owen Amazon
@@ -18,7 +17,6 @@ supersam331 Amazon
 lulinzhang1124 Amazon
 yueb95 Amazon
 Clary Amazon
-dickbomb Amazon
 jmzhang18 Amazon
 user760 Amazon
 Aaron_S Amazon
@@ -57,6 +55,7 @@ fuxuemingzhu ByteDance
 gingerale ByteDance
 Isomorphic ByteDance
 tommyjiang ByteDance
+huanglanzhiguan ByteDance
 JansonLu Cloudian
 ZhengkaiWei Cloudian
 wenyou Comcast
@@ -69,9 +68,10 @@ zzy1996 Facebook
 tichen47 Facebook
 Coder35 Facebook
 kealyn Facebook
+thewisp Facebook
 tift Facebook
 shuchenc Facebook
-zac44 Facebook
+zac4 Facebook
 OTTFF Facebook
 henghaaya Goldman
 softair Google
@@ -101,6 +101,7 @@ TinyExplorer Google
 ChenDanni Google
 kaizer87 Google
 aruba1 Google
+Charles000 Google
 sifangyou Google
 SeymourLee Google
 chongtan111200 Google
@@ -135,6 +136,7 @@ xxnzym Microsoft
 praenubilus Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
+jliang Microsoft
 sshang Microsoft
 jasonzzzz Microsoft
 Sakamono Microsoft

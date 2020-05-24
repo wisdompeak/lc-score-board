@@ -25,6 +25,7 @@ def read_excel():
         # print(sheet2.cell_value(i,1),date(*date_value1[:3]).strftime('%Y/%m/%d'),date(*date_value2[:3]).strftime('%Y/%m/%d'))    
         id = sheet2.cell_value(i,1)
         if id==1373757850: id = int(id)
+        if id==457368837: id = int(id)
         file_out.write(str(id)+" "+date(*date_value1[:3]).strftime('%m/%d/%Y')+" "+date(*date_value2[:3]).strftime('%m/%d/%Y')+"\n")
         Map[str(id)] = sheet2.cell_value(i,6)
 
@@ -34,6 +35,7 @@ def read_excel():
         date_value = xlrd.xldate_as_tuple(sheet1.cell_value(i,2),wb.datemode)
         id = sheet1.cell_value(i,1)
         if id==1373757850: id = int(id)
+        if id==457368837: id = int(id)
         # print(sheet1.cell_value(i,1),date(*date_value[:3]).strftime('%m/%d/%Y'))        
         file_in.write(str(id)+" "+date(*date_value[:3]).strftime('%m/%d/%Y')+"\n")
         # print(sheet1.row_values(i))
