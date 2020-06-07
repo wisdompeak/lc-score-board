@@ -850,7 +850,7 @@ for contest in range(181,189+1):
 	data["dickbomb"][str(contest)]=[-2,0] # rejoin 
 for contest in range(183,189+1):  		
 	data["BestQian"][str(contest)]=[-2,0] # rejoin 
-'''
+
 ## before 191
 for contest in range(118,190+1): 
 	data["cyn3966"][str(contest)]=[-2,0]	
@@ -860,10 +860,16 @@ for contest in range(187,190+1):
 	data["zhu_irse"][str(contest)]=[-2,0] # rejoin 
 for contest in range(170,190+1):  		
 	data["Journey_Long"][str(contest)]=[-2,0] # rejoin 
+'''
+## before 192
+for contest in range(118,191+1): 
+	data["zebox"][str(contest)]=[-2,0]	
+	data["huangyuyang"][str(contest)]=[-2,0]
+	data["wangyxwyx"][str(contest)]=[-2,0]
+	data["davidguuuo"][str(contest)]=[-2,0]
+
 # data["zac4"]=data["zac44"]
 # data.pop("zac44")
-
-
 
 pprint(data)  
 
@@ -949,6 +955,7 @@ contests["188"] = 12714
 contests["189"] = 13036
 contests["190"] = 11873
 contests["191"] = 13276
+contests["192"] = 13805
 
 
 json_str = json.dumps(contests)
