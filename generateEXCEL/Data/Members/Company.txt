@@ -39,6 +39,7 @@ Blue_Epoch Amazon
 LambertTao Amazon
 luozj14 Amazon
 wdyfy317138 Amazon
+wang2019 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
@@ -59,7 +60,6 @@ tommyjiang ByteDance
 huanglanzhiguan ByteDance
 JansonLu Cloudian
 ZhengkaiWei Cloudian
-wenyou Comcast
 XingxingHuang Cruise
 cc189 Ebay
 shuoyan F5Networks
@@ -147,8 +147,9 @@ lzl124631x Microsoft
 YuhanWu MorganStanley
 christine_christine Oracle
 Ethan_M Oracle
-BingleLove Oracle
+wenyou Oracle
 WarriorZ Oracle
+BingleLove Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
 biss PinDuoDuo

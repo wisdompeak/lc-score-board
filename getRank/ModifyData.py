@@ -867,11 +867,12 @@ for contest in range(118,191+1):
 	data["huangyuyang"][str(contest)]=[-2,0]
 	data["wangyxwyx"][str(contest)]=[-2,0]
 	data["davidguuuo"][str(contest)]=[-2,0]
-'''
 
 ## before 193
 for contest in range(174,192+1):  		
 	data["user760"][str(contest)]=[-2,0] # rejoin 
+
+'''
 
 # data["Googlehsiehh"]=data["Googlehsieh"]
 # data.pop("Googlehsieh")
@@ -963,6 +964,7 @@ contests["190"] = 11873
 contests["191"] = 13276
 contests["192"] = 13805
 contests["193"] = 13794
+contests["194"] = 13808
 
 
 json_str = json.dumps(contests)
