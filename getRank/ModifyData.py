@@ -527,7 +527,7 @@ for contest in range(118,162+1):
     data["wdyfy317138"][str(contest)]=[-2,0]
     data["WKelvinson"][str(contest)]=[-2,0]
     data["YutingLiu"][str(contest)]=[-2,0]
-    data["AestheticXJTU"][str(contest)]=[-2,0]
+    data["blackp1nk"][str(contest)]=[-2,0]
 for contest in range(138,162+1):  
     data["got7amy"][str(contest)]=[-2,0] # rejoin 
 for contest in range(146,162+1):  
@@ -873,9 +873,21 @@ for contest in range(174,192+1):
 	data["user760"][str(contest)]=[-2,0] # rejoin 
 
 '''
+## before 195
+for contest in range(118,194+1):  		
+	data["chaoqin-li"][str(contest)]=[-2,0] 
+	data["Khan_2020"][str(contest)]=[-2,0]
+for contest in range(183,194+1):  
+	data["Neo_Chen"][str(contest)]=[-2,0]	# rejoin 	
+for contest in range(188,194+1):  
+	data["YanJF"][str(contest)]=[-2,0]	# rejoin 	
+for contest in range(187,194+1):  
+	data["Duuuuu"][str(contest)]=[-2,0]	# rejoin 
+for contest in range(135,194+1):  
+	data["huyouhyw"][str(contest)]=[-2,0]	# rejoin 
 
-# data["Googlehsiehh"]=data["Googlehsieh"]
-# data.pop("Googlehsieh")
+# data["blackp1nk"]=data["AestheticXJTU"]
+# data.pop("AestheticXJTU")
 
 
 pprint(data)  
@@ -965,6 +977,7 @@ contests["191"] = 13276
 contests["192"] = 13805
 contests["193"] = 13794
 contests["194"] = 13808
+contests["195"] = 8068
 
 
 json_str = json.dumps(contests)
