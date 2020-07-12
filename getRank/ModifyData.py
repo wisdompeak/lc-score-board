@@ -884,12 +884,20 @@ for contest in range(187,194+1):
 	data["Duuuuu"][str(contest)]=[-2,0]	# rejoin 
 for contest in range(135,194+1):  
 	data["huyouhyw"][str(contest)]=[-2,0]	# rejoin 
-'''
 
 ## before 196
 for contest in range(118,195+1):  		
 	data["YaoyaoChang"][str(contest)]=[-2,0] 
 	data["nanotrt2333"][str(contest)]=[-2,0]
+
+'''
+## before 197
+for contest in range(118,196+1):  		
+	data["alsvia"][str(contest)]=[-2,0] 
+	data["jamesfan1101"][str(contest)]=[-2,0]
+	data["yunfanyi"][str(contest)]=[-2,0]
+	data["lbyxiafei"][str(contest)]=[-2,0]
+	data["darkaimagic"][str(contest)]=[-2,0]
 
 # data["gn1m_dbt"]=data["Khan_2020"]
 # data.pop("Khan_2020")
@@ -984,6 +992,7 @@ contests["193"] = 13794
 contests["194"] = 13808
 contests["195"] = 11467
 contests["196"] = 14301
+contests["197"] = 13983
 
 
 json_str = json.dumps(contests)
