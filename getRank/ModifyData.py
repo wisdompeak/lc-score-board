@@ -895,9 +895,27 @@ for contest in range(118,195+1):
 for contest in range(118,196+1):  		
 	data["alsvia"][str(contest)]=[-2,0] 
 	data["jamesfan1101"][str(contest)]=[-2,0]
-	data["yunfanyi"][str(contest)]=[-2,0]
 	data["lbyxiafei"][str(contest)]=[-2,0]
 	data["darkaimagic"][str(contest)]=[-2,0]
+
+data["yunfanyi"]['144']=[633,4]
+data["yunfanyi"]['145']=[477,3]
+data["yunfanyi"]['146']=[1151,2]
+data["yunfanyi"]['147']=[715,3]
+data["yunfanyi"]['148']=[688,3]
+data["yunfanyi"]['149']=[1256,2]
+data["yunfanyi"]['150']=[484,4]
+data["yunfanyi"]['151']=[-1,0]
+data["yunfanyi"]['152']=[754,3]
+data["yunfanyi"]['153']=[917,3]
+data["yunfanyi"]['154']=[909,3]
+data["yunfanyi"]['155']=[-1,0]
+data["yunfanyi"]['156']=[2501,2]
+data["yunfanyi"]['157']=[-1,0]
+data["yunfanyi"]['158']=[-1,0]
+
+for contest in range(159,196+1):  
+	data["yunfanyi"][str(contest)]=[-2,0]	# rejoin 
 
 # data["gn1m_dbt"]=data["Khan_2020"]
 # data.pop("Khan_2020")
