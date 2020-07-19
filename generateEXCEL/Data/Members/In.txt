@@ -43,7 +43,6 @@ dennanisny 09/30/2019
 fengzhixiao 10/11/2019
 Rayleigh0328 10/19/2019
 endlesscheng 10/25/2019
-hongrubb 10/29/2019
 YuhanWu 11/09/2019
 blackp1nk 11/15/2019
 anhpp 12/05/2019
@@ -65,7 +64,6 @@ CrhnbP 01/20/2020
 ShangqiYang 01/26/2020
 Kaiyu-Wang  01/27/2020
 laikwunsing 02/01/2020
-VanCN 02/04/2020
 Chrisify 02/04/2020
 2valor 02/06/2020
 FighterNan 02/09/2020
@@ -92,7 +90,6 @@ besieger 03/28/2020
 larui529 03/29/2020
 ddwysg1 03/29/2020
 Lawliet890 04/05/2020
-zyzz1234 04/08/2020
 hssrut 04/08/2020
 alanlzl 04/09/2020
 pku_erutan 04/11/2020
@@ -121,7 +118,6 @@ YanJF 06/21/2020
 Duuuuu 06/21/2020
 chaoqin-li 06/22/2020
 gn1m_dbt 06/23/2020
-huyouhyw 06/24/2020
 YaoyaoChang 06/28/2020
 nanotrt2333 07/02/2020
 alsvia 07/04/2020
@@ -129,3 +125,12 @@ jamesfan1101 07/04/2020
 yunfanyi 07/06/2020
 lbyxiafei 07/10/2020
 darkaimagic 07/11/2020
+LeetCoding_Master 07/12/2020
+shuijian7  07/12/2020
+tiandaliu 07/12/2020
+kylelovealgo 07/12/2020
+crystalmiumiu 07/13/2020
+Silver_Blade 07/13/2020
+yinjun 07/14/2020
+hongrubb 07/17/2020
+lisy14 07/18/2020

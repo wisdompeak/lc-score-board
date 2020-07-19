@@ -42,10 +42,10 @@ wdyfy317138 Amazon
 wang2019 Amazon
 zhongqusc Amazon
 lilllllllll Amazon
+zyzz1234 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
-zyzz1234 Amazon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -58,6 +58,7 @@ sukeyzhou Bloomberg
 fuxuemingzhu ByteDance
 gingerale ByteDance
 Isomorphic ByteDance
+VanCN ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
 JansonLu Cloudian
@@ -173,6 +174,7 @@ gzh47 VMware
 dennanisny VMware
 xguo-Will VMware
 user504 VMware
+hw2020 VMware
 lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
