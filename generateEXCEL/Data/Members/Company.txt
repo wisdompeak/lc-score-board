@@ -20,7 +20,6 @@ Clary Amazon
 jmzhang18 Amazon
 user760 Amazon
 Aaron_S Amazon
-nagato1208 Amazon
 XiaoWanLINJU Amazon
 leoknuth Amazon
 redbeanlyx Amazon
@@ -46,6 +45,7 @@ zyzz1234 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
+jerryxyj289 Amazon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -56,9 +56,12 @@ liujiashun66 BNYMellon
 harttle Baidu
 sukeyzhou Bloomberg
 fuxuemingzhu ByteDance
+nagato1208 ByteDance
 gingerale ByteDance
+oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
 VanCN ByteDance
+Charlesna ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
 JansonLu Cloudian
