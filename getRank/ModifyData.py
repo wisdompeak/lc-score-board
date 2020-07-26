@@ -908,7 +908,7 @@ for contest in range(118,197+1):
 	data["lisy14"][str(contest)]=[-2,0]
 for contest in range(186,197+1):  		
 	data["kylelovealgo"][str(contest)]=[-2,0] # rejoin 	
-'''
+
 
 ## before 199
 for contest in range(118,198+1):  	
@@ -917,9 +917,10 @@ for contest in range(185,198+1):
 	data["fengw7"][str(contest)]=[-2,0] # rejoin 	
 for contest in range(193,198+1):  		
 	data["yiyue15"][str(contest)]=[-2,0] # rejoin 		
+'''
 
-# data["gn1m_dbt"]=data["Khan_2020"]
-# data.pop("lisy4")
+# data["aChris"]=data["Chrisify"]
+# data.pop("Chrisify")
 
 
 pprint(data)  
