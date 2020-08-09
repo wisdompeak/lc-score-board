@@ -918,8 +918,17 @@ for contest in range(193,198+1):
 	data["yiyue15"][str(contest)]=[-2,0] # rejoin 		
 '''
 
-# data["fighteveryday"]=data["WarriorZ"]
-# data.pop("WarriorZ")
+## before 201
+for contest in range(118,200+1):  	
+	data["buffa"][str(contest)]=[-2,0]
+	data["shenshun"][str(contest)]=[-2,0]
+	data["X_Chen6"][str(contest)]=[-2,0]
+
+for contest in range(194,200+1):  		
+	data["FightEveryDay"][str(contest)]=[-2,0] # rejoin 
+
+# data["FightEveryDay"]=data["fighteveryday"]
+# data.pop("fighteveryday")
 
 
 pprint(data)  
@@ -1015,6 +1024,7 @@ contests["197"] = 13983
 contests["198"] = 15151
 contests["199"] = 14309
 contests["200"] = 15382
+contests["201"] = 15616
 
 
 json_str = json.dumps(contests)
