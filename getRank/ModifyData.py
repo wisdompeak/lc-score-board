@@ -916,7 +916,6 @@ for contest in range(185,198+1):
 	data["fengw7"][str(contest)]=[-2,0] # rejoin 	
 for contest in range(193,198+1):  		
 	data["yiyue15"][str(contest)]=[-2,0] # rejoin 		
-'''
 
 ## before 201
 for contest in range(118,200+1):  	
@@ -926,6 +925,18 @@ for contest in range(118,200+1):
 
 for contest in range(194,200+1):  		
 	data["FightEveryDay"][str(contest)]=[-2,0] # rejoin 
+'''
+
+## before 202
+for contest in range(118,201+1):  	
+	data["ilovejunghyun"][str(contest)]=[-2,0]
+	data["JDEP"][str(contest)]=[-2,0]
+	data["mayintong"][str(contest)]=[-2,0]
+for contest in range(199,201+1):  		
+	data["laikwunsing"][str(contest)]=[-2,0] # rejoin 	
+
+
+
 
 # data["FightEveryDay"]=data["fighteveryday"]
 # data.pop("fighteveryday")
@@ -1025,6 +1036,7 @@ contests["198"] = 15151
 contests["199"] = 14309
 contests["200"] = 15382
 contests["201"] = 15616
+contests["202"] = 14373
 
 
 json_str = json.dumps(contests)
