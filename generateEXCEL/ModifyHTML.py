@@ -63,6 +63,7 @@ def changeContents(content):
     content = content.replace("Huawei-Logo","<img src='Img/Huawei.png' width=18 height=18>")
     content = content.replace("PinDuoDuo-Logo","<img src='Img/PinDuoDuo.png' width=18 height=18>")
     content = content.replace("Atlassian-Logo","<img src='Img/Atlassian.jpeg' width=18 height=18>")
+    content = content.replace("Compass-Logo","<img src='Img/Compass.jpg' width=48 height=18>")
 
 
 

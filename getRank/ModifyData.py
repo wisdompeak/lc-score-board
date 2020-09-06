@@ -941,7 +941,7 @@ for contest in range(186,202+1):
 	data["WKelvinson"][str(contest)]=[-2,0] # rejoin
 for contest in range(193,202+1):  	
 	data["chenhaomaiji"][str(contest)]=[-2,0] # rejoin	
-'''
+
 ## before 204
 for contest in range(195,203+1):  	
 	data["zebox"][str(contest)]=[-2,0]  # rejoin
@@ -951,7 +951,15 @@ for contest in range(188,203+1):
 	data["Charles000"][str(contest)]=[-2,0] # rejoin	
 for contest in range(194,203+1):  	
 	data["wang2019"][str(contest)]=[-2,0] # rejoin	
-	
+'''
+## before 205
+for contest in range(118,204+1):  	
+	data["NuozhouXu"][str(contest)]=[-2,0]
+	data["ShizukaYee"][str(contest)]=[-2,0]
+	data["ScottCC"][str(contest)]=[-2,0]
+	data["Castling"][str(contest)]=[-2,0]
+	data["OliverGates"][str(contest)]=[-2,0]
+	data["am0320"][str(contest)]=[-2,0]
 
 # data["wcy24"]=data["wcy23"]
 # data.pop("wcy23")
@@ -1055,6 +1063,7 @@ contests["201"] = 15616
 contests["202"] = 14373	
 contests["203"] = 15080	
 contests["204"] = 13949	
+contests["205"] = 13171
 
 
 json_str = json.dumps(contests)

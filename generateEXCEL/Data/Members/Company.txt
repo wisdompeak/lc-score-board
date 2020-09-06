@@ -62,11 +62,13 @@ gingerale ByteDance
 oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
 VanCN ByteDance
+gabyXuan ByteDance
 Charlesna ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
 JansonLu Cloudian
 ZhengkaiWei Cloudian
+Kaiyu-Wang  Compass
 XingxingHuang Cruise
 cc189 Ebay
 shuoyan F5Networks
@@ -137,7 +139,6 @@ ZaozaoNan LinkedIn
 richarddia MathWorks
 please_AC Meituan
 zpzpzzp2020 Microsoft
-Kaiyu-Wang  Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
 wyzhang421 Microsoft
