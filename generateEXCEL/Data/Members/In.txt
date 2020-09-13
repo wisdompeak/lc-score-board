@@ -36,7 +36,7 @@ qingdu_river 09/29/2019
 dennanisny 09/30/2019
 Rayleigh0328 10/19/2019
 endlesscheng 10/25/2019
-YuhanWu 11/09/2019
+yuhwu 11/09/2019
 anhpp 12/05/2019
 insomniacat 12/26/2019
 huanglanzhiguan 12/30/2019
@@ -55,7 +55,6 @@ ShangqiYang 01/26/2020
 aChris 02/04/2020
 2valor 02/06/2020
 FighterNan 02/09/2020
-yanrucheng 02/09/2020
 Juny1He 02/14/2020
 lozy219 02/14/2020
 YI-DING 02/15/2020
@@ -66,7 +65,6 @@ jerryxyj289 03/09/2020
 meiyiyan 03/09/2020
 ShidaLei 03/16/2020
 deadstorm 03/16/2020
-chenjianxu97 03/20/2020
 CE_RE_WAyitiaolong 03/21/2020
 YoungForest 03/22/2020
 ruanys 03/23/2020
@@ -104,7 +102,6 @@ alsvia 07/04/2020
 yunfanyi 07/06/2020
 lbyxiafei 07/10/2020
 darkaimagic 07/11/2020
-LeetCoding_Master 07/12/2020
 shuijian7  07/12/2020
 tiandaliu 07/12/2020
 kylelovealgo 07/12/2020
@@ -134,3 +131,5 @@ ScottCC 08/30/2020
 Castling 08/31/2020
 OliverGates 08/31/2020
 am0320 09/04/2020
+tigermlt 09/05/2020
+pku-zbt 09/05/2020

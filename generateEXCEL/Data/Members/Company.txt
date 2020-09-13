@@ -43,6 +43,7 @@ lilllllllll Amazon
 zyzz1234 Amazon
 laikwunsing Amazon
 blackp1nk Amazon
+chenjianxu97 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
@@ -63,6 +64,7 @@ oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
 VanCN ByteDance
 gabyXuan ByteDance
+yanrucheng ByteDance
 Charlesna ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
@@ -138,6 +140,7 @@ venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
 please_AC Meituan
+taocheng984 Microsoft
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
@@ -153,7 +156,7 @@ jliang Microsoft
 sshang Microsoft
 Sakamono Microsoft
 lzl124631x Microsoft
-YuhanWu MorganStanley
+yuhwu MorganStanley
 christine_christine Oracle
 Ethan_M Oracle
 wenyou Oracle
