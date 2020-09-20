@@ -48,6 +48,7 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
 jerryxyj289 Amazon
+Googlehsiehh Amazon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -62,12 +63,14 @@ nagato1208 ByteDance
 gingerale ByteDance
 oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
+hongrubb ByteDance
 VanCN ByteDance
 gabyXuan ByteDance
 yanrucheng ByteDance
 Charlesna ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
+am0320 Citadel
 JansonLu Cloudian
 ZhengkaiWei Cloudian
 Kaiyu-Wang  Compass
@@ -122,6 +125,7 @@ chongtan111200 Google
 wangchuqiao93 Google
 halolong Google
 Cicindela Google
+EveJAVA Google
 wisdompeak Google
 lee215 Google
 cuiaoxiang Google
@@ -129,9 +133,12 @@ ForGive Google
 wxy9018 Google
 fighting_for_flag Google
 adayxiang Google
+FighterNan Google
 YI-DING Google
+chaoqin-li Google
 Lisanaaa Grab
 lihao199408 Huawei
+youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
 keyupeter KeepTruckin
@@ -139,7 +146,6 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
-please_AC Meituan
 taocheng984 Microsoft
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
@@ -156,6 +162,7 @@ jliang Microsoft
 sshang Microsoft
 Sakamono Microsoft
 lzl124631x Microsoft
+lbyxiafei Microsoft
 yuhwu MorganStanley
 christine_christine Oracle
 Ethan_M Oracle
@@ -172,6 +179,7 @@ jiang718 PureStorage
 davidqing1991 PureStorage
 zhangsikai123 RedBook
 FYQiang Reflexis
+ChelsieZ Salesforce
 bifeitang Schlumberger
 wAgChen SnowFlake
 thu_winfield Tencent
@@ -188,6 +196,7 @@ hw2020 VMware
 lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
+kylelovealgo Walmart
 Jc_Qu Wayfair
 yuchenliulyc Wish
 jason_wong1 Yahoo
