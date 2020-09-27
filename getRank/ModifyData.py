@@ -961,11 +961,11 @@ for contest in range(118,204+1):
 	data["OliverGates"][str(contest)]=[-2,0]
 	data["am0320"][str(contest)]=[-2,0]
 
-## before 205
+## before 206
 for contest in range(118,205+1):  	
 	data["tigermlt"][str(contest)]=[-2,0]
 	data["pku-zbt"][str(contest)]=[-2,0]
-'''
+
 ## before 207
 for contest in range(118,206+1):  	
 	data["monaziyi"][str(contest)]=[-2,0]
@@ -984,6 +984,12 @@ for contest in range(205,206+1):
 	data["jamesfan1101"][str(contest)]=[-2,0] # rejoin	
 for contest in range(183,206+1):  	
 	data["please_AC"][str(contest)]=[-2,0] # rejoin		
+
+'''
+for contest in range(118,207+1):  	
+	data["zhangsz1998"][str(contest)]=[-2,0]
+	data["xiapengchng"][str(contest)]=[-2,0]
+	data["Arsenal591"][str(contest)]=[-2,0]
 
 
 # data["yuhwu"]=data["YuhanWu"]
@@ -1091,6 +1097,7 @@ contests["204"] = 13949
 contests["205"] = 13171
 contests["206"] = 13291
 contests["207"] = 12923
+contests["208"] = 11498
 
 
 json_str = json.dumps(contests)
