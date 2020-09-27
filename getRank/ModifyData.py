@@ -990,13 +990,13 @@ for contest in range(118,207+1):
 	data["zhangsz1998"][str(contest)]=[-2,0]
 	data["xiapengchng"][str(contest)]=[-2,0]
 	data["Arsenal-591"][str(contest)]=[-2,0]
+data["Arsenal-591"]["208"]=[492,4]
+data["yi-zhi-xiao-ruo-ji"]["208"]=[780,4]
 
 # data["yuhwu"]=data["YuhanWu"]
 # data.pop("YuhanWu")
 # data["zzaym"]=data["Duuuuu"]
 # data.pop("Duuuuu")
-
-pprint(data)  
 
 json_str = json.dumps(data)
 
