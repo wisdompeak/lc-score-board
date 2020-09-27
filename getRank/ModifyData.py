@@ -989,8 +989,7 @@ for contest in range(183,206+1):
 for contest in range(118,207+1):  	
 	data["zhangsz1998"][str(contest)]=[-2,0]
 	data["xiapengchng"][str(contest)]=[-2,0]
-	data["Arsenal591"][str(contest)]=[-2,0]
-
+	data["Arsenal-591"][str(contest)]=[-2,0]
 
 # data["yuhwu"]=data["YuhanWu"]
 # data.pop("YuhanWu")
