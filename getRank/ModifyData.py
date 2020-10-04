@@ -985,13 +985,21 @@ for contest in range(205,206+1):
 for contest in range(183,206+1):  	
 	data["please_AC"][str(contest)]=[-2,0] # rejoin		
 
-'''
+## before 208
 for contest in range(118,207+1):  	
 	data["zhangsz1998"][str(contest)]=[-2,0]
 	data["xiapengchng"][str(contest)]=[-2,0]
 	data["Arsenal-591"][str(contest)]=[-2,0]
 data["Arsenal-591"]["208"]=[492,4]
 data["yi-zhi-xiao-ruo-ji"]["208"]=[780,4]
+
+'''
+## before 209
+for contest in range(118,208+1):  	
+	data["FreshBing"][str(contest)]=[-2,0]
+for contest in range(179,208+1):  	
+	data["BlinkBamboo"][str(contest)]=[-2,0] # rejoin	
+
 
 # data["yuhwu"]=data["YuhanWu"]
 # data.pop("YuhanWu")
@@ -1097,6 +1105,7 @@ contests["205"] = 13171
 contests["206"] = 13291
 contests["207"] = 12923
 contests["208"] = 11498
+contests["209"] = 12138
 
 
 json_str = json.dumps(contests)
