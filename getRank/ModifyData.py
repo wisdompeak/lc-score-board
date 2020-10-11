@@ -993,12 +993,17 @@ for contest in range(118,207+1):
 data["Arsenal-591"]["208"]=[492,4]
 data["yi-zhi-xiao-ruo-ji"]["208"]=[780,4]
 
-'''
 ## before 209
 for contest in range(118,208+1):  	
 	data["FreshBing"][str(contest)]=[-2,0]
 for contest in range(179,208+1):  	
 	data["BlinkBamboo"][str(contest)]=[-2,0] # rejoin	
+'''
+
+## before 210
+for contest in range(118,209+1):  	
+	data["li-jinze"][str(contest)]=[-2,0]
+	data["woshilxd912"][str(contest)]=[-2,0]
 
 
 # data["yuhwu"]=data["YuhanWu"]
@@ -1106,6 +1111,7 @@ contests["206"] = 13291
 contests["207"] = 12923
 contests["208"] = 11498
 contests["209"] = 12138
+contests["210"] = 11792
 
 
 json_str = json.dumps(contests)
