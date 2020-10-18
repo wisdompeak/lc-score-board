@@ -5,6 +5,7 @@ deepda2k Alibaba
 user4286 Alibaba
 yuhengc2 Alibaba
 kid1412z Alibaba
+klutzCoder Alibaba
 jzcheng Amazon
 Vicky_Owen Amazon
 ZhuYamei Amazon
@@ -93,6 +94,7 @@ zac4 Facebook
 OTTFF Facebook
 henghaaya Goldman
 softair Google
+taocheng984 Google
 peng_wang_cmu Google
 fbian Google
 deerstalker Google
@@ -148,7 +150,6 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
-taocheng984 Microsoft
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
