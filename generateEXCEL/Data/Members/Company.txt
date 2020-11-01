@@ -46,11 +46,11 @@ laikwunsing Amazon
 blackp1nk Amazon
 chenjianxu97 Amazon
 jerryxyj289 Amazon
+Luna_Zhang26 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
 Googlehsiehh Amazon
-Luna_Zhang26 Amazon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -140,6 +140,7 @@ BingleLove Google
 FighterNan Google
 YI-DING Google
 chaoqin-li Google
+X_Chen6 Google
 Lisanaaa Grab
 lihao199408 Huawei
 youjiahan IBM
@@ -172,6 +173,7 @@ Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
 FightEveryDay Oracle
+ruofeisan Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
 biss PinDuoDuo
@@ -185,8 +187,10 @@ FYQiang Reflexis
 ChelsieZ Salesforce
 bifeitang Schlumberger
 wAgChen SnowFlake
+zzaym SnowFlake
 thu_winfield Tencent
 FrankYao Tencent
+JDEP Tusimple
 wangyxwyx Twilio
 haitao7 UPenn
 albertzhang86 Uber
