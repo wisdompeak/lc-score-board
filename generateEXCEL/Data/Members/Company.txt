@@ -55,6 +55,7 @@ xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
+ruofeisan Apple
 OneDirection Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
@@ -173,10 +174,10 @@ Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
 FightEveryDay Oracle
-ruofeisan Oracle
 mzcj Palo-alto
 zgcmx2011 Petuum
 biss PinDuoDuo
+albertzhang86 Pinterest
 shshwdr PocketGems
 1373757850 Pony
 jiang718 PureStorage
@@ -193,7 +194,6 @@ FrankYao Tencent
 JDEP Tusimple
 wangyxwyx Twilio
 haitao7 UPenn
-albertzhang86 Uber
 l90095z Uber
 gzh47 VMware
 dennanisny VMware
