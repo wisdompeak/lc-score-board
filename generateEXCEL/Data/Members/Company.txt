@@ -130,6 +130,8 @@ wangchuqiao93 Google
 halolong Google
 Cicindela Google
 EveJAVA Google
+chaoqin-li Google
+YI-DING Google
 wisdompeak Google
 lee215 Google
 cuiaoxiang Google
@@ -138,10 +140,10 @@ wxy9018 Google
 fighting_for_flag Google
 adayxiang Google
 BingleLove Google
+qingdu_river Google
+insomniacat Google
 FighterNan Google
-YI-DING Google
-chaoqin-li Google
-X_Chen6 Google
+meiyiyan Google
 Lisanaaa Grab
 lihao199408 Huawei
 youjiahan IBM
@@ -156,6 +158,7 @@ zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
 wyzhang421 Microsoft
+Lawrence_M Microsoft
 LijianChen Microsoft
 xxnzym Microsoft
 praenubilus Microsoft
@@ -173,8 +176,10 @@ christine_christine Oracle
 Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
+davidguuuo Oracle
 FightEveryDay Oracle
 mzcj Palo-alto
+izhongyuting Paypal
 zgcmx2011 Petuum
 biss PinDuoDuo
 albertzhang86 Pinterest
@@ -193,6 +198,7 @@ thu_winfield Tencent
 FrankYao Tencent
 JDEP Tusimple
 wangyxwyx Twilio
+X_Chen6 TwoSigma
 haitao7 UPenn
 l90095z Uber
 gzh47 VMware
@@ -207,6 +213,7 @@ kaihaohust Walmart
 kylelovealgo Walmart
 Jc_Qu Wayfair
 yuchenliulyc Wish
+Coup_De_Grace Yahoo
 jason_wong1 Yahoo
 WhateverYouSay Yelp
 sijin Zhihu

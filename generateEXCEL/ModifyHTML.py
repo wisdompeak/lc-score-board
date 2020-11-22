@@ -64,7 +64,7 @@ def changeContents(content):
     content = content.replace("PinDuoDuo-Logo","<img src='Img/PinDuoDuo.png' width=18 height=18>")
     content = content.replace("Atlassian-Logo","<img src='Img/Atlassian.jpeg' width=18 height=18>")
     content = content.replace("Compass-Logo","<img src='Img/Compass.jpg' width=48 height=18>")
-    content = content.replace("IBM-Logo","<img src='Img/IBM.png' width=24 height=18>")
+    content = content.replace("IBM-Logo","<img src='Img/IBM.png' width=18 height=16>")
     content = content.replace("Zoom-Logo","<img src='Img/Zoom.jpeg' width=18 height=18>")
     content = content.replace("Tusimple-Logo","<img src='Img/Tusimple.png' width=18 height=18>")
     content = content.replace("Pinterest-Logo","<img src='Img/Pinterest.jpeg' width=18 height=18>")
