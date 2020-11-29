@@ -27,6 +27,7 @@ redbeanlyx Amazon
 FlagIsMine Amazon
 zhengfu23 Amazon
 chuw Amazon
+jpju Amazon
 whyer Amazon
 luorinz Amazon
 fengw7 Amazon
@@ -50,6 +51,7 @@ Luna_Zhang26 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 Juny1He Amazon
+YoungForest Amazon
 Googlehsiehh Amazon
 xiaozhi1 Apple
 Mengqian Apple
@@ -116,7 +118,6 @@ waitnote Google
 wenting95 Google
 qiuyu_93 Google
 ShoutingLyu Google
-jpju Google
 sunxiaohua Google
 TinyExplorer Google
 ChenDanni Google
@@ -149,6 +150,7 @@ lihao199408 Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
+edisonnie Intuit
 keyupeter KeepTruckin
 ansonluo Kuaishou
 venico19 LinkedIn
@@ -166,9 +168,9 @@ hongchenjack Microsoft
 zyw_code Microsoft
 jasonzzzz Microsoft
 0000alex1111 Microsoft
+Sakamono Microsoft
 jliang Microsoft
 sshang Microsoft
-Sakamono Microsoft
 lzl124631x Microsoft
 lbyxiafei Microsoft
 yuhwu MorganStanley
