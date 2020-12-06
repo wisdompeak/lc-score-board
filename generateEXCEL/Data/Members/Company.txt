@@ -27,7 +27,6 @@ redbeanlyx Amazon
 FlagIsMine Amazon
 zhengfu23 Amazon
 chuw Amazon
-jpju Amazon
 whyer Amazon
 luorinz Amazon
 fengw7 Amazon
@@ -118,6 +117,7 @@ waitnote Google
 wenting95 Google
 qiuyu_93 Google
 ShoutingLyu Google
+jpju Google
 sunxiaohua Google
 TinyExplorer Google
 ChenDanni Google
@@ -133,6 +133,7 @@ Cicindela Google
 EveJAVA Google
 chaoqin-li Google
 YI-DING Google
+qingdu_river Google
 wisdompeak Google
 lee215 Google
 cuiaoxiang Google
@@ -141,10 +142,10 @@ wxy9018 Google
 fighting_for_flag Google
 adayxiang Google
 BingleLove Google
-qingdu_river Google
 insomniacat Google
 FighterNan Google
 meiyiyan Google
+arignote Google
 Lisanaaa Grab
 lihao199408 Huawei
 youjiahan IBM
@@ -156,6 +157,7 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
+li-jinze  Meituan
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
@@ -178,6 +180,7 @@ christine_christine Oracle
 Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
+SummerYang19 Oracle
 davidguuuo Oracle
 FightEveryDay Oracle
 mzcj Palo-alto
