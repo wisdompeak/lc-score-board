@@ -68,6 +68,8 @@ def changeContents(content):
     content = content.replace("Zoom-Logo","<img src='Img/Zoom.jpeg' width=18 height=18>")
     content = content.replace("Tusimple-Logo","<img src='Img/Tusimple.png' width=18 height=18>")
     content = content.replace("Pinterest-Logo","<img src='Img/Pinterest.jpeg' width=18 height=18>")
+    content = content.replace("Paypal-Logo","<img src='Img/Paypal.jpeg' width=18 height=18>")
+    content = content.replace("Intuit-Logo","<img src='Img/Intuit.png' width=24 height=16>")
 
 
 
