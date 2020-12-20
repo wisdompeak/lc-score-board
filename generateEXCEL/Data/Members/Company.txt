@@ -146,6 +146,7 @@ BingleLove Google
 insomniacat Google
 FighterNan Google
 meiyiyan Google
+alanlzl Google
 arignote Google
 Lisanaaa Grab
 lihao199408 Huawei
@@ -176,8 +177,8 @@ jliang Microsoft
 sshang Microsoft
 lzl124631x Microsoft
 lbyxiafei Microsoft
-yuhwu MorganStanley
 christine_christine Oracle
+WKelvinson Oracle
 Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
@@ -207,6 +208,7 @@ wangyxwyx Twilio
 X_Chen6 TwoSigma
 haitao7 UPenn
 l90095z Uber
+yuhwu Uber
 gzh47 VMware
 dennanisny VMware
 xguo-Will VMware

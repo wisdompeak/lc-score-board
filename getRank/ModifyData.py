@@ -1055,17 +1055,21 @@ for contest in range(118,216+1):
 ## before 218
 for contest in range(118,217+1):  	
 	data["Byleth"][str(contest)]=[-2,0]
-'''
 
 ## before 219
 for contest in range(118,218+1):  	
 	data["ryoyukiyangy"][str(contest)]=[-2,0]
 for contest in range(215,218+1):  	
 	data["BlinkBamboo"][str(contest)]=[-2,0] # rejoin
+'''
+## before 220
+for contest in range(118,219+1):  	
+	data["jiutiany1127"][str(contest)]=[-2,0]
+for contest in range(202,219+1):  	
+	data["0000alex1111"][str(contest)]=[-2,0] # rejoin
 
 # data["owen2"]=data["wenyu3"]
 # data.pop("wenyu3")
-
 
 json_str = json.dumps(data)
 
@@ -1177,6 +1181,7 @@ contests["216"] = 9573
 contests["217"] = 9462
 contests["218"] = 9827
 contests["219"] = 9290
+contests["220"] = 9606
 
 
 json_str = json.dumps(contests)
