@@ -10,9 +10,9 @@ def changeContents(content):
     content = content.replace("Grab-Logo","<img src='Img/Grab.png' width=18 height=18>")
     content = content.replace("PureStorage-Logo","<img src='Img/PureStorage.png' width=16 height=16>")
     content = content.replace("Walmart-Logo","<img src='Img/Walmart.jpeg' width=16 height=16>")
-    content = content.replace("Twilio-Logo","<img src='Img/Twilio.png' width=16 height=16>")
+    content = content.replace("Twilio-Logo","f<img src='Img/Twilio.png' width=16 height=16>")
     content = content.replace("Arista-Logo","<img src='Img/Arista.jpeg' width=28 height=16>")
-    content = content.replace("ByteDance-Logo","<img src='Img/ByteDance.jpg' width=36 height=20>")
+    content = content.replace("ByteDance-Logo","<img src='Img/ByteDance.jpg' width=24 height=22>")
     content = content.replace("SnowFlake-Logo","<img src='Img/SnowFlake.png' width=18 height=18>")
     content = content.replace("RedBook-Logo","<img src='Img/RedBook.png' width=18 height=18>")
     content = content.replace("PocketGems-Logo","<img src='Img/PocketGems.png' width=18 height=18>")
@@ -69,7 +69,7 @@ def changeContents(content):
     content = content.replace("Tusimple-Logo","<img src='Img/Tusimple.png' width=18 height=18>")
     content = content.replace("Pinterest-Logo","<img src='Img/Pinterest.jpeg' width=18 height=18>")
     content = content.replace("Paypal-Logo","<img src='Img/Paypal.jpeg' width=18 height=18>")
-    content = content.replace("Intuit-Logo","<img src='Img/Intuit.png' width=24 height=16>")
+    content = content.replace("Intuit-Logo","<img src='Img/Intuit.png' width=22 height=14>")
     content = content.replace("SAP-Logo","<img src='Img/SAP.png' width=24 height=16>")
 
 
