@@ -1055,10 +1055,12 @@ for contest in range(118,216+1):
 ## before 218
 for contest in range(118,217+1):  	
 	data["Byleth"][str(contest)]=[-2,0]
+	
 
 ## before 219
 for contest in range(118,218+1):  	
-	data["ryoyukiyangy"][str(contest)]=[-2,0]
+	data["ryoyukiyangy"][str(contest)]=[-2,0]	
+	data["rqren2018"][str(contest)]=[-2,0]
 for contest in range(215,218+1):  	
 	data["BlinkBamboo"][str(contest)]=[-2,0] # rejoin
 '''

@@ -30,7 +30,7 @@ for key in results:
 
 json_str = json.dumps(data)
 
-with open('data.json', 'w') as f:
+with open('membershi_data.json', 'w') as f:
     json.dump(json_str, f)
 
 
