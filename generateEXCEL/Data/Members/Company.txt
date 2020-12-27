@@ -1,4 +1,5 @@
 Arco Airbnb
+zerotrac2 Akuna
 ZOEGREEN Alibaba
 song30 Alibaba
 deepda2k Alibaba
@@ -50,6 +51,7 @@ jerryxyj289 Amazon
 Luna_Zhang26 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
+user7194i Amazon
 Juny1He Amazon
 YoungForest Amazon
 Googlehsiehh Amazon
@@ -75,10 +77,11 @@ yanrucheng ByteDance
 Charlesna ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
+lisy14 ByteDance
 am0320 Citadel
 JansonLu Cloudian
 ZhengkaiWei Cloudian
-Kaiyu-Wang  Compass
+Kaiyu-Wang Compass
 XingxingHuang Cruise
 cc189 Ebay
 shuoyan F5Networks
@@ -148,6 +151,7 @@ FighterNan Google
 meiyiyan Google
 alanlzl Google
 arignote Google
+maoyp Google
 Lisanaaa Grab
 lihao199408 Huawei
 youjiahan IBM
@@ -159,7 +163,7 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 richarddia MathWorks
-li-jinze  Meituan
+li-jinze Meituan
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
@@ -185,6 +189,8 @@ WarriorZ Oracle
 SummerYang19 Oracle
 davidguuuo Oracle
 FightEveryDay Oracle
+huangyuyang Others
+larui529 Others
 mzcj Palo-alto
 izhongyuting Paypal
 zgcmx2011 Petuum
@@ -197,8 +203,10 @@ davidqing1991 PureStorage
 cyn3966 PureStorage
 zhangsikai123 RedBook
 FYQiang Reflexis
+FreshBing SAP
 ChelsieZ Salesforce
 bifeitang Schlumberger
+Duuuuu SnowFlake
 wAgChen SnowFlake
 zzaym SnowFlake
 thu_winfield Tencent
