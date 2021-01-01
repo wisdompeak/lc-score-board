@@ -127,8 +127,8 @@ row, column = RowOffset+2, 3
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+8)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
-sheet[idx1].value = 'Happy New Year! See 2019 Hero Board!'
-sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/2019.html'
+sheet[idx1].value = 'Happy New Year! See 2020 Year-end Review!'
+sheet[idx1].hyperlink = 'https://docs.google.com/presentation/d/11Vv8RnbGZm8hQEa9T6DhxtMtsBknI1Io0nfcFVVOYUw/'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=SIZE)
 

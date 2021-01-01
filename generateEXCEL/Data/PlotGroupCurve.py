@@ -33,7 +33,7 @@ for line in data:
   date2 = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   losePeople[date2]+=1
   
-  PeopleStatOut.append((date2-date1).days)
+  PeopleStatOut.append(min(365*2, (date2-date1).days))
 
 
 file = open("Members/In.txt","r") 
@@ -47,19 +47,17 @@ for line in data:
   date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
   addPeople[date]+=1
   
-  PeopleStatIn.append((today-date).days)
+  PeopleStatIn.append(min(365*2, (today-date).days))
 
-
-  
-  
-count = 0;
+ 
+count = 0
 Days = []
 Nums = []
 upper = []
 lower = []
 for i in range(1000):
   day = start + datetime.timedelta(days=i)
-  if day>today: break;
+  if day>today: break
   
   Days.append(day.strftime("%Y/%m/%d")[:])
   
@@ -79,27 +77,33 @@ for i in range(len(Days)):
     print(Days[i]," ",Nums[i])
 
 
-plt.figure(21,figsize=(25,13))
+plt.figure(21,figsize=(28,16))
 
 plt.subplot(211)
 plt.plot(Nums, label = 'member growth curve')
 plt.fill_between(list(range(0,len(Days))), lower, upper, color = '#539caf', alpha = 0.5, label = 'same-day fluctuation')
-plt.xticks( list(range(0, len(Days),28)), Days[:-1:28], rotation=20 ) 
+plt.xticks( list(range(0, len(Days),28)), Days[:-1:28], rotation=20, fontsize=14 ) 
+plt.yticks(fontsize=14 ) 
 plt.grid(linestyle='-.')
-plt.title("Historical number of members growth curve (weekly updated) ")
-plt.legend(loc = 'upper left')
-# plt.xticks(fontsize=16, color="red", rotation=45)
+plt.title("Historical number of members growth curve (weekly updated) ", fontsize=25)
+plt.legend(loc = 'upper left', fontsize=20)
 
 plt.subplot(212)
-maxDay = (today-start).days
-n, bins, patches = plt.hist(x=PeopleStatOut, bins='auto', label = 'Quited', color='steelblue', alpha=0.7, rwidth=0.65)
+maxDay = 365*2
+n, bins, patches = plt.hist(x=PeopleStatOut, bins='auto', label = 'Quited', color='steelblue', alpha=0.7, rwidth=0.85)
 plt.hist(x=PeopleStatIn, bins='auto', label = 'Current', color='#FF1B1B', alpha=0.6, rwidth=0.45)
 plt.grid(axis='y', alpha=0.75)
-plt.xticks( list(range(0,maxDay,30)), list(range(0,maxDay,30)))
-plt.xlabel('Survival Days')
-plt.ylabel('Number of People')
-plt.title('Membership duration statistics')
-plt.legend(loc = 'upper right')
+
+tick1 = [x for x in range(0,maxDay+1,30)]
+tick2 = [str(x) for x in range(0,maxDay+1,30)]
+tick2[-1] = " >2Yr"
+plt.xticks(tick1, tick2, fontsize=14)
+plt.yticks(fontsize=14 ) 
+
+plt.xlabel('Survival Days', fontsize=25)
+plt.ylabel('Number of People', fontsize=25)
+plt.title('Membership duration statistics', fontsize=25)
+plt.legend(loc = 'upper right', fontsize=16)
 
 plt.subplots_adjust(hspace=0.6)  
 
