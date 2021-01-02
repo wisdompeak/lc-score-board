@@ -3,6 +3,7 @@ import openpyxl
 from openpyxl.styles import colors
 from openpyxl.styles import Font, Color, PatternFill, Alignment
 from openpyxl.drawing.image import Image
+import argparse
 
 ###############################################
 
@@ -15,9 +16,13 @@ def convertToTitle(n):
     s = chr(y+dist)
     result = ''.join((s, result))
   return result
+
+mainArgumentsParser = argparse.ArgumentParser()
+mainArgumentsParser.add_argument("endContest", help="EndContest id")
+kwargs = mainArgumentsParser.parse_args()
+endContest = int(kwargs.endContest)
         
-startContest = 118
-endContest = 221
+startContest = endContest - 52 # as early as 118
 ContestNumbers = endContest-startContest+1
 
 ###############################################
@@ -47,7 +52,11 @@ with open('../getRank/data.json', 'r') as f:
    	
 with open('../getRank/contests.json', 'r') as f:
    	json_str = json.load(f)
-   	contests = json.loads(json_str)     	
+   	contests = json.loads(json_str) 
+
+with open('../getRank/lc_profile_data.json', 'r') as f:
+   	json_str = json.load(f)
+   	profiles = json.loads(json_str)          	
    	
 # import person   	
 fi = open('../getRank/id.in', 'r')
@@ -81,13 +90,17 @@ for personID in id_list:
     RollingScore = round(sum(pool)/len(pool),1)
   else: 
     RollingScore = round((sum(pool)-min(pool))/2,1)
-        
-  newRow = [row[0],RollingScore]   # Reorder into [ID,RollingScore,contestInfo]
+
+  if profiles[personID]["userContestRanking"]!=None:
+    rating = profiles[personID]["userContestRanking"]["rating"]
+  else:
+    rating = -1
+  newRow = [row[0], Membership[personID], round(rating), RollingScore]   # Reorder into [ID, days, rating, RollingScore,contestInfo]
   for x in row[1:]: newRow.append(x)
       
   table.append(newRow)  
 
-table = sorted(table, key = lambda x:x[1], reverse = True)  
+table = sorted(table, key = lambda x:x[3], reverse = True)  
 
 # for row in table:
 #   print(row)
@@ -122,7 +135,7 @@ sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/cup.html'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=SIZE)
 
-# output header "2019 Hero Board"
+# output header "2020 year-end review"
 row, column = RowOffset+2, 3
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+8)+str(row)
@@ -139,12 +152,11 @@ idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+8)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
 sheet.row_dimensions[row].height = 20.0
-sheet[idx1].value = 'LeetCode Weekly Contest Score Board'
+sheet[idx1].value = 'LeetCode Weekly Contest Score Board (the most recent 52 weeks)'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=18)
 
-
-RowOffset += 2;
+RowOffset += 2
 
 # output header "contest" 
 row, column = RowOffset+1, 2
@@ -160,15 +172,22 @@ sheet[idx].value = 'Participants'
 sheet[idx].alignment = Alignment(horizontal='center')
 sheet[idx].font = Font(bold=True, size=SIZE)
 
-# output header "Score"
+# output header "Days"
 row, column = RowOffset+2, 3
 idx = convertToTitle(column)+str(row)
 sheet[idx].value = 'Days'
 sheet[idx].alignment = Alignment(horizontal='center')
 sheet[idx].font = Font(bold=True, size=SIZE)
 
-# output header "Membership"
+# output header "Rating"
 row, column = RowOffset+2, 4
+idx = convertToTitle(column)+str(row)
+sheet[idx].value = 'Rating'
+sheet[idx].alignment = Alignment(horizontal='center')
+sheet[idx].font = Font(bold=True, size=SIZE)
+
+# output header "Score"
+row, column = RowOffset+2, 5
 idx = convertToTitle(column)+str(row)
 sheet[idx].value = 'Score'
 sheet[idx].alignment = Alignment(horizontal='center')
@@ -176,7 +195,7 @@ sheet[idx].font = Font(bold=True, size=SIZE)
 
 # output contest ID / number of players
 for k in range(endContest-startContest+1):
-  row, column = RowOffset+1, 5+k*2
+  row, column = RowOffset+1, 6+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
@@ -185,7 +204,7 @@ for k in range(endContest-startContest+1):
   sheet[idx1].font = Font(bold=True, size=SIZE)
   sheet[idx1].fill = PatternFill("solid", fgColor='D9D9D9')
   
-  row, column = RowOffset+2, 5+k*2
+  row, column = RowOffset+2, 6+k*2
   idx1 = convertToTitle(column)+str(row)
   idx2 = convertToTitle(column+1)+str(row)  
   sheet.merge_cells(idx1+':'+idx2)   
@@ -196,7 +215,6 @@ for k in range(endContest-startContest+1):
 
 
 RowOffset += 4
-
 
 for i in range(len(id_list)):
 
@@ -223,11 +241,31 @@ for i in range(len(id_list)):
       sheet[idx].font = Font(bold=True, size=SIZE)       
       sheet[idx].hyperlink = 'http://leetcode.com/'+table[i][j]
       if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
-        
-    # 3rd column :  avg score
-    elif j==1:            
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA') 
+
+    # 3rd column :  days
+    elif j==1:   
+      row, column = RowOffset+i, 3
+      idx = convertToTitle(column)+str(row) 
+      sheet[idx].value = table[i][j]
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+      sheet[idx].font = Font(size=12)
+      if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')           
+
+    # 4th column :  rating
+    elif j==2:   
       row, column = RowOffset+i, 4
+      idx = convertToTitle(column)+str(row) 
+      sheet[idx].value = table[i][j]
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+      sheet[idx].font = Font(size=12)
+      if (i%2==0):
+        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA') 
+
+    # 5th column :  avg score
+    elif j==3:            
+      row, column = RowOffset+i, 5
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][1]
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
@@ -235,7 +273,7 @@ for i in range(len(id_list)):
       sheet[idx].font = Font(size=SIZE)
       
     else:     # output rank and score                    
-      row, column = RowOffset+i, 5+(j-2)*2      
+      row, column = RowOffset+i, 6+(j-4)*2      
       idx = convertToTitle(column)+str(row) 
       
       sheet[idx].value = table[i][j][0]
@@ -245,27 +283,17 @@ for i in range(len(id_list)):
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
       
-      row, column = RowOffset+i, 5+(j-2)*2+1
+      row, column = RowOffset+i, 6+(j-4)*2+1
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][j][1]
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
-  
-  #### Membership
-      
-  row, column = RowOffset+i, 3
-  idx = convertToTitle(column)+str(row)
-  sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-  sheet[idx].value = Membership[name]
-  if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
-  sheet[idx].font = Font(size=12)
-            
+              
   #### Company Logo    
   if name in Company:          
-    row, column = RowOffset+i, 5+ContestNumbers*2
+    row, column = RowOffset+i, 6+ContestNumbers*2
     idx = convertToTitle(column)+str(row)
     sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
     sheet[idx].value = Company[name]+"-Logo"
@@ -277,6 +305,7 @@ for i in range(len(id_list)):
 
 RowOffset += len(id_list)
 
+# ID
 row, column = RowOffset+1, 2        
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = 'lee215'
@@ -285,6 +314,7 @@ sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
 
+# Days
 row, column = RowOffset+1, 3
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = Membership['lee215']
@@ -292,28 +322,38 @@ sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].font = Font(size=12)
 
-row, column = RowOffset+1, 4        
+# Rating
+row, column = RowOffset+1, 4
+idx = convertToTitle(column)+str(row) 
+sheet[idx].value = -1
+sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].font = Font(size=12)
+
+# Score
+row, column = RowOffset+1, 5        
 idx = convertToTitle(column)+str(row) 
 sheet[idx].value = 'YouXiu'
 sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
 sheet[idx].font = Font(size=SIZE)
 
-row, column = RowOffset+1, 5+ContestNumbers*2
-idx = convertToTitle(column)+str(row) 
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-sheet[idx].value = Company["lee215"]+"-Logo"
-
-row, column = RowOffset+1, 5
+# Contests Info
+row, column = RowOffset+1, 6
 idx = convertToTitle(column)+str(row) 
 idx2 = convertToTitle(column+ContestNumbers*2-1)+str(row) 
 sheet.merge_cells(idx+':'+idx2)
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].alignment = Alignment(horizontal='left',vertical='center')
 sheet[idx].value = 'Why always so YOUXIU?'
 sheet[idx].font = Font(bold=True, size=SIZE)
 sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/youxiu.html'
 sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
 
+# Logo
+row, column = RowOffset+1, 6+ContestNumbers*2
+idx = convertToTitle(column)+str(row) 
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+sheet[idx].value = Company["lee215"]+"-Logo"
 
 ############################
       

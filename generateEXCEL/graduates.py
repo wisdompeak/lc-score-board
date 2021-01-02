@@ -3,8 +3,7 @@ import openpyxl
 from openpyxl.styles import colors
 from openpyxl.styles import Font, Color, PatternFill, Alignment
 from openpyxl.drawing.image import Image
-
-
+import argparse
 
 ###############################################
 
@@ -18,8 +17,12 @@ def convertToTitle(n):
     result = ''.join((s, result))
   return result
         
+mainArgumentsParser = argparse.ArgumentParser()
+mainArgumentsParser.add_argument("endContest", help="EndContest id")
+kwargs = mainArgumentsParser.parse_args()
+endContest = int(kwargs.endContest)
+        
 startContest = 118
-endContest = 221
 ContestNumbers = endContest-startContest+1
 
 ###############################################
@@ -83,7 +86,7 @@ for personID in data:
       row.append([rank,score,solved])
    
   RollingScore = 0       
-  newRow = [row[0],RollingScore]   # Reorder into [ID,RollingScore,contestInfo]
+  newRow = [row[0], Membership[personID], RollingScore]   # Reorder into [ID,days,RollingScore,contestInfo]
   for x in row[1:]: newRow.append(x)
       
   table2.append(newRow)  
@@ -158,7 +161,7 @@ sheet[idx].value = 'Days'
 sheet[idx].alignment = Alignment(horizontal='center')
 sheet[idx].font = Font(bold=True, size=SIZE)
 
-# output header "Blank"
+# output header "Score"
 row, column = RowOffset+2, 4
 idx = convertToTitle(column)+str(row)
 sheet[idx].value = 'Score'
@@ -224,8 +227,18 @@ for i in range(len(table2)):
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
         
+    # 3rd Column: Days
+    elif j==1:    
+      row, column = RowOffset+i, 3
+      idx = convertToTitle(column)+str(row)
+      sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+      sheet[idx].value = table2[i][1]
+      if (i%2==0):
+            sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
+      sheet[idx].font = Font(size=12)
+
     # 4th column :  blanks
-    elif j==1:            
+    elif j==2:            
       row, column = RowOffset+i, 4
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = "-"
@@ -234,7 +247,7 @@ for i in range(len(table2)):
       sheet[idx].font = Font(size=SIZE)
       
     else:     # output rank and score                    
-      row, column = RowOffset+i, 5+(j-2)*2      
+      row, column = RowOffset+i, 3+(j-2)*2      
       idx = convertToTitle(column)+str(row) 
       
       sheet[idx].value = table2[i][j][0]
@@ -244,26 +257,13 @@ for i in range(len(table2)):
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
       
-      row, column = RowOffset+i, 5+(j-2)*2+1
+      row, column = RowOffset+i, 3+(j-2)*2+1
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table2[i][j][1]
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')      
       sheet[idx].alignment = Alignment(horizontal='center') 
       sheet[idx].font = Font(size=SIZE)
-      
-      
-  #### Membership
-      
-  row, column = RowOffset+i, 3
-  idx = convertToTitle(column)+str(row)
-  sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-  sheet[idx].value = Membership[name]
-  if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')   
-  sheet[idx].font = Font(size=12)
-            
-
 
 
 ############################

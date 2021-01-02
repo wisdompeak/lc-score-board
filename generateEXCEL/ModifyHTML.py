@@ -69,9 +69,9 @@ def changeContents(content):
     content = content.replace("Tusimple-Logo","<img src='Img/Tusimple.png' width=18 height=18>")
     content = content.replace("Pinterest-Logo","<img src='Img/Pinterest.jpeg' width=18 height=18>")
     content = content.replace("Paypal-Logo","<img src='Img/Paypal.jpeg' width=18 height=18>")
-    content = content.replace("Intuit-Logo","<img src='Img/Intuit.png' width=22 height=14>")
+    content = content.replace("Intuit-Logo","<img src='Img/Intuit.png' width=20 height=12>")
     content = content.replace("SAP-Logo","<img src='Img/SAP.png' width=24 height=16>")
-    content = content.replace("Akuna-Logo","<img src='Img/Akuna.png' width=24 height=16>")
+    content = content.replace("Akuna-Logo","<img src='Img/Akuna.png' width=28 height=18>")
 
 
     content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
