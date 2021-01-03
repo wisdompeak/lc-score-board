@@ -1070,15 +1070,17 @@ for contest in range(118,219+1):
 for contest in range(202,219+1):  	
 	data["0000alex1111"][str(contest)]=[-2,0] # rejoin
 
-for k in range(118,193):
-	if k >=180 and k <= 192:
-		data["yiyue15"][str(k)] = data["Yiyue15"][str(k)]
-	elif k>=166 and k<=175: 
-		data["yiyue15"][str(k)] = data["Yiyue15"][str(k)]
-	else:
-		data["yiyue15"][str(k)] = [-2,0]
-data.pop("Yiyue15")
 '''
+## before 222
+for contest in range(118,219+1):  	
+	data["fuchengshun"][str(contest)]=[-2,0]
+	data["wan-catherine"][str(contest)]=[-2,0]
+	data["xyzzzzzzzz"][str(contest)]=[-2,0]
+	data["rayms"][str(contest)]=[-2,0]
+	data["klutzCoder"][str(contest)]=[-2,0]
+	data["z1m"][str(contest)]=[-2,0]
+	data["window0105"][str(contest)]=[-2,0]
+	data["hc167"][str(contest)]=[-2,0]
 
 # data["owen2"]=data["wenyu3"]
 # data.pop("wenyu3")
@@ -1195,6 +1197,7 @@ contests["218"] = 9827
 contests["219"] = 9290
 contests["220"] = 9606
 contests["221"] = 8838
+contests["222"] = 9692
 
 
 json_str = json.dumps(contests)

@@ -149,7 +149,7 @@ sheet[idx1].font = Font(bold=True, size=SIZE)
 RowOffset += 3
 row, column = RowOffset+1, 2
 idx1 = convertToTitle(column)+str(row)
-idx2 = convertToTitle(column+8)+str(row)
+idx2 = convertToTitle(column+15)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
 sheet.row_dimensions[row].height = 20.0
 sheet[idx1].value = 'LeetCode Weekly Contest Score Board (the most recent 52 weeks)'

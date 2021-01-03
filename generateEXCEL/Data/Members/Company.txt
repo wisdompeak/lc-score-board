@@ -38,6 +38,7 @@ KurosuHa Amazon
 BlinkBamboo Amazon
 Blue_Epoch Amazon
 LambertTao Amazon
+haitao7 Amazon
 luozj14 Amazon
 wdyfy317138 Amazon
 Yao_Yin Amazon
@@ -55,6 +56,7 @@ user7194i Amazon
 Juny1He Amazon
 YoungForest Amazon
 Googlehsiehh Amazon
+window0105 Amazon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -75,9 +77,11 @@ VanCN ByteDance
 gabyXuan ByteDance
 yanrucheng ByteDance
 Charlesna ByteDance
+CrhnbP ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
 lisy14 ByteDance
+JDEP ByteDance
 am0320 Citadel
 JansonLu Cloudian
 ZhengkaiWei Cloudian
@@ -211,10 +215,9 @@ wAgChen SnowFlake
 zzaym SnowFlake
 thu_winfield Tencent
 FrankYao Tencent
-JDEP Tusimple
+disinuo Tencent
 wangyxwyx Twilio
 X_Chen6 TwoSigma
-haitao7 UPenn
 l90095z Uber
 yuhwu Uber
 gzh47 VMware
