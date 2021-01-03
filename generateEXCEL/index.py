@@ -259,9 +259,12 @@ for i in range(len(id_list)):
       idx = convertToTitle(column)+str(row) 
       sheet[idx].value = table[i][j]
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-      sheet[idx].font = Font(size=12)
       if (i%2==0):
         sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA') 
+      if (table[i][j]>=2100):
+        sheet[idx].font = Font(size=12,color='A30000')
+      else:
+        sheet[idx].font = Font(size=12,color='0426A4')
 
     # 5th column :  avg score
     elif j==3:            
