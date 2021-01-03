@@ -267,7 +267,7 @@ for i in range(len(id_list)):
     elif j==3:            
       row, column = RowOffset+i, 5
       idx = convertToTitle(column)+str(row) 
-      sheet[idx].value = table[i][1]
+      sheet[idx].value = table[i][j]
       sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
       sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
       sheet[idx].font = Font(size=SIZE)
