@@ -1080,7 +1080,6 @@ for contest in range(118,219+1):
 	data["z1m"][str(contest)]=[-2,0]
 	data["window0105"][str(contest)]=[-2,0]
 	data["hc167"][str(contest)]=[-2,0]
-'''
 
 ## before 223
 for contest in range(118,222+1):  	
@@ -1101,6 +1100,8 @@ for contest in range(221,222+1):
 	data["wenyou"][str(contest)]=[-2,0] # rejoin
 for contest in range(217,222+1):  	
 	data["jamesfan1101"][str(contest)]=[-2,0] # rejoin
+data["tangere"]['223']=[929,3]
+'''
 
 # data["owen2"]=data["wenyu3"]
 # data.pop("wenyu3")
