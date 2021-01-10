@@ -1,3 +1,4 @@
+ruifeng AMX
 Arco Airbnb
 zerotrac2 Akuna
 ZOEGREEN Alibaba
@@ -44,17 +45,18 @@ wdyfy317138 Amazon
 Yao_Yin Amazon
 zhongqusc Amazon
 lilllllllll Amazon
-zyzz1234 Amazon
 laikwunsing Amazon
 blackp1nk Amazon
 chenjianxu97 Amazon
 jerryxyj289 Amazon
 Luna_Zhang26 Amazon
+crystalmiumiu Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 user7194i Amazon
 Juny1He Amazon
 YoungForest Amazon
+edisonnie Amazon
 Googlehsiehh Amazon
 window0105 Amazon
 xiaozhi1 Apple
@@ -67,6 +69,7 @@ mangoman Atlassian
 liujiashun66 BNYMellon
 harttle Baidu
 sukeyzhou Bloomberg
+zk299 Bloomberg
 fuxuemingzhu ByteDance
 nagato1208 ByteDance
 gingerale ByteDance
@@ -156,12 +159,12 @@ meiyiyan Google
 alanlzl Google
 arignote Google
 maoyp Google
+Alkyl Google
 Lisanaaa Grab
 lihao199408 Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
-edisonnie Intuit
 keyupeter KeepTruckin
 ansonluo Kuaishou
 venico19 LinkedIn
@@ -180,6 +183,7 @@ hongchenjack Microsoft
 zyw_code Microsoft
 jasonzzzz Microsoft
 0000alex1111 Microsoft
+ShizukaYee Microsoft
 Sakamono Microsoft
 jliang Microsoft
 sshang Microsoft
@@ -190,6 +194,7 @@ WKelvinson Oracle
 Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
+zyzz1234 Oracle
 SummerYang19 Oracle
 davidguuuo Oracle
 FightEveryDay Oracle
@@ -202,11 +207,13 @@ biss PinDuoDuo
 albertzhang86 Pinterest
 shshwdr PocketGems
 1373757850 Pony
+apoi2333 Pony
 jiang718 PureStorage
 davidqing1991 PureStorage
 cyn3966 PureStorage
 zhangsikai123 RedBook
 FYQiang Reflexis
+woshilxd912 Robinhood
 FreshBing SAP
 ChelsieZ Salesforce
 bifeitang Schlumberger
