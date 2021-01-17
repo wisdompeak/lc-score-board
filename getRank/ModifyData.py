@@ -1108,6 +1108,7 @@ for contest in range(118,223+1):
 	data["yuanlu0210"][str(contest)]=[-2,0]
 	data["nickee1942"][str(contest)]=[-2,0]
 	data["home_z"][str(contest)]=[-2,0]
+data["tangere"]['223']=[929,3]	
 
 # data["owen2"]=data["wenyu3"]
 # data.pop("wenyu3")
