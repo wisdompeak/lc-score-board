@@ -34,7 +34,6 @@ luorinz Amazon
 fengw7 Amazon
 fan_zh Amazon
 miracleyanyu Amazon
-bugattiforsamsam Amazon
 KurosuHa Amazon
 BlinkBamboo Amazon
 Blue_Epoch Amazon
@@ -159,6 +158,7 @@ meiyiyan Google
 alanlzl Google
 arignote Google
 maoyp Google
+FunBam Google
 Lisanaaa Grab
 lihao199408 Huawei
 youjiahan IBM
@@ -178,6 +178,7 @@ Lawrence_M Microsoft
 LijianChen Microsoft
 xxnzym Microsoft
 praenubilus Microsoft
+bugattiforsamsam Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
 jasonzzzz Microsoft

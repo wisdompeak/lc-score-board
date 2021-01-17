@@ -69,7 +69,6 @@ YanJF 06/21/2020
 gn1m_dbt 06/23/2020
 YaoyaoChang 06/28/2020
 lbyxiafei 07/10/2020
-darkaimagic 07/11/2020
 tiandaliu 07/12/2020
 kylelovealgo 07/12/2020
 hongrubb 07/17/2020
@@ -137,3 +136,7 @@ wenyou 01/05/2021
 tangere 01/06/2021
 ruifeng 01/09/2021
 jamesfan1101 01/09/2021
+axjin 01/09/2021
+yuanlu0210 01/10/2021
+nickee1942 01/10/2021
+home_z 01/12/2021
