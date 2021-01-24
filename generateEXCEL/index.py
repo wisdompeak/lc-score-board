@@ -400,7 +400,7 @@ sheet.merge_cells(idx+':'+idx2)
 sheet[idx].value = 'See where we are from'
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
-sheet[idx].hyperlink = 'https://drive.google.com/open?id=1c1t3qKsKxTTnDD_P2BsFsrL7p8l9Bou8&usp=sharing'
+sheet[idx].hyperlink = 'https://www.google.com/maps/d/viewer?mid=1c1t3qKsKxTTnDD_P2BsFsrL7p8l9Bou8'
 
 
 row, column = RowOffset+7, 2
