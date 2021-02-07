@@ -36,7 +36,6 @@ fengw7 Amazon
 fan_zh Amazon
 miracleyanyu Amazon
 KurosuHa Amazon
-BlinkBamboo Amazon
 Blue_Epoch Amazon
 LambertTao Amazon
 haitao7 Amazon
@@ -137,6 +136,7 @@ kaizer87 Google
 aruba1 Google
 Charles000 Google
 sifangyou Google
+BlinkBamboo Google
 SeymourLee Google
 chongtan111200 Google
 wangchuqiao93 Google
@@ -249,4 +249,4 @@ jason_wong1 Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
 bill04128682 Zoom
-conanjinming optiver
+conanjinming dolphindb
