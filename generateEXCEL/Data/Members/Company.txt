@@ -191,6 +191,7 @@ jasonzzzz Microsoft
 0000alex1111 Microsoft
 ShizukaYee Microsoft
 Sakamono Microsoft
+YaoyaoChang Microsoft
 jliang Microsoft
 sshang Microsoft
 lzl124631x Microsoft
@@ -230,6 +231,7 @@ zzaym SnowFlake
 thu_winfield Tencent
 FrankYao Tencent
 disinuo Tencent
+blackspinner Tencent
 wangyxwyx Twilio
 X_Chen6 TwoSigma
 l90095z Uber
