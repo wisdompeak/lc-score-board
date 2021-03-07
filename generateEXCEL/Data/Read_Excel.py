@@ -33,7 +33,7 @@ def read_excel():
     print('Label:',sheet1.name,'Rows:',sheet1.nrows,'Cols:',sheet1.ncols)
     for i in range(sheet1.nrows):
         date_value = xlrd.xldate_as_tuple(sheet1.cell_value(i,2),wb.datemode)
-        id = sheet1.cell_value(i,1)
+        id = sheet1.cell_value(i,1)        
         if id==1373757850: id = int(id)
         if id==457368837: id = int(id)
         # print(sheet1.cell_value(i,1),date(*date_value[:3]).strftime('%m/%d/%Y'))        
