@@ -145,20 +145,39 @@ sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/cup.html'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=SIZE)
 
-# output sponsorship
+'''Kuai Shou Sponsorship'''
+# Kuaishou Logo
 RowOffset += 3
 row, column = RowOffset+1, 2
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column)+str(row+1) 
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].value = "Kuaishou-Big-Logo"
+
+# output header "Wisdompeak Cup"
+row, column = RowOffset+1, 3
 idx1 = convertToTitle(column)+str(row)
-idx2 = convertToTitle(column+25)+str(row)
+idx2 = convertToTitle(column+15)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
-sheet.row_dimensions[row].height = 20.0
-sheet[idx1].value = 'Special thanks to Kuaishou Tech and MMU Team for sponsoring our club activities. Click to see their open positions in Beijing.'
+sheet[idx1].value = 'Special thanks to Kuaishou Tech and MMU Team for sponsoring our club activities!'
+sheet[idx1].alignment = Alignment(horizontal='left')
+sheet[idx1].font = Font(bold=True, size=SIZE)
+
+# output header "2020 year-end review"
+row, column = RowOffset+2, 3
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+15)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+sheet[idx1].value = 'Click to check out their open positions in Beijing'
 sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/Img/MMU.jpg'
 sheet[idx1].alignment = Alignment(horizontal='left')
-sheet[idx1].font = Font(bold=True, size=14)
+sheet[idx1].font = Font(bold=True, size=SIZE)
+
+'''End of Kuai Shou Sponsorship'''
 
 # output header "Contest Score Board"
-RowOffset += 2
+RowOffset += 3
 row, column = RowOffset+1, 2
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+15)+str(row)
