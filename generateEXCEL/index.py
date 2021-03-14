@@ -158,7 +158,7 @@ sheet[idx].value = "Kuaishou-Big-Logo"
 # output header "Wisdompeak Cup"
 row, column = RowOffset+1, 3
 idx1 = convertToTitle(column)+str(row)
-idx2 = convertToTitle(column+15)+str(row)
+idx2 = convertToTitle(column+20)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
 sheet[idx1].value = 'Special thanks to Kuaishou Tech and MMU Team for sponsoring our club activities!'
 sheet[idx1].alignment = Alignment(horizontal='left')
@@ -167,7 +167,7 @@ sheet[idx1].font = Font(bold=True, size=SIZE)
 # output header "2020 year-end review"
 row, column = RowOffset+2, 3
 idx1 = convertToTitle(column)+str(row)
-idx2 = convertToTitle(column+15)+str(row)
+idx2 = convertToTitle(column+20)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
 sheet[idx1].value = 'Click to check out their open positions in Beijing'
 sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/Img/MMU.jpg'
