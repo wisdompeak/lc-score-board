@@ -54,7 +54,6 @@ ruanys 03/23/2020
 ddoudle 03/24/2020
 ddwysg1 03/29/2020
 Lawliet890 04/05/2020
-alanlzl 04/09/2020
 pku_erutan 04/11/2020
 lwh14710 04/23/2020
 pjequilibrium 04/28/2020
@@ -63,7 +62,6 @@ xywang0520 05/08/2020
 arignote 05/09/2020
 Googlehsiehh 05/09/2020
 YanJF 06/21/2020
-gn1m_dbt 06/23/2020
 lbyxiafei 07/10/2020
 kylelovealgo 07/12/2020
 hongrubb 07/17/2020
@@ -93,12 +91,10 @@ Courtmouse 10/25/2020
 hongleyou 11/05/2020
 skd233 11/06/2020
 EdmizJay 11/07/2020
-maoyp 11/14/2020
 yinghuahu 11/18/2020
 chenjianxu97 11/21/2020
 lighteningzhang 11/21/2020
 wxhelloworld 11/24/2020
-rqren2018 12/05/2020
 ryoyukiyangy 12/10/2020
 jiutiany1127 12/13/2020
 0000alex1111 12/16/2020
@@ -138,11 +134,11 @@ y-square 02/11/2021
 ruizhang199509 02/16/2021
 SDE2018_Carson_Yingying 02/16/2021
 weeeed 02/16/2021
-Lunaaaa 02/17/2021
-puuuuuuuuuuuuu 02/17/2021
 zhenguowcs 02/21/2021
 htkzmo 02/28/2021
 jja725 03/01/2021
 bc2615 03/03/2021
 wanyoyo 03/04/2021
 delphih 03/05/2021
+deepli 03/07/2021
+quantuminfo 03/12/2021

@@ -1151,7 +1151,7 @@ for contest in range(118,228+1):
 ## before 230
 for contest in range(118,229+1):  	
 	data["zhenguowcs"][str(contest)]=[-2,0]
-'''
+
 ## before 231
 for contest in range(118,230+1):  	
 	data["jja725"][str(contest)]=[-2,0]
@@ -1161,7 +1161,12 @@ for contest in range(221,230+1):
 	data["htkzmo"][str(contest)]=[-2,0]
 for contest in range(208,230+1):  	
 	data["wanyoyo"][str(contest)]=[-2,0]	
+'''
 
+## before 232
+for contest in range(118,231+1): 
+	data["deepli"][str(contest)]=[-2,0]
+	data["quantuminfo"][str(contest)]=[-2,0]	
 
 # data["owen2"]=data["wenyu3"]
 # data.pop("wenyu3")
@@ -1288,6 +1293,7 @@ contests["228"] = 9869
 contests["229"] = 11173
 contests["230"] = 11654
 contests["231"] = 12900
+contests["232"] = 12541
 
 json_str = json.dumps(contests)
 
