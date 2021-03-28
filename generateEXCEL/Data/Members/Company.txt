@@ -91,6 +91,7 @@ ZhengkaiWei Cloudian
 Kaiyu-Wang Compass
 XingxingHuang Cruise
 cc189 Ebay
+liulaoye135 Ebay
 shuoyan F5Networks
 Golden_Fish Facebook
 hhjkkl Facebook
@@ -151,6 +152,7 @@ maoyp Google
 alanlzl Google
 wisdompeak Google
 lee215 Google
+sdliuyuzhi Google
 cuiaoxiang Google
 ForGive Google
 wxy9018 Google
@@ -188,7 +190,6 @@ praenubilus Microsoft
 bugattiforsamsam Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
-liulaoye135 Microsoft
 jasonzzzz Microsoft
 0000alex1111 Microsoft
 ShizukaYee Microsoft
@@ -216,6 +217,7 @@ biss PinDuoDuo
 albertzhang86 Pinterest
 shshwdr PocketGems
 1373757850 Pony
+Arsenal-591 Pony
 apoi2333 Pony
 jiang718 PureStorage
 davidqing1991 PureStorage
@@ -233,6 +235,7 @@ zzaym SnowFlake
 thu_winfield Tencent
 FrankYao Tencent
 disinuo Tencent
+sam_lee_ Tencent
 blackspinner Tencent
 wangyxwyx Twilio
 X_Chen6 TwoSigma
