@@ -54,6 +54,7 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 user7194i Amazon
 Juny1He Amazon
+ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
 Googlehsiehh Amazon
@@ -65,7 +66,6 @@ stayfoolish2 Apple
 ruofeisan Apple
 OneDirection Apple
 mangoman Atlassian
-quantuminfo Avalanche 
 liujiashun66 BNYMellon
 harttle Baidu
 sukeyzhou Bloomberg
@@ -107,6 +107,7 @@ shuchenc Facebook
 zac4 Facebook
 OTTFF Facebook
 henghaaya Goldman
+xy1995cn Goldman
 softair Google
 taocheng984 Google
 peng_wang_cmu Google
@@ -119,6 +120,7 @@ IrisGuo Google
 qz267 Google
 icodingg Google
 zihao Google
+xinyue1597 Google
 VectorX Google
 tankztc Google
 weiyang95 Google
@@ -150,6 +152,8 @@ YI-DING Google
 qingdu_river Google
 maoyp Google
 alanlzl Google
+insomniacat Google
+tangere Google
 wisdompeak Google
 lee215 Google
 sdliuyuzhi Google
@@ -159,14 +163,13 @@ wxy9018 Google
 fighting_for_flag Google
 adayxiang Google
 BingleLove Google
-insomniacat Google
 FighterNan Google
 meiyiyan Google
 arignote Google
 ScottCC Google
 owen2 Google
 FunBam Google
-tangere Google
+caoboxiao Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
@@ -184,6 +187,7 @@ huyouhyw Microsoft
 qw123 Microsoft
 wyzhang421 Microsoft
 Lawrence_M Microsoft
+Jc_Qu Microsoft
 LijianChen Microsoft
 xxnzym Microsoft
 praenubilus Microsoft
@@ -251,7 +255,6 @@ lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
 kylelovealgo Walmart
-Jc_Qu Wayfair
 yuchenliulyc Wish
 Coup_De_Grace Yahoo
 jason_wong1 Yahoo
