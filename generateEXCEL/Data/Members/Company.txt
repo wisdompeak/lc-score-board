@@ -180,6 +180,7 @@ keyupeter KeepTruckin
 ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
+jja725 LinkedIn
 richarddia MathWorks
 li-jinze Meituan
 zpzpzzp2020 Microsoft
@@ -203,6 +204,7 @@ jliang Microsoft
 sshang Microsoft
 lzl124631x Microsoft
 lbyxiafei Microsoft
+EdmizJay Microsoft
 christine_christine Oracle
 WKelvinson Oracle
 Ethan_M Oracle
@@ -221,8 +223,8 @@ biss PinDuoDuo
 albertzhang86 Pinterest
 shshwdr PocketGems
 1373757850 Pony
-Arsenal-591 Pony
 apoi2333 Pony
+Arsenal-591 Pony
 jiang718 PureStorage
 davidqing1991 PureStorage
 cyn3966 PureStorage
