@@ -140,7 +140,7 @@ row, column = RowOffset+2, 3
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+15)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
-sheet[idx1].value = 'Looking for more challenge? Try Wisdom Cup! (Round 4 in progress)'
+sheet[idx1].value = 'Looking for more challenges? Try Wisdom Cup!'
 sheet[idx1].hyperlink = 'https://wisdompeak.github.io/lc-score-board/cup.html'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=SIZE)
