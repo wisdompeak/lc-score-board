@@ -41,7 +41,6 @@ ShangqiYang 01/26/2020
 FighterNan 02/09/2020
 Juny1He 02/14/2020
 lozy219 02/14/2020
-ChelsieZ 02/17/2020
 ziyezhu92 03/08/2020
 meiyiyan 03/09/2020
 ShidaLei 03/16/2020
@@ -94,7 +93,6 @@ jiutiany1127 12/13/2020
 0000alex1111 12/16/2020
 xyzzzzzzzz 12/31/2020
 rayms 12/31/2020
-klutzCoder 12/31/2020
 window0105 01/01/2021
 hc167 01/01/2021
 stevenhuang42195 01/02/2021
@@ -135,3 +133,6 @@ caoboxiao 03/30/2021
 KurosuHa 04/04/2021
 TimSYQQX 04/08/2021
 playfair 04/10/2021
+RomainTian 04/10/2021
+MaskRay 04/10/2021
+efgonzalez 04/12/2021

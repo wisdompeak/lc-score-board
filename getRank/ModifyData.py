@@ -1186,13 +1186,19 @@ for contest in range(118,233+1):
 ## before 235
 for contest in range(118,234+1): 
 	data["caoboxiao"][str(contest)]=[-2,0]
-'''
+
 ## before 236
 for contest in range(118,235+1): 
 	data["TimSYQQX"][str(contest)]=[-2,0]
 	data["playfair"][str(contest)]=[-2,0]
 for contest in range(190,235+1):  	
 	data["KurosuHa"][str(contest)]=[-2,0] # rejoin
+'''
+## before 237
+for contest in range(118,236+1): 
+	data["RomainTian"][str(contest)]=[-2,0]
+	data["MaskRay"][str(contest)]=[-2,0]
+	data["efgonzalez"][str(contest)]=[-2,0]
 
 
 
@@ -1327,6 +1333,7 @@ contests["233"] = 12037
 contests["234"] = 12421
 contests["235"] = 11443
 contests["236"] = 12115
+contests["237"] = 11446
 
 json_str = json.dumps(contests)
 
