@@ -1209,6 +1209,7 @@ for contest in range(118,237+1):
 	data["luyifan1996"][str(contest)]=[-2,0]
 	data["corn2597"][str(contest)]=[-2,0]
 	data["hellocici"][str(contest)]=[-2,0]
+	data["han3000"][str(contest)]=[-2,0]
 for contest in range(228,237+1):  	
 	data["WKelvinson"][str(contest)]=[-2,0] # rejoin
 

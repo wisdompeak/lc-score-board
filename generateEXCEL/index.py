@@ -61,7 +61,6 @@ with open('../getRank/lc_profile_data.json', 'r') as f:
 # import person   	
 fi = open('../getRank/id.in', 'r')
 id_list = [line.strip() for line in fi.readlines()]
-id_list.remove("lee215")
 fi.close()   	
 
 # compute scores
@@ -123,6 +122,7 @@ idx = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column)+str(row+1) 
 sheet.merge_cells(idx+':'+idx2)
 sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/youxiu.html'
 sheet[idx].value = "YouXiu-Logo"
 
 # output header "Wisdompeak Cup"
@@ -164,7 +164,7 @@ sheet[idx1].value = 'Special thanks to Kuaishou Tech and MMU Team for sponsoring
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=SIZE)
 
-# output header "2020 year-end review"
+# output header "MMU poster"
 row, column = RowOffset+2, 3
 idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+20)+str(row)
@@ -335,59 +335,59 @@ for i in range(len(id_list)):
 
 ############################
 
-### Lee215
-
 RowOffset += len(id_list)
 
-# ID
-row, column = RowOffset+1, 2        
-idx = convertToTitle(column)+str(row) 
-sheet[idx].value = 'lee215'
-sheet[idx].hyperlink = 'https://leetcode.com/lee215'
-sheet[idx].font = Font(bold=True, size=SIZE) 
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
+### Lee215
 
-# Days
-row, column = RowOffset+1, 3
-idx = convertToTitle(column)+str(row) 
-sheet[idx].value = Membership['lee215']
-sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-sheet[idx].font = Font(size=12)
+# # ID
+# row, column = RowOffset+1, 2        
+# idx = convertToTitle(column)+str(row) 
+# sheet[idx].value = 'lee215'
+# sheet[idx].hyperlink = 'https://leetcode.com/lee215'
+# sheet[idx].font = Font(bold=True, size=SIZE) 
+# sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+# sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
 
-# Rating
-row, column = RowOffset+1, 4
-idx = convertToTitle(column)+str(row) 
-sheet[idx].value = -1
-sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-sheet[idx].font = Font(size=12)
+# # Days
+# row, column = RowOffset+1, 3
+# idx = convertToTitle(column)+str(row) 
+# sheet[idx].value = Membership['lee215']
+# sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
+# sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+# sheet[idx].font = Font(size=12)
 
-# Score
-row, column = RowOffset+1, 5        
-idx = convertToTitle(column)+str(row) 
-sheet[idx].value = 'YouXiu'
-sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-sheet[idx].font = Font(size=SIZE)
+# # Rating
+# row, column = RowOffset+1, 4
+# idx = convertToTitle(column)+str(row) 
+# sheet[idx].value = -1
+# sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
+# sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+# sheet[idx].font = Font(size=12)
 
-# Contests Info
-row, column = RowOffset+1, 6
-idx = convertToTitle(column)+str(row) 
-idx2 = convertToTitle(column+ContestNumbers*2-1)+str(row) 
-sheet.merge_cells(idx+':'+idx2)
-sheet[idx].alignment = Alignment(horizontal='left',vertical='center')
-sheet[idx].value = 'Why always so YOUXIU?'
-sheet[idx].font = Font(bold=True, size=SIZE)
-sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/youxiu.html'
-sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
+# # Score
+# row, column = RowOffset+1, 5        
+# idx = convertToTitle(column)+str(row) 
+# sheet[idx].value = 'YouXiu'
+# sheet[idx].fill = PatternFill("solid", fgColor=colorChoice[5])
+# sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
+# sheet[idx].font = Font(size=SIZE)
 
-# Logo
-row, column = RowOffset+1, 6+ContestNumbers*2
-idx = convertToTitle(column)+str(row) 
-sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
-sheet[idx].value = Company["lee215"]+"-Logo"
+# # Contests Info
+# row, column = RowOffset+1, 6
+# idx = convertToTitle(column)+str(row) 
+# idx2 = convertToTitle(column+ContestNumbers*2-1)+str(row) 
+# sheet.merge_cells(idx+':'+idx2)
+# sheet[idx].alignment = Alignment(horizontal='left',vertical='center')
+# sheet[idx].value = 'Why always so YOUXIU?'
+# sheet[idx].font = Font(bold=True, size=SIZE)
+# sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/youxiu.html'
+# sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')
+
+# # Logo
+# row, column = RowOffset+1, 6+ContestNumbers*2
+# idx = convertToTitle(column)+str(row) 
+# sheet[idx].alignment = Alignment(horizontal='center',vertical='center') 
+# sheet[idx].value = Company["lee215"]+"-Logo"
 
 ############################
       
