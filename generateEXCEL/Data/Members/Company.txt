@@ -63,11 +63,10 @@ Mengqian Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
 ruofeisan Apple
-OneDirection Apple
 ruifeng Apple
+OneDirection Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
-harttle Baidu
 sukeyzhou Bloomberg
 zk299 Bloomberg
 fuxuemingzhu ByteDance
@@ -102,6 +101,7 @@ jwang89225 Facebook
 kealyn Facebook
 thewisp Facebook
 tift Facebook
+Byleth Facebook
 thumbpixels Facebook
 shuchenc Facebook
 zac4 Facebook
@@ -204,6 +204,7 @@ YaoyaoChang Microsoft
 jliang Microsoft
 sshang Microsoft
 lzl124631x Microsoft
+harttle Microsoft
 lbyxiafei Microsoft
 EdmizJay Microsoft
 christine_christine Oracle
