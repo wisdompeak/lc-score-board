@@ -154,6 +154,7 @@ maoyp Google
 alanlzl Google
 insomniacat Google
 tangere Google
+meiyiyan Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -164,7 +165,6 @@ fighting_for_flag Google
 adayxiang Google
 BingleLove Google
 FighterNan Google
-meiyiyan Google
 arignote Google
 ScottCC Google
 owen2 Google
@@ -216,6 +216,7 @@ zyzz1234 Oracle
 SummerYang19 Oracle
 davidguuuo Oracle
 FightEveryDay Oracle
+LeetCodeSuperman Oracle
 huangyuyang Others
 larui529 Others
 mzcj Palo-alto

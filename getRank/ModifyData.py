@@ -1213,7 +1213,6 @@ for contest in range(118,237+1):
 	data["guanhao2"][str(contest)]=[-2,0]
 for contest in range(228,237+1):  	
 	data["WKelvinson"][str(contest)]=[-2,0] # rejoin
-'''
 
 ## before 239
 for contest in range(118,238+1): 
@@ -1223,10 +1222,26 @@ for contest in range(118,238+1):
 	data["bxiao_ca"][str(contest)]=[-2,0]
 for contest in range(128,238+1): 
 	data["banrenmasanxing"][str(contest)]=[-2,0] # rejoin
+'''
+## before 240
+for contest in range(118,239+1): 
+	data["direction"][str(contest)]=[-2,0]
+	data["upupming"][str(contest)]=[-2,0]
+	data["ryanwong0127"][str(contest)]=[-2,0]
+	data["Saiyan_fdy"][str(contest)]=[-2,0]
+	data["zxiaoqi1"][str(contest)]=[-2,0]
+	data["remfzh"][str(contest)]=[-2,0]
+	data["zrts"][str(contest)]=[-2,0]
+	data["cozlind"][str(contest)]=[-2,0]
+	data["HIT_TOM"][str(contest)]=[-2,0]
+	data["NaoJoeMiao"][str(contest)]=[-2,0]
+for contest in range(206,239+1): 
+	data["LeetCodeSuperman"][str(contest)]=[-2,0] # rejoin
+for contest in range(235,239+1): 
+	data["insomniacat"][str(contest)]=[-2,0] # rejoin	
 
-
-# data["owen2"]=data["wenyu3"]
-# data.pop("wenyu3")
+# data["LeetCodeSuperman"]=data["LeetCoding_Master"]
+# data.pop("LeetCoding_Master")
 
 json_str = json.dumps(data)
 
@@ -1358,6 +1373,7 @@ contests["236"] = 12115
 contests["237"] = 11446
 contests["238"] = 11635
 contests["239"] = 10870
+contests["240"] = 11576
 
 json_str = json.dumps(contests)
 
