@@ -92,6 +92,7 @@ XingxingHuang Cruise
 cc189 Ebay
 liulaoye135 Ebay
 shuoyan F5Networks
+ddoudle Face++
 Golden_Fish Facebook
 hhjkkl Facebook
 zzy1996 Facebook
@@ -203,9 +204,11 @@ Sakamono Microsoft
 YaoyaoChang Microsoft
 jliang Microsoft
 sshang Microsoft
+angel30818 Microsoft
 lzl124631x Microsoft
 harttle Microsoft
 lbyxiafei Microsoft
+wwwap Microsoft
 EdmizJay Microsoft
 christine_christine Oracle
 WKelvinson Oracle
@@ -259,7 +262,6 @@ YuchenYang1997 VMware
 lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
-kylelovealgo Walmart
 yuchenliulyc Wish
 Coup_De_Grace Yahoo
 jason_wong1 Yahoo
