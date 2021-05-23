@@ -1239,7 +1239,7 @@ for contest in range(206,239+1):
 	data["LeetCodeSuperman"][str(contest)]=[-2,0] # rejoin
 for contest in range(235,239+1): 
 	data["insomniacat"][str(contest)]=[-2,0] # rejoin	
-'''
+
 
 ## before 241
 for contest in range(118,240+1): 
@@ -1249,6 +1249,21 @@ for contest in range(118,240+1):
 	data["zmxsdu"][str(contest)]=[-2,0]
 	data["zzzxxAkir"][str(contest)]=[-2,0]
 	data["zhichuan"][str(contest)]=[-2,0]
+'''
+## before 242
+for contest in range(118,241+1): 
+	data["Tyrande"][str(contest)]=[-2,0]
+	data["ashzzyj"][str(contest)]=[-2,0]
+	data["migeater"][str(contest)]=[-2,0]
+	data["perry304"][str(contest)]=[-2,0]
+	data["universer2009"][str(contest)]=[-2,0]
+	data["thinkiny"][str(contest)]=[-2,0]
+	data["erds44"][str(contest)]=[-2,0]
+	data["WeijieChen0_0"][str(contest)]=[-2,0]
+for contest in range(211,241+1): 
+	data["Castling"][str(contest)]=[-2,0] # rejoin	
+for contest in range(217,241+1): 
+	data["lichenz"][str(contest)]=[-2,0] # rejoin	
 
 
 # data["LeetCodeSuperman"]=data["LeetCoding_Master"]
@@ -1386,6 +1401,7 @@ contests["238"] = 11635
 contests["239"] = 10870
 contests["240"] = 11576
 contests["241"] = 11572
+contests["242"] = 12400
 
 json_str = json.dumps(contests)
 

@@ -77,7 +77,7 @@ for i in range(len(Days)):
     print(Days[i]," ",Nums[i])
 
 
-plt.figure(21,figsize=(35,16))
+plt.figure(21,figsize=(45,16))
 
 plt.subplot(211)
 plt.plot(Nums, label = 'member growth curve')

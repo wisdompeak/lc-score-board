@@ -22,6 +22,7 @@ dickbomb Amazon
 jmzhang18 Amazon
 user760 Amazon
 Aaron_S Amazon
+sequenzf Amazon
 XiaoWanLINJU Amazon
 leoknuth Amazon
 redbeanlyx Amazon
@@ -40,7 +41,6 @@ haitao7 Amazon
 luozj14 Amazon
 wdyfy317138 Amazon
 Yao_Yin Amazon
-zhongqusc Amazon
 lilllllllll Amazon
 laikwunsing Amazon
 blackp1nk Amazon
@@ -49,10 +49,10 @@ jerryxyj289 Amazon
 Luna_Zhang26 Amazon
 crystalmiumiu Amazon
 tiandaliu Amazon
+Juny1He Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 user7194i Amazon
-Juny1He Amazon
 ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
@@ -66,6 +66,7 @@ ruofeisan Apple
 ruifeng Apple
 OneDirection Apple
 mangoman Atlassian
+Byleth Atlassian
 liujiashun66 BNYMellon
 sukeyzhou Bloomberg
 zk299 Bloomberg
@@ -102,13 +103,13 @@ jwang89225 Facebook
 kealyn Facebook
 thewisp Facebook
 tift Facebook
-Byleth Facebook
 thumbpixels Facebook
 shuchenc Facebook
 zac4 Facebook
 OTTFF Facebook
 henghaaya Goldman
 xy1995cn Goldman
+tsunamixiao Goldman
 softair Google
 taocheng984 Google
 peng_wang_cmu Google
@@ -155,6 +156,7 @@ maoyp Google
 alanlzl Google
 insomniacat Google
 tangere Google
+qwerjkl112 Google
 meiyiyan Google
 wisdompeak Google
 han3000 Google
@@ -178,6 +180,7 @@ lihao199408 Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
+zhongqusc Instacart
 keyupeter KeepTruckin
 ansonluo Kuaishou
 venico19 LinkedIn
@@ -218,6 +221,7 @@ WarriorZ Oracle
 zyzz1234 Oracle
 SummerYang19 Oracle
 davidguuuo Oracle
+2valor Oracle
 FightEveryDay Oracle
 LeetCodeSuperman Oracle
 huangyuyang Others
