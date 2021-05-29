@@ -58,7 +58,7 @@ def changeContents(content):
     content = content.replace("MorganStanley-Logo","<img src='Img/MorganStanley.png' width=48 height=18>")
     content = content.replace("Kuaishou-Logo","<img src='Img/Kuaishou.png' width=18 height=18>")
     content = content.replace("Goldman-Logo","<img src='Img/Goldman.png' width=48 height=18>")
-    content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' width=28 height=10>")
+    content = content.replace("Oracle-Logo","<img src='Img/Oracle.png' height=18>")
     content = content.replace("Meituan-Logo","<img src='Img/Meituan.jpeg' width=18 height=18>")
     content = content.replace("Huawei-Logo","<img src='Img/Huawei.png' width=18 height=18>")
     content = content.replace("PinDuoDuo-Logo","<img src='Img/PinDuoDuo.png' width=18 height=18>")
