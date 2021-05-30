@@ -31,7 +31,6 @@ zhengfu23 Amazon
 chuw Amazon
 whyer Amazon
 luorinz Amazon
-fengw7 Amazon
 fan_zh Amazon
 miracleyanyu Amazon
 KurosuHa Amazon
@@ -73,6 +72,7 @@ zk299 Bloomberg
 fuxuemingzhu ByteDance
 nagato1208 ByteDance
 gingerale ByteDance
+fengw7 ByteDance
 oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
 hongrubb ByteDance
@@ -83,6 +83,7 @@ Charlesna ByteDance
 CrhnbP ByteDance
 lisy14 ByteDance
 tommyjiang ByteDance
+jason_wong1 ByteDance
 huanglanzhiguan ByteDance
 JDEP ByteDance
 am0320 Citadel
@@ -187,6 +188,7 @@ venico19 LinkedIn
 ZaozaoNan LinkedIn
 jja725 LinkedIn
 richarddia MathWorks
+yuanlu0210 MathWorks
 li-jinze Meituan
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
@@ -205,6 +207,8 @@ jasonzzzz Microsoft
 ShizukaYee Microsoft
 Sakamono Microsoft
 YaoyaoChang Microsoft
+puuuuuuuuuuuuu Microsoft
+ryoyukiyangy Microsoft
 jliang Microsoft
 sshang Microsoft
 angel30818 Microsoft
@@ -268,7 +272,6 @@ xuexiyi Walmart
 kaihaohust Walmart
 yuchenliulyc Wish
 Coup_De_Grace Yahoo
-jason_wong1 Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
 bill04128682 Zoom
