@@ -58,7 +58,6 @@ hongrubb 07/17/2020
 FightEveryDay 08/01/2020
 buffa 08/01/2020
 JDEP 08/10/2020
-chenhaomaiji 08/16/2020
 youjiahan 08/20/2020
 ScottCC 08/30/2020
 wwwap 09/14/2020
@@ -136,7 +135,6 @@ HIT_TOM 05/07/2021
 LeetCodeSuperman 05/08/2021
 NaoJoeMiao 05/08/2021
 goodstudyqaq 05/08/2021
-MSY16 05/09/2021
 bush117 05/10/2021
 zhichuan 05/11/2021
 Tyrande 05/16/2021
@@ -162,3 +160,9 @@ Ghostk1590 06/04/2021
 ningziwen 06/04/2021
 bill04128682 06/05/2021
 skqliao 06/05/2021
+ZeRoLJ42 06/06/2021
+jzcheng 06/08/2021
+faang2022 06/09/2021
+dickbomb 06/09/2021
+lianxin_cn 06/11/2021
+cguo 06/11/2021
