@@ -33,7 +33,6 @@ whyer Amazon
 luorinz Amazon
 fan_zh Amazon
 miracleyanyu Amazon
-KurosuHa Amazon
 Blue_Epoch Amazon
 LambertTao Amazon
 haitao7 Amazon
@@ -73,6 +72,7 @@ nagato1208 ByteDance
 gingerale ByteDance
 fengw7 ByteDance
 oOoO0oOoO0oOo ByteDance
+KurosuHa ByteDance
 Isomorphic ByteDance
 hongrubb ByteDance
 VanCN ByteDance
@@ -104,8 +104,8 @@ jwang89225 Facebook
 kealyn Facebook
 thewisp Facebook
 tift Facebook
-thumbpixels Facebook
 shuchenc Facebook
+thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
 henghaaya Goldman
@@ -159,6 +159,7 @@ insomniacat Google
 tangere Google
 qwerjkl112 Google
 meiyiyan Google
+caoboxiao Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -174,7 +175,6 @@ Googlehsiehh Google
 ScottCC Google
 owen2 Google
 FunBam Google
-caoboxiao Google
 MaskRay Google
 Lisanaaa Grab
 SUPERJOSY Harness
@@ -219,6 +219,7 @@ lbyxiafei Microsoft
 wwwap Microsoft
 EdmizJay Microsoft
 faang2022 Microsoft
+jingwenxxx Microsoft
 christine_christine Oracle
 WKelvinson Oracle
 Ethan_M Oracle
@@ -228,11 +229,12 @@ zyzz1234 Oracle
 SummerYang19 Oracle
 davidguuuo Oracle
 2valor Oracle
-FightEveryDay Oracle
 LeetCodeSuperman Oracle
+FightEveryDay Oracle
 huangyuyang Others
 larui529 Others
 mzcj Palo-alto
+xxz-leetcode Paypal
 izhongyuting Paypal
 zgcmx2011 Petuum
 biss PinDuoDuo
