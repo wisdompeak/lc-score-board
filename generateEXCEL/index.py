@@ -407,7 +407,7 @@ sheet[idx].font = Font(size=15)
 
 row, column = RowOffset+3, 2
 idx = convertToTitle(column)+str(row) 
-sheet[idx].value = 'Color indiates # of problems solved.'
+sheet[idx].value = 'BG Color: # of problems solved.'
 sheet[idx].font = Font(size=15)
 
 RowOffset += 5
