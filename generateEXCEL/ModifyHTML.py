@@ -80,6 +80,7 @@ def changeContents(content):
     content = content.replace("Face++-Logo","<img src='Img/Face++.png' height=18>")
     content = content.replace("Snapchat-Logo","<img src='Img/Snapchat.png' height=18>")
     content = content.replace("Instacart-Logo","<img src='Img/Instacart.png' height=18>")
+    content = content.replace("Lyft-Logo","<img src='Img/Lyft.png' height=18>")
 
 
     content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
