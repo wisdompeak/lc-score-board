@@ -1309,8 +1309,7 @@ for contest in range(118,245+1):
 	data["jingwenxxx"][str(contest)]=[-2,0]	
 for contest in range(197,245+1): 
 	data["wangyxwyx"][str(contest)]=[-2,0] # rejoin	
-data["lih627"]["246"]=[740,4]
-data["han3000"]["246"]=[387,4]
+data["han3000"]["246"]=[637,3]
 
 # data["LeetCodeSuperman"]=data["LeetCoding_Master"]
 # data.pop("LeetCoding_Master")
