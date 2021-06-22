@@ -1297,6 +1297,7 @@ for contest in range(167,244+1):
 for contest in range(226,244+1): 
 	data["dickbomb"][str(contest)]=[-2,0] # rejoin	
 '''
+
 ## before 246
 for contest in range(118,245+1): 
 	data["lih627"][str(contest)]=[-2,0]
@@ -1305,8 +1306,7 @@ for contest in range(118,245+1):
 	data["meowbawang"][str(contest)]=[-2,0]
 	data["weiliang515"][str(contest)]=[-2,0]
 	data["Jack_Ma1024"][str(contest)]=[-2,0]
-	data["jingwenxxx"][str(contest)]=[-2,0]
-	data["ZeRoLJ42"][str(contest)]=[-2,0]
+	data["jingwenxxx"][str(contest)]=[-2,0]	
 for contest in range(197,245+1): 
 	data["wangyxwyx"][str(contest)]=[-2,0] # rejoin	
 data["lih627"]["246"]=[740,4]
