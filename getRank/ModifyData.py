@@ -1302,7 +1302,7 @@ for contest in range(118,245+1):
 	data["lih627"][str(contest)]=[-2,0]
 	data["shyhaimao"][str(contest)]=[-2,0]
 	data["flagamy"][str(contest)]=[-2,0]
-	data["moewbawang"][str(contest)]=[-2,0]
+	data["meowbawang"][str(contest)]=[-2,0]
 	data["weiliang515"][str(contest)]=[-2,0]
 	data["Jack_Ma1024"][str(contest)]=[-2,0]
 	data["jingwenxxx"][str(contest)]=[-2,0]
