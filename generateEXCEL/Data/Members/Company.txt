@@ -160,6 +160,7 @@ tangere Google
 qwerjkl112 Google
 meiyiyan Google
 caoboxiao Google
+ScottCC Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -172,7 +173,7 @@ BingleLove Google
 FighterNan Google
 arignote Google
 Googlehsiehh Google
-ScottCC Google
+FightEveryDay Google
 owen2 Google
 FunBam Google
 MaskRay Google
@@ -188,6 +189,8 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 jja725 LinkedIn
+skd233 LinkedIn
+huangfq07 Lyft
 richarddia MathWorks
 yuanlu0210 MathWorks
 li-jinze Meituan
@@ -230,7 +233,6 @@ SummerYang19 Oracle
 davidguuuo Oracle
 2valor Oracle
 LeetCodeSuperman Oracle
-FightEveryDay Oracle
 huangyuyang Others
 larui529 Others
 mzcj Palo-alto
