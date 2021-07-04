@@ -1309,7 +1309,6 @@ for contest in range(118,245+1):
 for contest in range(197,245+1): 
 	data["wangyxwyx"][str(contest)]=[-2,0] # rejoin	
 data["han3000"]["246"]=[637,3]
-'''
 
 ## before 247
 for contest in range(118,246+1): 
@@ -1319,9 +1318,15 @@ for contest in range(118,246+1):
 	data["ggggle"][str(contest)]=[-2,0]
 	data["hakunamatete"][str(contest)]=[-2,0]
 	data["leetcodelibo"][str(contest)]=[-2,0]
+'''
+## before 248
+for contest in range(118,247+1): 
+	data["ryanzhang29"][str(contest)]=[-2,0]
+	data["zhouxiongjia"][str(contest)]=[-2,0]
+	data["SupervisorMayHap"][str(contest)]=[-2,0]
 
-# data["LeetCodeSuperman"]=data["LeetCoding_Master"]
-# data.pop("LeetCoding_Master")
+# data["jason_wong11"]=data["jason_wong1"]
+# data.pop("jason_wong1")
 
 json_str = json.dumps(data)
 
@@ -1461,6 +1466,7 @@ contests["244"] = 14467
 contests["245"] = 12724
 contests["246"] = 13703
 contests["247"] = 12636
+contests["248"] = 13720
 
 json_str = json.dumps(contests)
 

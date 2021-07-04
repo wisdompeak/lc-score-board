@@ -32,8 +32,15 @@ def fetchRanking(contest,page):
     start, end = 1, page
     for i in range(start, end + 1):
         print("curl " + url % (contest, i))
-        response = subprocess.check_output("curl " + url % (contest, i), shell=True)
-        str_response = response.decode('utf-8')
+        success = 0
+        while success == 0:
+          response = subprocess.check_output("curl " + url % (contest, i), shell=True)                    
+          str_response = response.decode('utf-8')
+          try:            
+            total_rank = json.loads(str_response)['total_rank']
+            success = 1
+          except Exception as e:
+            print("retry page ", i, " due to ", str(e))           
         
         total_rank = json.loads(str_response)['total_rank']        
         submissions = json.loads(str_response)['submissions']        

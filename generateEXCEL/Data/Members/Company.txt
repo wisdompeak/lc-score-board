@@ -82,7 +82,7 @@ Charlesna ByteDance
 CrhnbP ByteDance
 lisy14 ByteDance
 tommyjiang ByteDance
-jason_wong1 ByteDance
+jason_wong11 ByteDance
 huanglanzhiguan ByteDance
 JDEP ByteDance
 am0320 Citadel
@@ -92,6 +92,7 @@ Kaiyu-Wang Compass
 XingxingHuang Cruise
 cc189 Ebay
 liulaoye135 Ebay
+lwh14710 Ebay
 shuoyan F5Networks
 ddoudle Face++
 Golden_Fish Facebook
@@ -175,11 +176,14 @@ arignote Google
 Googlehsiehh Google
 FightEveryDay Google
 owen2 Google
+Courtmouse Google
 FunBam Google
+zhenguowcs Google
 MaskRay Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
+zhouxiongjia Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
@@ -190,6 +194,7 @@ venico19 LinkedIn
 ZaozaoNan LinkedIn
 jja725 LinkedIn
 skd233 LinkedIn
+tainule LinkedIn
 huangfq07 Lyft
 richarddia MathWorks
 yuanlu0210 MathWorks
@@ -233,6 +238,7 @@ SummerYang19 Oracle
 davidguuuo Oracle
 2valor Oracle
 LeetCodeSuperman Oracle
+LeetCodeForce Oracle
 huangyuyang Others
 larui529 Others
 mzcj Palo-alto
