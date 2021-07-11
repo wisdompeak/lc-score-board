@@ -1318,12 +1318,24 @@ for contest in range(118,246+1):
 	data["ggggle"][str(contest)]=[-2,0]
 	data["hakunamatete"][str(contest)]=[-2,0]
 	data["leetcodelibo"][str(contest)]=[-2,0]
-'''
+
 ## before 248
 for contest in range(118,247+1): 
 	data["ryanzhang29"][str(contest)]=[-2,0]
 	data["zhouxiongjia"][str(contest)]=[-2,0]
 	data["SupervisorMayHap"][str(contest)]=[-2,0]
+'''
+## before 249
+for contest in range(118,248+1): 
+	data["fangdanzai"][str(contest)]=[-2,0]
+	data["xuqiqi"][str(contest)]=[-2,0]
+data["xuqiqi"]["249"]=[3950,2]
+for contest in range(246,248+1): 
+	data["yuhengc2"][str(contest)]=[-2,0] # rejoin	
+for contest in range(141,248+1): 
+	data["yuhengc2"][str(contest)]=[-2,0] # rejoin	
+for contest in range(195,248+1): 
+	data["Yao_Yin"][str(contest)]=[-2,0] # rejoin		
 
 # data["jason_wong11"]=data["jason_wong1"]
 # data.pop("jason_wong1")
@@ -1467,6 +1479,7 @@ contests["245"] = 12724
 contests["246"] = 13703
 contests["247"] = 12636
 contests["248"] = 13720
+contests["249"] = 12832
 
 json_str = json.dumps(contests)
 

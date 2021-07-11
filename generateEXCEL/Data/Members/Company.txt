@@ -20,6 +20,7 @@ yueb95 Amazon
 Clary Amazon
 dickbomb Amazon
 jmzhang18 Amazon
+wyzhang421 Amazon
 user760 Amazon
 Aaron_S Amazon
 sequenzf Amazon
@@ -55,6 +56,7 @@ ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
 window0105 Amazon
+kesihai Amazon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -63,7 +65,6 @@ ruofeisan Apple
 ruifeng Apple
 OneDirection Apple
 mangoman Atlassian
-Byleth Atlassian
 liujiashun66 BNYMellon
 sukeyzhou Bloomberg
 zk299 Bloomberg
@@ -90,6 +91,7 @@ JansonLu Cloudian
 ZhengkaiWei Cloudian
 Kaiyu-Wang Compass
 XingxingHuang Cruise
+yuanlu0210 Dropbox
 cc189 Ebay
 liulaoye135 Ebay
 lwh14710 Ebay
@@ -105,6 +107,7 @@ jwang89225 Facebook
 kealyn Facebook
 thewisp Facebook
 tift Facebook
+Byleth Facebook
 shuchenc Facebook
 thumbpixels Facebook
 zac4 Facebook
@@ -197,12 +200,10 @@ skd233 LinkedIn
 tainule LinkedIn
 huangfq07 Lyft
 richarddia MathWorks
-yuanlu0210 MathWorks
 li-jinze Meituan
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
-wyzhang421 Microsoft
 Lawrence_M Microsoft
 Jc_Qu Microsoft
 LijianChen Microsoft
@@ -251,6 +252,8 @@ shshwdr PocketGems
 1373757850 Pony
 apoi2333 Pony
 Arsenal-591 Pony
+ZeRoLJ42 Pony
+lih627 Pony
 jiang718 PureStorage
 davidqing1991 PureStorage
 cyn3966 PureStorage
@@ -269,6 +272,7 @@ FrankYao Tencent
 disinuo Tencent
 sam_lee_ Tencent
 blackspinner Tencent
+HIT_TOM Tencent
 wangyxwyx Twilio
 X_Chen6 TwoSigma
 l90095z Uber
