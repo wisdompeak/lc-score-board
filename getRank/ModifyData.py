@@ -1329,16 +1329,15 @@ for contest in range(118,247+1):
 for contest in range(118,248+1): 
 	data["fangdanzai"][str(contest)]=[-2,0]
 	data["xuqiqi"][str(contest)]=[-2,0]
-data["xuqiqi"]["249"]=[3950,2]
 for contest in range(246,248+1): 
 	data["yuhengc2"][str(contest)]=[-2,0] # rejoin	
 for contest in range(141,248+1): 
-	data["yuhengc2"][str(contest)]=[-2,0] # rejoin	
+	data["wyzhang421"][str(contest)]=[-2,0] # rejoin	
 for contest in range(195,248+1): 
 	data["Yao_Yin"][str(contest)]=[-2,0] # rejoin		
 
-# data["jason_wong11"]=data["jason_wong1"]
-# data.pop("jason_wong1")
+# data["M954"]=data["xuqiqi"]
+# data.pop("xuqiqi")
 
 json_str = json.dumps(data)
 
