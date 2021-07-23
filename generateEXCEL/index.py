@@ -188,6 +188,34 @@ sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True, size=18)
 
 RowOffset += 2
+row, column = RowOffset+1, 2
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+3)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+# sheet.row_dimensions[row].height = 20.0
+sheet[idx1].value = 'You may sort this table by checking out links:'
+sheet[idx1].alignment = Alignment(horizontal='left')
+sheet[idx1].font = Font(bold=True)
+sheet[idx1].font = Font(bold=True, size=12)
+
+row, column = RowOffset+1, 6
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+2)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+sheet[idx1].value = 'by @delphih'
+sheet[idx1].hyperlink = 'http://rank.cruelcoding.com/'
+sheet[idx1].alignment = Alignment(horizontal='center')
+sheet[idx1].font = Font(bold=True, size=12)
+row, column = RowOffset+1, 9
+idx1 = convertToTitle(column)+str(row)
+idx2 = convertToTitle(column+2)+str(row)
+sheet.merge_cells(idx1+':'+idx2)
+sheet[idx1].value = 'by @rayms'
+sheet[idx1].hyperlink = 'http://cruelcoding.com/'
+sheet[idx1].alignment = Alignment(horizontal='center')
+sheet[idx1].font = Font(bold=True, size=12)
+
+RowOffset += 2
 
 # output header "contest" 
 row, column = RowOffset+1, 2
