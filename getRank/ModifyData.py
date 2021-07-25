@@ -1348,7 +1348,7 @@ for contest in range(118,250+1):
 	data["vanstar123456"][str(contest)]=[-2,0]
 	data["whtttth"][str(contest)]=[-2,0]
 	data["sirgarfield"][str(contest)]=[-2,0]
-	data["yyclover"][str(contest)]=[-2,0]
+	data["yllclover"][str(contest)]=[-2,0]
 	data["danielxuforever"][str(contest)]=[-2,0]
 	data["bttsv"][str(contest)]=[-2,0]
 for contest in range(140,250+1): 
@@ -1360,7 +1360,7 @@ for contest in range(229,250+1):
 # data.pop("jamesfan1101")
 
 # data["Memoria"]=data["infmount"]
-# data.pop("infmount")
+data.pop("yyclover")
 
 
 json_str = json.dumps(data)
