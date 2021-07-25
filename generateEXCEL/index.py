@@ -82,6 +82,7 @@ for personID in id_list:
         score = 0
       row.append([rank,score,solved])
 
+  print(personID)
   pool = [] # A pool for computing rolling score
   for x in row[1:4]:
     if x[0]!=-2: pool.append(x[1])
@@ -193,7 +194,7 @@ idx1 = convertToTitle(column)+str(row)
 idx2 = convertToTitle(column+3)+str(row)
 sheet.merge_cells(idx1+':'+idx2)
 # sheet.row_dimensions[row].height = 20.0
-sheet[idx1].value = 'You may sort this table by checking out links:'
+sheet[idx1].value = 'You may sort this table using links here:'
 sheet[idx1].alignment = Alignment(horizontal='left')
 sheet[idx1].font = Font(bold=True)
 sheet[idx1].font = Font(bold=True, size=12)
