@@ -1360,7 +1360,7 @@ for contest in range(229,250+1):
 # data.pop("jamesfan1101")
 
 # data["Memoria"]=data["infmount"]
-data.pop("yyclover")
+# data.pop("yyclover")
 
 
 json_str = json.dumps(data)
