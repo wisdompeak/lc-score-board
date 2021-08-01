@@ -58,6 +58,7 @@ YoungForest Amazon
 edisonnie Amazon
 window0105 Amazon
 kesihai Amazon
+zexingfa Amzaon
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -108,6 +109,7 @@ jwang89225 Facebook
 kealyn Facebook
 thewisp Facebook
 tift Facebook
+Castling Facebook
 Byleth Facebook
 shuchenc Facebook
 thumbpixels Facebook
@@ -167,6 +169,10 @@ qwerjkl112 Google
 meiyiyan Google
 caoboxiao Google
 ScottCC Google
+zhenguowcs Google
+ddddyliu Google
+adayxiang Google
+youyou331 Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -174,7 +180,6 @@ cuiaoxiang Google
 ForGive Google
 wxy9018 Google
 fighting_for_flag Google
-adayxiang Google
 BingleLove Google
 FighterNan Google
 arignote Google
@@ -182,9 +187,7 @@ Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
 FunBam Google
-ddddyliu Google
 slurpyFart Google
-zhenguowcs Google
 MaskRay Google
 Lisanaaa Grab
 SUPERJOSY Harness
@@ -212,7 +215,6 @@ Jc_Qu Microsoft
 LijianChen Microsoft
 xxnzym Microsoft
 praenubilus Microsoft
-bugattiforsamsam Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
 jasonzzzz Microsoft
@@ -234,6 +236,7 @@ EdmizJay Microsoft
 faang2022 Microsoft
 jingwenxxx Microsoft
 christine_christine Oracle
+bugattiforsamsam Oracle
 WKelvinson Oracle
 Ethan_M Oracle
 wenyou Oracle
