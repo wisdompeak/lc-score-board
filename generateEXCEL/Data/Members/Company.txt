@@ -18,7 +18,6 @@ supersam331 Amazon
 lulinzhang1124 Amazon
 yueb95 Amazon
 Clary Amazon
-dickbomb Amazon
 jmzhang18 Amazon
 wyzhang421 Amazon
 user760 Amazon
@@ -85,9 +84,10 @@ Charlesna ByteDance
 CrhnbP ByteDance
 lisy14 ByteDance
 tommyjiang ByteDance
-jason_wong11 ByteDance
+jason_wong1 ByteDance
 huanglanzhiguan ByteDance
 JDEP ByteDance
+REED_W ByteDance
 am0320 Citadel
 JansonLu Cloudian
 ZhengkaiWei Cloudian
@@ -173,6 +173,7 @@ zhenguowcs Google
 ddddyliu Google
 adayxiang Google
 youyou331 Google
+slurpyFart Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -187,7 +188,6 @@ Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
 FunBam Google
-slurpyFart Google
 MaskRay Google
 Lisanaaa Grab
 SUPERJOSY Harness

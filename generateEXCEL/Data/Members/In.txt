@@ -15,13 +15,12 @@ thumbpixels 05/21/2019
 LZ1994 06/04/2019
 fang2018 06/04/2019
 zac4 07/12/2019
-mrtong_liu 07/15/2019
 tommyjiang 08/04/2019
 KKKXY 08/13/2019
 OTTFF 08/27/2019
 angel30818 08/30/2019
 BingleLove 09/07/2019
-jason_wong11 09/10/2019
+jason_wong1 09/10/2019
 dennanisny 09/30/2019
 Rayleigh0328 10/19/2019
 endlesscheng 10/25/2019
@@ -85,7 +84,6 @@ yuanlu0210 01/10/2021
 nickee1942 01/10/2021
 home_z 01/12/2021
 REED_W 01/20/2021
-slurpyFart 01/26/2021
 Kamikakushi 01/26/2021
 zqsgopyyq 02/05/2021
 SDE2018_Carson_Yingying 02/16/2021
@@ -157,3 +155,8 @@ yllclover 07/22/2021
 danielxuforever 07/22/2021
 bttsv 07/23/2021
 liulaoye135 07/28/2021
+daojingLeetcode 08/02/2021
+MSY16 05/09/2021
+TRDample 08/05/2021
+ScottCC 08/05/2021
+KyleAC 08/07/2021
