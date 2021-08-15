@@ -62,6 +62,7 @@ xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
+yuhengc2 Apple
 ruofeisan Apple
 ruifeng Apple
 OneDirection Apple
@@ -131,6 +132,7 @@ IrisGuo Google
 qz267 Google
 icodingg Google
 zihao Google
+dennanisny Google
 xinyue1597 Google
 VectorX Google
 tankztc Google
@@ -196,6 +198,7 @@ zhouxiongjia Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
+YUFENGWANG Indeed
 zhongqusc Instacart
 keyupeter KeepTruckin
 ansonluo Kuaishou
@@ -235,6 +238,7 @@ wwwap Microsoft
 EdmizJay Microsoft
 faang2022 Microsoft
 jingwenxxx Microsoft
+leetcodelibo Microsoft
 christine_christine Oracle
 bugattiforsamsam Oracle
 WKelvinson Oracle
@@ -285,7 +289,6 @@ X_Chen6 TwoSigma
 l90095z Uber
 yuhwu Uber
 gzh47 VMware
-dennanisny VMware
 xguo-Will VMware
 user504 VMware
 hw2020 VMware
