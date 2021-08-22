@@ -39,6 +39,7 @@ haitao7 Amazon
 luozj14 Amazon
 wdyfy317138 Amazon
 Yao_Yin Amazon
+Captain_Mushroom Amazon
 lilllllllll Amazon
 laikwunsing Amazon
 blackp1nk Amazon
@@ -87,7 +88,7 @@ lisy14 ByteDance
 tommyjiang ByteDance
 jason_wong1 ByteDance
 huanglanzhiguan ByteDance
-JDEP ByteDance
+peichaoD ByteDance
 REED_W ByteDance
 am0320 Citadel
 JansonLu Cloudian
@@ -148,6 +149,7 @@ jpju Google
 sunxiaohua Google
 TinyExplorer Google
 ChenDanni Google
+wangyxwyx Google
 kaizer87 Google
 aruba1 Google
 Charles000 Google
@@ -284,7 +286,6 @@ disinuo Tencent
 sam_lee_ Tencent
 blackspinner Tencent
 HIT_TOM Tencent
-wangyxwyx Twilio
 X_Chen6 TwoSigma
 l90095z Uber
 yuhwu Uber
@@ -297,6 +298,7 @@ lucas0316 Verizon
 xuexiyi Walmart
 kaihaohust Walmart
 yuchenliulyc Wish
+goodstudyqaq Wish
 Coup_De_Grace Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
