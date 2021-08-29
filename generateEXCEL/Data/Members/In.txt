@@ -72,7 +72,7 @@ xyzzzzzzzz 12/31/2020
 rayms 12/31/2020
 window0105 01/01/2021
 hc167 01/01/2021
-stevenhuang42195 01/02/2021
+goegibay 01/02/2021
 changyu_jiang 01/03/2021
 FunBam 01/03/2021
 zk299 01/03/2021
@@ -115,7 +115,6 @@ Tyrande 05/16/2021
 ashzzyj 05/16/2021
 perry304 05/17/2021
 thinkiny 05/18/2021
-WeijieChen0_0 05/20/2021
 tainule 05/23/2021
 lightmiao 05/23/2021
 silvertint10 05/27/2021
@@ -139,7 +138,6 @@ ryanzhang29 06/24/2021
 zhouxiongjia 06/28/2021
 SupervisorMayHap 07/01/2021
 yuhengc2 07/04/2021
-wyzhang421 07/07/2021
 Yao_Yin 07/10/2021
 M954 07/10/2021
 27rabbitlt 07/11/2021
@@ -169,3 +167,6 @@ chenzhaojie1997 08/21/2021
 zjrenivan 08/21/2021
 Zheng_Four_Oranges 08/21/2021
 fang_w 08/21/2021
+hialvin 08/25/2021
+oaixuroab 08/28/2021
+SteveSunTech 08/28/2021
