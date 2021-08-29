@@ -1401,6 +1401,8 @@ for contest in range(118,255+1):
 for contest in range(195,255+1): 
 	data["hialvin"][str(contest)]=[-2,0] # rejoin
 	
+# data["goegibay"]["256"]=[2523,2] # rejoin
+
 # data["goegibay"]=data["stevenhuang42195"]
 # data.pop("stevenhuang42195")
 
