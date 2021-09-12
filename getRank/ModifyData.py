@@ -1416,12 +1416,14 @@ for contest in range(118,257+1):
 	data["wfnuser"][str(contest)]=[-2,0]	
 	data["WRWRW"][str(contest)]=[-2,0]	
 	data["forever_moon"][str(contest)]=[-2,0]	
-	data["linjaile"][str(contest)]=[-2,0]	
+	data["linjiale"][str(contest)]=[-2,0]	
 for contest in range(219,257+1): 
 	data["larui529"][str(contest)]=[-2,0] # rejoin
 
 # data["goegibay"]=data["stevenhuang42195"]
 # data.pop("stevenhuang42195")
+
+data.pop("linjaile")
 
 json_str = json.dumps(data)
 
