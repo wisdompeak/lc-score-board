@@ -52,6 +52,7 @@ Juny1He Amazon
 AmeliaHe98 Amazon
 axjin Amazon
 WeijieChen0_0 Amazon
+hellocici Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 user7194i Amazon
@@ -59,7 +60,6 @@ ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
 window0105 Amazon
-hellocici Amazon
 kesihai Amazon
 zexingfa Amzaon
 xiaozhi1 Apple
@@ -182,6 +182,8 @@ adayxiang Google
 youyou331 Google
 slurpyFart Google
 BingleLove Google
+marfemale Google
+lynnnaive16 Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -195,6 +197,7 @@ Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
 FunBam Google
+quantuminfo Google
 MaskRay Google
 Lisanaaa Grab
 SUPERJOSY Harness
@@ -258,7 +261,6 @@ davidguuuo Oracle
 LeetCodeSuperman Oracle
 LeetCodeForce Oracle
 huangyuyang Others
-larui529 Others
 mzcj Palo-alto
 xxz-leetcode Paypal
 zgcmx2011 Petuum
@@ -288,6 +290,7 @@ FrankYao Tencent
 disinuo Tencent
 sam_lee_ Tencent
 blackspinner Tencent
+playfair Tencent
 HIT_TOM Tencent
 X_Chen6 TwoSigma
 l90095z Uber
