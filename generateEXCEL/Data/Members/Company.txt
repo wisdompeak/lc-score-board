@@ -53,6 +53,7 @@ AmeliaHe98 Amazon
 axjin Amazon
 WeijieChen0_0 Amazon
 hellocici Amazon
+kesihai Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 user7194i Amazon
@@ -60,7 +61,6 @@ ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
 window0105 Amazon
-kesihai Amazon
 zexingfa Amzaon
 xiaozhi1 Apple
 Mengqian Apple
@@ -196,7 +196,10 @@ arignote Google
 Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
+xyzzzzzzzz Google
+goegibay Google
 FunBam Google
+weeeed Google
 quantuminfo Google
 MaskRay Google
 Lisanaaa Grab
@@ -232,6 +235,7 @@ jasonzzzz Microsoft
 0000alex1111 Microsoft
 ShizukaYee Microsoft
 Sakamono Microsoft
+lostleaf Microsoft
 YaoyaoChang Microsoft
 puuuuuuuuuuuuu Microsoft
 bill04128682 Microsoft
@@ -279,6 +283,7 @@ fyang618 Quora
 zhangsikai123 RedBook
 FYQiang Reflexis
 woshilxd912 Robinhood
+TRDample Robinhood
 FreshBing SAP
 ChelsieZ Salesforce
 bifeitang Schlumberger
