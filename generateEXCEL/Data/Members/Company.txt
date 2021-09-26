@@ -61,6 +61,7 @@ ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
 window0105 Amazon
+Juwentus Amazon
 zexingfa Amzaon
 xiaozhi1 Apple
 Mengqian Apple
@@ -96,6 +97,7 @@ REED_W ByteDance
 am0320 Citadel
 JansonLu Cloudian
 ZhengkaiWei Cloudian
+arignote Coinbase
 Kaiyu-Wang Compass
 XingxingHuang Cruise
 yuanlu0210 Dropbox
@@ -117,6 +119,7 @@ tift Facebook
 Castling Facebook
 Byleth Facebook
 shuchenc Facebook
+chrisdzxu Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
@@ -175,7 +178,6 @@ tangere Google
 qwerjkl112 Google
 meiyiyan Google
 caoboxiao Google
-ScottCC Google
 zhenguowcs Google
 ddddyliu Google
 adayxiang Google
@@ -192,7 +194,6 @@ ForGive Google
 wxy9018 Google
 fighting_for_flag Google
 FighterNan Google
-arignote Google
 Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
@@ -224,6 +225,7 @@ li-jinze Meituan
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
+Hines Microsoft
 Lawrence_M Microsoft
 Jc_Qu Microsoft
 LijianChen Microsoft
@@ -238,8 +240,8 @@ Sakamono Microsoft
 lostleaf Microsoft
 YaoyaoChang Microsoft
 puuuuuuuuuuuuu Microsoft
-bill04128682 Microsoft
 ryoyukiyangy Microsoft
+EdmizJay Microsoft
 jliang Microsoft
 sshang Microsoft
 angel30818 Microsoft
@@ -247,7 +249,6 @@ lzl124631x Microsoft
 harttle Microsoft
 lbyxiafei Microsoft
 wwwap Microsoft
-EdmizJay Microsoft
 faang2022 Microsoft
 jingwenxxx Microsoft
 leetcodelibo Microsoft
