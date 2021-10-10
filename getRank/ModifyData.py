@@ -1445,20 +1445,39 @@ for contest in range(199,259+1):
 	data["zhu_irse"][str(contest)]=[-2,0] # rejoin	
 for contest in range(243,259+1):
 	data["9caiji"][str(contest)]=[-2,0] # rejoin	
-'''
 
 ## before 261
 for contest in range(118,260+1): 	
 	data["jam64"][str(contest)]=[-2,0]
 	data["super468"][str(contest)]=[-2,0]
 	data["bourbonwhiskey"][str(contest)]=[-2,0]
-	data["firee"][str(contest)]=[-2,0]
+	data["fireee"][str(contest)]=[-2,0]
 	data["ayanamiaaa"][str(contest)]=[-2,0]
 for contest in range(211,260+1):
 	data["leileimiao"][str(contest)]=[-2,0] # rejoin
+'''
 
-# data["goegibay"]=data["stevenhuang42195"]
-# data.pop("stevenhuang42195")
+## before 262
+for contest in range(118,261+1): 	
+	data["v-ger"][str(contest)]=[-2,0]
+	data["immajm"][str(contest)]=[-2,0]
+	data["mercerchen"][str(contest)]=[-2,0]
+	data["Chiro_11"][str(contest)]=[-2,0]
+	data["PurplePearl"][str(contest)]=[-2,0]
+	data["zys01310131"][str(contest)]=[-2,0]
+	data["weijiag"][str(contest)]=[-2,0]
+	data["hjx2016"][str(contest)]=[-2,0]
+	data["Oyyko"][str(contest)]=[-2,0]
+	data["roccopass"][str(contest)]=[-2,0]
+for contest in range(249,261+1):
+	data["bxiao_ca"][str(contest)]=[-2,0] # rejoin
+for contest in range(261,261+1):
+	data["hongrubb"][str(contest)]=[-2,0] # rejoin
+
+
+
+# data["fireee"]=data["firee"]
+# data.pop("firee")
 
 json_str = json.dumps(data)
 
@@ -1612,6 +1631,7 @@ contests["258"] = 12179
 contests["259"] = 11277
 contests["260"] = 11274
 contests["261"] = 11751
+contests["262"] = 13130
 
 json_str = json.dumps(contests)
 
