@@ -1462,7 +1462,7 @@ for contest in range(118,261+1):
 	data["v-ger"][str(contest)]=[-2,0]
 	data["immajm"][str(contest)]=[-2,0]
 	data["mercerchen"][str(contest)]=[-2,0]
-	data["Chiro_11"][str(contest)]=[-2,0]
+	data["chiro_11"][str(contest)]=[-2,0]
 	data["PurplePearl"][str(contest)]=[-2,0]
 	data["zys01310131"][str(contest)]=[-2,0]
 	data["weijiag"][str(contest)]=[-2,0]
@@ -1471,13 +1471,11 @@ for contest in range(118,261+1):
 	data["roccopass"][str(contest)]=[-2,0]
 for contest in range(249,261+1):
 	data["bxiao_ca"][str(contest)]=[-2,0] # rejoin
-for contest in range(261,261+1):
+for contest in range(260,261+1):
 	data["hongrubb"][str(contest)]=[-2,0] # rejoin
 
-
-
-# data["fireee"]=data["firee"]
-# data.pop("firee")
+# data["chiro_11"]=data["Chiro_11"]
+# data.pop("Chiro_11")
 
 json_str = json.dumps(data)
 
