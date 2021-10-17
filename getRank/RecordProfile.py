@@ -27,9 +27,9 @@ if __name__ == "__main__":
   
     for user in users:        
         print(f"processing {user}...")
-        if profiles2[user]["globalRatingRanking"]==None:
+        if profiles2[user]["userContestRanking"]==None:
             continue
-        if type(profiles2[user]["globalRatingRanking"]) is int:
+        if profiles2[user]["userContestRanking"]["ratingHistory"] == None:
             continue
         rating2 = float(profiles2[user]["userContestRanking"]["ratingHistory"][1:-2].split(", ")[-1])
         if profiles[user]["userContestRanking"]==None:
