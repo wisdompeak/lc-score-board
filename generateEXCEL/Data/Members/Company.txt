@@ -56,7 +56,6 @@ hellocici Amazon
 kesihai Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
-user7194i Amazon
 ShidaLei Amazon
 YoungForest Amazon
 edisonnie Amazon
@@ -94,6 +93,7 @@ huanglanzhiguan ByteDance
 peichaoD ByteDance
 REED_W ByteDance
 am0320 Citadel
+YUFENGWANG Citadel
 JansonLu Cloudian
 ZhengkaiWei Cloudian
 arignote Coinbase
@@ -119,6 +119,7 @@ Castling Facebook
 Byleth Facebook
 shuchenc Facebook
 chrisdzxu Facebook
+user7194i Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
@@ -167,11 +168,13 @@ wangchuqiao93 Google
 halolong Google
 Cicindela Google
 Captain_Mushroom Google
+SummerYang19 Google
 EveJAVA Google
 tigermlt Google
 chaoqin-li Google
 YI-DING Google
 qingdu_river Google
+Zhang957 Google
 maoyp Google
 alanlzl Google
 insomniacat Google
@@ -207,11 +210,9 @@ MaskRay Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
-zhouxiongjia Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
-YUFENGWANG Indeed
 zhongqusc Instacart
 keyupeter KeepTruckin
 ansonluo Kuaishou
@@ -243,6 +244,8 @@ YaoyaoChang Microsoft
 puuuuuuuuuuuuu Microsoft
 ryoyukiyangy Microsoft
 EdmizJay Microsoft
+leetcodelibo Microsoft
+zhouxiongjia Microsoft
 jliang Microsoft
 sshang Microsoft
 angel30818 Microsoft
@@ -252,7 +255,6 @@ lbyxiafei Microsoft
 wwwap Microsoft
 faang2022 Microsoft
 jingwenxxx Microsoft
-leetcodelibo Microsoft
 jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
@@ -261,7 +263,6 @@ Ethan_M Oracle
 wenyou Oracle
 WarriorZ Oracle
 zyzz1234 Oracle
-SummerYang19 Oracle
 davidguuuo Oracle
 2valor Oracle
 LeetCodeSuperman Oracle

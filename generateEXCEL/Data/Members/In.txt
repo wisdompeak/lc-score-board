@@ -26,7 +26,6 @@ huanglanzhiguan 12/30/2019
 venico19 01/04/2020
 miguelmac 01/08/2020
 Memoria 01/12/2020
-user7194i 01/14/2020
 lzl124631x 01/17/2020
 harttle 01/18/2020
 FighterNan 02/09/2020
@@ -112,14 +111,10 @@ bill04128682 06/05/2021
 ZeRoLJ42 06/06/2021
 jzcheng 06/08/2021
 faang2022 06/09/2021
-dickbomb 06/09/2021
-lianxin_cn 06/11/2021
 lih627 06/12/2021
 jingwenxxx 06/17/2021
 Evolut1on 06/19/2021
-leetcodelibo 06/23/2021
 ryanzhang29 06/24/2021
-zhouxiongjia 06/28/2021
 SupervisorMayHap 07/01/2021
 Yao_Yin 07/10/2021
 27rabbitlt 07/11/2021
@@ -132,7 +127,6 @@ bttsv 07/23/2021
 liulaoye135 07/28/2021
 daojingLeetcode 08/02/2021
 KyleAC 08/07/2021
-LeeShengkai 08/11/2021
 CharlieZyl 08/11/2021
 bit3tbb 08/13/2021
 yiyue15 08/17/2021
@@ -148,13 +142,11 @@ WRWRW 09/07/2021
 forever_moon 09/08/2021
 linjiale 09/08/2021
 playfair 09/11/2021
-GreatL 09/12/2021
 nirodha 09/12/2021
 Juwentus 09/12/2021
 Biteyou 09/13/2021
 rookie_my 09/14/2021
 carotwang 09/15/2021
-XYqqq777 09/17/2021
 fsyun 09/18/2021
 9caiji 09/18/2021
 BestQian 09/18/2021
@@ -180,3 +172,10 @@ weijiag 10/07/2021
 hjx2016 10/07/2021
 Oyyko 10/08/2021
 roccopass 10/08/2021
+elvistqchen 10/10/2021
+seekQ 10/11/2021
+Mikayla333 10/11/2021
+haruhiui 10/12/2021
+digmouse 10/12/2021
+Rainyforest 10/13/2021
+nijiademianbao 10/14/2021
