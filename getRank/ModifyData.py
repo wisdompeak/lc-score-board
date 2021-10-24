@@ -1495,7 +1495,8 @@ for contest in range(263,263+1):
 for contest in range(263,263+1):
 	data["lianxin_cn"][str(contest)]=[-2,0] # rejoin
 
-
+data["Oyyko"]["263"]=[4467,3]
+data["Oyyko"]["264"]=[1173,3]
 # data["chiro_11"]=data["Chiro_11"]
 # data.pop("Chiro_11")
 
