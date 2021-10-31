@@ -55,6 +55,7 @@ WeijieChen0_0 Amazon
 hellocici Amazon
 kesihai Amazon
 Juwentus Amazon
+daojingLeetcode Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 ShidaLei Amazon
@@ -294,6 +295,7 @@ bifeitang Schlumberger
 Duuuuu SnowFlake
 wAgChen SnowFlake
 zzaym SnowFlake
+Memoria Stripe
 thu_winfield Tencent
 FrankYao Tencent
 disinuo Tencent
