@@ -1493,7 +1493,6 @@ for contest in range(263,263+1):
 	data["LeeShengkai"][str(contest)]=[-2,0] # rejoin
 for contest in range(263,263+1):
 	data["lianxin_cn"][str(contest)]=[-2,0] # rejoin
-'''
 
 ## before 265
 for contest in range(118,264+1): 	
@@ -1502,6 +1501,13 @@ for contest in range(118,264+1):
 	data["zeningc"][str(contest)]=[-2,0]
 	data["Hogwartsss"][str(contest)]=[-2,0]
 	data["scau_grated"][str(contest)]=[-2,0]
+'''
+## before 266
+for contest in range(118,265+1): 	
+	data["jiechen067"][str(contest)]=[-2,0]
+	data["Monsooooon"][str(contest)]=[-2,0]
+	data["fatyuan"][str(contest)]=[-2,0]
+	data["mtx2d"][str(contest)]=[-2,0]
 
 
 # data["chiro_11"]=data["Chiro_11"]
@@ -1663,6 +1669,7 @@ contests["262"] = 13130
 contests["263"] = 11795
 contests["264"] = 12700
 contests["265"] = 11093
+contests["266"] = 11909
 
 json_str = json.dumps(contests)
 
