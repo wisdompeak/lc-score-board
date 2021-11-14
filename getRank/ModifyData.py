@@ -1517,6 +1517,8 @@ for contest in range(118,266+1):
 	data["kuan525"][str(contest)]=[-2,0]
 	data["kuailema9089"][str(contest)]=[-2,0]
 
+data["jam64"]["267"]=[1883,3]
+data["Monsooooon"]["267"] = [249,4]
 
 # data["zokumyoin"]=data["shogunpang"]
 # data.pop("shogunpang")
