@@ -78,7 +78,6 @@ htkzmo 02/28/2021
 wanyoyo 03/04/2021
 delphih 03/05/2021
 deepli 03/07/2021
-quantuminfo 03/12/2021
 MaskRay 04/10/2021
 nyu_ldf 04/17/2021
 guyang123 04/17/2021
@@ -105,7 +104,6 @@ bill04128682 06/05/2021
 ZeRoLJ42 06/06/2021
 jzcheng 06/08/2021
 faang2022 06/09/2021
-lih627 06/12/2021
 jingwenxxx 06/17/2021
 SupervisorMayHap 07/01/2021
 Yao_Yin 07/10/2021
@@ -127,12 +125,10 @@ linjiale 09/08/2021
 playfair 09/11/2021
 nirodha 09/12/2021
 Biteyou 09/13/2021
-rookie_my 09/14/2021
 carotwang 09/15/2021
 fsyun 09/18/2021
 9caiji 09/18/2021
 BestQian 09/18/2021
-jiekun 09/20/2021
 ray_mzy 09/22/2021
 zhu_irse 09/22/2021
 alicila 09/23/2021
@@ -143,7 +139,6 @@ bourbonwhiskey 09/30/2021
 fireee 09/30/2021
 bxiao_ca 10/03/2021
 v-ger 10/03/2021
-immajm 10/04/2021
 hongrubb 10/05/2021
 mercerchen 10/05/2021
 zys01310131 10/06/2021
@@ -167,9 +162,7 @@ zeningc 10/26/2021
 Hogwartsss 10/28/2021
 Monsooooon 10/31/2021
 fatyuan 11/01/2021
-jam64 11/03/2021
 mtx2d 11/05/2021
-flyoceans 11/07/2021
 michelle_taco 11/08/2021
 irisbber 11/10/2021
 kuan525 11/11/2021
@@ -179,3 +172,10 @@ PurplePearl 11/14/2021
 grcd 11/15/2021
 zhongdizhu 11/15/2021
 bl2621 11/16/2021
+wqricardo 11/20/2021
+Kaiyu-Wang 11/23/2021
+LeetCode_Pro 11/23/2021
+zz659749 11/23/2021
+migeater 11/24/2021
+ceaxyz 11/24/2021
+KimTaeyeon 11/27/2021

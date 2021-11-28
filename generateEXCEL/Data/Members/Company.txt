@@ -61,6 +61,7 @@ Rayleigh0328 Amazon
 ShidaLei Amazon
 YoungForest Amazon
 window0105 Amazon
+REDSREDS Amazon
 zexingfa Amzaon
 xiaozhi1 Apple
 Mengqian Apple
@@ -175,7 +176,6 @@ wenyou Google
 Captain_Mushroom Google
 zhengkai2001 Google
 SummerYang19 Google
-EveJAVA Google
 tigermlt Google
 chaoqin-li Google
 YI-DING Google
@@ -198,7 +198,10 @@ slurpyFart Google
 BingleLove Google
 marfemale Google
 lynnnaive16 Google
+LeeShengkai Google
 goegibay Google
+quantuminfo Google
+flyoceans Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -213,10 +216,8 @@ Courtmouse Google
 xyzzzzzzzz Google
 FunBam Google
 weeeed Google
-quantuminfo Google
 MaskRay Google
 whtttth Google
-flyoceans Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
@@ -277,6 +278,7 @@ davidguuuo Oracle
 2valor Oracle
 LeetCodeSuperman Oracle
 LeetCodeForce Oracle
+LeetCode_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
 xxz-leetcode Paypal
@@ -289,8 +291,8 @@ apoi2333 Pony
 Arsenal-591 Pony
 pjequilibrium Pony
 forever_moon Pony
-ZeRoLJ42 Pony
 lih627 Pony
+ZeRoLJ42 Pony
 jiang718 PureStorage
 davidqing1991 PureStorage
 cyn3966 PureStorage
