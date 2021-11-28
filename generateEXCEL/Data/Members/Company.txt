@@ -278,7 +278,7 @@ davidguuuo Oracle
 2valor Oracle
 LeetCodeSuperman Oracle
 LeetCodeForce Oracle
-LeetCode_Pro Oracle
+Leetcode_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
 xxz-leetcode Paypal
