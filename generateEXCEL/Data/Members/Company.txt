@@ -60,6 +60,7 @@ fang2018 Amazon
 Rayleigh0328 Amazon
 ShidaLei Amazon
 YoungForest Amazon
+hanzhoutang Amazon
 window0105 Amazon
 REDSREDS Amazon
 zexingfa Amzaon
@@ -93,6 +94,7 @@ jason_wong1 ByteDance
 huanglanzhiguan ByteDance
 peichaoD ByteDance
 REED_W ByteDance
+carotwang ByteDance
 am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
@@ -175,7 +177,9 @@ Cicindela Google
 wenyou Google
 Captain_Mushroom Google
 zhengkai2001 Google
+hssrut Google
 SummerYang19 Google
+wanyoyo Google
 tigermlt Google
 chaoqin-li Google
 YI-DING Google
@@ -213,7 +217,6 @@ FighterNan Google
 Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
-xyzzzzzzzz Google
 FunBam Google
 weeeed Google
 MaskRay Google
@@ -221,6 +224,7 @@ whtttth Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
+leileimiao Huawei
 youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
@@ -303,6 +307,7 @@ woshilxd912 Robinhood
 TRDample Robinhood
 FreshBing SAP
 bifeitang Schlumberger
+Sato_Ken Shopee
 Evolut1on Snapchat
 ryanzhang29 Snapchat
 Duuuuu SnowFlake

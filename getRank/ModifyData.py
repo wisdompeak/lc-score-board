@@ -1525,7 +1525,6 @@ for contest in range(118,267+1):
 	data["bl2621"][str(contest)]=[-2,0]
 for contest in range(265,267+1):
 	data["PurplePearl"][str(contest)]=[-2,0] # rejoin
-'''
 
 ## before 269
 for contest in range(118,268+1): 	
@@ -1538,6 +1537,17 @@ for contest in range(205,268+1):
 	data["Kaiyu-Wang"][str(contest)]=[-2,0] # rejoin
 for contest in range(250,268+1):
 	data["migeater"][str(contest)]=[-2,0] # rejoin
+'''
+
+## before 270
+for contest in range(118,269+1): 	
+	data["rika321"][str(contest)]=[-2,0]
+	data["AC_Mikoto"][str(contest)]=[-2,0]
+	data["megurine"][str(contest)]=[-2,0]
+	data["X_ray"][str(contest)]=[-2,0]
+	data["chiakimio"][str(contest)]=[-2,0]
+	data["wytlc"][str(contest)]=[-2,0]
+
 
 data["Leetcode_Pro"]["269"]=[1127,4]
 # data["Leetcode_Pro"]=data["LeetCode_Pro"]
@@ -1703,6 +1713,7 @@ contests["266"] = 11909
 contests["267"] = 11024
 contests["268"] = 11794
 contests["269"] = 10907
+contests["270"] = 12931
 
 json_str = json.dumps(contests)
 
