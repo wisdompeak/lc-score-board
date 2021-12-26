@@ -127,6 +127,7 @@ Byleth Facebook
 shuchenc Facebook
 chrisdzxu Facebook
 user7194i Facebook
+elvistqchen Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
@@ -153,6 +154,7 @@ xinyue1597 Google
 VectorX Google
 tankztc Google
 weiyang95 Google
+uwelena Google
 wangzi6147 Google
 lumic Google
 liuleo Google
@@ -217,7 +219,6 @@ sdliuyuzhi Google
 cuiaoxiang Google
 ForGive Google
 wxy9018 Google
-fighting_for_flag Google
 FighterNan Google
 Googlehsiehh Google
 FightEveryDay Google
@@ -242,6 +243,7 @@ ansonluo Kuaishou
 venico19 LinkedIn
 ZaozaoNan LinkedIn
 jja725 LinkedIn
+fighting_for_flag LinkedIn
 skd233 LinkedIn
 tainule LinkedIn
 huangfq07 Lyft
@@ -271,6 +273,7 @@ leetcodelibo Microsoft
 zhouxiongjia Microsoft
 mercerchen Microsoft
 faang2022 Microsoft
+jingwenxxx Microsoft
 jliang Microsoft
 sshang Microsoft
 angel30818 Microsoft
@@ -278,7 +281,6 @@ lzl124631x Microsoft
 harttle Microsoft
 lbyxiafei Microsoft
 wwwap Microsoft
-jingwenxxx Microsoft
 jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
@@ -348,3 +350,4 @@ Coup_De_Grace Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
 conanjinming dolphindb
+rookie0080  ByteDance
