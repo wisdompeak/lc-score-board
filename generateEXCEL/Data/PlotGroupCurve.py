@@ -9,6 +9,7 @@ read_excel()
 
 
 start = datetime.date(2018,9,2)
+# start = datetime.date(2021,1,1)
 today = datetime.date.today()
 
 addPeople = collections.defaultdict(int)
@@ -72,9 +73,6 @@ for i in range(1500):
   
   Nums.append(count)
 
-
-for i in range(len(Days)):
-    print(Days[i]," ",Nums[i])
 
 
 plt.figure(21,figsize=(40,16))
