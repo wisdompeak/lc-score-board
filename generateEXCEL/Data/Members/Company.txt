@@ -1,5 +1,4 @@
 Arco Airbnb
-zerotrac2 Akuna
 ZOEGREEN Alibaba
 song30 Alibaba
 deepda2k Alibaba
@@ -98,6 +97,7 @@ peichaoD ByteDance
 REED_W ByteDance
 carotwang ByteDance
 izackwu ByteDance
+rookie0080 ByteDance
 am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
@@ -131,6 +131,7 @@ elvistqchen Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
+xywang0520 Facebook
 owen2 Facebook
 vanstar123456 Facebook
 henghaaya Goldman
@@ -177,6 +178,7 @@ BlinkBamboo Google
 SeymourLee Google
 chongtan111200 Google
 coding_meowmeow Google
+zerotrac2 Google
 wangchuqiao93 Google
 halolong Google
 Cicindela Google
@@ -227,6 +229,7 @@ FunBam Google
 zqsgopyyq Google
 weeeed Google
 MaskRay Google
+remfzh Google
 whtttth Google
 Biteyou Google
 Lisanaaa Grab
@@ -273,7 +276,6 @@ leetcodelibo Microsoft
 zhouxiongjia Microsoft
 mercerchen Microsoft
 faang2022 Microsoft
-jingwenxxx Microsoft
 jliang Microsoft
 sshang Microsoft
 angel30818 Microsoft
@@ -335,6 +337,7 @@ HIT_TOM Tencent
 X_Chen6 TwoSigma
 l90095z Uber
 yuhwu Uber
+jingwenxxx Uber
 gzh47 VMware
 user504 VMware
 hw2020 VMware
@@ -350,4 +353,3 @@ Coup_De_Grace Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
 conanjinming dolphindb
-rookie0080  ByteDance
