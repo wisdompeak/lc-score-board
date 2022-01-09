@@ -289,7 +289,7 @@ for i in range(len(id_list)):
   if (SubGroup[table[i][0]]=='A'):
     sheet[idx].font = Font(bold=True, size=SIZE)       
   else:
-    sheet[idx].font = Font(bold=True, size=SIZE, color='0426A4')       
+    sheet[idx].font = Font(bold=True, size=SIZE, color='A30000')       
     
   name = table[i][0] 
   

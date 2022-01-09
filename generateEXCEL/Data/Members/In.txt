@@ -60,7 +60,7 @@ xyzzzzzzzz 12/31/2020 A
 rayms 12/31/2020 B
 window0105 01/01/2021 B
 hc167 01/01/2021 A
-changyu_jiang 01/03/2021 B
+changyu_jiang 01/03/2021 A
 FunBam 01/03/2021 A
 zk299 01/03/2021 A
 yuanlu0210 01/10/2021 B
@@ -102,7 +102,7 @@ Yao_Yin 07/10/2021 A
 27rabbitlt 07/11/2021 B
 YUFENGWANG 07/15/2021 B
 sssssummer 07/16/2021 A
-vanstar123456 07/18/2021 B
+vanstar123456 07/18/2021 A
 whtttth 07/18/2021 A
 bttsv 07/23/2021 B
 CharlieZyl 08/11/2021 A
@@ -169,7 +169,7 @@ megurine 11/28/2021 B
 X_ray 11/28/2021 A
 chiakimio 11/29/2021 B
 wangyt97 12/01/2021 A
-txu33 12/07/2021 B
+txu33 12/07/2021 A
 Time-limit-exceed 12/07/2021 A
 dickbomb 12/09/2021 B
 izackwu 12/10/2021 A
@@ -177,14 +177,14 @@ rqren2018 12/13/2021 A
 visionary_sg 12/17/2021 A
 ocavue 12/19/2021 B
 asherascout 12/19/2021 B
-OnMyOwn 12/19/2021 B
+OnMyOwn 12/19/2021 A
 N2510 12/20/2021 A
 rookie0080 12/20/2021 B
 SaveThePlanet 12/24/2021 B
 wy907645377 12/25/2021 A
 sjyang_ 12/25/2021 A
 wfnuser 12/30/2021 B
-jingwenxxx 12/30/2021 B
+jingwenxxx 12/30/2021 A
 iofu728 12/31/2021 B
 curiosity-10 12/31/2021 B
 wakme 01/02/2022 A

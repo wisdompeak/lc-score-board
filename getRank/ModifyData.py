@@ -1604,9 +1604,20 @@ for contest in range(118,274+1):
 for contest in range(272,274+1):
 	data["aChris"][str(contest)]=[-2,0]
 for contest in range(237,274+1):
-	data["wfnuser"][str(contest)]=[-2,0]
+	data["klutzCoder"][str(contest)]=[-2,0]
 for contest in range(267,274+1):
-	data["wfnuser"][str(contest)]=[-2,0]		
+	data["liulaoye135"][str(contest)]=[-2,0]	
+
+data["wfnuser"]["274"]=[-1,0]
+data["wfnuser"]["264"]=[-1,0]
+data["wfnuser"]["263"]=[620,4]
+data["wfnuser"]["262"]=[646,3]
+data["wfnuser"]["261"]=[1505,2]
+data["wfnuser"]["260"]=[-1,0]
+data["wfnuser"]["259"]=[941,3]
+data["wfnuser"]["258"]=[2293,3]
+
+data["Rogn"]["275"]=[1793,3]
 
 # data["rookie0080"]=data["rookie_my"]
 # data.pop("rookie_my")
