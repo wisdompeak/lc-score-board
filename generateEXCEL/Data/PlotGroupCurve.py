@@ -42,7 +42,7 @@ data = file.readlines()
 file.close()
 
 for line in data:
-  if len(line.split())!=2: continue
+  if len(line.split())!=3: continue
   readDate = line.split()[1]
   d = readDate.split("/")  
   date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
