@@ -40,8 +40,7 @@ Company = LoadCompany()
 
 from Data.Load_Membership import CalculateMembership
 
-Membership = CalculateMembership()
-
+Membership,SubGroup = CalculateMembership()
 
 ###############################################
 
@@ -284,10 +283,14 @@ for i in range(len(id_list)):
   row, column = RowOffset+i, 1
   idx = convertToTitle(column)+str(row) 
   sheet[idx].value = i+1
-  sheet[idx].alignment = Alignment(horizontal='center',vertical='center')
-  sheet[idx].font = Font(bold=True, size=SIZE)       
+  sheet[idx].alignment = Alignment(horizontal='center',vertical='center')  
   if (i%2==0):
-        sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
+    sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
+  if (SubGroup[table[i][0]]=='A'):
+    sheet[idx].font = Font(bold=True, size=SIZE)       
+  else:
+    sheet[idx].font = Font(bold=True, size=SIZE, color='0426A4')       
+    
   name = table[i][0] 
   
   for j in range(len(table[i])):  # column index

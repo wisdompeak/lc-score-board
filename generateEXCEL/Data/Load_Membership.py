@@ -4,6 +4,7 @@ import datetime
 def CalculateMembership():
     
     Membership = {}
+    SubGroup = {}
     
     file = open("Data/Members/Out.txt", "r") 
     for line in file:
@@ -14,7 +15,7 @@ def CalculateMembership():
         date1 = datetime.date(int(d1[2]),int(d1[0]),int(d1[1]))
         d2 = info[2].split("/")
         date2 = datetime.date(int(d2[2]),int(d2[0]),int(d2[1]))
-        Membership[name] = (date2-date1).days
+        Membership[name] = (date2-date1).days        
     file.close()
     
     
@@ -27,8 +28,9 @@ def CalculateMembership():
         d = info[1].split("/")
         date = datetime.date(int(d[2]),int(d[0]),int(d[1]))
         Membership[name] = (today-date).days
+        SubGroup[name] = info[2]
         print(name,Membership[name])
     file.close()
     
-    return Membership
+    return Membership, SubGroup
     

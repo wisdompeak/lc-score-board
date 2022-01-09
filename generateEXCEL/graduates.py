@@ -40,7 +40,7 @@ Company = LoadCompany()
 
 from Data.Load_Membership import CalculateMembership
 
-Membership = CalculateMembership()
+Membership, SubGroup = CalculateMembership()
 
 
 ###############################################
