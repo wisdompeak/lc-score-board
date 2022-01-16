@@ -1620,7 +1620,8 @@ for contest in range(260,275+1):
 	data["WKelvinson"][str(contest)]=[-2,0]	
 for contest in range(266,275+1):
 	data["jamesfan1101"][str(contest)]=[-2,0]	
-data["jamesfan1101"]["276"] = [-1,0]
+data["jamesfan1101"]["276"] = [5028,2]
+data["Rogn"]["275"] = [1789,3]
 # data["rookie0080"]=data["rookie_my"]
 # data.pop("rookie_my")
 
@@ -1793,7 +1794,7 @@ contests["272"] = 15427
 contests["273"] = 12203
 contests["274"] = 14086
 contests["275"] = 16126
-contests["276"] = 20462
+contests["276"] = 20463
 
 json_str = json.dumps(contests)
 
