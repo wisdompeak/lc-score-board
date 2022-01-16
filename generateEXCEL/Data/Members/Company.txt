@@ -55,14 +55,15 @@ hellocici Amazon
 kesihai Amazon
 Juwentus Amazon
 daojingLeetcode Amazon
+window0105 Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 miguelmac Amazon
 ShidaLei Amazon
 YoungForest Amazon
 hanzhoutang Amazon
-window0105 Amazon
 REDSREDS Amazon
+ceaxyz Amazon
 visionary_sg Amazon
 zexingfa Amzaon
 xiaozhi1 Apple
@@ -187,6 +188,7 @@ zhengkai2001 Google
 hssrut Google
 SummerYang19 Google
 chenjianxu97 Google
+qingqi_lei Google
 wanyoyo Google
 tigermlt Google
 chaoqin-li Google
@@ -214,6 +216,9 @@ LeeShengkai Google
 goegibay Google
 quantuminfo Google
 flyoceans Google
+ashzzyj Google
+zqsgopyyq Google
+whtttth Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -225,11 +230,9 @@ Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
 FunBam Google
-zqsgopyyq Google
 weeeed Google
 MaskRay Google
 remfzh Google
-whtttth Google
 Biteyou Google
 Lisanaaa Grab
 SUPERJOSY Harness
@@ -334,6 +337,7 @@ playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
 X_Chen6 TwoSigma
+yeahhuai USTC
 l90095z Uber
 yuhwu Uber
 jingwenxxx Uber

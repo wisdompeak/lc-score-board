@@ -63,7 +63,8 @@ id_list = [line.strip() for line in fi.readlines()]
 fi.close()   	
 
 # compute scores
-
+GroupA = []
+GroupB = []
 table = []
 for personID in id_list:  
   row = [personID] 
@@ -98,6 +99,9 @@ for personID in id_list:
   for x in row[1:]: newRow.append(x)
       
   table.append(newRow)  
+
+  if SubGroup[personID]=='A': GroupA.append(RollingScore)
+  else: GroupB.append(RollingScore)
 
 table = sorted(table, key = lambda x:x[3], reverse = True)  
 
@@ -533,4 +537,7 @@ sheet[idx].value = 'curve-figure'
 ############################
 print("index.xlsx generated.")
 wb.save('index.xlsx')    	
+
+print("Group A avg: ",sum(GroupA)/len(GroupA))
+print("Group B avg: ",sum(GroupB)/len(GroupB))
 

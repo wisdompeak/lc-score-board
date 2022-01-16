@@ -2,7 +2,6 @@ wisdompeak 09/02/2018 B
 OneDirection 09/02/2018 A
 han3000 09/08/2018 B
 sdliuyuzhi 09/20/2018 A
-jliang 10/13/2018 B
 cuiaoxiang 10/22/2018 B
 ws1255 11/24/2018 B
 ForGive 12/19/2018 B
@@ -58,7 +57,6 @@ chenjianxu97 11/21/2020 B
 roy_1127 12/13/2020 A
 xyzzzzzzzz 12/31/2020 A
 rayms 12/31/2020 B
-window0105 01/01/2021 B
 hc167 01/01/2021 A
 changyu_jiang 01/03/2021 A
 FunBam 01/03/2021 A
@@ -68,7 +66,6 @@ nickee1942 01/10/2021 B
 home_z 01/12/2021 B
 REED_W 01/20/2021 B
 Kamikakushi 01/26/2021 A
-zqsgopyyq 02/05/2021 B
 SDE2018_Carson_Yingying 02/16/2021 A
 weeeed 02/16/2021 B
 htkzmo 02/28/2021 A
@@ -87,7 +84,6 @@ NaoJoeMiao 05/08/2021 B
 goodstudyqaq 05/08/2021 A
 bush117 05/10/2021 B
 Tyrande 05/16/2021 B
-ashzzyj 05/16/2021 A
 perry304 05/17/2021 B
 thinkiny 05/18/2021 B
 tainule 05/23/2021 A
@@ -102,8 +98,6 @@ Yao_Yin 07/10/2021 A
 27rabbitlt 07/11/2021 B
 YUFENGWANG 07/15/2021 B
 sssssummer 07/16/2021 A
-vanstar123456 07/18/2021 A
-whtttth 07/18/2021 A
 bttsv 07/23/2021 B
 CharlieZyl 08/11/2021 A
 bit3tbb 08/13/2021 A
@@ -133,7 +127,6 @@ zys01310131 10/06/2021 B
 hjx2016 10/07/2021 B
 Oyyko 10/08/2021 B
 roccopass 10/08/2021 B
-seekQ 10/11/2021 B
 haruhiui 10/12/2021 A
 Rainyforest 10/13/2021 A
 nijiademianbao 10/14/2021 B
@@ -147,7 +140,6 @@ REDSREDS 10/26/2021 A
 zeningc 10/26/2021 A
 Hogwartsss 10/28/2021 B
 fatyuan 11/01/2021 B
-mtx2d 11/05/2021 A
 michelle_taco 11/08/2021 A
 irisbber 11/10/2021 A
 kuan525 11/11/2021 A
@@ -181,7 +173,6 @@ OnMyOwn 12/19/2021 A
 N2510 12/20/2021 A
 rookie0080 12/20/2021 B
 SaveThePlanet 12/24/2021 B
-wy907645377 12/25/2021 A
 sjyang_ 12/25/2021 A
 wfnuser 12/30/2021 B
 jingwenxxx 12/30/2021 A
@@ -201,3 +192,11 @@ stevensnake 01/05/2022 A
 mfk443838746 01/05/2022 B
 981377660LMT 01/08/2022 A
 ainoyume 01/08/2022 B
+WKelvinson 01/09/2022 A
+blzhu 01/09/2022 A
+QinhaoChang 01/10/2022 B
+KYan20010323 01/10/2022 B
+Attttrx 01/10/2022 B
+miahall 01/11/2022 B
+jamesfan1101 01/12/2022 A
+yeahhuai 01/12/2022 B
