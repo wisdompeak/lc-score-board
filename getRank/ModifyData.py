@@ -1634,18 +1634,16 @@ for contest in range(246,276+1):
 	data["KurosuHa"][str(contest)]=[-2,0]	
 for contest in range(135,276+1):
 	data["davidqing1991"][str(contest)]=[-2,0]	
+data["jamesfan1101"]["277"]=[442,4]		
 '''
+
 ## before 278
 for contest in range(118,277+1): 	
 	data["wangdh15"][str(contest)]=[-2,0]
 	data["yuliiia7"][str(contest)]=[-2,0]
 	data["ruizhewu"][str(contest)]=[-2,0]
-
-data["hongrubb52"] = data["hongrubb"]
-data.pop("hongrubb")
 for contest in range(274,277+1): 	
 	data["hongrubb52"][str(contest)]=[-2,0]
-data["hongrubb52"]['278']=[456,3]
 
 # data["rookie0080"]=data["rookie_my"]
 # data.pop("rookie_my")
