@@ -39,6 +39,7 @@ wdyfy317138 Amazon
 izhongyuting Amazon
 swift9 Amazon
 Yao_Yin Amazon
+hialvin Amazon
 lilllllllll Amazon
 laikwunsing Amazon
 blackp1nk Amazon
@@ -105,6 +106,7 @@ JansonLu Cloudian
 arignote Coinbase
 Kaiyu-Wang Compass
 XingxingHuang Cruise
+alicila DataBricks
 ChelsieZ Databricks
 edisonnie Doordash
 yuanlu0210 Dropbox

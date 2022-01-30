@@ -1620,7 +1620,6 @@ for contest in range(260,275+1):
 	data["WKelvinson"][str(contest)]=[-2,0]	
 for contest in range(266,275+1):
 	data["jamesfan1101"][str(contest)]=[-2,0]	
-'''
 
 ## before 277
 for contest in range(118,276+1): 	
@@ -1635,9 +1634,18 @@ for contest in range(246,276+1):
 	data["KurosuHa"][str(contest)]=[-2,0]	
 for contest in range(135,276+1):
 	data["davidqing1991"][str(contest)]=[-2,0]	
+'''
+## before 278
+for contest in range(118,277+1): 	
+	data["wangdh15"][str(contest)]=[-2,0]
+	data["yuliiia7"][str(contest)]=[-2,0]
+	data["ruizhewu"][str(contest)]=[-2,0]
 
-data["jamesfan1101"]["276"] = [5028,2]
-data["jamesfan1101"]["277"] = [442,4]
+data["hongrubb52"] = data["hongrubb"]
+data.pop("hongrubb")
+for contest in range(274,277+1): 	
+	data["hongrubb52"][str(contest)]=[-2,0]
+data["hongrubb52"]['278']=[456,3]
 
 # data["rookie0080"]=data["rookie_my"]
 # data.pop("rookie_my")
@@ -1811,8 +1819,10 @@ contests["272"] = 15427
 contests["273"] = 12203
 contests["274"] = 14086
 contests["275"] = 16126
-contests["276"] = 20463
-contests["277"] = 18384
+# starting from this week, we only consider the participant who at least solved one problem
+contests["276"] = 12418  
+contests["277"] = 12867
+contests["278"] = 13688
 
 json_str = json.dumps(contests)
 

@@ -44,7 +44,6 @@ youjiahan 08/20/2020 B
 wwwap 09/14/2020 B
 mcuallen 09/18/2020 B
 zhangsz1998 09/21/2020 B
-FreshBing 09/28/2020 B
 hanzhoutang 10/11/2020 A
 zgtmy 10/17/2020 A
 lilydenris 10/17/2020 A
@@ -63,7 +62,6 @@ FunBam 01/03/2021 A
 zk299 01/03/2021 A
 yuanlu0210 01/10/2021 B
 nickee1942 01/10/2021 B
-home_z 01/12/2021 B
 REED_W 01/20/2021 B
 Kamikakushi 01/26/2021 A
 SDE2018_Carson_Yingying 02/16/2021 A
@@ -102,7 +100,6 @@ bttsv 07/23/2021 B
 CharlieZyl 08/11/2021 A
 bit3tbb 08/13/2021 A
 yiyue15 08/17/2021 B
-hialvin 08/25/2021 B
 oaixuroab 08/28/2021 B
 zokumyoin 08/29/2021 A
 WRWRW 09/07/2021 B
@@ -115,7 +112,6 @@ fsyun 09/18/2021 A
 BestQian 09/18/2021 A
 ray_mzy 09/22/2021 B
 zhu_irse 09/22/2021 B
-alicila 09/23/2021 A
 cyzh 09/25/2021 B
 leileimiao 09/26/2021 A
 super468 09/29/2021 B
@@ -130,7 +126,7 @@ haruhiui 10/12/2021 A
 Rainyforest 10/13/2021 A
 nijiademianbao 10/14/2021 B
 shiyaow 10/17/2021 B
-hkhzzz 10/18/2021 A
+hkhzzz 10/18/2021 B
 Sato_Ken 10/18/2021 A
 FreeYourMind 10/18/2021 B
 answerer 10/20/2021 A
@@ -143,7 +139,6 @@ michelle_taco 11/08/2021 A
 irisbber 11/10/2021 A
 kuan525 11/11/2021 A
 kuailema9089 11/13/2021 A
-_Hy3 11/13/2021 A
 PurplePearl 11/14/2021 A
 grcd 11/15/2021 A
 zhongdizhu 11/15/2021 A
@@ -157,7 +152,7 @@ KimTaeyeon 11/27/2021 A
 rika321 11/28/2021 A
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
-X_ray 11/28/2021 A
+X_ray 11/28/2021 B
 chiakimio 11/29/2021 B
 wangyt97 12/01/2021 A
 txu33 12/07/2021 A
@@ -176,13 +171,10 @@ sjyang_ 12/25/2021 A
 wfnuser 12/30/2021 B
 jingwenxxx 12/30/2021 A
 iofu728 12/31/2021 B
-curiosity-10 12/31/2021 B
-wakme 01/02/2022 A
 axlsdtkl 01/02/2022 B
 Rogn 01/02/2022 A
 klutzCoder 01/02/2022 B
 aChris 01/03/2022 A
-Haoyuw 01/03/2022 B
 jushuai_lfx 01/03/2022 A
 wen_chin 01/03/2022 B
 Terry95 01/03/2022 A
@@ -208,3 +200,7 @@ lu-chen-chen 01/18/2022 B
 yu-niang-niang 01/18/2022 B
 yypu 01/19/2022 A
 alastian 01/19/2022 B
+wangdh15 01/22/2022 A
+yuliiia7 01/25/2022 A
+hongrubb52 01/27/2021 B
+ruizhewu 01/27/2021 A
