@@ -1816,8 +1816,8 @@ contests["271"] = 12806
 contests["272"] = 15427
 contests["273"] = 12203
 contests["274"] = 14086
-contests["275"] = 16126
-# starting from this week, we only consider the participant who at least solved one problem
+# starting from 2022, we only consider the participants who at least solved one problem
+contests["275"] = 10257
 contests["276"] = 12418  
 contests["277"] = 12867
 contests["278"] = 13688
