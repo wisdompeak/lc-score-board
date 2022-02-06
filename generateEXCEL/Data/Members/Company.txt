@@ -35,6 +35,7 @@ Blue_Epoch Amazon
 LambertTao Amazon
 haitao7 Amazon
 luozj14 Amazon
+zhu_irse Amazon
 wdyfy317138 Amazon
 izhongyuting Amazon
 swift9 Amazon
@@ -92,6 +93,8 @@ yanrucheng ByteDance
 Charlesna ByteDance
 CrhnbP ByteDance
 lisy14 ByteDance
+ddoudle ByteDance
+hjx2016 ByteDance
 tommyjiang ByteDance
 jason_wong1 ByteDance
 huanglanzhiguan ByteDance
@@ -114,7 +117,6 @@ cc189 Ebay
 liulaoye135 Ebay
 lwh14710 Ebay
 shuoyan F5Networks
-ddoudle Face++
 Golden_Fish Facebook
 hhjkkl Facebook
 zzy1996 Facebook
@@ -174,6 +176,7 @@ ChenDanni Google
 wangyxwyx Google
 kaizer87 Google
 aruba1 Google
+yiyue15 Google
 Charles000 Google
 sifangyou Google
 BlinkBamboo Google
@@ -222,6 +225,7 @@ ashzzyj Google
 zqsgopyyq Google
 whtttth Google
 Biteyou Google
+FunBam Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -232,10 +236,10 @@ FighterNan Google
 Googlehsiehh Google
 FightEveryDay Google
 Courtmouse Google
-FunBam Google
 weeeed Google
 MaskRay Google
 remfzh Google
+hzhang216 Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei

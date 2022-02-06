@@ -58,7 +58,6 @@ xyzzzzzzzz 12/31/2020 A
 rayms 12/31/2020 B
 hc167 01/01/2021 A
 changyu_jiang 01/03/2021 A
-FunBam 01/03/2021 A
 zk299 01/03/2021 A
 yuanlu0210 01/10/2021 B
 nickee1942 01/10/2021 B
@@ -111,7 +110,6 @@ fsyun 09/18/2021 A
 9caiji 09/18/2021 B
 BestQian 09/18/2021 A
 ray_mzy 09/22/2021 B
-zhu_irse 09/22/2021 B
 cyzh 09/25/2021 B
 leileimiao 09/26/2021 A
 super468 09/29/2021 B
@@ -119,7 +117,6 @@ fireee 09/30/2021 A
 bxiao_ca 10/03/2021 A
 v-ger 10/03/2021 A
 zys01310131 10/06/2021 B
-hjx2016 10/07/2021 B
 Oyyko 10/08/2021 B
 roccopass 10/08/2021 B
 haruhiui 10/12/2021 A
@@ -139,7 +136,6 @@ michelle_taco 11/08/2021 A
 irisbber 11/10/2021 A
 kuan525 11/11/2021 A
 kuailema9089 11/13/2021 A
-PurplePearl 11/14/2021 A
 grcd 11/15/2021 A
 zhongdizhu 11/15/2021 A
 bl2621 11/16/2021 B
@@ -152,7 +148,6 @@ KimTaeyeon 11/27/2021 A
 rika321 11/28/2021 A
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
-X_ray 11/28/2021 B
 chiakimio 11/29/2021 B
 wangyt97 12/01/2021 A
 txu33 12/07/2021 A
@@ -164,10 +159,9 @@ visionary_sg 12/17/2021 A
 ocavue 12/19/2021 B
 asherascout 12/19/2021 B
 OnMyOwn 12/19/2021 A
-N2510 12/20/2021 A
+N2510 12/20/2021 B
 rookie0080 12/20/2021 B
 SaveThePlanet 12/24/2021 B
-sjyang_ 12/25/2021 A
 wfnuser 12/30/2021 B
 jingwenxxx 12/30/2021 A
 iofu728 12/31/2021 B
@@ -182,7 +176,6 @@ liulaoye135 01/05/2022 B
 stevensnake 01/05/2022 A
 mfk443838746 01/05/2022 B
 981377660LMT 01/08/2022 A
-ainoyume 01/08/2022 B
 WKelvinson 01/09/2022 A
 blzhu 01/09/2022 A
 QinhaoChang 01/10/2022 B
@@ -193,7 +186,6 @@ jamesfan1101 01/12/2022 A
 yeahhuai 01/12/2022 B
 zjbztianya 01/15/2022 A
 aguang-xyz 01/15/2022 B
-Haoyangerrr-MoMo 01/16/2022 A
 KurosuHa 01/17/2021 B
 davidqing1991 01/17/2021 A
 lu-chen-chen 01/18/2022 B
@@ -202,5 +194,15 @@ yypu 01/19/2022 A
 alastian 01/19/2022 B
 wangdh15 01/22/2022 A
 yuliiia7 01/25/2022 A
-hongrubb52 01/27/2021 B
-ruizhewu 01/27/2021 A
+hongrubb52 01/27/2022 B
+ruizhewu 01/27/2022 A
+dingmingcheng1 01/29/2022 B
+SSSuper 01/30/2022 A
+hzhang216 01/31/2022 B
+maomao6551675 02/01/2022 B
+jiangjinjinyxt 02/03/2022 A
+elaine93 02/03/2022 B
+ddoudle 02/04/2022 A
+Yifei_Chen 02/05/2022 B
+QAMichaelPeng 02/05/2022 A
+jeemzz147 02/05/2022 B
