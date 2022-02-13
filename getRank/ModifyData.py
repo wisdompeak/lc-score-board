@@ -1669,7 +1669,7 @@ for contest in range(118,279+1):
 	data["lxhgww"][str(contest)]=[-2,0]
 for contest in range(205,279+1): 	
 	data["zlpmichelle"][str(contest)]=[-2,0]
-
+data["lxhgww"]["280"]=[388,4]
 
 # data["roy_1127"]=data["jiutiany1127"]
 # data.pop("mengyuan1122")
@@ -1844,7 +1844,7 @@ contests["275"] = 10257
 contests["276"] = 12418  
 contests["277"] = 12867
 contests["278"] = 13683
-contests["279"] = 12274
+contests["279"] = 12224
 contests["280"] = 14527
 
 json_str = json.dumps(contests)
