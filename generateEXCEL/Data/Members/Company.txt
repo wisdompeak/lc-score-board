@@ -90,13 +90,13 @@ Isomorphic ByteDance
 VanCN ByteDance
 gabyXuan ByteDance
 yanrucheng ByteDance
+X_Chen6 ByteDance
 Charlesna ByteDance
 CrhnbP ByteDance
 lisy14 ByteDance
 ddoudle ByteDance
 hjx2016 ByteDance
 tommyjiang ByteDance
-jason_wong1 ByteDance
 huanglanzhiguan ByteDance
 peichaoD ByteDance
 REED_W ByteDance
@@ -232,6 +232,7 @@ sdliuyuzhi Google
 cuiaoxiang Google
 ForGive Google
 wxy9018 Google
+jason_wong1 Google
 FighterNan Google
 Googlehsiehh Google
 FightEveryDay Google
@@ -240,6 +241,7 @@ weeeed Google
 MaskRay Google
 remfzh Google
 hzhang216 Google
+sheepforever Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
@@ -249,6 +251,7 @@ siqiaochen ICANN
 wobuxihuannile Indeed
 zhongqusc Instacart
 irisbber Instagram
+lxhgww JD
 keyupeter KeepTruckin
 ansonluo Kuaishou
 venico19 LinkedIn
@@ -342,7 +345,6 @@ blackspinner Tencent
 playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
-X_Chen6 TwoSigma
 l90095z Uber
 yuhwu Uber
 jingwenxxx Uber
@@ -351,6 +353,7 @@ user504 VMware
 hw2020 VMware
 YuchenYang1997 VMware
 lucas0316 Verizon
+elaine93 Visa
 xuexiyi Walmart
 kaihaohust Walmart
 fangdanzai Walmart

@@ -142,20 +142,16 @@ Kaiyu-Wang 11/23/2021 A
 Leetcode_Pro 11/23/2021 A
 migeater 11/24/2021 A
 ceaxyz 11/24/2021 B
-KimTaeyeon 11/27/2021 A
 rika321 11/28/2021 A
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
 chiakimio 11/29/2021 B
-wangyt97 12/01/2021 A
-txu33 12/07/2021 A
 Time-limit-exceed 12/07/2021 A
 dickbomb 12/09/2021 B
 izackwu 12/10/2021 B
 rqren2018 12/13/2021 B
 visionary_sg 12/17/2021 A
 ocavue 12/19/2021 B
-asherascout 12/19/2021 B
 OnMyOwn 12/19/2021 A
 N2510 12/20/2021 B
 rookie0080 12/20/2021 B
@@ -175,7 +171,6 @@ stevensnake 01/05/2022 A
 mfk443838746 01/05/2022 B
 981377660LMT 01/08/2022 A
 WKelvinson 01/09/2022 A
-blzhu 01/09/2022 A
 QinhaoChang 01/10/2022 B
 KYan20010323 01/10/2022 B
 Attttrx 01/10/2022 B
@@ -191,7 +186,6 @@ yu-niang-niang 01/18/2022 B
 yypu 01/19/2022 A
 alastian 01/19/2022 B
 wangdh15 01/22/2022 A
-yuliiia7 01/25/2022 A
 hongrubb52 01/27/2022 B
 ruizhewu 01/27/2022 A
 dingmingcheng1 01/29/2022 B
@@ -210,3 +204,9 @@ wangsc98 02/08/2022 B
 zlpmichelle 02/09/2022 B
 lympanda 02/09/2022 A
 lxhgww 02/11/2022 B
+awesomexiao123 02/13/2022 B
+zhi-zhi 02/13/2022 B
+FAANG_LOVER 02/13/2022 A
+kingsleycode 02/14/2022 B
+X_Chen6 02/18/2022 A
+sheepforever 02/19/2022 A
