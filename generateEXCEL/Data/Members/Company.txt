@@ -55,6 +55,7 @@ axjin Amazon
 WeijieChen0_0 Amazon
 hellocici Amazon
 kesihai Amazon
+ddoudle Amazon
 Juwentus Amazon
 daojingLeetcode Amazon
 window0105 Amazon
@@ -94,7 +95,6 @@ X_Chen6 ByteDance
 Charlesna ByteDance
 CrhnbP ByteDance
 lisy14 ByteDance
-ddoudle ByteDance
 hjx2016 ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance

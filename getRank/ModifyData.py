@@ -1679,13 +1679,21 @@ for contest in range(118,280+1):
 	data["sheepforever"][str(contest)]=[-2,0]
 for contest in range(217,280+1): 	
 	data["X_Chen6"][str(contest)]=[-2,0]
-'''
 
 ## before 282
 for contest in range(118,281+1): 	
 	data["maxusun"][str(contest)]=[-2,0]
 	data["fake_fan"][str(contest)]=[-2,0]
 	data["ivennn"][str(contest)]=[-2,0]
+'''
+
+## before 283
+for contest in range(118,282+1): 	
+	data["YLDJW"][str(contest)]=[-2,0]
+	data["chintsai"][str(contest)]=[-2,0]
+	data["s192516"][str(contest)]=[-2,0]
+for contest in range(246,282+1): 	
+	data["HarrisonShen"][str(contest)]=[-2,0]
 
 # data["roy_1127"]=data["jiutiany1127"]
 # data.pop("mengyuan1122")
@@ -1863,7 +1871,8 @@ contests["278"] = 13683
 contests["279"] = 12224
 contests["280"] = 14527
 contests["281"] = 14482
-contests["282"] = 16357
+contests["282"] = 16344
+contests["283"] = 14880
 
 json_str = json.dumps(contests)
 
