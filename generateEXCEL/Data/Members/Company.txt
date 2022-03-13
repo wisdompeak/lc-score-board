@@ -112,6 +112,7 @@ XingxingHuang Cruise
 alicila DataBricks
 ChelsieZ Databricks
 edisonnie Doordash
+bit3tbb Doordash
 yuanlu0210 Dropbox
 cc189 Ebay
 liulaoye135 Ebay
