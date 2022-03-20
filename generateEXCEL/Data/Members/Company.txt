@@ -59,6 +59,7 @@ ddoudle Amazon
 Juwentus Amazon
 daojingLeetcode Amazon
 window0105 Amazon
+youjiahan Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 miguelmac Amazon
@@ -103,6 +104,7 @@ REED_W ByteDance
 carotwang ByteDance
 izackwu ByteDance
 rookie0080 ByteDance
+ruizhewu ByteDance
 am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
@@ -248,7 +250,6 @@ Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
 leileimiao Huawei
-youjiahan IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
 zhongqusc Instacart
