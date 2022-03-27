@@ -334,8 +334,6 @@ for i in range(len(id_list)):
         sheet[idx].font = Font(size=12,color='ff0000')  
       elif (table[i][j]>=2100):
         sheet[idx].font = Font(size=12,color='ff8800')
-      elif (table[i][j]>=1900):
-        sheet[idx].font = Font(size=12,color='b500d9')
       else:
         sheet[idx].font = Font(size=12,color='0426A4')
 

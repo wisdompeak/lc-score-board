@@ -85,7 +85,7 @@ for personID in data:
         score = 0
       row.append([rank,score,solved])
    
-  RollingScore = 0       
+  RollingScore = 0    
   newRow = [row[0], Membership[personID], RollingScore]   # Reorder into [ID,days,RollingScore,contestInfo]
   for x in row[1:]: newRow.append(x)
       
