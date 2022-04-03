@@ -81,11 +81,13 @@ for personID in id_list:
       else:
         score = 0
       row.append([rank,score,solved])
-
-  print(personID)
+  
   pool = [] # A pool for computing rolling score
   for x in row[1:4]:
     if x[0]!=-2: pool.append(x[1])
+
+  print(personID)
+
   if len(pool)<=2:
     RollingScore = round(sum(pool)/len(pool),1)
   else: 
