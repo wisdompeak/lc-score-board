@@ -65,13 +65,15 @@ Juwentus Amazon
 daojingLeetcode Amazon
 window0105 Amazon
 youjiahan Amazon
+Rainyforest Amazon
+OnMyOwn Amazon
+deepli Amazon
 fang2018 Amazon
 Rayleigh0328 Amazon
 miguelmac Amazon
 ShidaLei Amazon
 YoungForest Amazon
 hanzhoutang Amazon
-Rainyforest Amazon
 REDSREDS Amazon
 ceaxyz Amazon
 visionary_sg Amazon
@@ -143,6 +145,7 @@ shuchenc Facebook
 chrisdzxu Facebook
 user7194i Facebook
 elvistqchen Facebook
+lzl124631x Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
@@ -289,6 +292,7 @@ praenubilus Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
 jasonzzzz Microsoft
+ChairmanMao Microsoft
 0000alex1111 Microsoft
 ShizukaYee Microsoft
 Sakamono Microsoft
@@ -304,7 +308,6 @@ faang2022 Microsoft
 jliang Microsoft
 sshang Microsoft
 angel30818 Microsoft
-lzl124631x Microsoft
 harttle Microsoft
 lbyxiafei Microsoft
 wwwap Microsoft
@@ -320,6 +323,7 @@ davidguuuo Oracle
 LeetCodeSuperman Oracle
 LeetCodeForce Oracle
 XYqqq777 Oracle
+rika321 Oracle
 Leetcode_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
