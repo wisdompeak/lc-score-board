@@ -1752,7 +1752,6 @@ for contest in range(201,287+1):
 
 ## before 289
 for contest in range(118,288+1): 	
-	data["flagoffer1999"][str(contest)]=[-2,0]
 	data["Andy-math"][str(contest)]=[-2,0]
 	data["Yawn_Sean"][str(contest)]=[-2,0]
 	data["mxc3"][str(contest)]=[-2,0]
