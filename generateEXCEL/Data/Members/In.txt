@@ -103,7 +103,6 @@ leileimiao 09/26/2021 A
 super468 09/29/2021 B
 fireee 09/30/2021 A
 v-ger 10/03/2021 A
-zys01310131 10/06/2021 B
 Oyyko 10/08/2021 B
 haruhiui 10/12/2021 A
 nijiademianbao 10/14/2021 B
@@ -179,7 +178,6 @@ ye92 03/09/2022 B
 AxelTchaikovsky 03/09/2022 A
 annoyingpatrick 03/12/2022 B
 kpole 03/13/2022 A
-wyz565169669 03/17/2022 A
 yqmmm 03/18/2022 A
 kirasj 03/18/2022 A
 masdc98 03/23/2022 A
@@ -200,3 +198,11 @@ guyang123 04/04/2022 A
 gude8997 04/05/2022 A
 ChairmanMao 04/06/2022 B
 flagoffer1999 04/09/2022 A
+daojingLeetcode 04/10/2022 B
+Andy-math 04/12/2022 A
+Yawn_Sean 04/12/2022 B
+mxc3 04/12/2022 B
+SaveThePlanet 04/14/2022 B
+_otto 04/16/2022 B
+meyi 04/16/2022 A
+wssx349 04/16/2022 A

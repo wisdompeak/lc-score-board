@@ -90,6 +90,7 @@ OneDirection Apple
 shsf-fengyu Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
+SaveThePlanet Block
 sukeyzhou Bloomberg
 zk299 Bloomberg
 fuxuemingzhu ByteDance
@@ -242,6 +243,7 @@ FunBam Google
 bit3tbb Google
 MaskRay Google
 zhongdizhu Google
+zys01310131 Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
