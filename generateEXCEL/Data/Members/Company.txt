@@ -76,7 +76,6 @@ YoungForest Amazon
 hanzhoutang Amazon
 REDSREDS Amazon
 ceaxyz Amazon
-visionary_sg Amazon
 mfk443838746 Amazon
 zexingfa Amzaon
 xiaozhi1 Apple
@@ -86,8 +85,8 @@ stayfoolish2 Apple
 yuhengc2 Apple
 ruofeisan Apple
 ruifeng Apple
-OneDirection Apple
 shsf-fengyu Apple
+OneDirection Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
 SaveThePlanet Block
@@ -96,7 +95,6 @@ zk299 Bloomberg
 fuxuemingzhu ByteDance
 nagato1208 ByteDance
 gingerale ByteDance
-fengw7 ByteDance
 oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
 VanCN ByteDance
@@ -147,10 +145,10 @@ chrisdzxu Facebook
 user7194i Facebook
 elvistqchen Facebook
 lzl124631x Facebook
+xywang0520 Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
-xywang0520 Facebook
 owen2 Facebook
 henghaaya Goldman
 xy1995cn Goldman
@@ -258,9 +256,11 @@ Courtmouse Google
 weeeed Google
 remfzh Google
 zokumyoin Google
+aguang-xyz Google
 alastian Google
 hzhang216 Google
 sheepforever Google
+kirasj Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
@@ -269,7 +269,6 @@ siqiaochen ICANN
 wobuxihuannile Indeed
 zhongqusc Instacart
 irisbber Instagram
-KurosuHa J
 lxhgww JD
 keyupeter KeepTruckin
 ansonluo Kuaishou
@@ -277,6 +276,7 @@ venico19 LinkedIn
 ZaozaoNan LinkedIn
 jja725 LinkedIn
 fighting_for_flag LinkedIn
+visionary_sg LinkedIn
 skd233 LinkedIn
 tainule LinkedIn
 huangfq07 Lyft
@@ -313,6 +313,7 @@ angel30818 Microsoft
 harttle Microsoft
 lbyxiafei Microsoft
 wwwap Microsoft
+cozlind Niantic
 jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
@@ -326,6 +327,7 @@ LeetCodeSuperman Oracle
 LeetCodeForce Oracle
 XYqqq777 Oracle
 rika321 Oracle
+bl2621 Oracle
 Leetcode_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
@@ -366,6 +368,8 @@ blackspinner Tencent
 playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
+fengw7 Tiktok
+wyz565169669 Tiktok
 l90095z Uber
 yuhwu Uber
 jingwenxxx Uber
