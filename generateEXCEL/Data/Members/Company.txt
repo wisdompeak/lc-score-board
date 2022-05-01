@@ -112,7 +112,6 @@ peichaoD ByteDance
 REED_W ByteDance
 carotwang ByteDance
 izackwu ByteDance
-ruizhewu ByteDance
 am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
@@ -370,6 +369,7 @@ Jamesleons Tencent
 HIT_TOM Tencent
 fengw7 Tiktok
 wyz565169669 Tiktok
+ruizhewu Tinder
 l90095z Uber
 yuhwu Uber
 jingwenxxx Uber
@@ -388,5 +388,6 @@ yuchenliulyc Wish
 goodstudyqaq Wish
 Coup_De_Grace Yahoo
 WhateverYouSay Yelp
+magua-io Yelp
 sijin Zhihu
 conanjinming dolphindb
