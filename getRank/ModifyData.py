@@ -1788,6 +1788,8 @@ for contest in range(275,291+1):
 	data["Monsooooon"][str(contest)]=[-2,0] # rejoin	
 data["lxhgww"]['292']=[76,4]
 data["hongleyou"]['292']=[4229,2]
+data["guyang123"]['292']=[810,4]
+data["lympanda"]['292']=[123,4]
 # data["ChairmanMao"]=data["457368837"]
 # data.pop("457368837")
 
