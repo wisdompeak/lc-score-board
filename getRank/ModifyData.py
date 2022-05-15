@@ -1789,6 +1789,7 @@ data["lxhgww"]['292']=[76,4]
 data["hongleyou"]['292']=[4229,2]
 data["guyang123"]['292']=[810,4]
 data["lympanda"]['292']=[123,4]
+data["remfzh"]['292']=[315,4]
 '''
 
 ## before 293
@@ -1797,7 +1798,6 @@ for contest in range(118,292+1):
 	data["blahhhhhuwu"][str(contest)]=[-2,0]
 for contest in range(291,292+1): 	
 	data["ruizhewu"][str(contest)]=[-2,0] # rejoin	
-
 # data["ChairmanMao"]=data["457368837"]
 # data.pop("457368837")
 
