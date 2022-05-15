@@ -17,7 +17,6 @@ KKKXY 08/13/2019 B
 OTTFF 08/27/2019 B
 angel30818 08/30/2019 A
 jason_wong1 09/10/2019 B
-Rayleigh0328 10/19/2019 B
 endlesscheng 10/25/2019 A
 huanglanzhiguan 12/30/2019 A
 venico19 01/04/2020 B
@@ -129,7 +128,6 @@ ocavue 12/19/2021 B
 iofu728 12/31/2021 B
 axlsdtkl 01/02/2022 B
 klutzCoder 01/02/2022 B
-aChris 01/03/2022 A
 jushuai_lfx 01/03/2022 A
 wen_chin 01/03/2022 B
 liulaoye135 01/05/2022 B
@@ -205,3 +203,6 @@ oli_mbp 05/02/2022 A
 vorlorn 05/03/2022 B
 Monsooooon 05/04/2022 A
 Pisces311 05/07/2022 A
+ruizhewu 05/08/2022 A
+thunderbolts 05/08/2022 B
+blahhhhhuwu 05/10/2022 B
