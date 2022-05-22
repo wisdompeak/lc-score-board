@@ -1790,7 +1790,6 @@ data["hongleyou"]['292']=[4229,2]
 data["guyang123"]['292']=[810,4]
 data["lympanda"]['292']=[123,4]
 data["remfzh"]['292']=[315,4]
-'''
 
 ## before 293
 for contest in range(118,292+1): 	
@@ -1798,6 +1797,18 @@ for contest in range(118,292+1):
 	data["blahhhhhuwu"][str(contest)]=[-2,0]
 for contest in range(291,292+1): 	
 	data["ruizhewu"][str(contest)]=[-2,0] # rejoin	
+'''
+
+## before 294
+for contest in range(118,293+1): 	
+	data["littlewj"][str(contest)]=[-2,0]
+	data["Fzldq"][str(contest)]=[-2,0]
+	data["wayjiang"][str(contest)]=[-2,0]
+	data["zhuimengren2138"][str(contest)]=[-2,0]
+	data["chui"][str(contest)]=[-2,0]
+for contest in range(286,293+1): 	
+	data["irisbber"][str(contest)]=[-2,0] # rejoin	
+
 # data["ChairmanMao"]=data["457368837"]
 # data.pop("457368837")
 
@@ -1985,7 +1996,8 @@ contests["289"] = 13597
 contests["290"] = 12966
 contests["291"] = 12642
 contests["292"] = 12319
-contests["293"] = 14782
+contests["293"] = 14220
+contests["294"] = 16388
 
 json_str = json.dumps(contests)
 
