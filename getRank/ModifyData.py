@@ -1809,6 +1809,8 @@ for contest in range(118,293+1):
 for contest in range(286,293+1): 	
 	data["irisbber"][str(contest)]=[-2,0] # rejoin	
 
+# print(data["mengyuan1112"])
+
 # data["ChairmanMao"]=data["457368837"]
 # data.pop("457368837")
 
