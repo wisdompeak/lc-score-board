@@ -45,7 +45,6 @@ lilydenris 10/17/2020 A
 owen2 10/24/2020 A
 Courtmouse 10/25/2020 B
 hongleyou 11/05/2020 A
-skd233 11/06/2020 B
 yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
 rayms 12/31/2020 B
@@ -74,9 +73,7 @@ thinkiny 05/18/2021 B
 tainule 05/23/2021 A
 lightmiao 05/23/2021 A
 silvertint10 05/27/2021 A
-senliu_ac 05/30/2021 A
 bill04128682 06/05/2021 A
-ZeRoLJ42 06/06/2021 A
 SupervisorMayHap 07/01/2021 B
 Yao_Yin 07/10/2021 A
 27rabbitlt 07/11/2021 B
@@ -203,7 +200,11 @@ irisbber 05/15/2022 A
 littewj 05/15/2022 B
 Fzldq 05/17/2022 B
 wayjiang 05/18/2022 B
-zhuimengren2138 05/18/2022 B
 chui 05/21/2022 B
 AAlchemist 05/22/2022 A
 sijin 05/23/2022 B
+fwang 05/30/2022 A
+freya-6 06/01/2022 A
+ak-bot 06/01/2022 B
+terencewongcs 06/03/2022 A
+xiaojian9527 06/04/2022 B
