@@ -351,6 +351,7 @@ davidqing1991 PureStorage
 cyn3966 PureStorage
 fyang618 Quora
 zhangsikai123 RedBook
+magua-io Reddit
 FYQiang Reflexis
 woshilxd912 Robinhood
 TRDample Robinhood
@@ -392,6 +393,5 @@ yuchenliulyc Wish
 goodstudyqaq Wish
 Coup_De_Grace Yahoo
 WhateverYouSay Yelp
-magua-io Yelp
 sijin Zhihu
 conanjinming dolphindb
