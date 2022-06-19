@@ -18,7 +18,6 @@ def CalculateMembership():
         Membership[name] = (date2-date1).days        
     file.close()
     
-    
     today = datetime.date.today()
     file = open("Data/Members/In.txt", "r") 
     for line in file:

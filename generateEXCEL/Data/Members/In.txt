@@ -139,9 +139,7 @@ yu-niang-niang 01/18/2022 B
 yypu 01/19/2022 A
 alastian 01/19/2022 B
 wangdh15 01/22/2022 A
-hongrubb52 01/27/2022 B
 dingmingcheng1 01/29/2022 B
-hzhang216 01/31/2022 B
 jiangjinjinyxt 02/03/2022 A
 QAMichaelPeng 02/05/2022 A
 jeemzz147 02/05/2022 B
@@ -159,7 +157,6 @@ silencea 03/08/2022 B
 ye92 03/09/2022 B
 annoyingpatrick 03/12/2022 B
 kpole 03/13/2022 A
-yqmmm 03/18/2022 A
 kirasj 03/18/2022 A
 masdc98 03/23/2022 A
 zju_might 03/24/2022 B
@@ -181,7 +178,6 @@ mxc3 04/12/2022 B
 _otto 04/16/2022 B
 meyi 04/16/2022 A
 wssx349 04/16/2022 A
-Haoyangerrr-MoMo 04/16/2022 A
 AC_Barthes0131 04/16/2022 A
 liri0811 04/23/2022 A
 hirokinakamura 04/25/2022 A
@@ -206,3 +202,9 @@ ak-bot 06/01/2022 B
 terencewongcs 06/03/2022 A
 xiaojian9527 06/04/2022 B
 rookie0080 06/10/2022 A
+AxelTchaikovsky 06/12/2022 A
+luzixiaoui 06/12/2022 B
+zyx-37 06/14/2022 B
+mike1234421 06/16/2022 A
+LeaFZ96 06/17/2022 A
+hjx2016 06/17/2022 B
