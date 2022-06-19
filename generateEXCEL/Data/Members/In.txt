@@ -182,7 +182,6 @@ AC_Barthes0131 04/16/2022 A
 liri0811 04/23/2022 A
 hirokinakamura 04/25/2022 A
 damn-glamour 04/29/2022 A
-lichenz 05/01/2022 B
 oli_mbp 05/02/2022 A
 vorlorn 05/03/2022 B
 Monsooooon 05/04/2022 A
@@ -202,9 +201,10 @@ ak-bot 06/01/2022 B
 terencewongcs 06/03/2022 A
 xiaojian9527 06/04/2022 B
 rookie0080 06/10/2022 A
+herzog_ 06/11/2022 B
 AxelTchaikovsky 06/12/2022 A
 luzixiaoui 06/12/2022 B
-zyx-37 06/14/2022 B
+zyx-37 06/14/2022 A
 mike1234421 06/16/2022 A
 LeaFZ96 06/17/2022 A
 hjx2016 06/17/2022 B

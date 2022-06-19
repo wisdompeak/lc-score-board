@@ -1829,6 +1829,7 @@ for contest in range(287,296+1):
 
 ## before 298
 for contest in range(118,297+1): 	
+	data["herzog_"][str(contest)]=[-2,0]
 	data["luzixiaoui"][str(contest)]=[-2,0]
 	data["zyx-37"][str(contest)]=[-2,0]
 	data["mike1234421"][str(contest)]=[-2,0]
