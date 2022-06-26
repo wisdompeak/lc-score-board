@@ -1825,7 +1825,6 @@ for contest in range(118,295+1):
 ## before 297
 for contest in range(287,296+1): 	
 	data["rookie0080"][str(contest)]=[-2,0] # rejoin	
-'''
 
 ## before 298
 for contest in range(118,297+1): 	
@@ -1838,7 +1837,17 @@ for contest in range(290,297+1):
 	data["AxelTchaikovsky"][str(contest)]=[-2,0] # rejoin
 for contest in range(279,297+1): 	
 	data["hjx2016"][str(contest)]=[-2,0] # rejoin
+'''
 
+## before 299
+for contest in range(118,298+1): 	
+	data["piangqsq"][str(contest)]=[-2,0]
+	data["Peak_2250_MID_in_King-of-Glory"][str(contest)]=[-2,0]
+	data["grisyt"][str(contest)]=[-2,0]
+	data["wankew"][str(contest)]=[-2,0]
+	data["maoshijie20"][str(contest)]=[-2,0]
+	data["NZAMF"][str(contest)]=[-2,0]
+	
 json_str = json.dumps(data)
 
 with open('data.json', 'w') as f:
@@ -2028,7 +2037,8 @@ contests["294"] = 16374
 contests["295"] = 14613
 contests["296"] = 15958
 contests["297"] = 14922
-contests["298"] = 15807
+contests["298"] = 15587
+contests["299"] = 16245
 
 json_str = json.dumps(contests)
 

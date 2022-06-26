@@ -72,7 +72,6 @@ Rayleigh0328 Amazon
 REDSREDS Amazon
 fang2018 Amazon
 miguelmac Amazon
-ShidaLei Amazon
 YoungForest Amazon
 hanzhoutang Amazon
 kuailema9089 Amazon
@@ -114,6 +113,7 @@ peichaoD ByteDance
 REED_W ByteDance
 carotwang ByteDance
 izackwu ByteDance
+herzog_ ByteDance
 am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
@@ -270,6 +270,7 @@ lihao199408 Huawei
 leileimiao Huawei
 siqiaochen ICANN
 wobuxihuannile Indeed
+ShidaLei Indeed
 zhongqusc Instacart
 lxhgww JD
 keyupeter KeepTruckin
@@ -311,6 +312,7 @@ zhouxiongjia Microsoft
 mercerchen Microsoft
 faang2022 Microsoft
 jliang Microsoft
+miahall Microsoft
 sshang Microsoft
 angel30818 Microsoft
 harttle Microsoft
@@ -373,6 +375,7 @@ blackspinner Tencent
 playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
+WinKKKKy TigerGraph
 fengw7 Tiktok
 wyz565169669 Tiktok
 ruizhewu Tinder
@@ -394,4 +397,5 @@ goodstudyqaq Wish
 Coup_De_Grace Yahoo
 WhateverYouSay Yelp
 sijin Zhihu
+mengyuan1112 Zoom
 conanjinming dolphindb
