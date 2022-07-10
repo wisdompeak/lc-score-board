@@ -1846,7 +1846,6 @@ for contest in range(118,298+1):
 	data["wankew"][str(contest)]=[-2,0]
 	data["maoshijie20"][str(contest)]=[-2,0]
 	data["NZAMF"][str(contest)]=[-2,0]
-'''
 
 ## before 300
 for contest in range(118,299+1): 	
@@ -1863,6 +1862,21 @@ for contest in range(299,299+1):
 	data["bill04128682"][str(contest)]=[-2,0] # rejoin
 for contest in range(287,299+1): 	
 	data["ddoudle"][str(contest)]=[-2,0] # rejoin
+'''
+
+## before 300
+for contest in range(118,300+1): 	
+	data["xuekedou"][str(contest)]=[-2,0]
+	data["tonglizhou"][str(contest)]=[-2,0]
+	data["luyangg"][str(contest)]=[-2,0]
+	data["yangxm"][str(contest)]=[-2,0]
+for contest in range(286,300+1): 	
+	data["Terry95"][str(contest)]=[-2,0] # rejoin
+for contest in range(247,300+1): 	
+	data["ShangqiYang"][str(contest)]=[-2,0] # rejoin
+for contest in range(286,300+1): 	
+	data["BestQian"][str(contest)]=[-2,0] # rejoin
+
 
 json_str = json.dumps(data)
 
@@ -2055,7 +2069,8 @@ contests["296"] = 15958
 contests["297"] = 14922
 contests["298"] = 15587
 contests["299"] = 16193
-contests["300"] = 15903
+contests["300"] = 15892
+contests["301"] = 14834
 
 json_str = json.dumps(contests)
 
