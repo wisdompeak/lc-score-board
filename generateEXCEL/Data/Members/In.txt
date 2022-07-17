@@ -101,7 +101,6 @@ kuan525 11/11/2021 A
 kuailema9089 11/13/2021 A
 grcd 11/15/2021 A
 Kaiyu-Wang 11/23/2021 A
-Leetcode_Pro 11/23/2021 A
 ceaxyz 11/24/2021 B
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
@@ -135,7 +134,6 @@ xy-li 02/06/2022 A
 lympanda 02/09/2022 A
 lxhgww 02/11/2022 B
 zhi-zhi 02/13/2022 B
-kingsleycode 02/14/2022 B
 sheepforever 02/19/2022 A
 ivennn 02/24/2022 A
 chintsai 02/27/2022 A
@@ -149,7 +147,6 @@ zju_might 03/24/2022 B
 WinKKKKy 03/27/2022 A
 wbbssr 03/27/2022 A
 zhichuan 03/27/2022 A
-mercerchen 03/30/2022 B
 AkaBridge 03/31/2022 A
 sugaruncle1996 04/03/2022 B
 CrhnbP 04/03/2022 A
@@ -168,7 +165,6 @@ liri0811 04/23/2022 A
 hirokinakamura 04/25/2022 A
 damn-glamour 04/29/2022 A
 oli_mbp 05/02/2022 A
-vorlorn 05/03/2022 B
 Monsooooon 05/04/2022 A
 Pisces311 05/07/2022 A
 thunderbolts 05/08/2022 B
@@ -176,7 +172,6 @@ blahhhhhuwu 05/10/2022 B
 littewj 05/15/2022 B
 Fzldq 05/17/2022 B
 wayjiang 05/18/2022 B
-chui 05/21/2022 B
 AAlchemist 05/22/2022 A
 fwang 05/30/2022 A
 freya-6 06/01/2022 A
@@ -210,3 +205,7 @@ luyangg 07/07/2022 B
 ShangqiYang 07/07/2022 B
 BestQian 07/07/2022 A
 yangxm 07/09/2022 B
+jichuanz 07/09/2022 B
+fairyfxt 07/14/2022 B
+Junyu-Andy 07/15/2022 B
+LeetCoding_Pro 07/16/2022 A

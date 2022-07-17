@@ -97,6 +97,7 @@ SaveThePlanet Block
 sukeyzhou Bloomberg
 zk299 Bloomberg
 fuxuemingzhu ByteDance
+sijin ByteDance
 nagato1208 ByteDance
 gingerale ByteDance
 oOoO0oOoO0oOo ByteDance
@@ -257,7 +258,6 @@ han3000 Google
 sdliuyuzhi Google
 cuiaoxiang Google
 ForGive Google
-wxy9018 Google
 jason_wong1 Google
 FighterNan Google
 Googlehsiehh Google
@@ -338,6 +338,7 @@ XYqqq777 Oracle
 rika321 Oracle
 bl2621 Oracle
 Leetcode_Pro Oracle
+LeetCoding_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
 xxz-leetcode Paypal
@@ -362,11 +363,11 @@ magua-io Reddit
 FYQiang Reflexis
 woshilxd912 Robinhood
 TRDample Robinhood
-FreshBing SAP
 bifeitang Schlumberger
 Sato_Ken Shopee
 Evolut1on Snapchat
 ryanzhang29 Snapchat
+wxy9018 Snapchat
 Duuuuu SnowFlake
 wAgChen SnowFlake
 zzaym SnowFlake
@@ -374,6 +375,7 @@ Memoria Stripe
 thu_winfield Tencent
 FrankYao Tencent
 disinuo Tencent
+haimingz112 Tencent
 sam_lee_ Tencent
 blackspinner Tencent
 playfair Tencent
@@ -386,6 +388,7 @@ ruizhewu Tinder
 l90095z Uber
 yuhwu Uber
 jingwenxxx Uber
+FreshBing Uber
 gzh47 VMware
 user504 VMware
 hw2020 VMware
@@ -400,6 +403,5 @@ yuchenliulyc Wish
 goodstudyqaq Wish
 Coup_De_Grace Yahoo
 WhateverYouSay Yelp
-sijin Zhihu
 mengyuan1112 Zoom
 conanjinming dolphindb
