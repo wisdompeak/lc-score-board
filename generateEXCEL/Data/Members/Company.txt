@@ -37,6 +37,7 @@ Blue_Epoch Amazon
 LambertTao Amazon
 haitao7 Amazon
 please_AC Amazon
+Malik-Jia Amazon
 luozj14 Amazon
 zhu_irse Amazon
 wdyfy317138 Amazon
@@ -73,6 +74,7 @@ deepli Amazon
 Rayleigh0328 Amazon
 REDSREDS Amazon
 lightmiao Amazon
+super468 Amazon
 fang2018 Amazon
 miguelmac Amazon
 YoungForest Amazon
@@ -222,6 +224,7 @@ maoyp Google
 alanlzl Google
 insomniacat Google
 tangere Google
+blackspinner Google
 qwerjkl112 Google
 meiyiyan Google
 caoboxiao Google
@@ -277,6 +280,7 @@ wobuxihuannile Indeed
 ShidaLei Indeed
 zhongqusc Instacart
 lxhgww JD
+bill04128682 JumpTrade
 keyupeter KeepTruckin
 ansonluo Kuaishou
 venico19 LinkedIn
@@ -377,12 +381,12 @@ FrankYao Tencent
 disinuo Tencent
 haimingz112 Tencent
 sam_lee_ Tencent
-blackspinner Tencent
 playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
 WinKKKKy TigerGraph
 fengw7 Tiktok
+guyang123 Tiktok
 wyz565169669 Tiktok
 ruizhewu Tinder
 l90095z Uber
