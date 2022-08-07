@@ -1889,7 +1889,6 @@ for contest in range(118,302+1):
 	data["ManuShi98"][str(contest)]=[-2,0]
 for contest in range(236,302+1): 	
 	data["blackspinner"][str(contest)]=[-2,0] # rejoin
-'''
 
 ## before 304
 for contest in range(118,303+1): 	
@@ -1902,6 +1901,17 @@ for contest in range(279,303+1):
 	data["ainoyume"][str(contest)]=[-2,0] # rejoin
 for contest in range(296,303+1): 	
 	data["ZeRoLJ42"][str(contest)]=[-2,0] # rejoin
+'''
+## before 305
+for contest in range(118,304+1): 	
+	data["ch365"][str(contest)]=[-2,0]
+	data["CarlosTian"][str(contest)]=[-2,0]
+for contest in range(284,303+1): 	
+	data["shiyaow"][str(contest)]=[-2,0] # rejoin
+for contest in range(302,303+1): 	
+	data["kingsleycode"][str(contest)]=[-2,0] # rejoin
+for contest in range(279,303+1): 	
+	data["sjyang_"][str(contest)]=[-2,0] # rejoin
 
 # data['LeetCoding_Pro'] = data['Leetcode_Pro']
 # data.pop('Leetcode_Pro')
@@ -2101,7 +2111,8 @@ contests["300"] = 15892
 contests["301"] = 14834
 contests["302"] = 17062
 contests["303"] = 18029
-contests["304"] = 17647
+contests["304"] = 17587
+contests["305"] = 17764
 
 json_str = json.dumps(contests)
 
