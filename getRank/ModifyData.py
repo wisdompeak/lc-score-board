@@ -1912,18 +1912,22 @@ for contest in range(302,303+1):
 	data["kingsleycode"][str(contest)]=[-2,0] # rejoin
 for contest in range(279,303+1): 	
 	data["sjyang_"][str(contest)]=[-2,0] # rejoin
-'''
+
 ## before 306
 for contest in range(118,305+1): 	
 	data["fuuuuujc"][str(contest)]=[-2,0]
 	data["imsingee"][str(contest)]=[-2,0]
 	data["Xiangcan"][str(contest)]=[-2,0]
 	data["ChanWunsam"][str(contest)]=[-2,0]
+'''
+
+## before 307
+for contest in range(118,306+1): 	
+	data["user5807Wf"][str(contest)]=[-2,0]
 
 # data['andyzhaoxs'] = data['Junyu-Andy']
 # data.pop('Junyu-Andy')
 
-json_str = json.dumps(data)
 
 with open('data.json', 'w') as f:
     json.dump(json_str, f)
@@ -2120,7 +2124,8 @@ contests["302"] = 17062
 contests["303"] = 18029
 contests["304"] = 17587
 contests["305"] = 17707
-contests["306"] = 15443
+contests["306"] = 15361
+contests["307"] = 13789
 
 json_str = json.dumps(contests)
 
