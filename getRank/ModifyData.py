@@ -1933,7 +1933,6 @@ for contest in range(118,307+1):
 	data["tsingyawn"][str(contest)]=[-2,0]
 for contest in range(291,307+1): 	
 	data["PeanutPro"][str(contest)]=[-2,0] # rejoin
-'''
 
 ## before 309
 for contest in range(118,308+1): 	
@@ -1943,10 +1942,19 @@ for contest in range(118,308+1):
 	data["testimony2014"][str(contest)]=[-2,0]
 for contest in range(299,308+1): 	
 	data["981377660LMT"][str(contest)]=[-2,0] # rejoin
+'''
+## before 310
+for contest in range(118,309+1): 	
+	data["nyhneil"][str(contest)]=[-2,0]
+	data["zjuturtle"][str(contest)]=[-2,0]
+for contest in range(307,309+1): 	
+	data["kingsleycode"][str(contest)]=[-2,0] # rejoin
 
+# data['tomoyoshk'] = data['Xiangcan']
+# data['tomoyoshk']['310'] = [569, 4]
+# data.pop('Xiangcan')
 
-# data['andyzhaoxs'] = data['Junyu-Andy']
-# data.pop('Junyu-Andy')
+json_str = json.dumps(data)
 
 with open('data.json', 'w') as f:
     json.dump(json_str, f)
@@ -2146,7 +2154,8 @@ contests["305"] = 17707
 contests["306"] = 15361
 contests["307"] = 13211
 contests["308"] = 14979
-contests["309"] = 17212
+contests["309"] = 17152
+contests["310"] = 16234
 
 json_str = json.dumps(contests)
 
