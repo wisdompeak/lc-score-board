@@ -10,7 +10,6 @@ Dengxj 03/03/2019 A
 xianglaniunan 04/21/2019 B
 wxy9018 04/22/2019 A
 thumbpixels 05/21/2019 A
-fang2018 06/04/2019 B
 zac4 07/12/2019 A
 tommyjiang 08/04/2019 B
 KKKXY 08/13/2019 B
@@ -61,7 +60,6 @@ upupming 05/02/2021 A
 ryanwong0127 05/02/2021 A
 insomniacat 05/04/2021 B
 zrts 05/06/2021 B
-NaoJoeMiao 05/08/2021 A
 goodstudyqaq 05/08/2021 A
 bush117 05/10/2021 B
 Tyrande 05/16/2021 B
@@ -103,7 +101,6 @@ megurine 11/28/2021 B
 chiakimio 11/29/2021 B
 Time-limit-exceed 12/07/2021 A
 dickbomb 12/09/2021 B
-izackwu 12/10/2021 B
 ocavue 12/19/2021 B
 iofu728 12/31/2021 B
 axlsdtkl 01/02/2022 B
@@ -137,7 +134,6 @@ annoyingpatrick 03/12/2022 B
 kpole 03/13/2022 A
 kirasj 03/18/2022 A
 masdc98 03/23/2022 A
-zju_might 03/24/2022 B
 WinKKKKy 03/27/2022 A
 wbbssr 03/27/2022 A
 AkaBridge 03/31/2022 A
@@ -197,7 +193,6 @@ wangyxwyx 07/24/2022 A
 LeeShengkai 07/24/2022 B
 ZeRoLJ42 07/30/2022 A
 ch365 07/30/2022 B
-shiyaow 07/31/2022 B
 CarlosTian 08/02/2022 A
 sjyang_ 08/04/2022 A
 fuuuuujc 08/07/2022 B
@@ -218,3 +213,4 @@ testimony2014 09/03/2022 A
 kingsleycode 09/06/2022 B
 nyhneil 09/09/2022 A
 zjuturtle 09/09/2022 B
+Mooophy 09/19/2022 A

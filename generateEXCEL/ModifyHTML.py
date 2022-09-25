@@ -85,7 +85,7 @@ def changeContents(content):
     content = content.replace("Coinbase-Logo","<img src='Img/Coinbase.svg' height=18>")
     content = content.replace("Doordash-Logo","<img src='Img/Doordash.png' height=18>")
     content = content.replace("Stripe-Logo","<img src='Img/Stripe.png' height=18>")
-    content = content.replace("Databricks-Logo","<img src='Img/Databricks.gif' height=18>")
+    content = content.replace("DataBricks-Logo","<img src='Img/Databricks.gif' height=18>")
     content = content.replace("Shopee-Logo","<img src='Img/Shopee.png' height=18>")
     content = content.replace("Instagram-Logo","<img src='Img/Instagram.png' height=18>")
     content = content.replace("JD-Logo","<img src='Img/JD.png' height=18>")

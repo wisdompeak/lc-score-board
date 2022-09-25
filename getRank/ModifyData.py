@@ -1950,6 +1950,10 @@ for contest in range(118,309+1):
 for contest in range(307,309+1): 	
 	data["kingsleycode"][str(contest)]=[-2,0] # rejoin
 
+## before 312
+for contest in range(118,311+1): 	
+	data["Mooophy"][str(contest)]=[-2,0]
+	
 # data['tomoyoshk'] = data['Xiangcan']
 # data['tomoyoshk']['310'] = [569, 4]
 # data.pop('Xiangcan')
@@ -2156,7 +2160,8 @@ contests["307"] = 13211
 contests["308"] = 14979
 contests["309"] = 17152
 contests["310"] = 16149
-contests["311"] = 19050
+contests["311"] = 18971
+contests["312"] = 18836
 
 json_str = json.dumps(contests)
 
