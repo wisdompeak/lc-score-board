@@ -139,7 +139,6 @@ wbbssr 03/27/2022 A
 AkaBridge 03/31/2022 A
 CrhnbP 04/03/2022 A
 gude8997 04/05/2022 A
-daojingLeetcode 04/10/2022 B
 Andy-math 04/12/2022 A
 Yawn_Sean 04/12/2022 B
 mxc3 04/12/2022 B
@@ -214,3 +213,8 @@ kingsleycode 09/06/2022 B
 nyhneil 09/09/2022 A
 zjuturtle 09/09/2022 B
 Mooophy 09/19/2022 A
+bangbangwo 09/24/2022 B
+uilnauyis_DP 09/26/2022 A
+baibest1 09/28/2022 B
+sugaruncle1996 09/28/2022 B
+deepli 09/30/2022 B
