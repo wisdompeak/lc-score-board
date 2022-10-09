@@ -1942,7 +1942,7 @@ for contest in range(118,308+1):
 	data["testimony2014"][str(contest)]=[-2,0]
 for contest in range(299,308+1): 	
 	data["981377660LMT"][str(contest)]=[-2,0] # rejoin
-'''
+
 ## before 310
 for contest in range(118,309+1): 	
 	data["nyhneil"][str(contest)]=[-2,0]
@@ -1950,9 +1950,9 @@ for contest in range(118,309+1):
 for contest in range(307,309+1): 	
 	data["kingsleycode"][str(contest)]=[-2,0] # rejoin
 
-# ## before 312
-# for contest in range(118,311+1): 	
-# 	data["Mooophy"][str(contest)]=[-2,0]
+## before 312
+for contest in range(118,311+1): 	
+	data["Mooophy"][str(contest)]=[-2,0]
 	
 ## before 313	
 for contest in range(118,312+1): 	
@@ -1964,10 +1964,25 @@ for contest in range(304,312+1):
 for contest in range(288,312+1): 	
 	data["deepli"][str(contest)]=[-2,0] # rejoin
 
+data['baibest1']['313'] = [11920, 2]
+data['bys031'] = data['baibest1']
+data.pop('baibest1')
+
+data['kl333'] = data['kl649']
+data.pop('kl649')
+
+data['Xiangcan'] = data['tomoyoshk']
+data.pop('tomoyoshk')
+'''
 
 # data['tomoyoshk'] = data['Xiangcan']
 # data['tomoyoshk']['310'] = [569, 4]
 # data.pop('Xiangcan')
+
+## before 314	
+for contest in range(118,313+1): 	
+	data["zitingzhu95"][str(contest)]=[-2,0]
+	data["wo_pa_lang_fei"][str(contest)]=[-2,0]
 
 json_str = json.dumps(data)
 
@@ -2173,7 +2188,8 @@ contests["309"] = 17152
 contests["310"] = 16149
 contests["311"] = 18971
 contests["312"] = 17245
-contests["313"] = 16821
+contests["313"] = 16724
+contests["314"] = 14518
 
 json_str = json.dumps(contests)
 
