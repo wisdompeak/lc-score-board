@@ -1968,21 +1968,27 @@ data['baibest1']['313'] = [11920, 2]
 data['bys031'] = data['baibest1']
 data.pop('baibest1')
 
-data['kl333'] = data['kl649']
-data.pop('kl649')
-
 data['Xiangcan'] = data['tomoyoshk']
 data.pop('tomoyoshk')
-'''
-
-# data['tomoyoshk'] = data['Xiangcan']
-# data['tomoyoshk']['310'] = [569, 4]
-# data.pop('Xiangcan')
 
 ## before 314	
 for contest in range(118,313+1): 	
 	data["zitingzhu95"][str(contest)]=[-2,0]
 	data["wo_pa_lang_fei"][str(contest)]=[-2,0]
+'''
+
+## before 315	
+for contest in range(306,314+1): 	
+	data["carotwang"][str(contest)]=[-2,0] # rejoin
+for contest in range(290,314+1): 	
+	data["bl2621"][str(contest)]=[-2,0] # rejoin
+for contest in range(188,314+1): 	
+	data["alycia"][str(contest)]=[-2,0] # rejoin
+for contest in range(235,314+1): 	
+	data["zpzpzzp2020"][str(contest)]=[-2,0] # rejoin
+
+# data['jdeptct'] = data['peichaoD']
+# data.pop('peichaoD')
 
 json_str = json.dumps(data)
 
@@ -2189,7 +2195,8 @@ contests["310"] = 16149
 contests["311"] = 18971
 contests["312"] = 17245
 contests["313"] = 16724
-contests["314"] = 14518
+contests["314"] = 14499
+contests["315"] = 17300
 
 json_str = json.dumps(contests)
 

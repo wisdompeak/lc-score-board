@@ -72,6 +72,7 @@ youjiahan Amazon
 Rainyforest Amazon
 OnMyOwn Amazon
 deepli Amazon
+shsf-fengyu Amazon
 Rayleigh0328 Amazon
 REDSREDS Amazon
 lightmiao Amazon
@@ -92,7 +93,6 @@ yuhengc2 Apple
 ruofeisan Apple
 ruifeng Apple
 weiliang515 Apple
-shsf-fengyu Apple
 OneDirection Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
@@ -116,11 +116,10 @@ zhichuan ByteDance
 hjx2016 ByteDance
 rookie0080 ByteDance
 herzog_ ByteDance
-carotwang ByteDance
 izackwu ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
-peichaoD ByteDance
+jdeptct ByteDance
 REED_W ByteDance
 am0320 Citadel
 YUFENGWANG Citadel
@@ -137,6 +136,7 @@ yuanlu0210 Dropbox
 cc189 Ebay
 liulaoye135 Ebay
 lwh14710 Ebay
+wankew Expedia
 shuoyan F5Networks
 tclu82 Facebook
 Golden_Fish Facebook
@@ -300,6 +300,8 @@ huangfq07 Lyft
 richarddia MathWorks
 li-jinze Meituan
 981377660LMT Meituan
+carotwang MetaBit
+linjiale MetaBit
 zpzpzzp2020 Microsoft
 huyouhyw Microsoft
 qw123 Microsoft
@@ -327,6 +329,7 @@ mercerchen Microsoft
 faang2022 Microsoft
 jliang Microsoft
 miahall Microsoft
+hirokinakamura Microsoft
 sshang Microsoft
 angel30818 Microsoft
 harttle Microsoft
