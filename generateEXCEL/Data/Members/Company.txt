@@ -125,7 +125,6 @@ am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
-Kaiyu-Wang Compass
 XingxingHuang Cruise
 ChelsieZ DataBricks
 alicila DataBricks
@@ -354,6 +353,7 @@ Leetcode_Pro Oracle
 LeetCoding_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
+AkaBridge Palo-alto
 xxz-leetcode Paypal
 zgcmx2011 Petuum
 biss PinDuoDuo
@@ -384,6 +384,7 @@ wxy9018 Snapchat
 Duuuuu SnowFlake
 wAgChen SnowFlake
 zzaym SnowFlake
+Peak_2250_MID_in_King-of-Glory SnowFlake
 Memoria Stripe
 thu_winfield Tencent
 FrankYao Tencent
@@ -412,6 +413,7 @@ xuexiyi Walmart
 kaihaohust Walmart
 fangdanzai Walmart
 yinghuahu Wayfair
+Kaiyu-Wang Waymo
 yuchenliulyc Wish
 goodstudyqaq Wish
 Coup_De_Grace Yahoo
