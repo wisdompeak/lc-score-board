@@ -24,9 +24,7 @@ Memoria 01/12/2020 A
 harttle 01/18/2020 B
 FighterNan 02/09/2020 B
 lozy219 02/14/2020 B
-deadstorm 03/16/2020 B
 CE_RE_WAyitiaolong 03/21/2020 A
-YoungForest 03/22/2020 A
 pku_erutan 04/11/2020 A
 arignote 05/09/2020 B
 Googlehsiehh 05/09/2020 A
@@ -47,7 +45,6 @@ yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
 rayms 12/31/2020 B
 hc167 01/01/2021 A
-changyu_jiang 01/03/2021 A
 zk299 01/03/2021 A
 yuanlu0210 01/10/2021 B
 nickee1942 01/10/2021 B
@@ -71,7 +68,6 @@ Yao_Yin 07/10/2021 A
 27rabbitlt 07/11/2021 B
 YUFENGWANG 07/15/2021 B
 sssssummer 07/16/2021 A
-bttsv 07/23/2021 B
 oaixuroab 08/28/2021 B
 WRWRW 09/07/2021 B
 nirodha 09/12/2021 B
@@ -121,7 +117,6 @@ lympanda 02/09/2022 A
 lxhgww 02/11/2022 B
 zhi-zhi 02/13/2022 B
 sheepforever 02/19/2022 A
-ivennn 02/24/2022 A
 chintsai 02/27/2022 A
 s192516 03/05/2022 A
 silencea 03/08/2022 B
@@ -177,7 +172,6 @@ ManuShi98 07/20/2022 A
 wangyxwyx 07/24/2022 A
 ZeRoLJ42 07/30/2022 A
 ch365 07/30/2022 B
-sjyang_ 08/04/2022 A
 fuuuuujc 08/07/2022 B
 imsingee 08/07/2022 B
 Xiangcan 08/08/2022 A
@@ -191,8 +185,6 @@ lukeiscoding 08/30/2022 A
 dj3013158 08/30/2022 B
 981377660LMT 09/01/2022 A
 yx1215 09/01/2022 B
-testimony2014 09/03/2022 A
-kingsleycode 09/06/2022 B
 zjuturtle 09/09/2022 B
 Mooophy 09/19/2022 A
 bangbangwo 09/24/2022 B
@@ -200,8 +192,14 @@ uilnauyis_DP 09/26/2022 A
 sugaruncle1996 09/28/2022 B
 deepli 09/30/2022 B
 wo_pa_lang_fei 10/05/2022 A
-carotwang 10/08/2022 B
 bl2621 10/09/2022 B
 alycia 10/09/2022 A
 zpzpzzp2020 10/11/2022 B
 jmyanxiang 10/17/2022 A
+lei-feng-lfss 10/24/2022 B
+billhehe 10/24/2022 A
+Kaiyu-Wang 10/24/2022 A
+clairehe10 10/26/2022 B
+deadstorm 10/27/2022 B
+qinzhe 10/28/2022 A
+bttsv 10/29/2022 B
