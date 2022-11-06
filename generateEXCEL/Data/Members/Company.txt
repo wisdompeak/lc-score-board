@@ -84,6 +84,7 @@ kuailema9089 Amazon
 ceaxyz Amazon
 mfk443838746 Amazon
 zexingfa Amzaon
+masdc98 AnyScale
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
@@ -97,7 +98,6 @@ mangoman Atlassian
 liujiashun66 BNYMellon
 SaveThePlanet Block
 sukeyzhou Bloomberg
-zk299 Bloomberg
 fuxuemingzhu ByteDance
 sijin ByteDance
 nagato1208 ByteDance
@@ -116,6 +116,7 @@ hjx2016 ByteDance
 rookie0080 ByteDance
 herzog_ ByteDance
 izackwu ByteDance
+upupming ByteDance
 tommyjiang ByteDance
 huanglanzhiguan ByteDance
 jdeptct ByteDance
@@ -161,6 +162,7 @@ thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
 owen2 Facebook
+qinzhe Facebook
 henghaaya Goldman
 xy1995cn Goldman
 tsunamixiao Goldman
@@ -398,7 +400,10 @@ WinKKKKy TigerGraph
 fengw7 Tiktok
 guyang123 Tiktok
 wyz565169669 Tiktok
+bttsv Tiktok
+changyu_jiang Tiktok
 ruizhewu Tinder
+zk299 TwoSigma
 l90095z Uber
 yuhwu Uber
 jingwenxxx Uber

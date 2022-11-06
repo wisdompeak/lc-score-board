@@ -45,7 +45,6 @@ yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
 rayms 12/31/2020 B
 hc167 01/01/2021 A
-zk299 01/03/2021 A
 yuanlu0210 01/10/2021 B
 nickee1942 01/10/2021 B
 REED_W 01/20/2021 B
@@ -53,7 +52,6 @@ Kamikakushi 01/26/2021 A
 htkzmo 02/28/2021 A
 delphih 03/05/2021 B
 nyu_ldf 04/17/2021 B
-upupming 05/02/2021 A
 ryanwong0127 05/02/2021 A
 insomniacat 05/04/2021 B
 zrts 05/06/2021 B
@@ -93,7 +91,6 @@ AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
 chiakimio 11/29/2021 B
 Time-limit-exceed 12/07/2021 A
-dickbomb 12/09/2021 B
 ocavue 12/19/2021 B
 iofu728 12/31/2021 B
 axlsdtkl 01/02/2022 B
@@ -123,7 +120,6 @@ silencea 03/08/2022 B
 annoyingpatrick 03/12/2022 B
 kpole 03/13/2022 A
 kirasj 03/18/2022 A
-masdc98 03/23/2022 A
 wbbssr 03/27/2022 A
 CrhnbP 04/03/2022 A
 gude8997 04/05/2022 A
@@ -203,3 +199,8 @@ clairehe10 10/26/2022 B
 deadstorm 10/27/2022 B
 qinzhe 10/28/2022 A
 bttsv 10/29/2022 B
+wfnuser 10/31/2022 A
+cqfu728 10/31/2022 B
+ggbobo 11/02/2022 B
+shannonl 11/03/2022 A
+user2550l 11/03/2022 B

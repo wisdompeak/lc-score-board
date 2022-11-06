@@ -1989,7 +1989,7 @@ for contest in range(235,314+1):
 ## before 316	
 for contest in range(118,315+1): 	
 	data["jmyanxiang"][str(contest)]=[-2,0]
-'''
+
 ## before 317	
 for contest in range(118,316+1): 	
 	data["lei-feng-lfss"][str(contest)]=[-2,0]
@@ -1998,6 +1998,16 @@ for contest in range(118,316+1):
 	data["qinzhe"][str(contest)]=[-2,0]
 for contest in range(316,316+1): 	
 	data["Kaiyu-Wang"][str(contest)]=[-2,0] # rejoin
+'''
+
+## before 318	
+for contest in range(118,317+1): 	
+	data["cqfu728"][str(contest)]=[-2,0]
+	data["ggbobo"][str(contest)]=[-2,0]
+	data["shannonl"][str(contest)]=[-2,0]
+	data["user2550l"][str(contest)]=[-2,0]
+for contest in range(282,317+1): 	
+	data["wfnuser"][str(contest)]=[-2,0] # rejoin	
 
 # data['jdeptct'] = data['peichaoD']
 # data.pop('peichaoD')
@@ -2210,7 +2220,8 @@ contests["313"] = 16724
 contests["314"] = 14499
 contests["315"] = 17284
 contests["316"] = 14824
-contests["317"] = 15830
+contests["317"] = 15776
+contests["318"] = 15883
 
 json_str = json.dumps(contests)
 
