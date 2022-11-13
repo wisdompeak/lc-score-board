@@ -1998,7 +1998,6 @@ for contest in range(118,316+1):
 	data["qinzhe"][str(contest)]=[-2,0]
 for contest in range(316,316+1): 	
 	data["Kaiyu-Wang"][str(contest)]=[-2,0] # rejoin
-'''
 
 ## before 318	
 for contest in range(118,317+1): 	
@@ -2008,6 +2007,21 @@ for contest in range(118,317+1):
 	data["user2550l"][str(contest)]=[-2,0]
 for contest in range(282,317+1): 	
 	data["wfnuser"][str(contest)]=[-2,0] # rejoin	
+'''
+
+## before 319	
+for contest in range(316,318+1): 	
+	data["LeeShengkai"][str(contest)]=[-2,0] # rejoin	
+for contest in range(293,318+1): 	
+	data["aChris"][str(contest)]=[-2,0] # rejoin	
+for contest in range(248,318+1): 	
+	data["lwh14710"][str(contest)]=[-2,0] # rejoin	
+for contest in range(151,318+1): 	
+	data["song30"][str(contest)]=[-2,0] # rejoin	
+for contest in range(200,318+1): 	
+	data["clu9"][str(contest)]=[-2,0] # rejoin
+for contest in range(208,318+1): 	
+	data["qingqi_lei"][str(contest)]=[-2,0] # rejoin
 
 # data['jdeptct'] = data['peichaoD']
 # data.pop('peichaoD')
@@ -2221,7 +2235,8 @@ contests["314"] = 14499
 contests["315"] = 17284
 contests["316"] = 14824
 contests["317"] = 15776
-contests["318"] = 15883
+contests["318"] = 15723
+contests["319"] = 16533
 
 json_str = json.dumps(contests)
 
