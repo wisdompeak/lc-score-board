@@ -2021,7 +2021,7 @@ for contest in range(200,318+1):
 	data["clu9"][str(contest)]=[-2,0] # rejoin
 for contest in range(208,318+1): 	
 	data["qingqi_lei"][str(contest)]=[-2,0] # rejoin
-'''
+
 ## before 320	
 for contest in range(278,319+1): 	
 	data["FreshBing"][str(contest)]=[-2,0] # rejoin
@@ -2029,6 +2029,10 @@ for contest in range(303,319+1):
 	data["zyx-37"][str(contest)]=[-2,0] # rejoin
 for contest in range(215,319+1): 	
 	data["Charles000"][str(contest)]=[-2,0] # rejoin
+'''
+## before 321	
+for contest in range(118,320+1): 	
+	data["ExRoc"][str(contest)]=[-2,0]
 
 # data['jdeptct'] = data['peichaoD']
 # data.pop('peichaoD')
@@ -2244,7 +2248,8 @@ contests["316"] = 14824
 contests["317"] = 15776
 contests["318"] = 15723
 contests["319"] = 15149
-contests["320"] = 13916
+contests["320"] = 13908
+contests["321"] = 12958
 
 json_str = json.dumps(contests)
 
