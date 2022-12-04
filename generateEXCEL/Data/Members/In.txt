@@ -137,14 +137,12 @@ freya-6 06/01/2022 A
 ak-bot 06/01/2022 B
 terencewongcs 06/03/2022 A
 xiaojian9527 06/04/2022 B
-mike1234421 06/16/2022 A
 LeaFZ96 06/17/2022 A
 hjx2016 06/17/2022 B
 piangqsq 06/18/2022 B
 maoshijie20 06/22/2022 B
 QinhaoChang 06/27/2022 B
 tsreaper 06/27/2022 A
-Yuhan-Lu 07/01/2022 A
 xiaoxiaobaozi 07/01/2022 A
 bill04128682 07/02/2022 A
 ddoudle 07/02/2022 A
@@ -153,7 +151,6 @@ luyangg 07/07/2022 B
 ShangqiYang 07/07/2022 B
 BestQian 07/07/2022 A
 yangxm 07/09/2022 B
-fairyfxt 07/14/2022 B
 andyzhaoxs 07/15/2022 B
 LeetCoding_Pro 07/16/2022 A
 user2001MS 07/17/2022 B
@@ -174,7 +171,6 @@ lukeiscoding 08/30/2022 A
 dj3013158 08/30/2022 B
 981377660LMT 09/01/2022 A
 zjuturtle 09/09/2022 B
-Mooophy 09/19/2022 A
 bangbangwo 09/24/2022 B
 uilnauyis_DP 09/26/2022 A
 deepli 09/30/2022 B
@@ -185,7 +181,6 @@ Kaiyu-Wang 10/24/2022 A
 deadstorm 10/27/2022 B
 qinzhe 10/28/2022 A
 bttsv 10/29/2022 B
-wfnuser 10/31/2022 A
 cqfu728 10/31/2022 B
 ggbobo 11/02/2022 B
 shannonl 11/03/2022 A

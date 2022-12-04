@@ -2029,10 +2029,11 @@ for contest in range(303,319+1):
 	data["zyx-37"][str(contest)]=[-2,0] # rejoin
 for contest in range(215,319+1): 	
 	data["Charles000"][str(contest)]=[-2,0] # rejoin
-'''
+
 ## before 321	
 for contest in range(118,320+1): 	
 	data["ExRoc"][str(contest)]=[-2,0]
+'''
 
 # data['jdeptct'] = data['peichaoD']
 # data.pop('peichaoD')
@@ -2250,6 +2251,7 @@ contests["318"] = 15723
 contests["319"] = 15149
 contests["320"] = 13908
 contests["321"] = 12958
+contests["322"] = 13503
 
 json_str = json.dumps(contests)
 
