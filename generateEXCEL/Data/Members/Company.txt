@@ -267,6 +267,7 @@ hzhang216 Google
 remfzh Google
 weeeed Google
 alastian Google
+oli_mbp Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -402,6 +403,7 @@ sam_lee_ Tencent
 playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
+clu9 Tesla
 WinKKKKy TigerGraph
 fengw7 Tiktok
 guyang123 Tiktok

@@ -95,6 +95,7 @@ def changeContents(content):
     content = content.replace("TigerGraph-Logo","<img src='Img/TigerGraph.png' height=12>")
     content = content.replace("JumpTrade-Logo","<img src='Img/JumpTrade.jpeg' height=12>")
     content = content.replace("MetaBit-Logo","<img src='Img/MetaBit.jpeg' height=12>")
+    content = content.replace("Waymo-Logo","<img src='Img/Waymo.png' height=12>")
 
     content = content.replace("YouXiu-Logo","<img src='Img/YouXiuLogo.png' width=64 height=64>")
 
