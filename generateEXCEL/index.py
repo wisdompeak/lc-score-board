@@ -292,10 +292,10 @@ for i in range(len(id_list)):
   sheet[idx].alignment = Alignment(horizontal='center',vertical='center')  
   if (i%2==0):
     sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
-  if (SubGroup[table[i][0]]=='A'):
-    sheet[idx].font = Font(bold=True, size=SIZE)       
-  else:
-    sheet[idx].font = Font(bold=True, size=SIZE, color='A30000')       
+  # if (SubGroup[table[i][0]]=='A'):
+  #   sheet[idx].font = Font(bold=True, size=SIZE)       
+  # else:
+  #   sheet[idx].font = Font(bold=True, size=SIZE, color='A30000')       
     
   name = table[i][0] 
   
