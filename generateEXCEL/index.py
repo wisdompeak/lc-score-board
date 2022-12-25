@@ -63,8 +63,6 @@ id_list = [line.strip() for line in fi.readlines()]
 fi.close()   	
 
 # compute scores
-GroupA = []
-GroupB = []
 table = []
 for personID in id_list:  
   row = [personID] 
@@ -101,9 +99,6 @@ for personID in id_list:
   for x in row[1:]: newRow.append(x)
       
   table.append(newRow)  
-
-  if SubGroup[personID]=='A': GroupA.append(RollingScore)
-  else: GroupB.append(RollingScore)
 
 table = sorted(table, key = lambda x:x[3], reverse = True)  
 
@@ -292,10 +287,7 @@ for i in range(len(id_list)):
   sheet[idx].alignment = Alignment(horizontal='center',vertical='center')  
   if (i%2==0):
     sheet[idx].fill = PatternFill("solid", fgColor='EAEAEA')     
-  # if (SubGroup[table[i][0]]=='A'):
-  #   sheet[idx].font = Font(bold=True, size=SIZE)       
-  # else:
-  #   sheet[idx].font = Font(bold=True, size=SIZE, color='A30000')       
+  sheet[idx].font = Font(bold=True, size=SIZE)       
     
   name = table[i][0] 
   
@@ -543,7 +535,4 @@ sheet[idx].value = 'curve-figure'
 ############################
 print("index.xlsx generated.")
 wb.save('index.xlsx')    	
-
-print("Group A avg: ",sum(GroupA)/len(GroupA))
-print("Group B avg: ",sum(GroupB)/len(GroupB))
 
