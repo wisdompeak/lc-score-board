@@ -301,6 +301,7 @@ visionary_sg LinkedIn
 wqricardo LinkedIn
 skd233 LinkedIn
 tainule LinkedIn
+Terry95 Lucid
 huangfq07 Lyft
 richarddia MathWorks
 li-jinze Meituan
@@ -408,7 +409,6 @@ WinKKKKy TigerGraph
 fengw7 Tiktok
 guyang123 Tiktok
 wyz565169669 Tiktok
-bttsv Tiktok
 changyu_jiang Tiktok
 jichuanz Tiktok
 ruizhewu Tinder
