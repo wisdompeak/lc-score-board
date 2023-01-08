@@ -2041,22 +2041,20 @@ for contest in range(277,322+1):
 ## before 324	
 for contest in range(141,323+1): 	
 	data["qianchanger"][str(contest)]=[-2,0] # rejoin
-'''
+
 ## before 325
 for contest in range(118,324+1): 	
 	data["PUXI"][str(contest)]=[-2,0]
 	data["mmy666"][str(contest)]=[-2,0]
 	data["HugeX"][str(contest)]=[-2,0]
 
-
 ## before 326
 for contest in range(118,325+1): 	
 	data["Sariabell"][str(contest)]=[-2,0]
 	data["yaoyi92"][str(contest)]=[-2,0]
-	data["DawnMagnet"][str(contest)]=[-2,0]
+	data["dawnmagnet"][str(contest)]=[-2,0]
 	data["JSTM2022"][str(contest)]=[-2,0]
 	data["sampleaccountpage"][str(contest)]=[-2,0]
-	data["PUXI"][str(contest)]=[-2,0]
 	data["PUXI"][str(contest)]=[-2,0]
 for contest in range(317,325+1): 	
 	data["kingsleycode"][str(contest)]=[-2,0] # rejoin
@@ -2064,6 +2062,19 @@ for contest in range(300,325+1):
 	data["Oyyko"][str(contest)]=[-2,0] # rejoin	
 for contest in range(324,325+1): 	
 	data["hjx2016"][str(contest)]=[-2,0] # rejoin	
+'''
+
+## before 327
+for contest in range(118,326+1): 	
+	data["pleasepickme"][str(contest)]=[-2,0]
+	data["mike-meng"][str(contest)]=[-2,0]
+	data["ytongxx"][str(contest)]=[-2,0]
+for contest in range(325,326+1): 	
+	data["Shirleyyu669"][str(contest)]=[-2,0] # rejoin	
+for contest in range(320,326+1): 	
+	data["alastian"][str(contest)]=[-2,0] # rejoin	
+for contest in range(315,326+1): 	
+	data["klutzCoder"][str(contest)]=[-2,0] # rejoin	
 
 # data['jdeptct'] = data['peichaoD']
 # data.pop('peichaoD')
@@ -2285,7 +2296,8 @@ contests["322"] = 13425
 contests["323"] = 11415
 contests["324"] = 10945
 contests["325"] = 9378
-contests["326"] = 10543
+contests["326"] = 10542
+contests["327"] = 15273
 
 json_str = json.dumps(contests)
 
