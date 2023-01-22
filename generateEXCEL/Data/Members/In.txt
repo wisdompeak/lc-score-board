@@ -146,7 +146,6 @@ LeetCoding_Pro 07/16/2022 A
 user2001MS 07/17/2022 B
 kl649 07/17/2022 B
 ManuShi98 07/20/2022 A
-ZeRoLJ42 07/30/2022 A
 ch365 07/30/2022 B
 imsingee 08/07/2022 B
 Xiangcan 08/08/2022 A
@@ -172,7 +171,6 @@ OnMyOwn 11/09/2022 A
 qingqi_lei 11/12/2022 B
 FreshBing 11/12/2022 B
 zyx-37 11/12/2022 A
-Biteyou 12/05/2022 B
 qianchanger 12/11/2022 A
 PUXI 12/18/2022 B
 HugeX 12/22/2022 B
@@ -185,7 +183,6 @@ JSTM2022 12/27/2022 C
 sampleaccountpage 12/28/2022 C
 kingsleycode 12/31/2022 B
 ryanwong0127 12/31/2022 A
-pleasepickme 01/01/2023 C
 mike-meng 01/02/2023 C
 Shirleyyu669 01/03/2023 B
 alastian 01/03/2023 B
