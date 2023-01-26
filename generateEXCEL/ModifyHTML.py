@@ -102,6 +102,7 @@ def changeContents(content):
     content = content.replace("terms and regulations",'<a href="https://wisdompeak.github.io/lc-score-board/rules.html">terms and regulations</a>')
 
     content = content.replace("curve-figure","<img src='Img/curve.png'>")
+    content = content.replace("ranking-figure","<img src='Img/Rankings.png'>")
 
     content = content.replace("<title></title>","<title>残酷刷题群</title>")
 

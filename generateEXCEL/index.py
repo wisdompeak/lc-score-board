@@ -531,6 +531,14 @@ idx2 = convertToTitle(column+80)+str(row)
 sheet.merge_cells(idx+':'+idx2)
 sheet[idx].value = 'curve-figure'
 
+RowOffset += 2
+
+row, column = RowOffset, 1
+idx = convertToTitle(column)+str(row) 
+idx2 = convertToTitle(column+80)+str(row)
+sheet.merge_cells(idx+':'+idx2)
+sheet[idx].value = 'ranking-figure'
+
 
 ############################
 print("index.xlsx generated.")
