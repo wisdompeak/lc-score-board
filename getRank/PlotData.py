@@ -45,9 +45,10 @@ players = [0 for _ in range(firstContest, lastContest+1)]
 for user, v in contest_data.items():
     for contest_idx in range(firstContest,lastContest+1):
         if str(contest_idx) in contest_data[user] and contest_data[user][str(contest_idx)][0] > 0:
-            # score = (1 - contest_data[user][str(contest_idx)][0] / contest_meta[str(contest_idx)]) * 80 \
-            #         + contest_data[user][str(contest_idx)][1] * 5
-            score = contest_data[user][str(contest_idx)][0] / contest_meta[str(contest_idx)]
+            # score = contest_data[user][str(contest_idx)][0]
+			# score = (1 - contest_data[user][str(contest_idx)][0] / contest_meta[str(contest_idx)]) * 80 \
+			#          + contest_data[user][str(contest_idx)][1] * 5
+            score = contest_data[user][str(contest_idx)][0] / contest_meta[str(contest_idx)]			
             row_list.append((contest_idx, score))
             players[contest_idx-firstContest] += 1
 df = pd.DataFrame(index=np.arange(0,len(row_list)), columns=('week', 'score'))
@@ -64,18 +65,24 @@ ax.set_title('Global Ranking (Top Percentage) of all group members over the most
 ax.set_ylabel('Global Rank', fontsize=30)
 ax.set_xlabel("Note: Each dot represents a data point. A smaller pct means a higher rank. The box indicates the 25%, 50%, 75% percentiles of members in each game. ", fontsize=30)
 ax.yaxis.set_major_formatter(ticker.PercentFormatter(xmax=1, decimals=0))
-ax.yaxis.set_major_locator(FixedLocator([0.01, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7]))
-ax.set_ylim([0.8, 0])
+# ax.set_yscale("log")
+# ax.yaxis.set_major_locator(FixedLocator([1, 200, 500, 1000, 2000, 3000, 4000, 5000, 10000]))
+ax.yaxis.set_major_locator(FixedLocator([0.01, 0.1, 0.2, 0.3, 0.4, 0.5]))
+ax.set_ylim([0.5, 0.01])
+
 
 ax2.bar(list(range(0,52)), ak_by_contest, alpha=0.6)
 ax2.set_xlabel('\nWeekly Contest # '+str(firstContest)+'=> '+str(lastContest), fontsize=30)
-ax2.set_title('Number (bar) & Percentage (plot) of players who conquered all problems in a game', fontsize=30)
+ax2.set_title('Number & Percentage of players who conquered all problems in a game', fontsize=30)
 ax2.grid(linestyle='-.')
 ax2.set_ylim([0, 200])
+ax2.tick_params(axis='y', color = 'b', labelcolor = 'tab:blue')
 
 ax3 = ax2.twinx()
-ax3.plot(ak_by_pct, linewidth='8', color='r')
+ax3.plot(ak_by_pct, linewidth='5', color='r')
 ax3.yaxis.set_major_formatter(ticker.PercentFormatter(xmax=1, decimals=0))
+ax3.tick_params(axis='y', color = 'r', labelcolor = 'r')
+
 
 for item in (ax.get_xticklabels() + ax.get_yticklabels()):
     item.set_fontsize(30)
