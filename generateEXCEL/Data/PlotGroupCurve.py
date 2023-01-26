@@ -88,8 +88,8 @@ plt.legend(loc = 'upper left', fontsize=20)
 
 plt.subplot(212)
 maxDay = 365*2
-n, bins, patches = plt.hist(x=PeopleStatOut, bins='auto', label = 'Quited', color='steelblue', alpha=0.7, rwidth=0.85)
-plt.hist(x=PeopleStatIn, bins='auto', label = 'Current', color='#FF1B1B', alpha=0.6, rwidth=0.45)
+n, bins, patches = plt.hist(x=PeopleStatOut, bins='auto', label = 'Past Members', color='steelblue', alpha=0.7, rwidth=0.85)
+plt.hist(x=PeopleStatIn, bins='auto', label = 'Current Members', color='#FF1B1B', alpha=0.6, rwidth=0.45)
 plt.grid(axis='y', alpha=0.75)
 
 tick1 = [x for x in range(0,maxDay+1,30)]
