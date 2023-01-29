@@ -11,7 +11,6 @@ xianglaniunan 04/21/2019 B
 wxy9018 04/22/2019 A
 thumbpixels 05/21/2019 A
 zac4 07/12/2019 A
-tommyjiang 08/04/2019 B
 KKKXY 08/13/2019 B
 OTTFF 08/27/2019 B
 angel30818 08/30/2019 A
@@ -83,7 +82,6 @@ lianxin_cn 10/20/2021 A
 Hogwartsss 10/28/2021 B
 fatyuan 11/01/2021 B
 kuailema9089 11/13/2021 A
-grcd 11/15/2021 A
 ceaxyz 11/24/2021 B
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
@@ -190,3 +188,7 @@ klutzCoder 01/03/2023 B
 bttsv 01/03/2023 C
 ytongxx 01/05/2023 C
 wangdh15 01/09/2023 A
+shuohe 01/22/2023 C
+Kode4Fun 01/22/2023 C
+mikeac 01/27/2023 C
+xy-li 01/28/2023 A
