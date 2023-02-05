@@ -110,7 +110,7 @@ table = sorted(table, key = lambda x:x[3], reverse = True)
 wb = openpyxl.Workbook()
 sheet = wb.active
 sheet.title = 'LeetCode Score Book'
-colorChoice = ['EAEAEA','ffe6c2',colors.YELLOW,colors.GREEN,'19b457','ffb261']
+colorChoice = ['EAEAEA','ffe6c2','ffff00','00FF00','19b457','ffb261']
 
 sheet.column_dimensions['B'].width = 25.0
 # sheet.column_dimensions['D'].width = 7.0
