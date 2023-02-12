@@ -81,7 +81,6 @@ answerer 10/20/2021 A
 lianxin_cn 10/20/2021 A
 Hogwartsss 10/28/2021 B
 fatyuan 11/01/2021 B
-kuailema9089 11/13/2021 A
 ceaxyz 11/24/2021 B
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
@@ -178,7 +177,6 @@ hjx2016 12/26/2022 B
 dawnmagnet 12/26/2022 C
 JSTM2022 12/27/2022 C
 sampleaccountpage 12/28/2022 C
-kingsleycode 12/31/2022 B
 ryanwong0127 12/31/2022 A
 mike-meng 01/02/2023 C
 Shirleyyu669 01/03/2023 B
@@ -191,3 +189,5 @@ shuohe 01/22/2023 C
 Kode4Fun 01/22/2023 C
 mikeac 01/27/2023 C
 xy-li 01/28/2023 A
+NaoJoeMiao 02/05/2023 A
+WeijieChen0_0 02/09/2023 C
