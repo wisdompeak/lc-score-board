@@ -2092,7 +2092,7 @@ for contest in range(256,331+1):
 
 # before 333
 for contest in range(325,332+1): 	
-	data["NaoJoeMiao"][str(contest)]=[-2,0] # rejoin
+	data["ggbobo"][str(contest)]=[-2,0] # rejoin
         
 # data['jdeptct'] = data['peichaoD']
 # data.pop('peichaoD')
