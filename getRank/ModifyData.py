@@ -2089,14 +2089,22 @@ for contest in range(312,331+1):
 for contest in range(256,331+1): 	
 	data["WeijieChen0_0"][str(contest)]=[-2,0] # rejoin     
 
-
 # before 333
 for contest in range(325,332+1): 	
 	data["ggbobo"][str(contest)]=[-2,0] # rejoin
 ''' 
 
-# data['jdeptct'] = data['peichaoD']
-# data.pop('peichaoD')
+# before 335
+for contest in range(118,334+1): 	
+	data["potatoY"][str(contest)]=[-2,0]
+for contest in range(317,334+1): 	
+	data["testimony2014"][str(contest)]=[-2,0] # rejoin
+for contest in range(269,334+1): 	
+	data["jam64"][str(contest)]=[-2,0] # rejoin
+
+
+# data['znhy'] = data['JSTM2022']
+# data.pop('JSTM2022')
 
 json_str = json.dumps(data)
 
@@ -2323,7 +2331,8 @@ contests["330"] = 13985
 contests["331"] = 14588
 contests["332"] = 15787
 contests["333"] = 13996
-contests["334"] = 15646
+contests["334"] = 15625
+contests["335"] = 15200
 
 json_str = json.dumps(contests)
 
