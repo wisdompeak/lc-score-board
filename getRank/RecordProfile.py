@@ -38,8 +38,10 @@ if __name__ == "__main__":
             profiles[user]["userContestRanking"]["rating"] = rating2
         print(profiles[user]["userContestRanking"]["rating"])
 
+
     json_str = json.dumps(profiles)
     with open('lc_profile_data.json', 'w') as f:
         json.dump(json_str, f)
+
 
 

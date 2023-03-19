@@ -39,7 +39,6 @@ zgtmy 10/17/2020 A
 lilydenris 10/17/2020 A
 owen2 10/24/2020 A
 Courtmouse 10/25/2020 B
-hongleyou 11/05/2020 A
 yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
 rayms 12/31/2020 B
@@ -83,7 +82,6 @@ fatyuan 11/01/2021 B
 ceaxyz 11/24/2021 B
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
-chiakimio 11/29/2021 B
 Time-limit-exceed 12/07/2021 A
 ocavue 12/19/2021 B
 iofu728 12/31/2021 B
@@ -93,7 +91,6 @@ mfk443838746 01/05/2022 B
 WKelvinson 01/09/2022 A
 Attttrx 01/10/2022 B
 zjbztianya 01/15/2022 A
-KurosuHa 01/17/2022 B
 lu-chen-chen 01/18/2022 B
 yu-niang-niang 01/18/2022 B
 dingmingcheng1 01/29/2022 B
@@ -131,7 +128,6 @@ tsreaper 06/27/2022 A
 bill04128682 07/02/2022 A
 luyangg 07/07/2022 B
 ShangqiYang 07/07/2022 B
-BestQian 07/07/2022 A
 yangxm 07/09/2022 B
 LeetCoding_Pro 07/16/2022 A
 user2001MS 07/17/2022 B
@@ -183,3 +179,4 @@ potatoY 02/26/2023 C
 testimony2014 02/28/2023 A
 jam64 03/01/2023 C
 ming032217 03/05/2023 C
+ruizhewu 03/12/2023 A

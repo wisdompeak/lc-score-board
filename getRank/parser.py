@@ -168,7 +168,7 @@ class LeetcodeParser2:
                 else:
                     success = True
                     result = json.loads(response.text)
-                    self.results[user] = result["data"]
+                    self.results[user] = result["data"]                    
                     if "errors" in result:
                         print(f"{user}\tis invalid.")
                     else:

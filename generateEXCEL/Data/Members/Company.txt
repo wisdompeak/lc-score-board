@@ -128,6 +128,7 @@ YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
 XingxingHuang Cruise
+chiakimio Ctrip
 ChelsieZ DataBricks
 alicila DataBricks
 CarlosTian DataBricks
@@ -166,6 +167,7 @@ OTTFF Facebook
 owen2 Facebook
 yangxm Facebook
 qinzhe Facebook
+hongleyou Fortinet
 henghaaya Goldman
 xy1995cn Goldman
 tsunamixiao Goldman
@@ -343,6 +345,7 @@ harttle Microsoft
 lbyxiafei Microsoft
 wwwap Microsoft
 cozlind Niantic
+BestQian OkCoin
 jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
@@ -392,6 +395,7 @@ ryanzhang29 Snapchat
 wxy9018 Snapchat
 Duuuuu SnowFlake
 wAgChen SnowFlake
+KurosuHa SnowFlake
 zzaym SnowFlake
 Peak_2250_MID_in_King-of-Glory SnowFlake
 mike1234421 Spotify
