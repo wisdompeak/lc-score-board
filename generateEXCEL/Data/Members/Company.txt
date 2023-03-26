@@ -133,6 +133,7 @@ ChelsieZ DataBricks
 alicila DataBricks
 CarlosTian DataBricks
 edisonnie Doordash
+WKelvinson DriveWealth
 fang2018 Dropbox
 yuanlu0210 Dropbox
 cc189 Ebay
@@ -269,6 +270,7 @@ remfzh Google
 weeeed Google
 alastian Google
 oli_mbp Google
+sheepforever Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -281,7 +283,6 @@ FightEveryDay Google
 Courtmouse Google
 lympanda Google
 lxhgww Google
-sheepforever Google
 kirasj Google
 Lisanaaa Grab
 SUPERJOSY Harness
@@ -349,7 +350,6 @@ BestQian OkCoin
 jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
-WKelvinson Oracle
 Ethan_M Oracle
 WarriorZ Oracle
 zyzz1234 Oracle
@@ -365,6 +365,7 @@ LeetCoding_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
 AkaBridge Palo-alto
+htkzmo PathAI
 xxz-leetcode Paypal
 zgcmx2011 Petuum
 biss PinDuoDuo
@@ -388,6 +389,7 @@ FYQiang Reflexis
 woshilxd912 Robinhood
 TRDample Robinhood
 thunderbolts Roblox
+sampleaccountpage SIG
 bifeitang Schlumberger
 Sato_Ken Shopee
 Evolut1on Snapchat

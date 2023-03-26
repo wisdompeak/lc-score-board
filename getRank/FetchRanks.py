@@ -52,8 +52,9 @@ def fetchRanking(contest,page):
             if line["username"] in id_set:
                 if len(submission) == 0: rank = -1
                 else: rank = line["rank"]
-                display.append([rank, line["username"], len(submission)])
-                data[line["username"]] = [rank, len(submission)]               
+                if line["username"] not in data or len(submission)!=0:
+                  display.append([rank, line["username"], len(submission)])
+                  data[line["username"]] = [rank, len(submission)]               
                 
         if len(display) == len(id_set): break
 
