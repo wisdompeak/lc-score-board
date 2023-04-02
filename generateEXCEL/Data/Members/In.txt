@@ -37,7 +37,6 @@ zhangsz1998 09/21/2020 B
 hanzhoutang 10/11/2020 A
 zgtmy 10/17/2020 A
 lilydenris 10/17/2020 A
-owen2 10/24/2020 A
 Courtmouse 10/25/2020 B
 yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
@@ -128,12 +127,10 @@ user2001MS 07/17/2022 B
 kl649 07/17/2022 B
 imsingee 08/07/2022 B
 Xiangcan 08/08/2022 A
-user5807Wf 08/15/2022 A
 xymabinogi 08/23/2022 A
 zapkmsd 08/24/2022 B
 lukeiscoding 08/30/2022 A
 dj3013158 08/30/2022 B
-zjuturtle 09/09/2022 B
 bangbangwo 09/24/2022 B
 uilnauyis_DP 09/26/2022 A
 deepli 09/30/2022 B
@@ -172,4 +169,3 @@ jam64 03/01/2023 C
 ming032217 03/05/2023 C
 ruizhewu 03/12/2023 A
 lwy202898 03/19/2023 C
-CQQQQQQ 03/20/2023 B
