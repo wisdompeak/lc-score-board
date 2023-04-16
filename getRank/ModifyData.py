@@ -2110,8 +2110,20 @@ for contest in range(297,336+1):
 	data["ruizhewu"][str(contest)]=[-2,0] # rejoin
 '''    
 
-# data['FighterNanReborn'] = data['FighterNan']
-# data.pop('FighterNan')
+# before 338
+for contest in range(118,337+1): 	
+	data["lwy202898"][str(contest)]=[-2,0] # rejoin
+
+# before 340
+for contest in range(118,339+1): 	
+	data["atom-w94l9"][str(contest)]=[-2,0] # rejoin
+
+# before 341
+for contest in range(297,340+1): 	
+	data["SaveThePlanet"][str(contest)]=[-2,0] # rejoin
+
+# data['Qianqian2018'] = data['lbyxiafei']
+# data.pop('lbyxiafei')
 
 
 json_str = json.dumps(data)
@@ -2345,7 +2357,8 @@ contests["336"] = 12027
 contests["337"] = 16732
 contests["338"] = 12374
 contests["339"] = 13855
-contests["340"] = 13033
+contests["340"] = 12835
+contests["341"] = 14962
 
 json_str = json.dumps(contests)
 
