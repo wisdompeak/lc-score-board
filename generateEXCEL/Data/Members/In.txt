@@ -51,7 +51,6 @@ zrts 05/06/2021 B
 goodstudyqaq 05/08/2021 A
 Tyrande 05/16/2021 B
 perry304 05/17/2021 B
-thinkiny 05/18/2021 B
 SupervisorMayHap 07/01/2021 B
 Yao_Yin 07/10/2021 A
 27rabbitlt 07/11/2021 B
@@ -140,7 +139,6 @@ Sariabell 12/25/2022 C
 yaoyi92 12/26/2022 C
 dawnmagnet 12/26/2022 C
 znhy 12/27/2022 C
-ryanwong0127 12/31/2022 A
 mike-meng 01/02/2023 C
 alastian 01/03/2023 B
 bttsv 01/03/2023 C
@@ -164,3 +162,5 @@ BestQian 04/19/2023 A
 luckyboylxc 04/20/2023 C
 abawlau 04/24/2023 C
 tao_mi 04/26/2023 C
+ryanwong0127 05/02/2023 A
+hjx2016 05/05/2023 B
