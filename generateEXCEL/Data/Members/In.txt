@@ -18,7 +18,6 @@ jason_wong1 09/10/2019 B
 endlesscheng 10/25/2019 A
 huanglanzhiguan 12/30/2019 A
 venico19 01/04/2020 B
-miguelmac 01/08/2020 A
 harttle 01/18/2020 B
 FighterNanReborn 02/09/2020 B
 lozy219 02/14/2020 B
@@ -103,7 +102,6 @@ meyi 04/16/2022 A
 Pisces311 05/07/2022 A
 Fzldq 05/17/2022 B
 wayjiang 05/18/2022 B
-fwang 05/30/2022 A
 ak-bot 06/01/2022 B
 xiaojian9527 06/04/2022 B
 LeaFZ96 06/17/2022 A
@@ -152,7 +150,6 @@ testimony2014 02/28/2023 A
 jam64 03/01/2023 C
 ruizhewu 03/12/2023 A
 atom-w94l9 04/02/2023 C
-SaveThePlanet 04/10/2023 C
 wawawamei 04/16/2023 C
 sunsq 04/17/2023 C
 jeemzz147 04/19/2023 B
@@ -162,3 +159,6 @@ abawlau 04/24/2023 C
 ryanwong0127 05/02/2023 A
 hjx2016 05/05/2023 B
 AulySun 05/06/2023 C
+qinzhe 05/14/2023 A
+liulaoye135 05/16/2023 B
+user2001MS 05/20/2023 B

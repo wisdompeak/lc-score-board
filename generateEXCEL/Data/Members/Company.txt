@@ -124,6 +124,7 @@ upupming ByteDance
 huanglanzhiguan ByteDance
 jdeptct ByteDance
 REED_W ByteDance
+yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
@@ -402,6 +403,7 @@ KurosuHa SnowFlake
 zzaym SnowFlake
 Peak_2250_MID_in_King-of-Glory SnowFlake
 mike1234421 Spotify
+SaveThePlanet Square
 Memoria Stripe
 thu_winfield Tencent
 FrankYao Tencent
@@ -436,7 +438,6 @@ kaihaohust Walmart
 fangdanzai Walmart
 lukeiscoding Walmart
 ming032217 WatchDog
-yinghuahu Wayfair
 Kaiyu-Wang Waymo
 yuchenliulyc Wish
 goodstudyqaq Wish
