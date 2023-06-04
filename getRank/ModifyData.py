@@ -2148,13 +2148,12 @@ for contest in range(118,344+1):
 # before 346
 for contest in range(343,345+1): 	
 	data["user2001MS"][str(contest)]=[-2,0] # rejoin
-'''  
+ 
 
 # before 347
 for contest in range(118,346+1): 	
 	data["feibonaqixu"][str(contest)]=[-2,0]
-
-data["feibonaqixu"]['347']=[3854,3]
+''' 
 
 
 # data['Qianqian2018'] = data['lbyxiafei']
@@ -2399,7 +2398,8 @@ contests["343"] = 9178
 contests["344"] = 13017
 contests["345"] = 12662
 contests["346"] = 14996
-contests["347"] = 16211
+contests["347"] = 16209
+contests["348"] = 16598
 
 json_str = json.dumps(contests)
 
