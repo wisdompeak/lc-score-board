@@ -41,7 +41,7 @@ class LeetcodeParser:
                 self.session.close()
             else:
                 # Get xpid
-                self.xpid = re.search(r"loader_config={xpid:\"(\S+?)\"", response.text).groups()[0]
+                # self.xpid = re.search(r"loader_config={xpid:\"(\S+?)\"", response.text).groups()[0]
 
                 # Success and exit
                 break
