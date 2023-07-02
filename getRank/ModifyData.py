@@ -2166,12 +2166,19 @@ for contest in range(338,349+1):
 	data["Oyyko"][str(contest)]=[-2,0] # rejoin
 for contest in range(321,349+1): 	
 	data["wangyxwyx"][str(contest)]=[-2,0] # rejoin
-''' 
 
 # before 351
 for contest in range(118,350+1): 	
     data["sfburui"][str(contest)]=[-2,0]
+''' 
 
+# before 352
+for contest in range(118,351+1): 	
+    data["user1679lR"][str(contest)]=[-2,0]
+    
+for contest in range(314,351+1): 	
+	data["zeningc"][str(contest)]=[-2,0] # rejoin	
+    
 # data['Qianqian2018'] = data['lbyxiafei']
 # data.pop('lbyxiafei')
 
@@ -2418,7 +2425,8 @@ contests["347"] = 16209
 contests["348"] = 16352
 contests["349"] = 18053
 contests["350"] = 17043
-contests["351"] = 12699
+contests["351"] = 14264
+contests["352"] = 14077
 
 json_str = json.dumps(contests)
 
