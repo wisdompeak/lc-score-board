@@ -128,7 +128,6 @@ yaoyi92 12/26/2022 C
 dawnmagnet 12/26/2022 C
 mike-meng 01/02/2023 C
 alastian 01/03/2023 B
-bttsv 01/03/2023 C
 ytongxx 01/05/2023 C
 wangdh15 01/09/2023 A
 shuohe 01/22/2023 C
@@ -147,7 +146,6 @@ luckyboylxc 04/20/2023 C
 abawlau 04/24/2023 C
 ryanwong0127 05/02/2023 A
 hjx2016 05/05/2023 B
-AulySun 05/06/2023 C
 qinzhe 05/14/2023 A
 liulaoye135 05/16/2023 B
 user2001MS 05/20/2023 B
