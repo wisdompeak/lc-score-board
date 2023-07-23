@@ -127,6 +127,7 @@ zjbztianya ByteDance
 huanglanzhiguan ByteDance
 jdeptct ByteDance
 REED_W ByteDance
+Xiangcan ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
