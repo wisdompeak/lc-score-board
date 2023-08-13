@@ -2193,7 +2193,6 @@ for contest in range(354,354+1):
 # before 356
 for contest in range(118,355+1): 	
     data["pang-zi-ai-chui-niu"][str(contest)]=[-2,0]
-''' 
 
 # before 357
 for contest in range(118,356+1): 	
@@ -2202,6 +2201,14 @@ for contest in range(354,356+1):
     data["deepli"][str(contest)]=[-2,0]    # rejoin	
 for contest in range(351,356+1): 	
     data["uilnauyis_DP"][str(contest)]=[-2,0]    # rejoin	    
+''' 
+
+# before 358
+for contest in range(118,357+1): 	
+    data["ZJU_Rookie"][str(contest)]=[-2,0]
+    data["cy171"][str(contest)]=[-2,0]
+
+print(data["cy171"])
 
 
 # data['Qianqian2018'] = data['lbyxiafei']
@@ -2456,7 +2463,8 @@ contests["353"] = 17838
 contests["354"] = 18156
 contests["355"] = 17299
 contests["356"] = 19667
-contests["357"] = 20034
+contests["357"] = 19963
+contests["358"] = 18108
 
 json_str = json.dumps(contests)
 
