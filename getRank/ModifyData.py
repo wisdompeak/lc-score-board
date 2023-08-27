@@ -2206,15 +2206,30 @@ for contest in range(351,356+1):
 for contest in range(118,357+1): 	
     data["ZJU_Rookie"][str(contest)]=[-2,0]
     data["cy171"][str(contest)]=[-2,0]
-''' 
 
 # before 359
 for contest in range(118,358+1): 	
     data["minyilin0107"][str(contest)]=[-2,0]
-    
+
+# before 360
+for contest in range(359,359+1): 	
+    data["WRWRW"][str(contest)]=[-2,0]
+
+data["pandaforever"] = data["lympanda"]
+data["nafnil"] = data["freya-6"]
+for contest in range(118,358+1): 	
+	data["pandaforever"][str(contest)] = data["lympanda"][str(contest)]
+for contest in range(336,358+1): 	        
+    data["nafnil"][str(contest)] = [-2,0]
+data.pop('lympanda')
+data.pop('freya-6')
+''' 
+
 
 # data['Qianqian2018'] = data['lbyxiafei']
 # data.pop('lbyxiafei')
+
+
 
 
 json_str = json.dumps(data)
@@ -2467,7 +2482,8 @@ contests["355"] = 17299
 contests["356"] = 19667
 contests["357"] = 19963
 contests["358"] = 17746
-contests["359"] = 20781
+contests["359"] = 20587
+contests["360"] = 19254
 
 json_str = json.dumps(contests)
 
