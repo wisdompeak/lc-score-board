@@ -2225,6 +2225,15 @@ data.pop('lympanda')
 data.pop('freya-6')
 ''' 
 
+# before 361
+for contest in range(118,360+1): 	
+    data["maggie_ruimin_zhao"][str(contest)]=[-2,0]
+    data["BettyLiang"][str(contest)]=[-2,0]
+for contest in range(339,360+1): 	
+    data["user5807Wf"][str(contest)]=[-2,0]    # rejoin	       
+for contest in range(351,360+1): 	
+    data["billhehe"][str(contest)]=[-2,0]    # rejoin	   
+	
 
 # data['Qianqian2018'] = data['lbyxiafei']
 # data.pop('lbyxiafei')
@@ -2483,7 +2492,8 @@ contests["356"] = 19667
 contests["357"] = 19963
 contests["358"] = 17746
 contests["359"] = 20587
-contests["360"] = 19254
+contests["360"] = 19239
+contests["361"] = 18800
 
 json_str = json.dumps(contests)
 
