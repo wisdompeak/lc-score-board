@@ -124,10 +124,10 @@ zyx-37 ByteDance
 izackwu ByteDance
 upupming ByteDance
 zjbztianya ByteDance
+Xiangcan ByteDance
 huanglanzhiguan ByteDance
 jdeptct ByteDance
 REED_W ByteDance
-Xiangcan ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
@@ -147,6 +147,7 @@ liulaoye135 Ebay
 aChris Ebay
 lwh14710 Ebay
 Kamikakushi Ebay
+maggie_ruimin_zhao Ebay
 wankew Expedia
 shuoyan F5Networks
 tclu82 Facebook
