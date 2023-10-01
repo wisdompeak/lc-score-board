@@ -17,7 +17,8 @@ def fetchRanking(contest,page):
     page = int(kwargs.page)
     """
     
-    url = "https://leetcode.com/contest/api/ranking/weekly-contest-%d/?pagination=%d"
+    # url = "https://leetcode.com/contest/api/ranking/weekly-contest-%d/?pagination=%d"
+    url = "https://leetcode.cn/contest/api/ranking/weekly-contest-%d/?pagination=%d"
 
     # Read user ids
     fi = open('id.in', 'r')
@@ -30,6 +31,8 @@ def fetchRanking(contest,page):
     
     # curl rank
     start, end = 1, page
+    total_player = 0
+
     for i in range(start, end + 1):
         print("curl " + url % (contest, i))
         success = 0
@@ -46,21 +49,30 @@ def fetchRanking(contest,page):
         submissions = json.loads(str_response)['submissions']        
         
         N = len(total_rank)        
+        should_stop = False
         for i in range(N):
             line = total_rank[i]
             submission = submissions[i]
+            if len(submission) == 0: 
+               should_stop = True
+               break
+            total_player += 1
+
             if line["username"] in id_set:
                 if len(submission) == 0: rank = -1
                 else: rank = line["rank"]
                 if line["username"] not in data or len(submission)!=0:
                   display.append([rank, line["username"], len(submission)])
-                  data[line["username"]] = [rank, len(submission)]               
+                  data[line["username"]] = [rank, len(submission)]                     
                 
-        if len(display) == len(id_set): break
+        if should_stop: break
+        
 
     # Output result
     
     print("\n******** search done ************\n")  
+
+    print("Total players:", total_player)
     
     display = sorted(display)
         
