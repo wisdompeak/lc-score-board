@@ -2261,14 +2261,15 @@ for contest in range(322,364+1):
 for contest in range(324,365+1): 	
     data["oli_mbp"][str(contest)]=[-2,0]    # rejoin	  
     
-'''
-
 # before 367
 for contest in range(365,366+1): 	
     data["oli_mbp"][str(contest)]=[-2,0]    # rejoin	 
+
     
-# data['andy-lc'] = data['Andy-math']
-# data.pop('Andy-math')
+data['peicd7699'] = data['jdeptct']
+data.pop('jdeptct')
+data['peicd7699']['368'] = [624, 3]
+'''
 
 json_str = json.dumps(data)
 
@@ -2528,7 +2529,10 @@ contests["363"] = 18584
 contests["364"] = 17085
 contests["365"] = 15565
 contests["366"] = 19304
-contests["367"] = 18056
+contests["367"] = 18055
+contests["368"] = 15939
+
+
 
 json_str = json.dumps(contests)
 
