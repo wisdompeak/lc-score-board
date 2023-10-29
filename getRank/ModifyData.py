@@ -2264,12 +2264,28 @@ for contest in range(324,365+1):
 # before 367
 for contest in range(365,366+1): 	
     data["oli_mbp"][str(contest)]=[-2,0]    # rejoin	 
-
-    
-data['peicd7699'] = data['jdeptct']
-data.pop('jdeptct')
-data['peicd7699']['368'] = [624, 3]
 '''
+
+# before 369
+for contest in range(320,368+1): 	
+    data["zpzpzzp2020"][str(contest)]=[-2,0]    # rejoin	 
+for contest in range(362,368+1): 	
+    data["zyx-37"][str(contest)]=[-2,0]    # rejoin	 
+for contest in range(350,368+1): 	    
+    data["zjbztianya"][str(contest)]=[-2,0]    # rejoin	 
+for contest in range(118,368+1): 	
+    data["Meerka_"][str(contest)]=[-2,0]    
+
+data["maggie_ruimin_zhao"]['361']=[1295,3]
+data["maggie_ruimin_zhao"]['362']=[5165,2]
+data["maggie_ruimin_zhao"]['363']=[2561,3]
+        
+
+
+
+# data['peicd7699'] = data['jdeptct']
+# data.pop('jdeptct')
+# data['peicd7699']['368'] = [624, 3]
 
 json_str = json.dumps(data)
 
@@ -2531,6 +2547,7 @@ contests["365"] = 15565
 contests["366"] = 19304
 contests["367"] = 18055
 contests["368"] = 15939
+contests["369"] = 13181
 
 
 

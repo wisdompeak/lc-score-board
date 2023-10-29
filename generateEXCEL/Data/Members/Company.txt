@@ -8,6 +8,7 @@ user4286 Alibaba
 kid1412z Alibaba
 klutzCoder Alibaba
 Hogwartsss Alibaba
+bugmaker2 Alibaba
 jzcheng Amazon
 Vicky_Owen Amazon
 ZhuYamei Amazon
@@ -101,6 +102,7 @@ weiliang515 Apple
 OneDirection Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
+zyx-37 Baidu
 cyzh Baidu
 kl649 Barclays
 sukeyzhou Bloomberg
@@ -121,7 +123,6 @@ zhichuan ByteDance
 hjx2016 ByteDance
 rookie0080 ByteDance
 herzog_ ByteDance
-zyx-37 ByteDance
 izackwu ByteDance
 upupming ByteDance
 zjbztianya ByteDance
@@ -303,6 +304,7 @@ siqiaochen ICANN
 wobuxihuannile Indeed
 YanJF Indeed
 ShidaLei Indeed
+Sato_Ken Indeed
 zhongqusc Instacart
 bill04128682 JumpTrade
 keyupeter KeepTruckin
@@ -402,7 +404,6 @@ TRDample Robinhood
 thunderbolts Roblox
 sampleaccountpage SIG
 bifeitang Schlumberger
-Sato_Ken Shopee
 AAlchemist Shunfeng
 Evolut1on Snapchat
 ryanzhang29 Snapchat
