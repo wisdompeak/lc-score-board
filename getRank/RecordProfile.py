@@ -15,10 +15,10 @@ if __name__ == "__main__":
     users = [name.strip() for name in open("id.in")]
     # users = ["wisdompeak","arignote"]
 
-    # lc_parser = LeetcodeParser(users, Config)
-    # lc_parser.parse()    
-    # profiles = lc_parser.results
-    # print("LC done")
+    lc_parser = LeetcodeParser(users, Config)
+    lc_parser.parse()    
+    profiles = lc_parser.results
+    print("LC done")
 
     lc_parser2 = LeetcodeParser2(users, Config2)
     lc_parser2.parse() 
