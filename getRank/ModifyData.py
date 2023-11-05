@@ -2280,7 +2280,7 @@ for contest in range(118,368+1):
 for contest in range(234,369+1): 	
     data["wxhelloworld"][str(contest)]=[-2,0]    # rejoin	 
         
-
+data["wxhelloworld"]['370']=[4050,2]
 
 
 # data['peicd7699'] = data['jdeptct']
