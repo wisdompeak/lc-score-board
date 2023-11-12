@@ -2274,13 +2274,15 @@ for contest in range(350,368+1):
     data["zjbztianya"][str(contest)]=[-2,0]    # rejoin	 
 for contest in range(118,368+1): 	
     data["Meerka_"][str(contest)]=[-2,0]    
-'''
 
 # before 370
 for contest in range(234,369+1): 	
     data["wxhelloworld"][str(contest)]=[-2,0]    # rejoin	 
-        
-data["wxhelloworld"]['370']=[4050,2]
+'''
+
+# before 371
+for contest in range(335,370+1): 	
+    data["Hogwartsss"][str(contest)]=[-2,0]    # rejoin	
 
 
 # data['peicd7699'] = data['jdeptct']
@@ -2549,6 +2551,7 @@ contests["367"] = 18055
 contests["368"] = 15939
 contests["369"] = 13181
 contests["370"] = 15860
+contests["371"] = 12839
 
 
 json_str = json.dumps(contests)
