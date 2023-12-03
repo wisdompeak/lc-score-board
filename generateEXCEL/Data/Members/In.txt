@@ -55,7 +55,6 @@ nirodha 09/12/2021 B
 fsyun 09/18/2021 A
 9caiji 09/18/2021 B
 cyzh 09/25/2021 B
-v-ger 10/03/2021 A
 haruhiui 10/12/2021 A
 nijiademianbao 10/14/2021 B
 hkhzzz 10/18/2021 B
@@ -112,7 +111,6 @@ jmyanxiang 10/17/2022 A
 Kaiyu-Wang 10/24/2022 A
 deadstorm 10/27/2022 B
 shannonl 11/03/2022 A
-user2550l 11/03/2022 B
 Sariabell 12/25/2022 C
 yaoyi92 12/26/2022 C
 mike-meng 01/02/2023 C
@@ -148,7 +146,6 @@ billhehe 08/29/2023 A
 a397704290 09/03/2023 C
 cybertan0349 09/03/2023 C
 ManuShi98 09/15/2023 A
-Oyyko 09/16/2023 B
 oli_mbp 10/02/2023 A
 mxc3 10/09/2023 B
 curiosity-10 10/14/2023 B
