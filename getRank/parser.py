@@ -133,7 +133,7 @@ class LeetcodeParser2:
 
     def parse(self):       
         for user in self.users:
-            referer = f"https://leetcode-cn.com/u/{user}/"
+            referer = f"https://leetcode.cn/u/{user}/"
 
             # json data for POST
             request_payload = copy.deepcopy(self.Config.GRAPHQL_JSON)
@@ -151,7 +151,7 @@ class LeetcodeParser2:
                 for _ in range(self.Config.GRAPHQL_ATTEMPTS):
                     try:
                         response = self.session.post(
-                            url="https://leetcode-cn.com/graphql",
+                            url="https://leetcode.cn/graphql",
                             headers=headers,
                             data=json.dumps(request_payload),
                             timeout=(9.05, 5),

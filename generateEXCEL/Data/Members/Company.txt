@@ -130,7 +130,6 @@ upupming ByteDance
 zjbztianya ByteDance
 Xiangcan ByteDance
 huanglanzhiguan ByteDance
-peicd7699 ByteDance
 REED_W ByteDance
 yinghuahu Chase
 am0320 Citadel
@@ -182,6 +181,7 @@ oaixuroab Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
+peicd7699 Facebook
 yangxm Facebook
 hongleyou Fortinet
 henghaaya Goldman

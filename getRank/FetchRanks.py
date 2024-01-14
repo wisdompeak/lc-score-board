@@ -59,6 +59,7 @@ def fetchRanking(contest,page):
             total_player += 1
 
             print(line)
+            # print(submission)
 
             if line["username"] in id_set:
                 if len(submission) == 0: rank = -1

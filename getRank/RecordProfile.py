@@ -20,23 +20,31 @@ if __name__ == "__main__":
     profiles = lc_parser.results
     print("LC done")
 
-    # lc_parser2 = LeetcodeParser2(users, Config2)
-    # lc_parser2.parse() 
-    # profiles2 = lc_parser2.results
-    # print("LCCN done")
+    lc_parser2 = LeetcodeParser2(users, Config2)
+    lc_parser2.parse() 
+    profiles2 = lc_parser2.results
+    print("LCCN done")
   
-    # for user in users:        
-    #     print(f"processing {user}...")
-    #     if profiles2[user]["userContestRanking"]==None:
-    #         continue
-    #     if profiles2[user]["userContestRanking"]["ratingHistory"] == None:
-    #         continue
-    #     rating2 = float(profiles2[user]["userContestRanking"]["ratingHistory"][1:-2].split(", ")[-1])
-    #     if profiles[user]["userContestRanking"]==None:
-    #         profiles[user]["userContestRanking"] = {"rating": rating2}            
-    #     elif profiles[user]["userContestRanking"]["rating"] < rating2:
-    #         profiles[user]["userContestRanking"]["rating"] = rating2
-    #     print(profiles[user]["userContestRanking"]["rating"])
+    for user in users:        
+        print(f"processing {user}...")
+        if profiles2[user]["userContestRanking"]==None:
+            continue
+        if profiles2[user]["userContestRanking"]["ratingHistory"] == None:
+            continue
+        rating2 = float(profiles2[user]["userContestRanking"]["ratingHistory"][1:-2].split(", ")[-1])
+        if profiles[user]["userContestRanking"]==None:
+            profiles[user]["userContestRanking"] = {"rating": rating2}            
+        elif profiles[user]["userContestRanking"]["rating"] < rating2:
+            profiles[user]["userContestRanking"]["rating"] = rating2
+        print(profiles[user]["userContestRanking"]["rating"])
+
+    # profiles["endlesscheng"]["userContestRanking"]["rating"] = 3498
+    # profiles["meyi"]["userContestRanking"]["rating"] = 3037
+    # profiles["mikeac"]["userContestRanking"]["rating"] = 2588
+    # profiles["cyzh"]["userContestRanking"]["rating"] = 2701
+    # profiles["FreeYourMind"]["userContestRanking"]["rating"] = 2734
+    # profiles["lu-chen-chen"]["userContestRanking"]["rating"] = 2605
+    # profiles["han3000"]["userContestRanking"]["rating"] = 2772
 
 
     json_str = json.dumps(profiles)
