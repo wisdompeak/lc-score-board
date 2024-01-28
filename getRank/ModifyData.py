@@ -2311,11 +2311,24 @@ for contest in range(286,378+1):
 # before 380
 for contest in range(319,379+1): 	
     data["zk299"][str(contest)]=[-2,0] 	# rejoin	
-''' 
 
-# before 380
+# before 381
 for contest in range(118,380+1): 	
     data["zhastdoit"][str(contest)]=[-2,0] 
+''' 
+
+# before 382
+for contest in range(319,381+1): 	
+    data["dickbomb"][str(contest)]=[-2,0] 	# rejoin	
+for contest in range(371,381+1): 	
+    data["mike1234421"][str(contest)]=[-2,0] 	# rejoin		
+for contest in range(338,381+1): 	
+    data["WKelvinson"][str(contest)]=[-2,0] 	# rejoin		
+for contest in range(276,381+1): 	
+    data["whtttth"][str(contest)]=[-2,0] 	# rejoin	
+for contest in range(118,381+1): 	
+    data["algorithm_man"][str(contest)]=[-2,0] 
+
 
 # data['peicd7699'] = data['jdeptct']
 # data.pop('jdeptct')
@@ -2593,8 +2606,8 @@ contests["377"] = 15588
 contests["378"] = 13838
 contests["379"] = 16252
 contests["380"] = 16654
-contests["381"] = 15711
-
+contests["381"] = 15708
+contests["382"] = 17542
 
 json_str = json.dumps(contests)
 

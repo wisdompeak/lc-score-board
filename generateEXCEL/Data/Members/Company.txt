@@ -126,11 +126,11 @@ hjx2016 ByteDance
 rookie0080 ByteDance
 herzog_ ByteDance
 izackwu ByteDance
-upupming ByteDance
 zjbztianya ByteDance
 Xiangcan ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
+algorithm_man ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
@@ -325,6 +325,7 @@ huangfq07 Lyft
 richarddia MathWorks
 li-jinze Meituan
 981377660LMT Meituan
+upupming Meituan
 carotwang MetaBit
 linjiale MetaBit
 zpzpzzp2020 Microsoft
