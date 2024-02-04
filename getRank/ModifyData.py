@@ -2315,7 +2315,7 @@ for contest in range(319,379+1):
 # before 381
 for contest in range(118,380+1): 	
     data["zhastdoit"][str(contest)]=[-2,0] 
-''' 
+
 
 # before 382
 for contest in range(319,381+1): 	
@@ -2328,7 +2328,16 @@ for contest in range(276,381+1):
     data["whtttth"][str(contest)]=[-2,0] 	# rejoin	
 for contest in range(118,381+1): 	
     data["algorithm_man"][str(contest)]=[-2,0] 
+''' 
 
+# before 383
+for contest in range(118,382+1): 	
+    data["hxu10"][str(contest)]=[-2,0] 
+for contest in range(364,382+1): 	
+    data["feibonaqixu"][str(contest)]=[-2,0] 	# rejoin	
+for contest in range(347,382+1): 	
+    data["SaveThePlanet"][str(contest)]=[-2,0] 	# rejoin	
+data["cuiaoxiang"]["383"]=[1,4]
 
 # data['peicd7699'] = data['jdeptct']
 # data.pop('jdeptct')
@@ -2608,6 +2617,7 @@ contests["379"] = 16252
 contests["380"] = 16654
 contests["381"] = 15708
 contests["382"] = 17542
+contests["383"] = 18997
 
 json_str = json.dumps(contests)
 
