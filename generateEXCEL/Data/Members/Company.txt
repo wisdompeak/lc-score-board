@@ -105,7 +105,6 @@ mangoman Atlassian
 liujiashun66 BNYMellon
 zyx-37 Baidu
 cyzh Baidu
-kl649 Barclays
 sukeyzhou Bloomberg
 fuxuemingzhu ByteDance
 sijin ByteDance
@@ -130,6 +129,8 @@ zjbztianya ByteDance
 Xiangcan ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
+kl649 ByteDance
+lyi29512 ByteDance
 algorithm_man ByteDance
 yinghuahu Chase
 am0320 Citadel
@@ -365,6 +366,7 @@ harttle Microsoft
 Qianqian2018 Microsoft
 wwwap Microsoft
 cozlind Niantic
+kaiteli14 Northrop
 jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
