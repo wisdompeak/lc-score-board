@@ -2342,8 +2342,6 @@ data["cuiaoxiang"]["383"]=[1,4]
 for contest in range(334,384+1): 	
     data["WR8b4gv7"][str(contest)]=[-2,0] 	# rejoin	
 
-data["WR8b4gv7"]["385"]=[1860,3]
-data["luckyboylxc"]["385"]=[6974,3]
 # print(data["WR8b4gv7"])
 
 # data['WR8b4gv7'] = data['Shirleyyu669']
