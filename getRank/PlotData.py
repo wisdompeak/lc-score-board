@@ -20,7 +20,7 @@ with open('contests.json', 'r') as f:
     json_str = json.load(f)
     contest_meta = json.loads(json_str)
 
-lastContest = 387
+lastContest = 388
 firstContest = lastContest-51
 
 '''**************************************'''
@@ -75,7 +75,7 @@ ax2.bar(list(range(0,52)), ak_by_contest, alpha=0.6)
 ax2.set_xlabel('\nWeekly Contest # '+str(firstContest)+'=> '+str(lastContest), fontsize=30)
 ax2.set_title('Number & Percentage of players who conquered all problems in a game', fontsize=30)
 ax2.grid(linestyle='-.')
-ax2.set_ylim([0, 200])
+ax2.set_ylim([0, 180])
 ax2.tick_params(axis='y', color = 'b', labelcolor = 'tab:blue')
 
 ax3 = ax2.twinx()
