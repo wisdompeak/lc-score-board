@@ -2357,17 +2357,10 @@ for contest in range(263,388+1):
 for contest in range(118,388+1): 	
     data["azhang12"][str(contest)]=[-2,0] 
     
-data["btcmoon"]["389"]=[2709,3] 	
-data["ChairmanMao"]["389"]=[2291,3] 	
-data["zhouxiongjia"]["389"]=[13192,2] 	
-
-
-data["azhang12"]["389"]=[-1,0] 	
+# data['tjwyztjwyz'] = data['lianxin_cn']
+# data.pop('lianxin_cn')
 
 # print(data["WR8b4gv7"])
-
-# data['WR8b4gv7'] = data['Shirleyyu669']
-# data.pop('Shirleyyu669')
 
 
 
