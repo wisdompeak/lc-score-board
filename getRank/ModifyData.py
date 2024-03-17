@@ -2341,12 +2341,28 @@ data["cuiaoxiang"]["383"]=[1,4]
 # before 385
 for contest in range(334,384+1): 	
     data["WR8b4gv7"][str(contest)]=[-2,0] 	# rejoin	
-''' 
 
 # before 388
 for contest in range(374,387+1): 	
     data["Oyyko"][str(contest)]=[-2,0] 	# rejoin	
+''' 
 
+# before 389
+for contest in range(375,388+1): 	
+    data["btcmoon"][str(contest)]=[-2,0] 	# rejoin	
+for contest in range(299,388+1): 	
+    data["ChairmanMao"][str(contest)]=[-2,0] 	# rejoin	    
+for contest in range(263,388+1): 	
+    data["zhouxiongjia"][str(contest)]=[-2,0] 	# rejoin
+for contest in range(118,388+1): 	
+    data["azhang12"][str(contest)]=[-2,0] 
+    
+data["btcmoon"]["389"]=[2709,3] 	
+data["ChairmanMao"]["389"]=[2291,3] 	
+data["zhouxiongjia"]["389"]=[13192,2] 	
+
+
+data["azhang12"]["389"]=[-1,0] 	
 
 # print(data["WR8b4gv7"])
 
@@ -2635,6 +2651,7 @@ contests["385"] = 17903
 contests["386"] = 19030
 contests["387"] = 21421
 contests["388"] = 23388
+contests["389"] = 24254
 
 json_str = json.dumps(contests)
 

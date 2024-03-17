@@ -113,6 +113,7 @@ gingerale ByteDance
 oOoO0oOoO0oOo ByteDance
 Isomorphic ByteDance
 VanCN ByteDance
+ChairmanMao ByteDance
 gabyXuan ByteDance
 yanrucheng ByteDance
 X_Chen6 ByteDance
@@ -179,6 +180,7 @@ owen2 Facebook
 qinzhe Facebook
 fwang Facebook
 oaixuroab Facebook
+qiye_tan Facebook
 thumbpixels Facebook
 zac4 Facebook
 OTTFF Facebook
@@ -342,7 +344,6 @@ praenubilus Microsoft
 hongchenjack Microsoft
 zyw_code Microsoft
 jasonzzzz Microsoft
-ChairmanMao Microsoft
 0000alex1111 Microsoft
 ShizukaYee Microsoft
 Sakamono Microsoft
@@ -409,6 +410,7 @@ FYQiang Reflexis
 woshilxd912 Robinhood
 TRDample Robinhood
 thunderbolts Roblox
+zgtmy SAS
 sampleaccountpage SIG
 bifeitang Schlumberger
 AAlchemist Shunfeng
