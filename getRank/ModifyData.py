@@ -2345,7 +2345,6 @@ for contest in range(334,384+1):
 # before 388
 for contest in range(374,387+1): 	
     data["Oyyko"][str(contest)]=[-2,0] 	# rejoin	
-''' 
 
 # before 389
 for contest in range(375,388+1): 	
@@ -2356,7 +2355,14 @@ for contest in range(263,388+1):
     data["zhouxiongjia"][str(contest)]=[-2,0] 	# rejoin
 for contest in range(118,388+1): 	
     data["azhang12"][str(contest)]=[-2,0] 
-    
+''' 
+
+# before 391
+for contest in range(379,390+1): 	
+    data["Yao_Yin"][str(contest)]=[-2,0] 	# rejoin	
+for contest in range(338,390+1): 	
+    data["sampleaccountpage"][str(contest)]=[-2,0] 	# rejoin	    
+
 # data['tjwyztjwyz'] = data['lianxin_cn']
 # data.pop('lianxin_cn')
 
@@ -2646,6 +2652,7 @@ contests["387"] = 21421
 contests["388"] = 23388
 contests["389"] = 24111
 contests["390"] = 19911
+contests["391"] = 23700
 
 json_str = json.dumps(contests)
 
