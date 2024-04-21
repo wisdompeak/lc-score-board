@@ -2365,12 +2365,15 @@ for contest in range(338,390+1):
 # before 392
 for contest in range(118,391+1): 	
     data["isKai"][str(contest)]=[-2,0] 	# rejoin	
-''' 
+
 
 # before 393
 for contest in range(257,392+1): 	
     data["jmzhang18"][str(contest)]=[-2,0] 	# rejoin
-    
+'''
+
+
+ 
 # data['tjwyztjwyz'] = data['lianxin_cn']
 # data.pop('lianxin_cn')
 
@@ -2662,7 +2665,8 @@ contests["389"] = 24111
 contests["390"] = 19911
 contests["391"] = 23700
 contests["392"] = 21830
-contests["393"] = 20752
+contests["393"] = 20741
+contests["394"] = 21231
 
 json_str = json.dumps(contests)
 
