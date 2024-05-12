@@ -105,7 +105,6 @@ weiliang515 Apple
 OneDirection Apple
 mangoman Atlassian
 liujiashun66 BNYMellon
-zyx-37 Baidu
 cyzh Baidu
 sukeyzhou Bloomberg
 fuxuemingzhu ByteDance
@@ -127,6 +126,7 @@ zhichuan ByteDance
 hjx2016 ByteDance
 rookie0080 ByteDance
 herzog_ ByteDance
+zyx-37 ByteDance
 izackwu ByteDance
 zjbztianya ByteDance
 Xiangcan ByteDance

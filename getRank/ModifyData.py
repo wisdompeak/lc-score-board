@@ -2380,6 +2380,9 @@ for contest in range(396,396+1):
     data["jmzhang18"][str(contest)]=[-2,0] 	# rejoin
 for contest in range(118,396+1): 	
     data["farmerswrap"][str(contest)]=[-2,0] 
+for contest in range(394,396+1): 	
+    data["cy171"][str(contest)]=[-2,0] 	# rejoin
+	
          
 # data['tjwyztjwyz'] = data['lianxin_cn']
 # data.pop('lianxin_cn')
