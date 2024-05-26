@@ -93,7 +93,6 @@ bill04128682 07/02/2022 A
 luyangg 07/07/2022 B
 ShangqiYang 07/07/2022 B
 yangxm 07/09/2022 B
-LeetCoding_Pro 07/16/2022 A
 kl649 07/17/2022 B
 xymabinogi 08/23/2022 A
 zapkmsd 08/24/2022 B
@@ -118,7 +117,6 @@ luckyboylxc 04/20/2023 C
 ryanwong0127 05/02/2023 A
 hjx2016 05/05/2023 B
 liulaoye135 05/16/2023 B
-wangyxwyx 06/12/2023 A
 zeningc 06/25/2023 A
 OneMore14 07/02/2023 C
 ivanc-e 07/16/2023 C
