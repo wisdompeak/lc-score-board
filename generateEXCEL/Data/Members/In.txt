@@ -105,7 +105,6 @@ shannonl 11/03/2022 A
 Sariabell 12/25/2022 C
 yaoyi92 12/26/2022 C
 mike-meng 01/02/2023 C
-alastian 01/03/2023 B
 wangdh15 01/09/2023 A
 shuohe 01/22/2023 C
 mikeac 01/27/2023 C
@@ -123,8 +122,6 @@ ivanc-e 07/16/2023 C
 bttsv 07/16/2023 C
 deepli 08/05/2023 B
 lyi29512 08/14/2023 C
-WRWRW 08/20/2023 B
-billhehe 08/29/2023 A
 cybertan0349 09/03/2023 C
 oli_mbp 10/02/2023 A
 curiosity-10 10/14/2023 B
