@@ -2381,7 +2381,7 @@ for contest in range(118,396+1):
     data["farmerswrap"][str(contest)]=[-2,0] 
 for contest in range(394,396+1): 	
     data["cy171"][str(contest)]=[-2,0] 	# rejoin
-'''
+
 
 # before 398
 for contest in range(392,397+1): 	
@@ -2392,8 +2392,12 @@ for contest in range(394,397+1):
     data["xy-li"][str(contest)]=[-2,0] 	# rejoin
 for contest in range(118,397+1): 	
     data["Nelson84"][str(contest)]=[-2,0]     
+'''
 
-
+# before 401
+for contest in range(118,400+1): 	
+    data["kitther"][str(contest)]=[-2,0] 	# rejoin
+    
 # data['tjwyztjwyz'] = data['lianxin_cn']
 # data.pop('lianxin_cn')
 
@@ -2692,7 +2696,8 @@ contests["396"] = 18898
 contests["397"] = 21694
 contests["398"] = 23259
 contests["399"] = 24368
-contests["400"] = 25000
+contests["400"] = 25370
+contests["401"] = 25000
 
 json_str = json.dumps(contests)
 
