@@ -123,7 +123,6 @@ CrhnbP ByteDance
 lisy14 ByteDance
 wxhelloworld ByteDance
 zhichuan ByteDance
-hjx2016 ByteDance
 rookie0080 ByteDance
 herzog_ ByteDance
 zyx-37 ByteDance
@@ -145,6 +144,7 @@ chiakimio Ctrip
 ChelsieZ DataBricks
 alicila DataBricks
 CarlosTian DataBricks
+hjx2016 Disney
 edisonnie Doordash
 WKelvinson DriveWealth
 fang2018 Dropbox
