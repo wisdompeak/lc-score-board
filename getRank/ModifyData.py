@@ -2396,13 +2396,21 @@ for contest in range(118,397+1):
 # before 401
 for contest in range(118,400+1): 	
     data["kitther"][str(contest)]=[-2,0]
-'''
 
 # before 402
 for contest in range(118,401+1): 	
     data["HelloKitty_CA"][str(contest)]=[-2,0]
     data["Marvelousp4"][str(contest)]=[-2,0]
-    
+'''
+
+# before 403
+for contest in range(392,402+1): 	
+    data["aniurm35"][str(contest)]=[-2,0]
+for contest in range(399,402+1): 	
+    data["wangyxwyx"][str(contest)]=[-2,0]
+for contest in range(400,402+1): 	
+    data["WRWRW"][str(contest)]=[-2,0]
+
 # data['potatoyy'] = data['potatoY']
 # data.pop('potatoY')
 
@@ -2703,7 +2711,8 @@ contests["398"] = 23259
 contests["399"] = 24368
 contests["400"] = 25370
 contests["401"] = 25766
-contests["402"] = 27500
+contests["402"] = 27394
+contests["403"] = 27500
 
 json_str = json.dumps(contests)
 
