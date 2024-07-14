@@ -131,10 +131,10 @@ izackwu ByteDance
 zjbztianya ByteDance
 Xiangcan ByteDance
 algorithm_man ByteDance
+lyi29512 ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
 kl649 ByteDance
-lyi29512 ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
@@ -295,6 +295,7 @@ sheepforever Google
 Courtmouse Google
 zhastdoit Google
 pandaforever Google
+lxhgww Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -304,7 +305,6 @@ jason_wong1 Google
 FighterNanReborn Google
 Googlehsiehh Google
 FightEveryDay Google
-lxhgww Google
 kirasj Google
 Lisanaaa Grab
 SUPERJOSY Harness

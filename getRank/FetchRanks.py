@@ -53,9 +53,14 @@ def fetchRanking(contest,page):
         for i in range(N):
             line = total_rank[i]
             submission = submissions[i]
+
             if len(submission) == 0: 
                should_stop = True
                break
+            
+            if line["data_region"]!='CN' and (line["username"] not in id_set):
+               continue
+
             total_player += 1
 
             print(line)
@@ -63,7 +68,7 @@ def fetchRanking(contest,page):
 
             if line["username"] in id_set:
                 if len(submission) == 0: rank = -1
-                else: rank = line["rank"]
+                else: rank = total_player # line["rank"]
                 if line["username"] not in data or len(submission)!=0:
                   display.append([rank, line["username"], len(submission)])
                   data[line["username"]] = [rank, len(submission)]                     
