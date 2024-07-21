@@ -107,7 +107,6 @@ wangdh15 01/09/2023 A
 shuohe 01/22/2023 C
 mikeac 01/27/2023 C
 potatoyy 02/26/2023 C
-testimony2014 02/28/2023 A
 wawawamei 04/16/2023 C
 sunsq 04/17/2023 C
 luckyboylxc 04/20/2023 C
@@ -144,3 +143,6 @@ xy-li 05/16/2024 A
 aniurm35 06/16/2024 C
 wangyxwyx 06/17/2024 A
 WRWRW 06/21/2024 B
+faibzlz 07/14/2024 C
+LeetCoding_Pro 07/13/2024 A
+lxhgww 07/20/2024 B

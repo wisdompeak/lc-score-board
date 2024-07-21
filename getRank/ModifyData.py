@@ -2416,6 +2416,16 @@ for contest in range(118,403+1):
 data["HelloKitty_CA"][str(contest)]=[14123,1]    
 '''
 
+# before 407
+for contest in range(399,406+1): 	
+    data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin
+for contest in range(406,406+1): 	
+    data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin
+for contest in range(118,406+1): 	
+    data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin       
+
+
+
 # data['potatoyy'] = data['potatoY']
 # data.pop('potatoY')
 
@@ -2719,8 +2729,9 @@ contests["401"] = 25766
 contests["402"] = 27394
 contests["403"] = 26953
 contests["404"] = 17199
-contests["405"] = 26179
-contests["406"] = 2814
+contests["405"] = 2785
+contests["406"] = 2735
+contests["407"] = 2678
 
 json_str = json.dumps(contests)
 
