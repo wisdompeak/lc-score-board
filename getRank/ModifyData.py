@@ -2420,9 +2420,9 @@ data["HelloKitty_CA"][str(contest)]=[14123,1]
 for contest in range(399,406+1): 	
     data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin
 for contest in range(406,406+1): 	
-    data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin
+    data["lxhgww"][str(contest)]=[-2,0] # rejoin
 for contest in range(118,406+1): 	
-    data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin       
+    data["azhang12"][str(contest)]=[-2,0] # rejoin       
 
 
 
@@ -2731,7 +2731,8 @@ contests["403"] = 26953
 contests["404"] = 17199
 contests["405"] = 2785
 contests["406"] = 2735
-contests["407"] = 2678
+contests["407"] = 2679
+contests["408"] = 2775
 
 json_str = json.dumps(contests)
 
