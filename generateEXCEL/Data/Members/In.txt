@@ -31,7 +31,6 @@ wwwap 09/14/2020 B
 mcuallen 09/18/2020 B
 zhangsz1998 09/21/2020 B
 hanzhoutang 10/11/2020 A
-lilydenris 10/17/2020 A
 yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
 rayms 12/31/2020 B
@@ -128,7 +127,6 @@ feibonaqixu 01/30/2024 C
 zhouxiongjia 03/10/2024 C
 ChairmanMao 03/12/2024 B
 sampleaccountpage 03/30/2024 C
-isKai 04/01/2024 C
 jmzhang18 05/06/2024 C
 cy171 05/08/2024 C
 ruizhewu 05/12/2024 A
