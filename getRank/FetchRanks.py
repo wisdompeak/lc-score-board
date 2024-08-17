@@ -58,12 +58,12 @@ def fetchRanking(contest,page):
                should_stop = True
                break
             
-            if line["data_region"]!='CN' and (line["username"] not in id_set):
-               continue
+            # if line["data_region"]!='CN' and (line["username"] not in id_set):
+            #    continue
 
             total_player += 1
 
-            print(line)
+            # print(line)
             # print(submission)
 
             if line["username"] in id_set:
