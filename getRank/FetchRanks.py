@@ -39,6 +39,7 @@ def fetchRanking(contest,page):
         while success == 0:
           response = subprocess.check_output("curl " + url % (contest, i), shell=True)                    
           str_response = response.decode('utf-8')
+
           try:            
             total_rank = json.loads(str_response)['total_rank']
             success = 1
