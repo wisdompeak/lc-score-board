@@ -2431,13 +2431,18 @@ for contest in range(118,409+1):
 # before 412
 for contest in range(118,411+1): 	
     data["JackSmith0710"][str(contest)]=[-2,0]
-'''
 
 # before 413
 for contest in range(118,412+1): 	
     data["Huicccc"][str(contest)]=[-2,0]
 for contest in range(411,412+1): 	
     data["LeetCoding_Pro"][str(contest)]=[-2,0] # rejoin       
+'''
+
+# before 414
+for contest in range(403,413+1): 	
+    data["zyx-37"][str(contest)]=[-2,0]
+
 
 # data['potatoyy'] = data['potatoY']
 # data.pop('potatoY')
@@ -2750,7 +2755,8 @@ contests["409"] = 22060  #2628
 contests["410"] = 24972  #2473
 contests["411"] = 21421  
 contests["412"] = 24510
-contests["413"] = 24404
+contests["413"] = 24377
+contests["414"] = 24371
 
 json_str = json.dumps(contests)
 
