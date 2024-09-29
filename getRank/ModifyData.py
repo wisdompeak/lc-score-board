@@ -2441,12 +2441,15 @@ for contest in range(411,412+1):
 # before 414
 for contest in range(403,413+1): 	
     data["zyx-37"][str(contest)]=[-2,0]
-'''
 
 # before 415
 for contest in range(405,414+1): 	
     data["Oyyko"][str(contest)]=[-2,0]
+'''
 
+# before 417
+for contest in range(118,416+1): 	
+    data["zkaic"][str(contest)]=[-2,0]
 
 # data['potatoyy'] = data['potatoY']
 # data.pop('potatoY')
@@ -2762,8 +2765,8 @@ contests["412"] = 24510
 contests["413"] = 24377
 contests["414"] = 24034
 contests["415"] = 24666
-contests["416"] = 24666
-contests["417"] = 24324
+contests["416"] = 23747
+contests["417"] = 21785
 
 json_str = json.dumps(contests)
 
