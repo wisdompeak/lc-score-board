@@ -91,7 +91,7 @@ WRWRW Amazon
 Johnsonxiong Amazon
 LeaFZ96 Amazon
 hanzhoutang Amazon
-ceaxyz Amazon
+ceaxyz002 Amazon
 zexingfa Amzaon
 masdc98 AnyScale
 xiaozhi1 Apple
@@ -140,6 +140,7 @@ am0320 Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
+LeetCoding_Pro Confluent
 XingxingHuang Cruise
 chiakimio Ctrip
 ChelsieZ DataBricks
@@ -307,6 +308,7 @@ FighterNanReborn Google
 Googlehsiehh Google
 FightEveryDay Google
 kirasj Google
+furuyarei Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei
@@ -388,7 +390,6 @@ XYqqq777 Oracle
 rika321 Oracle
 bl2621 Oracle
 Leetcode_Pro Oracle
-LeetCoding_Pro Oracle
 huangyuyang Others
 mzcj Palo-alto
 AkaBridge Palo-alto

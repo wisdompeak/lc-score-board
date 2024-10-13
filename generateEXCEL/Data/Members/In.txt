@@ -53,10 +53,10 @@ hkhzzz 10/18/2021 B
 FreeYourMind 10/18/2021 A
 answerer 10/20/2021 A
 fatyuan 11/01/2021 B
-ceaxyz 11/24/2021 B
+ceaxyz002 11/24/2021 B
 AC_Mikoto 11/28/2021 A
 megurine 11/28/2021 B
-Time-limit-exceed 12/07/2021 A
+Zardinality 12/07/2021 A
 ocavue 12/19/2021 B
 iofu728 12/31/2021 B
 axlsdtkl 01/02/2022 B
@@ -71,7 +71,6 @@ zhi-zhi 02/13/2022 B
 chintsai 02/27/2022 A
 s192516 03/05/2022 A
 silencea 03/08/2022 B
-annoyingpatrick 03/12/2022 B
 kirasj 03/18/2022 A
 gude8997 04/05/2022 A
 andy-lc 04/12/2022 A
@@ -133,10 +132,11 @@ faibzlz 07/14/2024 C
 azhang12 07/22/2024 C
 lxhgww 07/20/2024 B
 Q2PPSElacY 08/08/2024 C
-JackSmith0710 08/23/2024 C
 LeetCoding_Pro 08/25/2024 A
 Huicccc 08/27/2024 C
 zyx-37 09/07/2024 A
 Oyyko 09/09/2024 B
 fantasy1979 09/24/2024 C
 zkaic 09/27/2024 C
+uilnauyis_DP 10/06/2024 A
+furuyarei 10/09/2024 C
