@@ -2460,7 +2460,10 @@ data['Zardinality'] = data['Time-limit-exceed']
 data.pop('Time-limit-exceed')
 '''
 
-# data.pop('shuohe')
+# before 420
+data['OneSwordWestWindCome'] = data['Oyyko']
+data.pop('Oyyko')
+
 
 # print(data["LeetCoding_Pro"])
 
@@ -2776,7 +2779,8 @@ contests["415"] = 24666
 contests["416"] = 23747
 contests["417"] = 21627
 contests["418"] = 19321
-contests["419"] = 15841
+contests["419"] = 15403
+contests["420"] = 21018
 
 json_str = json.dumps(contests)
 

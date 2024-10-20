@@ -48,7 +48,6 @@ wdyfy317138 Amazon
 izhongyuting Amazon
 swift9 Amazon
 LyannaGoGoGo Amazon
-Yao_Yin Amazon
 hialvin Amazon
 lilllllllll Amazon
 laikwunsing Amazon
@@ -135,6 +134,7 @@ lyi29512 ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
 kl649 ByteDance
+OneSwordWestWindCome ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
@@ -173,6 +173,7 @@ BestQian Facebook
 kealyn Facebook
 thewisp Facebook
 tift Facebook
+Yao_Yin Facebook
 Castling Facebook
 Byleth Facebook
 shuchenc Facebook
@@ -376,7 +377,6 @@ wwwap Microsoft
 cozlind Niantic
 kaiteli14 Northrop
 annoyingpatrick Nvidia
-jmzhang18 Oracle
 christine_christine Oracle
 bugattiforsamsam Oracle
 Ethan_M Oracle
@@ -472,5 +472,6 @@ wbbssr Workday
 Coup_De_Grace Yahoo
 WhateverYouSay Yelp
 mengyuan1112 Zoom
+jmzhang18 auntlet
 conanjinming dolphindb
 yx1215 miHoYo
