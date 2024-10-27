@@ -2458,12 +2458,19 @@ data['ceaxyz002'] = data['ceaxyz']
 data.pop('ceaxyz')
 data['Zardinality'] = data['Time-limit-exceed']
 data.pop('Time-limit-exceed')
-'''
 
 # before 420
 data['OneSwordWestWindCome'] = data['Oyyko']
 data.pop('Oyyko')
+'''
 
+# before 421
+data['wxxlouisa'] = data['curiosity-10']
+data.pop('curiosity-10')
+for contest in range(118,416+1): 	
+    data["user7754K"][str(contest)]=[-2,0]    
+    data["PhoenixAltria"][str(contest)]=[-2,0]    
+    data["larissatanqian"][str(contest)]=[-2,0]   
 
 # print(data["LeetCoding_Pro"])
 
@@ -2780,7 +2787,8 @@ contests["416"] = 23747
 contests["417"] = 21627
 contests["418"] = 19321
 contests["419"] = 15403
-contests["420"] = 21018
+contests["420"] = 20477
+contests["421"] = 13289
 
 json_str = json.dumps(contests)
 
