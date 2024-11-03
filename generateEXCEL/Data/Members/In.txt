@@ -74,7 +74,6 @@ silencea 03/08/2022 B
 kirasj 03/18/2022 A
 gude8997 04/05/2022 A
 andy-lc 04/12/2022 A
-Yawn_Sean 04/12/2022 B
 _otto 04/16/2022 B
 meyi 04/16/2022 A
 Pisces311 05/07/2022 A
@@ -126,7 +125,6 @@ aniurm35 06/16/2024 C
 wangyxwyx 06/17/2024 A
 WRWRW 06/21/2024 B
 faibzlz 07/14/2024 C
-lxhgww 07/20/2024 B
 Q2PPSElacY 08/08/2024 C
 LeetCoding_Pro 08/25/2024 A
 Huicccc 08/27/2024 C
@@ -140,3 +138,5 @@ lyi29512 10/13/2024 C
 user7754K 10/22/2024 C
 PhoenixAltria 10/23/2024 C
 larissatanqian 10/24/2024 C
+lawrencewxy 10/27/2024 B
+liyangzi6p626 11/02/2024 C
