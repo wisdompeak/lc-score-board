@@ -1,14 +1,14 @@
 import json
 import os
 import argparse
-from FetchRanks import fetchRanking
+from FetchRanks2 import fetchRanking
 from pprint import pprint
 
 parser = argparse.ArgumentParser()
 parser.add_argument("contest", help="contest id")
 kwargs = parser.parse_args()
 contest = int(kwargs.contest)
-pageNum = 1100
+pageNum = 1000
 
 results = fetchRanking(contest,pageNum)
 
