@@ -2485,6 +2485,7 @@ for contest in range(118,422+1):
 # before 425
 for contest in range(118,424+1): 	
     data["nK7WNyyDON"][str(contest)]=[-2,0]    
+    
 
 # print(data["LeetCoding_Pro"])
 
