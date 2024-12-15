@@ -2486,6 +2486,9 @@ for contest in range(118,424+1):
     data["nK7WNyyDON"][str(contest)]=[-2,0]    
 '''    
 
+# before 428
+for contest in range(118,427+1): 	
+    data["chao24"][str(contest)]=[-2,0]    
     
 # data.pop("z")
 
@@ -2809,7 +2812,8 @@ contests["423"] = 17178
 contests["424"] = 14650
 contests["425"] = 14524
 contests["426"] = 15484
-contests["427"] = 15014
+contests["427"] = 14920
+contests["428"] = 15790
 
 json_str = json.dumps(contests)
 

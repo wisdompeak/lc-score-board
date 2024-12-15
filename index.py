@@ -91,7 +91,9 @@ for personID in id_list:
   else: 
     RollingScore = round((sum(pool)-min(pool))/2,1)
 
-  if profiles[personID]["userContestRanking"]!=None:
+  if personID not in profiles:
+     rating = 1500
+  elif profiles[personID]["userContestRanking"]!=None:
     rating = profiles[personID]["userContestRanking"]["rating"]
   else:
     rating = -1

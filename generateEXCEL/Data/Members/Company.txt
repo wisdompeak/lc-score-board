@@ -134,7 +134,6 @@ algorithm_man ByteDance
 lyi29512 ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
-kl649 ByteDance
 OneSwordWestWindCome ByteDance
 yinghuahu Chase
 am0320 Citadel
@@ -310,6 +309,8 @@ FighterNanReborn Google
 Googlehsiehh Google
 FightEveryDay Google
 kirasj Google
+kl649 Google
+Nelson84 Google
 furuyarei Google
 Lisanaaa Grab
 SUPERJOSY Harness
