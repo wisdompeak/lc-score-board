@@ -152,7 +152,6 @@ WKelvinson DriveWealth
 fang2018 Dropbox
 yuanlu0210 Dropbox
 cc189 Ebay
-liulaoye135 Ebay
 aChris Ebay
 lwh14710 Ebay
 QinhaoChang Ebay
@@ -340,6 +339,7 @@ richarddia MathWorks
 li-jinze Meituan
 981377660LMT Meituan
 upupming Meituan
+liulaoye135 Meta
 carotwang MetaBit
 linjiale MetaBit
 huyouhyw Microsoft

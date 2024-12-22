@@ -2483,14 +2483,19 @@ for contest in range(118,422+1):
 
 # before 425
 for contest in range(118,424+1): 	
-    data["nK7WNyyDON"][str(contest)]=[-2,0]    
-'''    
-
+    data["nK7WNyyDON"][str(contest)]=[-2,0]               
+  
 # before 428
 for contest in range(118,427+1): 	
-    data["chao24"][str(contest)]=[-2,0]    
-    
-# data.pop("z")
+    data["chao24"][str(contest)]=[-2,0]        
+
+# before 429
+for contest in range(397,427+1): 	
+    data["tjwyztjwyz"][str(contest)]=[-2,0]
+'''     
+
+# data["mcstone"] = data["_otto"]
+# data.pop("_otto")
 
 # print(data["LeetCoding_Pro"])
 
@@ -2813,7 +2818,8 @@ contests["424"] = 14650
 contests["425"] = 14524
 contests["426"] = 15484
 contests["427"] = 14920
-contests["428"] = 15790
+contests["428"] = 15691
+contests["429"] = 14699
 
 json_str = json.dumps(contests)
 
