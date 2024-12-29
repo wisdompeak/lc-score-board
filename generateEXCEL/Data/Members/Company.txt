@@ -141,6 +141,7 @@ YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
 LeetCoding_Pro Confluent
+angel30818 Coupang
 XingxingHuang Cruise
 chiakimio Ctrip
 ChelsieZ DataBricks
@@ -372,7 +373,6 @@ miahall Microsoft
 hirokinakamura Microsoft
 YoungForest Microsoft
 sshang Microsoft
-angel30818 Microsoft
 harttle Microsoft
 Qianqian2018 Microsoft
 wwwap Microsoft
