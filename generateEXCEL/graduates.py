@@ -22,7 +22,7 @@ mainArgumentsParser.add_argument("endContest", help="EndContest id")
 kwargs = mainArgumentsParser.parse_args()
 endContest = int(kwargs.endContest)
         
-startContest = 118
+startContest = endContest - 54*3
 ContestNumbers = endContest-startContest+1
 
 ###############################################
