@@ -2506,13 +2506,13 @@ for contest in range(133,431+1):
     data["Golden_Fish"][str(contest)]=[-2,0]    
 '''  
 
-data["googlehsiehhh"] = data["Googlehsiehhh"]
-data.pop("Googlehsiehhh")
+# data["googlehsiehhh"] = data["Googlehsiehhh"]
+# data.pop("Googlehsiehhh")
 
 # data["lichuan199010"] = data["angel30818"]
 # data.pop("angel30818")
 
-# print(data["LeetCoding_Pro"])
+# print(data["googlehsiehhh"])
 
 json_str = json.dumps(data)
 
