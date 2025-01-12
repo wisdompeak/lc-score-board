@@ -141,7 +141,7 @@ YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
 LeetCoding_Pro Confluent
-angel30818 Coupang
+lichuan199010 Coupang
 XingxingHuang Cruise
 chiakimio Ctrip
 ChelsieZ DataBricks
@@ -306,7 +306,7 @@ cuiaoxiang Google
 ForGive Google
 jason_wong1 Google
 FighterNanReborn Google
-Googlehsiehh Google
+Googlehsiehhh Google
 FightEveryDay Google
 kirasj Google
 kl649 Google
@@ -317,6 +317,7 @@ SUPERJOSY Harness
 lihao199408 Huawei
 leileimiao Huawei
 mxc3 Huawei
+isKai Huawei
 siqiaochen ICANN
 wobuxihuannile Indeed
 YanJF Indeed
