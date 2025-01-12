@@ -2500,13 +2500,14 @@ for contest in range(338,430+1):
     data["htkzmo"][str(contest)]=[-2,0]
 for contest in range(118,430+1): 	
     data["kaijie_zhang"][str(contest)]=[-2,0]    
-'''  
 
 # before 432
 for contest in range(133,431+1): 	
     data["Golden_Fish"][str(contest)]=[-2,0]    
-# data["Googlehsiehhh"] = data["Googlehsiehh"]
-# data.pop("Googlehsiehh")
+'''  
+
+data["googlehsiehhh"] = data["Googlehsiehhh"]
+data.pop("Googlehsiehhh")
 
 # data["lichuan199010"] = data["angel30818"]
 # data.pop("angel30818")
