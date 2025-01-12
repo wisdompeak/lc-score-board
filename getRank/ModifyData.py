@@ -2505,8 +2505,8 @@ for contest in range(118,430+1):
 # before 432
 for contest in range(133,431+1): 	
     data["Golden_Fish"][str(contest)]=[-2,0]    
-data["Googlehsiehhh"] = data["Googlehsiehh"]
-data.pop("Googlehsiehh")
+# data["Googlehsiehhh"] = data["Googlehsiehh"]
+# data.pop("Googlehsiehh")
 
 # data["lichuan199010"] = data["angel30818"]
 # data.pop("angel30818")
