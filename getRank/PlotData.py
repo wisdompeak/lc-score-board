@@ -20,7 +20,7 @@ with open('contests.json', 'r') as f:
     json_str = json.load(f)
     contest_meta = json.loads(json_str)
 
-lastContest = 432
+lastContest = 433
 firstContest = lastContest-51
 
 '''**************************************'''

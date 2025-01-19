@@ -2506,11 +2506,11 @@ for contest in range(133,431+1):
     data["Golden_Fish"][str(contest)]=[-2,0]    
 '''  
 
-# data["googlehsiehhh"] = data["Googlehsiehhh"]
-# data.pop("Googlehsiehhh")
+# data["lrcwxy"] = data["lawrencewxy"]
+# data.pop("lawrencewxy")
 
-# data["lichuan199010"] = data["angel30818"]
-# data.pop("angel30818")
+# data["tinyfish1"] = data["wxy9018"]
+# data.pop("wxy9018")
 
 # print(data["googlehsiehhh"])
 
@@ -2837,7 +2837,8 @@ contests["428"] = 15691
 contests["429"] = 14530
 contests["430"] = 14635
 contests["431"] = 13029
-contests["432"] = 16913
+contests["432"] = 16711
+contests["433"] = 17987
 
 json_str = json.dumps(contests)
 
