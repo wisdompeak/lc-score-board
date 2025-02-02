@@ -89,16 +89,15 @@ uilnauyis_DP Amazon
 WRWRW Amazon
 Johnsonxiong Amazon
 LeaFZ96 Amazon
+lrcwxy Amazon
 hanzhoutang Amazon
 ceaxyz002 Amazon
-lrcwxy Amazon
 zexingfa Amzaon
 masdc98 AnyScale
 xiaozhi1 Apple
 Mengqian Apple
 bradhuang1999 Apple
 stayfoolish2 Apple
-yuhengc2 Apple
 ruofeisan Apple
 ruifeng Apple
 weiliang515 Apple
@@ -135,6 +134,7 @@ lyi29512 ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
 OneSwordWestWindCome ByteDance
+z2dvWZDIvN ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
@@ -144,6 +144,7 @@ LeetCoding_Pro Confluent
 lichuan199010 Coupang
 XingxingHuang Cruise
 chiakimio Ctrip
+yuhengc2 DataBricks
 ChelsieZ DataBricks
 alicila DataBricks
 CarlosTian DataBricks
@@ -299,6 +300,7 @@ zhastdoit Google
 pandaforever Google
 lxhgww Google
 Tyrande Google
+furuyarei Google
 wisdompeak Google
 han3000 Google
 sdliuyuzhi Google
@@ -311,7 +313,6 @@ FightEveryDay Google
 kirasj Google
 kl649 Google
 Nelson84 Google
-furuyarei Google
 Lisanaaa Grab
 SUPERJOSY Harness
 lihao199408 Huawei

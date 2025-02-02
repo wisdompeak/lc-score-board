@@ -2506,8 +2506,16 @@ for contest in range(133,431+1):
     data["Golden_Fish"][str(contest)]=[-2,0]    
 '''  
 
-# data["lrcwxy"] = data["lawrencewxy"]
-# data.pop("lawrencewxy")
+# before 435
+for contest in range(118,434+1): 	
+    data["user5245n"][str(contest)]=[-2,0]  
+for contest in range(118,434+1): 	
+    data["gauss789"][str(contest)]=[-2,0]      
+for contest in range(411,434+1): 	
+    data["Tyrande"][str(contest)]=[-2,0]       
+
+data["z2dvWZDIvN"] = data["algorithm_man"]
+data.pop("algorithm_man")
 
 # data["tinyfish1"] = data["wxy9018"]
 # data.pop("wxy9018")
@@ -2839,7 +2847,8 @@ contests["430"] = 14635
 contests["431"] = 13029
 contests["432"] = 16711
 contests["433"] = 17758
-contests["434"] = 19952
+contests["434"] = 19472
+contests["435"] = 19347
 
 json_str = json.dumps(contests)
 
