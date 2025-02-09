@@ -66,7 +66,6 @@ Attttrx 01/10/2022 B
 lu-chen-chen 01/18/2022 B
 dingmingcheng1 01/29/2022 B
 jiangjinjinyxt 02/03/2022 A
-zhi-zhi 02/13/2022 B
 chintsai 02/27/2022 A
 s192516 03/05/2022 A
 silencea 03/08/2022 B
@@ -117,7 +116,6 @@ wangyxwyx 06/17/2024 A
 WRWRW 06/21/2024 B
 faibzlz 07/14/2024 C
 Q2PPSElacY 08/08/2024 C
-LeetCoding_Pro 08/25/2024 A
 Huicccc 08/27/2024 C
 zyx-37 09/07/2024 A
 OneSwordWestWindCome 09/09/2024 B
@@ -136,5 +134,5 @@ htkzmo 01/01/2025 A
 kaijie_zhang 01/03/2024 C
 Golden_Fish 01/08/2025 C
 gauss789 01/25/2025 A
-user5245n 01/27/2025 C
+user5246n 01/27/2025 C
 Tyrande 01/31/2025 B
