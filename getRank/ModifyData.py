@@ -2510,15 +2510,15 @@ for contest in range(118,434+1):
     data["gauss789"][str(contest)]=[-2,0]      
 for contest in range(411,434+1): 	
     data["Tyrande"][str(contest)]=[-2,0]       
-''' 
+
 
 # before 437
 for contest in range(430,436+1): 	
     data["cy171"][str(contest)]=[-2,0]      
+'''
 
-
-# data["tinyfish1"] = data["wxy9018"]
-# data.pop("wxy9018")
+# data["tyrande"] = data["Tyrande"]
+# data.pop("Tyrande")
 
 # print(data["googlehsiehhh"])
 
