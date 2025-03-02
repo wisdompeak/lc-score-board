@@ -2517,8 +2517,16 @@ for contest in range(430,436+1):
     data["cy171"][str(contest)]=[-2,0]      
 '''
 
-# data["tyrande"] = data["Tyrande"]
-# data.pop("Tyrande")
+# before 439
+for contest in range(383,438+1): 	
+    data["jeemzz147"][str(contest)]=[-2,0]      
+for contest in range(425,438+1): 	
+    data["xy-li"][str(contest)]=[-2,0]          
+
+
+
+data["commallama"] = data["Qianqian2018"]
+data.pop("Qianqian2018")
 
 # print(data["googlehsiehhh"])
 
@@ -2851,7 +2859,8 @@ contests["434"] = 19472
 contests["435"] = 18874
 contests["436"] = 16845
 contests["437"] = 20207
-contests["438"] = 22505
+contests["438"] = 22006
+contests["439"] = 22006
 
 json_str = json.dumps(contests)
 

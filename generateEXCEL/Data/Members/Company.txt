@@ -131,10 +131,10 @@ zjbztianya ByteDance
 Xiangcan ByteDance
 algorithm_man ByteDance
 lyi29512 ByteDance
+z2dvWZDIvN ByteDance
 huanglanzhiguan ByteDance
 REED_W ByteDance
 OneSwordWestWindCome ByteDance
-z2dvWZDIvN ByteDance
 yinghuahu Chase
 am0320 Citadel
 YUFENGWANG Citadel
@@ -377,7 +377,7 @@ hirokinakamura Microsoft
 YoungForest Microsoft
 sshang Microsoft
 harttle Microsoft
-Qianqian2018 Microsoft
+commallama Microsoft
 wwwap Microsoft
 cozlind Niantic
 kaiteli14 Northrop
