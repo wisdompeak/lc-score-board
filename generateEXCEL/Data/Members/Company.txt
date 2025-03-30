@@ -91,7 +91,6 @@ Johnsonxiong Amazon
 LeaFZ96 Amazon
 lrcwxy Amazon
 hanzhoutang Amazon
-ceaxyz002 Amazon
 zexingfa Amzaon
 masdc98 AnyScale
 xiaozhi1 Apple
@@ -183,7 +182,6 @@ user7194i Facebook
 elvistqchen Facebook
 lzl124631x Facebook
 xywang0520 Facebook
-NaoJoeMiao Facebook
 owen2 Facebook
 qinzhe Facebook
 fwang Facebook
@@ -423,6 +421,7 @@ woshilxd912 Robinhood
 TRDample Robinhood
 jushuai_lfx Robinhood
 thunderbolts Roblox
+ceaxyz002 Roblox
 zgtmy SAS
 sampleaccountpage SIG
 bifeitang Schlumberger
@@ -459,6 +458,7 @@ l90095z Uber
 yuhwu Uber
 jingwenxxx Uber
 FreshBing Uber
+NaoJoeMiao Uber
 lilydenris Uber
 gzh47 VMware
 user504 VMware
@@ -483,3 +483,4 @@ mfk443838746 Zoox
 jmzhang18 auntlet
 conanjinming dolphindb
 yx1215 miHoYo
+zrts 佳期投资
