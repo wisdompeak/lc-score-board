@@ -2536,16 +2536,16 @@ for contest in range(118,440+1):
 # before 446
 for contest in range(118,445+1): 	
     data["zfle_tvlx"][str(contest)]=[-2,0]     
-'''
+
 
 # before 449
 for contest in range(118,448+1): 	
     data["hf_fl_09"][str(contest)]=[-2,0]   
-    
-data["freeyourmind"] = data["FreeYourMind"]
-data.pop("FreeYourMind")
+'''
 
-data["freeyourmind"]['449']=[196,4]   
+# data["freeyourmind"] = data["FreeYourMind"]
+# data.pop("FreeYourMind")
+# data["freeyourmind"]['449']=[196,4]   
 
 # print(data["googlehsiehhh"])
 
@@ -2889,7 +2889,8 @@ contests["445"] = 19206
 contests["446"] = 17934
 contests["447"] = 10266
 contests["448"] = 14219
-contests["449"] = 14908
+contests["449"] = 14672
+contests["450"] = 18157
 
 json_str = json.dumps(contests)
 
