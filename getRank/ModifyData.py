@@ -2546,15 +2546,17 @@ for contest in range(118,450+1):
     data["yiwenli98623"][str(contest)]=[-2,0]  
 for contest in range(296,450+1): 	
     data["LeetCoding_Pro"][str(contest)]=[-2,0]      
-'''	
 
 # before 453
 for contest in range(436,452+1): 	
     data["yiwenli98623"][str(contest)]=[-2,0]  
-    
-# data["freeyourmind"] = data["FreeYourMind"]
-# data.pop("FreeYourMind")
-# data["freeyourmind"]['449']=[196,4]   
+'''	
+
+
+# data["ceaxyz0002"] = data["ceaxyz002"]
+# data.pop("ceaxyz002")
+
+data["ceaxyz0002"]['454'] = [1970, 3] 
 
 # print(data["googlehsiehhh"])
 
@@ -2902,7 +2904,8 @@ contests["449"] = 14672
 contests["450"] = 17605
 contests["451"] = 16115
 contests["452"] = 14284
-contests["453"] = 13574
+contests["453"] = 12192
+contests["454"] = 17306
 
 json_str = json.dumps(contests)
 
