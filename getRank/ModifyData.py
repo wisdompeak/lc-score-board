@@ -2552,11 +2552,15 @@ for contest in range(436,452+1):
     data["yiwenli98623"][str(contest)]=[-2,0]  
 '''	
 
+# before 455
+for contest in range(436,454+1): 	
+    data["liulaoye135"][str(contest)]=[-2,0]  
+
 
 # data["ceaxyz0002"] = data["ceaxyz002"]
 # data.pop("ceaxyz002")
 
-data["ceaxyz0002"]['454'] = [1970, 3] 
+# data["ceaxyz0002"]['454'] = [1970, 3] 
 
 # print(data["googlehsiehhh"])
 
@@ -2905,7 +2909,8 @@ contests["450"] = 17605
 contests["451"] = 16115
 contests["452"] = 14284
 contests["453"] = 12192
-contests["454"] = 17306
+contests["454"] = 16215
+contests["455"] = 18630
 
 json_str = json.dumps(contests)
 
