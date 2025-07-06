@@ -333,7 +333,6 @@ jja725 LinkedIn
 fighting_for_flag LinkedIn
 visionary_sg LinkedIn
 wqricardo LinkedIn
-skd233 LinkedIn
 tainule LinkedIn
 Terry95 Lucid
 huangfq07 Lyft
@@ -373,6 +372,7 @@ jliang Microsoft
 miahall Microsoft
 hirokinakamura Microsoft
 YoungForest Microsoft
+gauss789 Microsoft
 sshang Microsoft
 harttle Microsoft
 commallama Microsoft
@@ -452,6 +452,7 @@ guyang123 Tiktok
 wyz565169669 Tiktok
 changyu_jiang Tiktok
 jichuanz Tiktok
+mamahhh Tiktok
 ruizhewu Tinder
 zk299 TwoSigma
 zjuturtle TwoSigma
