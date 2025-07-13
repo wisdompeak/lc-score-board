@@ -2554,15 +2554,18 @@ for contest in range(436,452+1):
 # before 455
 for contest in range(436,454+1): 	
     data["liulaoye135"][str(contest)]=[-2,0]  
-'''	
 
 # before 456
 # data["everthis"] = data["wwwap"]
 # data.pop("wwwap")
-data["everthis"]["456"]=[9857,1]
+'''
 
-# data["ceaxyz0002"] = data["ceaxyz002"]
-# data.pop("ceaxyz002")
+# before 458
+for contest in range(368,457+1): 	
+    data["oaixuroab"][str(contest)]=[-2,0]  
+
+data["Andy0315"] = data["kaijie_zhang"]
+data.pop("kaijie_zhang")
 
 # data["ceaxyz0002"]['454'] = [1970, 3] 
 
@@ -2916,7 +2919,8 @@ contests["453"] = 12192
 contests["454"] = 16215
 contests["455"] = 17592
 contests["456"] = 15173
-contests["457"] = 18252
+contests["457"] = 16805
+contests["458"] = 20353
 
 json_str = json.dumps(contests)
 
