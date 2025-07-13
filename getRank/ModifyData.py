@@ -2558,14 +2558,14 @@ for contest in range(436,454+1):
 # before 456
 # data["everthis"] = data["wwwap"]
 # data.pop("wwwap")
-'''
 
 # before 458
-for contest in range(368,457+1): 	
-    data["oaixuroab"][str(contest)]=[-2,0]  
+# for contest in range(368,457+1): 	
+#     data["oaixuroab"][str(contest)]=[-2,0]  
+'''
 
-data["Andy0315"] = data["kaijie_zhang"]
-data.pop("kaijie_zhang")
+# data["Andy0315"] = data["kaijie_zhang"]
+# data.pop("kaijie_zhang")
 
 # data["ceaxyz0002"]['454'] = [1970, 3] 
 
