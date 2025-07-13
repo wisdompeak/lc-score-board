@@ -500,7 +500,7 @@ sheet.merge_cells(idx+':'+idx2)
 sheet[idx].value = 'Make sure you agree with our terms and regulations. Think twice before you apply.'
 sheet[idx].font = Font(size=15)
 sheet[idx].font = Font(bold=True, size=SIZE)
-# sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
+sheet[idx].hyperlink = 'https://wisdompeak.github.io/lc-score-board/rules.html'
 
 row, column = RowOffset+7, 2
 idx = convertToTitle(column)+str(row) 
