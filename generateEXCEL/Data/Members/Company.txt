@@ -136,6 +136,7 @@ huanglanzhiguan ByteDance
 REED_W ByteDance
 yinghuahu Chase
 am0320 Citadel
+user1017w Citadel
 YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
@@ -308,6 +309,7 @@ jason_wong1 Google
 FighterNanReborn Google
 googlehsiehhh Google
 FightEveryDay Google
+Razorbach Google
 kirasj Google
 kl649 Google
 Nelson84 Google
