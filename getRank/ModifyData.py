@@ -2562,14 +2562,14 @@ for contest in range(436,454+1):
 # before 458
 # for contest in range(368,457+1): 	
 #     data["oaixuroab"][str(contest)]=[-2,0]  
-'''
 
 #before 466
 for contest in range(118,465+1): 	
     data["susansun1110"][str(contest)]=[-2,0]  
+'''
 
-data["Razorbach"] = data["insomniacat"]
-data.pop("insomniacat")
+data["mike-meng1"] = data["mike-meng"]
+data.pop("mike-meng")
 
 # data["ceaxyz0002"]['454'] = [1970, 3] 
 
@@ -2932,7 +2932,8 @@ contests["462"] = 20652
 contests["463"] = 13883
 contests["464"] = 21614
 contests["465"] = 19798
-contests["466"] = 20892
+contests["466"] = 18932
+contests["467"] = 22915
 
 json_str = json.dumps(contests)
 
