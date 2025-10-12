@@ -142,6 +142,7 @@ JansonLu Cloudian
 arignote Coinbase
 WRWRW Commonwealth bank of Australia
 LeetCoding_Pro Confluent
+sunsq Confluent
 lichuan199010 Coupang
 XingxingHuang Cruise
 chiakimio Ctrip
