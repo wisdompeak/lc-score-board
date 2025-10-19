@@ -2583,6 +2583,16 @@ for contest in range(118,469+1):
     data["zj4499"][str(contest)]=[-2,0]  
 '''
 
+#before 472
+for contest in range(456,471+1): 	
+    data["mamahhh"][str(contest)]=[-2,0]  
+for contest in range(118,471+1): 	
+    data["PennVan"][str(contest)]=[-2,0]  
+
+
+# data["llamma123"] = data["commallama"]
+# data.pop("commallama")
+
 
 # data["ceaxyz0002"]['454'] = [1970, 3] 
 
@@ -2950,7 +2960,8 @@ contests["467"] = 21275
 contests["468"] = 23543
 contests["469"] = 19004
 contests["470"] = 19419
-contests["471"] = 22442
+contests["471"] = 22212
+contests["472"] = 19103
 
 json_str = json.dumps(contests)
 
