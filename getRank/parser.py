@@ -31,11 +31,11 @@ class LeetcodeParser:
                 # Launch a new session
                 self.session = requests.Session()
                 self.session.headers.update()
-                response = self.session.get(
-                    url="http://leetcode.com/",
-                    headers=self.Config.MAINPAGE_HEADERS,
-                    timeout=(9.05, 5),
-                )
+                # response = self.session.get(
+                #     url="http://leetcode.com/",
+                #     headers=self.Config.MAINPAGE_HEADERS,
+                #     timeout=(9.05, 5),
+                # )
             except requests.RequestException:
                 # Close and retry through next loop
                 self.session.close()
