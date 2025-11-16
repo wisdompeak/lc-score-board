@@ -2964,7 +2964,8 @@ contests["471"] = 22212
 contests["472"] = 19001
 contests["473"] = 20005
 contests["474"] = 20435
-contests["475"] = 17698
+contests["475"] = 17624
+contests["476"] = 20324
 
 json_str = json.dumps(contests)
 
