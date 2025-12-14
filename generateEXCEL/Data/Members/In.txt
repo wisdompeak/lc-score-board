@@ -1,5 +1,5 @@
 wisdompeak 09/02/2018 B
-han3000 09/08/2018 B
+han90 09/08/2018 B
 sdliuyuzhi 09/20/2018 A
 cuiaoxiang 10/22/2018 B
 ws1255 11/24/2018 B
@@ -28,7 +28,6 @@ FightEveryDay 08/01/2020 A
 peichaoD 08/10/2020 B
 everthis 09/14/2020 B
 mcuallen 09/18/2020 B
-zhangsz1998 09/21/2020 B
 hanzhoutang 10/11/2020 A
 yinghuahu 11/18/2020 A
 roy_1127 12/13/2020 A
