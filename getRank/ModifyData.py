@@ -2585,11 +2585,17 @@ for contest in range(456,471+1):
 for contest in range(118,471+1): 	
     data["PennVan"][str(contest)]=[-2,0]  
 
-
 #before 475
- for contest in range(118,474+1): 	
-     data["0I3qVhozIv"][str(contest)]=[-2,0]  
+for contest in range(118,474+1): 	
+	data["0I3qVhozIv"][str(contest)]=[-2,0]  
 '''
+
+#before 481
+for contest in range(118,480+1): 	
+	data["applebeeble"][str(contest)]=[-2,0]  
+for contest in range(332,480+1): 	
+	data["kingsleycode"][str(contest)]=[-2,0] 
+data["applebeeble"]["481"]=[-1,0]
 
 # data["han90"] = data["han3000"]
 # data.pop("han3000")
@@ -2970,8 +2976,8 @@ contests["476"] = 19102
 contests["477"] = 17585
 contests["478"] = 15548
 contests["479"] = 15116
-contests["480"] = 19743
-
+contests["480"] = 19612
+contests["481"] = 12250
 
 json_str = json.dumps(contests)
 
