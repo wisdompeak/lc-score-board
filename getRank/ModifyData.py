@@ -2595,11 +2595,18 @@ for contest in range(118,480+1):
 for contest in range(332,480+1): 	
 	data["kingsleycode"][str(contest)]=[-2,0] 
 data["applebeeble"]["481"]=[-1,0]
-'''
 
 #before 482
 for contest in range(441,481+1): 	
 	data["uilnauyis_DP"][str(contest)]=[-2,0]  
+'''
+
+#before 483
+for contest in range(118,482+1): 	
+     data["Travolta"][str(contest)]=[-2,0]
+     data["iamsnoopy"][str(contest)]=[-2,0]  
+
+
 
 
 # data["han90"] = data["han3000"]
@@ -2983,7 +2990,8 @@ contests["478"] = 15548
 contests["479"] = 15116
 contests["480"] = 19612
 contests["481"] = 21098
-contests["482"] = 18044
+contests["482"] = 18559
+contests["483"] = 14332
 
 json_str = json.dumps(contests)
 
