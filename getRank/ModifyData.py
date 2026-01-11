@@ -2607,8 +2607,6 @@ for contest in range(118,482+1):
      data["iamsnoopy"][str(contest)]=[-2,0]  
 
 
-
-
 # data["han90"] = data["han3000"]
 # data.pop("han3000")
 
@@ -2991,7 +2989,8 @@ contests["479"] = 15116
 contests["480"] = 19612
 contests["481"] = 21098
 contests["482"] = 18559
-contests["483"] = 14332
+contests["483"] = 14212
+contests["484"] = 22358
 
 json_str = json.dumps(contests)
 
