@@ -2599,16 +2599,19 @@ data["applebeeble"]["481"]=[-1,0]
 #before 482
 for contest in range(441,481+1): 	
 	data["uilnauyis_DP"][str(contest)]=[-2,0]  
-'''
 
 #before 483
 for contest in range(118,482+1): 	
      data["Travolta"][str(contest)]=[-2,0]
      data["iamsnoopy"][str(contest)]=[-2,0]  
+'''
 
-
-# data["han90"] = data["han3000"]
-# data.pop("han3000")
+#before 485
+for contest in range(322,484+1): 	
+     data["yiyue15"][str(contest)]=[-2,0]
+     
+# data["goodice"] = data["nijiademianbao"]
+# data.pop("nijiademianbao")
 
 
 # data["ceaxyz0002"]['454'] = [1970, 3] 
@@ -2990,7 +2993,8 @@ contests["480"] = 19612
 contests["481"] = 21098
 contests["482"] = 18559
 contests["483"] = 14212
-contests["484"] = 22358
+contests["484"] = 22287
+contests["485"] = 22518
 
 json_str = json.dumps(contests)
 
