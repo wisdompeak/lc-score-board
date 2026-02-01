@@ -344,7 +344,6 @@ li-jinze Meituan
 981377660LMT Meituan
 upupming Meituan
 liulaoye135 Meta
-oaixuroab Meta
 carotwang MetaBit
 linjiale MetaBit
 huyouhyw Microsoft
@@ -480,6 +479,7 @@ fangdanzai Walmart
 lukeiscoding Walmart
 ming032217 WatchDog
 Kaiyu-Wang Waymo
+oaixuroab Waymo
 yuchenliulyc Wish
 goodstudyqaq Wish
 wbbssr Workday
