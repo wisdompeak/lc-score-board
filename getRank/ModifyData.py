@@ -2608,12 +2608,17 @@ for contest in range(118,482+1):
 #before 485
 for contest in range(322,484+1): 	
      data["yiyue15"][str(contest)]=[-2,0]
-'''
 
 #before 486
 for contest in range(430,485+1): 	
      data["zhouxiongjia"][str(contest)]=[-2,0]
-     
+'''
+#before 488
+for contest in range(118,487+1): 	
+     data["Lucipher"][str(contest)]=[-2,0]
+
+
+
 # data["goodice"] = data["nijiademianbao"]
 # data.pop("nijiademianbao")
 
@@ -3000,7 +3005,9 @@ contests["483"] = 14212
 contests["484"] = 22287
 contests["485"] = 22028
 contests["486"] = 25852
-contests["487"] = 27877
+contests["487"] = 27046
+contests["488"] = 29372
+
 
 json_str = json.dumps(contests)
 
