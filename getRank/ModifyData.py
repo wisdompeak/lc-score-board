@@ -2624,10 +2624,10 @@ for contest in range(468,487+1):
      data["BingX"][str(contest)]=[-2,0]
 '''
 
-# data["ottffyzy"] = data["OTTFF"]
-# data.pop("OTTFF")
-data["ottffyzy"]["490"]=[15639,2]
+# data["SuperEdi"] = data["Q2PPSElacY"]
+# data.pop("Q2PPSElacY")
 
+# print(data["SuperEdi"])
 
 # data["ceaxyz0002"]['454'] = [1970, 3] 
 
@@ -3014,7 +3014,8 @@ contests["486"] = 25852
 contests["487"] = 27046
 contests["488"] = 29306
 contests["489"] = 28328
-contests["490"] = 28020
+contests["490"] = 27932
+contests["491"] = 29148
 
 json_str = json.dumps(contests)
 
