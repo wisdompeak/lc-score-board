@@ -194,7 +194,6 @@ yangxm Facebook
 thumbpixels Facebook
 zac4 Facebook
 ottffyzy Facebook
-peichaoD Facebook
 hongleyou Fortinet
 henghaaya Goldman
 xy1995cn Goldman
@@ -451,6 +450,7 @@ playfair Tencent
 Jamesleons Tencent
 HIT_TOM Tencent
 clu9 Tesla
+peichaoD Thinky
 WinKKKKy TigerGraph
 fengw7 Tiktok
 guyang123 Tiktok
