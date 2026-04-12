@@ -2622,15 +2622,20 @@ for contest in range(469,487+1):
      data["sssssummer"][str(contest)]=[-2,0]
 for contest in range(468,487+1): 	     
      data["BingX"][str(contest)]=[-2,0]
-'''
 
 #before 496
 for contest in range(411,495+1): 	
      data["ChairmanMao"][str(contest)]=[-2,0]
+'''
+
+# #before 497
+# for contest in range(441,496+1): 	
+#      data["OneSwordWestWindCome"][str(contest)]=[-2,0]
 
 
-# data["SuperEdi"] = data["Q2PPSElacY"]
-# data.pop("Q2PPSElacY")
+
+# data["wawawamei"] = data["supperlanlan"]
+# data.pop("supperlanlan")
 
 # print(data["SuperEdi"])
 
@@ -3025,7 +3030,8 @@ contests["492"] = 29209
 contests["493"] = 30239
 contests["494"] = 27056
 contests["495"] = 27725
-contests["496"] = 23661
+contests["496"] = 23562
+contests["497"] = 25052
 
 json_str = json.dumps(contests)
 
