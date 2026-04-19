@@ -2626,16 +2626,23 @@ for contest in range(468,487+1):
 #before 496
 for contest in range(411,495+1): 	
      data["ChairmanMao"][str(contest)]=[-2,0]
+
+#before 497
+for contest in range(441,496+1): 	
+     data["OneSwordWestWindCome"][str(contest)]=[-2,0]     
+
+
+
+#before 498
+for contest in range(461,497+1): 	
+     data["liulaoye135"][str(contest)]=[-2,0]     
+for contest in range(420,497+1): 	
+     data["jmzhang18"][str(contest)]=[-2,0]     
+
 '''
 
-# #before 497
-# for contest in range(441,496+1): 	
-#      data["OneSwordWestWindCome"][str(contest)]=[-2,0]
-
-
-
-# data["wawawamei"] = data["supperlanlan"]
-# data.pop("supperlanlan")
+# data["nnnatsuu"] = data["sssssummer"]
+# data.pop("sssssummer")
 
 # print(data["SuperEdi"])
 
@@ -3031,7 +3038,8 @@ contests["493"] = 30239
 contests["494"] = 27056
 contests["495"] = 27725
 contests["496"] = 23562
-contests["497"] = 25052
+contests["497"] = 24943
+contests["498"] = 21926
 
 json_str = json.dumps(contests)
 
