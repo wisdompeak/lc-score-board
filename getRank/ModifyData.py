@@ -2640,10 +2640,14 @@ for contest in range(420,497+1):
 #before 500
 for contest in range(456,499+1): 	
      data["LeetCoding_Pro"][str(contest)]=[-2,0]     
-'''
 
+
+#before 502
+for contest in range(118,501+1): 	
+     data["math666999"][str(contest)]=[-2,0]  
+'''
 # data["Oyyko"] = data["OneSwordWestWindCome"]
-# data.pop("OneSwordWestWindCome")
+data.pop("math666888")
 
 # print(data["SuperEdi"])
 
@@ -3043,7 +3047,8 @@ contests["497"] = 24943
 contests["498"] = 21817
 contests["499"] = 18965
 contests["500"] = 19120
-contests["501"] = 19519
+contests["501"] = 19797
+contests["502"] = 22542
 
 json_str = json.dumps(contests)
 
