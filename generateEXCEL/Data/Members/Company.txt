@@ -143,7 +143,6 @@ YUFENGWANG Citadel
 JansonLu Cloudian
 arignote Coinbase
 WRWRW Commonwealth bank of Australia
-LeetCoding_Pro Confluent
 sunsq Confluent
 lichuan199010 Coupang
 XingxingHuang Cruise
@@ -322,6 +321,7 @@ lihao199408 Huawei
 leileimiao Huawei
 mxc3 Huawei
 isKai Huawei
+LeetCoding_Pro IBM
 siqiaochen ICANN
 wobuxihuannile Indeed
 YanJF Indeed
