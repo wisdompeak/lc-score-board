@@ -2648,11 +2648,11 @@ for contest in range(118,501+1):
 #before 504
 for contest in range(373,503+1): 	
      data["BestQian"][str(contest)]=[-2,0]     
-'''
+
 #before 505
 for contest in range(373,504+1): 	
      data["G_lory"][str(contest)]=[-2,0]     
-
+'''
 # data["Oyyko"] = data["OneSwordWestWindCome"]
 # data.pop("math666888")
 
@@ -3058,7 +3058,8 @@ contests["501"] = 19797
 contests["502"] = 22456
 contests["503"] = 22105
 contests["504"] = 23374
-contests["505"] = 24447
+contests["505"] = 24305
+contests["506"] = 25301
 
 json_str = json.dumps(contests)
 
