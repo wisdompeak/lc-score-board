@@ -2653,8 +2653,11 @@ for contest in range(373,503+1):
 for contest in range(373,504+1): 	
      data["G_lory"][str(contest)]=[-2,0]     
 '''
-# data["Oyyko"] = data["OneSwordWestWindCome"]
-# data.pop("math666888")
+# data["WildPiggy"] = data["PennVan"]
+# data.pop("PennVan")
+
+# data["94l9Ruf6FK"] = data["Shirleyyu669"]
+# data.pop("Shirleyyu669")
 
 # print(data["SuperEdi"])
 
@@ -3062,7 +3065,8 @@ contests["505"] = 24305
 contests["506"] = 25297
 contests["507"] = 24066
 contests["508"] = 23632
-contests["509"] = 25677
+contests["509"] = 25596
+contests["510"] = 25364
 
 json_str = json.dumps(contests)
 
